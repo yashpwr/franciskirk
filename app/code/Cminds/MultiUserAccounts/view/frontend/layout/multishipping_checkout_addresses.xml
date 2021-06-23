@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="1column" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceContainer name="content">
+            <block class="Magento\Multishipping\Block\Checkout\Addresses" name="checkout_addresses" template="Cminds_MultiUserAccounts::checkout/addresses.phtml" cacheable="false">
+                <arguments>
+                    <argument name="renderer_template" xsi:type="string">Magento_Multishipping::checkout/item/default.phtml</argument>
+                </arguments>
+                <block class="Magento\Framework\View\Element\RendererList" name="checkout.cart.item.renderers" as="renderer.list"/>
+            </block>
+        </referenceContainer>
+    </body> 
+</page>

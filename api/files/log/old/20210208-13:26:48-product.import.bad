@@ -1,0 +1,6 @@
+2021-02-08T13:26:59+00:00 INFO (6): ---------------- START API Cron 08/02/21 13:26:59 ----------------
+2021-02-08T13:27:01+00:00 INFO (6): {"status":"failed","sku":"BOLRUSHKITFS","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T13:27:02+00:00 INFO (6): {"status":"failed","sku":"BOLATOAPSI","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T13:27:03+00:00 INFO (6): {"status":"failed","sku":"BOLATOEPSI","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T13:27:05+00:00 INFO (6): {"status":"failed","sku":"BOLATOFAPSI","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T13:27:05+00:00 INFO (6): ---------------- END API Cron 08/02/21 13:27:05 ----------------

@@ -1,0 +1,5 @@
+2021-02-11T11:50:01+00:00 INFO (6): ---------------- START API Cron 11/02/21 11:50:01 ----------------
+2021-02-11T11:50:04+00:00 INFO (6): {"status":"success","product_id":42671,"sku":"CB10","message":"Product updated successfully"}
+2021-02-11T11:50:11+00:00 INFO (6): {"status":"success","product_id":42672,"sku":"CB8","message":"Product updated successfully"}
+2021-02-11T11:50:12+00:00 INFO (6): {"status":"success","product_id":42673,"sku":"CB9","message":"Product updated successfully"}
+2021-02-11T11:50:12+00:00 INFO (6): ---------------- END API Cron 11/02/21 11:50:12 ----------------

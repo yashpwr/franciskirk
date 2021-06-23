@@ -1,0 +1,23 @@
+2021-06-18T09:25:02+00:00 INFO (6): ---------------- START API Cron 18/06/21 09:25:02 ----------------
+2021-06-18T09:26:33+00:00 INFO (6): {"status":"failed","sku":"STRHS102FCW","message":"Product is not available."}
+2021-06-18T09:26:34+00:00 INFO (6): {"status":"failed","sku":"STRHS111FCW","message":"Product is not available."}
+2021-06-18T09:26:34+00:00 INFO (6): {"status":"failed","sku":"STRHS114FCW","message":"Product is not available."}
+2021-06-18T09:26:35+00:00 INFO (6): {"status":"failed","sku":"STRHS118FCW","message":"Product is not available."}
+2021-06-18T09:26:36+00:00 INFO (6): {"status":"failed","sku":"STRHS121FCW","message":"Product is not available."}
+2021-06-18T09:26:37+00:00 INFO (6): {"status":"failed","sku":"STRHS127FCW","message":"Product is not available."}
+2021-06-18T09:26:38+00:00 INFO (6): {"status":"failed","sku":"STRHS140FCW","message":"Product is not available."}
+2021-06-18T09:26:38+00:00 INFO (6): {"status":"failed","sku":"STRHS19FCW","message":"Product is not available."}
+2021-06-18T09:26:39+00:00 INFO (6): {"status":"failed","sku":"STRHS20FCW","message":"Product is not available."}
+2021-06-18T09:26:40+00:00 INFO (6): {"status":"failed","sku":"STRHS22FCW","message":"Product is not available."}
+2021-06-18T09:26:41+00:00 INFO (6): {"status":"failed","sku":"STRHS25FCW","message":"Product is not available."}
+2021-06-18T09:26:42+00:00 INFO (6): {"status":"failed","sku":"STRHS27FCW","message":"Product is not available."}
+2021-06-18T09:26:42+00:00 INFO (6): {"status":"failed","sku":"STRHS29FCW","message":"Product is not available."}
+2021-06-18T09:26:43+00:00 INFO (6): {"status":"failed","sku":"STRHS30FCW","message":"Product is not available."}
+2021-06-18T09:26:44+00:00 INFO (6): {"status":"failed","sku":"STRHS32FCW","message":"Product is not available."}
+2021-06-18T09:26:45+00:00 INFO (6): {"status":"failed","sku":"STRHS38FCW","message":"Product is not available."}
+2021-06-18T09:26:46+00:00 INFO (6): {"status":"failed","sku":"STRHS40FCW","message":"Product is not available."}
+2021-06-18T09:26:46+00:00 INFO (6): {"status":"failed","sku":"STRHS41FCW","message":"Product is not available."}
+2021-06-18T09:26:47+00:00 INFO (6): {"status":"failed","sku":"STRHS44FCW","message":"Product is not available."}
+2021-06-18T09:26:48+00:00 INFO (6): {"status":"failed","sku":"STRHS48FCW","message":"Product is not available."}
+2021-06-18T09:26:49+00:00 INFO (6): {"status":"failed","sku":"STRHS51FCW","message":"Product is not available."}
+2021-06-18T09:26:49+00:00 INFO (6): ---------------- END API Cron 18/06/21 09:26:49 ----------------

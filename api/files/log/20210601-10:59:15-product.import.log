@@ -1,0 +1,3 @@
+2021-06-01T11:00:03+00:00 INFO (6): ---------------- START API Cron 01/06/21 11:00:03 ----------------
+2021-06-01T11:00:07+00:00 INFO (6): {"status":"success","product_id":44444,"sku":"FAIDB115MR2","message":"Product updated successfully"}
+2021-06-01T11:00:07+00:00 INFO (6): ---------------- END API Cron 01/06/21 11:00:07 ----------------

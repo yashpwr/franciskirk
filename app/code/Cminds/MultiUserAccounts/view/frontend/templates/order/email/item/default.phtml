@@ -1,0 +1,49 @@
+<?php
+$_item = $block->getItem();
+$imageSize = 85;
+$_imagehelper = $this->helper('Magento\Catalog\Helper\Image');
+if (!is_null($_item->getChildrenItems())) {
+    $childProd = current($_item->getChildrenItems());
+    $productImage = $_imagehelper->init($childProd->getProduct(), 'category_page_list', array('height' => $imageSize , 'width'=> $imageSize))->getUrl();
+} else {
+    $productImage = $_imagehelper->init($_item->getProduct(), 'category_page_list', array('height' => $imageSize , 'width'=> $imageSize))->getUrl();
+}
+?>
+<tbody class="cart item">
+    <tr class="item-info">
+        <td class="col item">
+            <span class="product-item-photo">
+                <img src="<?=$productImage?>" title="<?= $block->escapeHtml($_item->getName()) ?>" alt="<?= $block->escapeHtml($_item->getName()) ?>" />
+            </span>
+        </td>
+        <td class="col item" data-th="<?= $block->escapeHtml(__('Item')); ?>" >
+            <div class="product-item-details">
+                <?= $block->escapeHtml($block->getProductName()) ?>
+                <?php if ($_options = $block->getOptionList()) :?>
+                    <dl class="item-options">
+                        <?php foreach ($_options as $_option) : ?>
+                            <?php $_formatedOptionValue = $block->getFormatedOptionValue($_option) ?>
+                            <dt><?= $block->escapeHtml($_option['label']) ?></dt>
+                            <dd>
+                                <?php if (isset($_formatedOptionValue['full_view'])) : ?>
+                                    <?= $_formatedOptionValue['full_view'] ?>
+                                <?php else : ?>
+                                    <?= $_formatedOptionValue['value'] ?>
+                                <?php endif; ?>
+                            </dd>
+                        <?php endforeach; ?>
+                    </dl>
+                <?php endif;?>
+            </div>
+        </td>
+        <td class="col price" data-th="<?= $block->escapeHtml(__('Price')); ?>">
+            <?= $block->getUnitPriceHtml($_item); ?>
+        </td>
+        <td class="col qty" data-th="<?= $block->escapeHtml(__('Qty')); ?>">
+            <?= $block->getQty() ?>
+        </td>
+        <td class="col subtotal" data-th="<?= $block->escapeHtml(__('Subtotal'));?>">
+            <?= $block->getRowTotalHtml($_item); ?>
+        </td>
+    </tr>
+</tbody>

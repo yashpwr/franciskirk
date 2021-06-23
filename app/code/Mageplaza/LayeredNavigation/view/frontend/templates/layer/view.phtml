@@ -1,0 +1,178 @@
+<?php
+/**
+ * Mageplaza
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Mageplaza.com license that is
+ * available through the world-wide-web at this URL:
+ * https://www.mageplaza.com/LICENSE.txt
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade this extension to newer
+ * version in the future.
+ *
+ * @category    Mageplaza
+ * @package     Mageplaza_LayeredNavigation
+ * @copyright   Copyright (c) Mageplaza (https://www.mageplaza.com/)
+ * @license     https://www.mageplaza.com/LICENSE.txt
+ */
+?>
+<?php if ($block->canShowBlock()): ?>
+    <?php
+    $filters     = $block->getFilters();
+    $layerConfig = $this->helper('Mageplaza\LayeredNavigation\Helper\Data')->getLayerConfiguration($filters);
+    $filtered    = count($block->getLayer()->getState()->getFilters());
+    
+    ?>
+    <div class="block filter" id="layered-filter-block"
+         data-mage-init='{"collapsible":{"openedState": "active", "collapsible": true, "active": false, "collateral": { "openedState": "filter-active", "element": "body" } }}'>
+
+        <div id="ln_overlay" class="ln_overlay">
+            <div class="loader">
+                <img src="<?php echo $block->getViewFileUrl('images/loader-1.gif'); ?>" alt="Loading...">
+            </div>
+        </div>
+
+        <div class="block-title filter-title" data-count="<?php /* @escapeNotVerified */
+        echo $filtered; ?>">
+            <strong data-role="title"><?php /* @escapeNotVerified */
+                echo __('Shop By') ?></strong>
+        </div>
+        <div class="block-content filter-content" data-mage-init='{"mpLayer": <?php echo $layerConfig ?>}'>
+            <?php echo $block->getChildHtml('state') ?>
+
+            <?php if ($block->getLayer()->getState()->getFilters()): ?>
+                <div class="block-actions filter-actions">
+                    <a href="<?php /* @escapeNotVerified */
+                    echo $block->getClearUrl() ?>"
+                       class="action clear filter-clear"><span><?php /* @escapeNotVerified */
+                            echo __('Clear All') ?></span></a>
+                </div>
+            <?php endif; ?>
+
+<?php
+$wrapOptions = false;
+/** @var $helper \Mageplaza\LayeredNavigationPro\Helper\Data */
+$helper = $this->helper('Mageplaza\LayeredNavigationPro\Helper\Data');
+?>
+<?php /** @var $filter \Mageplaza\LayeredNavigation\Model\Layer\Filter\Attribute */?>
+<?php foreach ($filters as $key => $filter): ?>
+    <?php if ($filter->getItemsCount()): ?>
+        <?php if (!$wrapOptions): ?>
+            <strong role="heading" aria-level="2"
+                    class="block-subtitle filter-subtitle"><?php echo __('Shopping Options') ?></strong>
+            <div class="filter-options" id="narrow-by-list" data-role="content">
+            <?php $wrapOptions = true; ?>
+        <?php endif; ?>
+                <div data-role="ln_collapsible" class="filter-options-item"
+                     attribute="<?php echo $filter->getRequestVar() ?>">
+                    <div data-role="ln_title" class="filter-options-title"><?php /* @escapeNotVerified */
+                        echo __($filter->getName()) ?></div>
+                    <div data-role="ln_content" class="filter-options-content">
+                    <?php if ($filter->getRequestVar() == 'price'):?>
+<?php
+$currency = $helper->getObjectManager()->get('Magento\Framework\Pricing\PriceCurrencyInterface');
+$currencySymbol = $currency->getCurrencySymbol();
+if (empty($currencySymbol)) {
+    $currencySymbol = $currency->getCurrency()->getCode();
+}
+?>
+                            <form class="price-form">
+                              <div>
+                                <span><?= __('From ') . $currencySymbol ?></span>
+                                <input type="text"  id="price_filter_from" name="from" placeholder="50">
+                              </div>
+                              <div>
+                                <span><?= __('To ') . $currencySymbol ?></span>
+                                <input type="text"  id="price_filter_to" name="to" placeholder="250">
+                              </div>
+                              <button type="button" id="price_filter_button">></button>
+                            </form>
+<script>
+(function () {
+    var url = new URL(window.location.href);
+    var param = url.searchParams.get('price');
+    if (param) {
+        var part = param.split('-');
+        if (part.length == 2) {
+        	document.getElementById('price_filter_from').value = part[0];
+        	document.getElementById('price_filter_to').value   = part[1]; 
+        }
+    }
+    var button = document.getElementById('price_filter_button');
+    button.onclick = function(){
+        var value = document.getElementById('price_filter_from').value.trim() + '-' + document.getElementById('price_filter_to').value.trim();
+        var newUrl;
+        if (url.searchParams.has('price')) {
+        	newUrl = window.location.href.replace(/(price=)[^\&]+/, '$1' + value);
+        } else {
+        	if (window.location.href.search('\\?') > 0) {
+                newUrl = window.location.href + '&price=' + value
+            } else {
+                newUrl = window.location.href + '?price=' + value
+            }
+        }
+        window.location.href = newUrl;
+    };
+})();
+require([
+    'jquery'
+], function ($) {
+    $(document).mouseup(function(e){
+        var container = $('.modal__inner');
+        if (!container.is(e.target) && container.has(e.target).length === 0) {
+          $('.modal').hide();
+          $('body').removeClass('modal-active');
+        }
+    });
+
+    $('.size-link').on('click', function(e) {
+      e.preventDefault();
+      $('#size-modal').show();
+      $('body').addClass('modal-active');
+    });
+});
+</script>
+                    <?php elseif ($filter->getRequestVar() == 'bag_color' && $helper->getConfigGeneral('custom_colors_enable')) :?>
+                        <?php $attCode = $filter->getRequestVar() ?>
+                        <?php $colors = $helper->getCustomColors($filter) ?>
+                        <?php if (is_array($colors)) : ?>
+                            <ol class="items ln-items-<?= $attCode ?>">
+                            <?php foreach ($colors as $clabel => $citem): ?>
+                                <li class="item">
+                                    <input type="checkbox"<?= $citem['checked'] ? ' checked="checked"' : '' ?> class="layer-input-filter" name="filter_<?= $attCode ?>">
+                                    <a href="<?= $block->escapeUrl($citem['url']) ?>"><?= $clabel ?></a>
+                                </li>
+                            <?php endforeach; ?>
+                            </ol>
+                        <?php else:?>
+                            <?= $colors ?>
+                        <?php endif;?>
+                    <?php else:?>
+                            <?php /* @escapeNotVerified */ echo $block->getChildBlock('renderer')->setFilter($filter)->render($filter); ?>
+                    <?php endif;?>
+                    <?php if ($filter->getRequestVar() == 'dimensions'):?>
+                        <a href="#" class="size-link"><?=__('Size Guide') ?></a>
+                    <?php endif;?>
+                    </div>
+                </div>
+    <?php endif; ?>
+<?php endforeach; ?>
+        <?php if ($wrapOptions): ?>
+            </div>
+        <?php else: ?>
+            <script>
+                require([
+                    'jquery'
+                ], function ($) {
+                    $('#layered-filter-block').addClass('filter-no-options');
+                });
+            </script>
+        <?php endif; ?>
+
+            <?php echo $block->getChildHtml('layer_additional_info') ?>
+        </div>
+    </div>
+<?php endif; ?>

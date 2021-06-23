@@ -1,0 +1,56 @@
+2021-03-18T14:10:04+00:00 INFO (6): {"status":"failed","sku":"B\/DPD1820LF","message":"Request does not match any route."}
+2021-03-18T14:10:08+00:00 INFO (6): {"status":"failed","sku":"B\/DPD1820LF","message":"Request does not match any route."}
+2021-03-18T14:10:16+00:00 INFO (6): {"status":"failed","sku":"B\/DSVJ520BFS","message":"Request does not match any route."}
+2021-03-18T14:10:23+00:00 INFO (6): {"status":"failed","sku":"B\/DSVJ520BFS","message":"Request does not match any route."}
+2021-03-18T14:10:43+00:00 INFO (6): {"status":"failed","sku":"BBFV7","message":"Error occurred during \"custom_attributes\" processing. Attribute \"thread_form\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T14:10:43+00:00 INFO (6): {"status":"failed","sku":"BBFV7","message":"Error occurred during \"custom_attributes\" processing. Attribute \"thread_form\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T14:11:06+00:00 INFO (6): {"status":"failed","sku":"CF60BL","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:11:14+00:00 INFO (6): {"status":"failed","sku":"CLCTSN","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:11:21+00:00 INFO (6): {"status":"failed","sku":"DIC650","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:11:29+00:00 INFO (6): {"status":"failed","sku":"EVOIPDC","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:11:37+00:00 INFO (6): {"status":"failed","sku":"EVOTDBBR","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:11:44+00:00 INFO (6): {"status":"failed","sku":"EVOTDBGR","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:11:52+00:00 INFO (6): {"status":"failed","sku":"EVOTDBWH","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:12:03+00:00 INFO (6): {"status":"failed","sku":"FAITAPEPVCBK","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:12:11+00:00 INFO (6): {"status":"failed","sku":"FAITAPEPVCG","message":"The \"%1\" file doesn't exist."}
+2021-03-18T14:12:18+00:00 INFO (6): {"status":"failed","sku":"FAITAPEPVCR","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:12:26+00:00 INFO (6): {"status":"failed","sku":"FAITAPEPVCY","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:12:34+00:00 INFO (6): {"status":"failed","sku":"GRGOKHF85G","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:12:41+00:00 INFO (6): {"status":"failed","sku":"GRGOKLRSPF","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:12:49+00:00 INFO (6): {"status":"failed","sku":"GRGOKSR190ML","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:12:57+00:00 INFO (6): {"status":"failed","sku":"GRGOKWH","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:13:10+00:00 INFO (6): {"status":"failed","sku":"JH001","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:14:00+00:00 INFO (6): {"status":"failed","sku":"Q\/GXP","message":"Request does not match any route."}
+2021-03-18T14:14:35+00:00 INFO (6): {"status":"failed","sku":"T\/CPTGL276M","message":"Request does not match any route."}
+2021-03-18T14:14:37+00:00 INFO (6): {"status":"failed","sku":"T\/CPTGL276S","message":"Request does not match any route."}
+2021-03-18T14:14:38+00:00 INFO (6): {"status":"failed","sku":"T\/CPTGL444L","message":"Request does not match any route."}
+2021-03-18T14:14:40+00:00 INFO (6): {"status":"failed","sku":"T\/CTCG8049","message":"Request does not match any route."}
+2021-03-18T14:14:43+00:00 INFO (6): {"status":"failed","sku":"T\/CTCG8050","message":"Request does not match any route."}
+2021-03-18T14:14:45+00:00 INFO (6): {"status":"failed","sku":"T\/CTFW","message":"Request does not match any route."}
+2021-03-18T14:14:47+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL115M","message":"Request does not match any route."}
+2021-03-18T14:14:48+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL115S","message":"Request does not match any route."}
+2021-03-18T14:14:50+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL116M","message":"Request does not match any route."}
+2021-03-18T14:14:52+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL118M","message":"Request does not match any route."}
+2021-03-18T14:14:54+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL118S","message":"Request does not match any route."}
+2021-03-18T14:14:56+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL119M","message":"Request does not match any route."}
+2021-03-18T14:14:58+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL436L","message":"Request does not match any route."}
+2021-03-18T14:14:59+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL436XL","message":"Request does not match any route."}
+2021-03-18T14:15:01+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL442L","message":"Request does not match any route."}
+2021-03-18T14:15:02+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL446L","message":"Request does not match any route."}
+2021-03-18T14:15:03+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL446L","message":"Request does not match any route."}
+2021-03-18T14:15:04+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL446XL","message":"Request does not match any route."}
+2021-03-18T14:15:05+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL446XL","message":"Request does not match any route."}
+2021-03-18T14:15:06+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL447L","message":"Request does not match any route."}
+2021-03-18T14:15:06+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL447L","message":"Request does not match any route."}
+2021-03-18T14:15:08+00:00 INFO (6): {"status":"failed","sku":"TETTSF200","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:15:17+00:00 INFO (6): {"status":"failed","sku":"TS015","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:15:38+00:00 INFO (6): {"status":"failed","sku":"TS27F","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:15:45+00:00 INFO (6): {"status":"failed","sku":"TS31F","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:15:47+00:00 INFO (6): {"status":"failed","sku":"TWX51801","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:15:55+00:00 INFO (6): {"status":"failed","sku":"TWX53145","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:16:03+00:00 INFO (6): {"status":"failed","sku":"UA002","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:16:15+00:00 INFO (6): {"status":"failed","sku":"VIT337100","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:16:23+00:00 INFO (6): {"status":"failed","sku":"VIT337200","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:16:29+00:00 INFO (6): {"status":"failed","sku":"WCENG","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:16:31+00:00 INFO (6): {"status":"failed","sku":"XQ003","message":"Product is not available."}
+2021-03-18T14:16:31+00:00 INFO (6): ---------------- END API Cron 18/03/21 14:16:31 ----------------

@@ -1,0 +1,522 @@
+2021-02-10T13:30:02+00:00 INFO (6): ---------------- START API Cron 10/02/21 13:30:02 ----------------
+2021-02-10T13:35:05+00:00 INFO (6): {"status":"failed","sku":"B12M16Z","message":"The product was unable to be saved. Please try again."}
+2021-02-10T13:35:44+00:00 INFO (6): {"status":"failed","sku":"B12M40","message":"The product was unable to be saved. Please try again."}
+2021-02-10T13:36:31+00:00 INFO (6): {"status":"failed","sku":"B12M65Z","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T13:37:12+00:00 INFO (6): {"status":"failed","sku":"B14F12","message":"The product was unable to be saved. Please try again."}
+2021-02-10T13:40:58+00:00 INFO (6): {"status":"failed","sku":"B3M16","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T13:45:04+00:00 INFO (6): {"status":"failed","sku":"B5M10Z","message":"The product was unable to be saved. Please try again."}
+2021-02-10T13:45:58+00:00 INFO (6): {"status":"failed","sku":"B5M30","message":"The product was unable to be saved. Please try again."}
+2021-02-10T13:50:10+00:00 INFO (6): {"status":"failed","sku":"B6M70Z","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T14:00:29+00:00 INFO (6): {"status":"failed","sku":"C1.4M6A4","message":"The product was unable to be saved. Please try again."}
+2021-02-10T14:00:58+00:00 INFO (6): {"status":"failed","sku":"C1.6M12","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T14:02:26+00:00 INFO (6): {"status":"failed","sku":"C1.6M6","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T14:06:35+00:00 INFO (6): {"status":"failed","sku":"C10F314","message":"The product was unable to be saved. Please try again."}
+2021-02-10T14:10:14+00:00 INFO (6): {"status":"failed","sku":"C10M14A480","message":"The product was unable to be saved. Please try again."}
+2021-02-10T14:21:15+00:00 INFO (6): {"status":"failed","sku":"C10MF30Z","message":"The product was unable to be saved. Please try again."}
+2021-02-10T14:26:59+00:00 INFO (6): {"status":"failed","sku":"C12F212","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T14:30:06+00:00 INFO (6): {"status":"failed","sku":"C12M130A4","message":"The product was unable to be saved. Please try again."}
+2021-02-10T14:30:26+00:00 INFO (6): {"status":"failed","sku":"C12M140A4","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T14:35:05+00:00 INFO (6): {"status":"failed","sku":"C12M260A2","message":"The product was unable to be saved. Please try again."}
+2021-02-10T14:41:13+00:00 INFO (6): {"status":"failed","sku":"C12M95A4","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T14:42:35+00:00 INFO (6): {"status":"failed","sku":"C12W114","message":"The product was unable to be saved. Please try again."}
+2021-02-10T14:46:18+00:00 INFO (6): {"status":"failed","sku":"C14C412","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T14:50:40+00:00 INFO (6): {"status":"failed","sku":"C14M120Z","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T14:51:26+00:00 INFO (6): {"status":"failed","sku":"C14M150A2","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T14:55:05+00:00 INFO (6): {"status":"failed","sku":"C14M50A2","message":"The product was unable to be saved. Please try again."}
+2021-02-10T15:00:03+00:00 INFO (6): {"status":"failed","sku":"C16M110","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T15:05:05+00:00 INFO (6): {"status":"failed","sku":"C16M35A4","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T15:11:52+00:00 INFO (6): {"status":"failed","sku":"C18M160","message":"The product was unable to be saved. Please try again."}
+2021-02-10T15:21:42+00:00 INFO (6): {"status":"failed","sku":"C20M120A2","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T15:22:21+00:00 INFO (6): {"status":"failed","sku":"C20M140A2","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T15:26:02+00:00 INFO (6): {"status":"failed","sku":"C20M40A2","message":"The product was unable to be saved. Please try again."}
+2021-02-10T15:31:02+00:00 INFO (6): {"status":"failed","sku":"C22M110","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T15:32:42+00:00 INFO (6): {"status":"failed","sku":"C22M280","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T15:46:44+00:00 INFO (6): {"status":"failed","sku":"C27M170A2","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T15:46:58+00:00 INFO (6): {"status":"failed","sku":"C27M180A2","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T15:50:05+00:00 INFO (6): {"status":"failed","sku":"C27M85A2","message":"The product was unable to be saved. Please try again."}
+2021-02-10T16:00:05+00:00 INFO (6): {"status":"failed","sku":"C30M60A2","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T16:01:04+00:00 INFO (6): {"status":"failed","sku":"C30M80A4","message":"The category doesn't contain the specified product."}
+2021-02-10T16:05:55+00:00 INFO (6): {"status":"failed","sku":"C34W314","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T16:10:41+00:00 INFO (6): {"status":"failed","sku":"C358F234","message":"The product was unable to be saved. Please try again."}
+2021-02-10T16:15:11+00:00 INFO (6): {"status":"failed","sku":"C378C3","message":"The product was unable to be saved. Please try again."}
+2021-02-10T16:16:19+00:00 INFO (6): {"status":"failed","sku":"C38B78","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T16:16:54+00:00 INFO (6): {"status":"failed","sku":"C38C14","message":"The product was unable to be saved. Please try again."}
+2021-02-10T16:20:39+00:00 INFO (6): {"status":"failed","sku":"C38F214","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T16:21:03+00:00 INFO (6): {"status":"failed","sku":"C38F314","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T16:22:24+00:00 INFO (6): {"status":"failed","sku":"C38W3","message":"The product was unable to be saved. Please try again."}
+2021-02-10T16:30:05+00:00 INFO (6): {"status":"failed","sku":"C3M6A4","message":"The product was unable to be saved. Please try again."}
+2021-02-10T16:31:24+00:00 INFO (6): {"status":"failed","sku":"C4A12","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T16:36:19+00:00 INFO (6): {"status":"failed","sku":"C4M35","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T16:40:06+00:00 INFO (6): {"status":"failed","sku":"C4M6Z","message":"The product was unable to be saved. Please try again."}
+2021-02-10T16:41:30+00:00 INFO (6): {"status":"failed","sku":"C4M90A2","message":"The category doesn't contain the specified product."}
+2021-02-10T16:41:52+00:00 INFO (6): {"status":"failed","sku":"C516W1","message":"The product was unable to be saved. Please try again."}
+2021-02-10T16:45:24+00:00 INFO (6): {"status":"failed","sku":"C5C14","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T16:46:19+00:00 INFO (6): {"status":"failed","sku":"C5F14","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T16:46:33+00:00 INFO (6): {"status":"failed","sku":"C5F58","message":"The product was unable to be saved. Please try again."}
+2021-02-10T17:01:24+00:00 INFO (6): {"status":"failed","sku":"C6114C612","message":"The product was unable to be saved. Please try again."}
+2021-02-10T17:05:10+00:00 INFO (6): {"status":"failed","sku":"C6134C12","message":"The product was unable to be saved. Please try again."}
+2021-02-10T17:07:26+00:00 INFO (6): {"status":"failed","sku":"C61C13","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T17:10:05+00:00 INFO (6): {"status":"failed","sku":"C61F3","message":"The product was unable to be saved. Please try again."}
+2021-02-10T17:15:14+00:00 INFO (6): {"status":"failed","sku":"C634C712","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T17:16:13+00:00 INFO (6): {"status":"failed","sku":"C634F314","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T17:20:06+00:00 INFO (6): {"status":"failed","sku":"C6516C2","message":"The product was unable to be saved. Please try again."}
+2021-02-10T17:20:50+00:00 INFO (6): {"status":"failed","sku":"C6516C334","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T17:21:22+00:00 INFO (6): {"status":"failed","sku":"C6516C5","message":"The product was unable to be saved. Please try again."}
+2021-02-10T17:21:58+00:00 INFO (6): {"status":"failed","sku":"C6516F1","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T17:22:59+00:00 INFO (6): {"status":"failed","sku":"C6516F214Z","message":"The product was unable to be saved. Please try again."}
+2021-02-10T17:28:09+00:00 INFO (6): {"status":"failed","sku":"C658F214","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T17:30:41+00:00 INFO (6): {"status":"failed","sku":"C66C38Z","message":"The category doesn't contain the specified product."}
+2021-02-10T17:33:11+00:00 INFO (6): {"status":"failed","sku":"C6716F1","message":"The product was unable to be saved. Please try again."}
+2021-02-10T17:35:05+00:00 INFO (6): {"status":"failed","sku":"C678C20","message":"The product was unable to be saved. Please try again."}
+2021-02-10T17:42:08+00:00 INFO (6): {"status":"failed","sku":"C6A1","message":"The category doesn't contain the specified product."}
+2021-02-10T17:42:33+00:00 INFO (6): {"status":"failed","sku":"C6A516","message":"The product was unable to be saved. Please try again."}
+2021-02-10T17:42:49+00:00 INFO (6): {"status":"failed","sku":"C6A78","message":"The category doesn't contain the specified product."}
+2021-02-10T17:50:05+00:00 INFO (6): {"status":"failed","sku":"C6M35","message":"The product was unable to be saved. Please try again."}
+2021-02-10T17:57:06+00:00 INFO (6): {"status":"failed","sku":"C78B4","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:00:26+00:00 INFO (6): {"status":"failed","sku":"C812M20Z","message":"The category doesn't contain the specified product."}
+2021-02-10T18:05:06+00:00 INFO (6): {"status":"failed","sku":"C820M150Z","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:10:06+00:00 INFO (6): {"status":"failed","sku":"C86M45Z","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:10:26+00:00 INFO (6): {"status":"failed","sku":"C86M65Z","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T18:18:05+00:00 INFO (6): {"status":"failed","sku":"C8M180","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T18:18:21+00:00 INFO (6): {"status":"failed","sku":"C8M18A2","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:25:55+00:00 INFO (6): {"status":"failed","sku":"C8M75","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:35:05+00:00 INFO (6): {"status":"failed","sku":"CL6M16","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:37:14+00:00 INFO (6): {"status":"failed","sku":"H10M8M110","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:40:20+00:00 INFO (6): {"status":"failed","sku":"H12C38C434","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:40:26+00:00 INFO (6): {"status":"failed","sku":"H12C38C434","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:40:29+00:00 INFO (6): {"status":"failed","sku":"H12C38C58","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:40:45+00:00 INFO (6): {"status":"failed","sku":"H12M10M110","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:42:20+00:00 INFO (6): {"status":"failed","sku":"H14C1024C1","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:42:25+00:00 INFO (6): {"status":"failed","sku":"H14C1024C1","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:42:28+00:00 INFO (6): {"status":"failed","sku":"H14C1024C114","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:42:31+00:00 INFO (6): {"status":"failed","sku":"H14C1024C12","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:42:35+00:00 INFO (6): {"status":"failed","sku":"H14C1024C12","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:42:38+00:00 INFO (6): {"status":"failed","sku":"H14C1024C14","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:43:05+00:00 INFO (6): {"status":"failed","sku":"H14C1024C34","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:43:09+00:00 INFO (6): {"status":"failed","sku":"H14C1024C34","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:43:12+00:00 INFO (6): {"status":"failed","sku":"H14C1024C516","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:43:15+00:00 INFO (6): {"status":"failed","sku":"H14C1024C58","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:43:19+00:00 INFO (6): {"status":"failed","sku":"H14C1024C58","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:43:23+00:00 INFO (6): {"status":"failed","sku":"H14F1032F1","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:45:03+00:00 INFO (6): {"status":"failed","sku":"H1C34C112","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:45:13+00:00 INFO (6): {"status":"failed","sku":"H1C34C212","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:45:18+00:00 INFO (6): {"status":"failed","sku":"H1C34C212","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:45:21+00:00 INFO (6): {"status":"failed","sku":"H1C34C3","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:47:26+00:00 INFO (6): {"status":"failed","sku":"H34C58C114","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:47:30+00:00 INFO (6): {"status":"failed","sku":"H34C58C12","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:47:34+00:00 INFO (6): {"status":"failed","sku":"H34C58C134","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:48:22+00:00 INFO (6): {"status":"failed","sku":"H34C58C4","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:50:05+00:00 INFO (6): {"status":"failed","sku":"H38C516C312","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:50:08+00:00 INFO (6): {"status":"failed","sku":"H38C516C314","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:50:13+00:00 INFO (6): {"status":"failed","sku":"H38C516C314","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:50:16+00:00 INFO (6): {"status":"failed","sku":"H38C516C34","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:50:20+00:00 INFO (6): {"status":"failed","sku":"H38C516C38","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:50:24+00:00 INFO (6): {"status":"failed","sku":"H38C516C38","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:50:27+00:00 INFO (6): {"status":"failed","sku":"H38C516C412","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:50:30+00:00 INFO (6): {"status":"failed","sku":"H38C516C58","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:50:34+00:00 INFO (6): {"status":"failed","sku":"H38C516C58","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:50:37+00:00 INFO (6): {"status":"failed","sku":"H516C14C112","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:50:40+00:00 INFO (6): {"status":"failed","sku":"H516C14C114","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:50:44+00:00 INFO (6): {"status":"failed","sku":"H516C14C114","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:50:47+00:00 INFO (6): {"status":"failed","sku":"H516C14C134","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:51:00+00:00 INFO (6): {"status":"failed","sku":"H516C14C2","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:51:15+00:00 INFO (6): {"status":"failed","sku":"H516C14C3","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:51:20+00:00 INFO (6): {"status":"failed","sku":"H516C14C3","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:51:23+00:00 INFO (6): {"status":"failed","sku":"H516C14C34","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:51:26+00:00 INFO (6): {"status":"failed","sku":"H516C14C38","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:51:30+00:00 INFO (6): {"status":"failed","sku":"H516C14C38","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:51:46+00:00 INFO (6): {"status":"failed","sku":"H58C12C112","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:51:50+00:00 INFO (6): {"status":"failed","sku":"H58C12C112","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:51:53+00:00 INFO (6): {"status":"failed","sku":"H58C12C12","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:51:56+00:00 INFO (6): {"status":"failed","sku":"H58C12C134","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:52:00+00:00 INFO (6): {"status":"failed","sku":"H58C12C134","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:52:03+00:00 INFO (6): {"status":"failed","sku":"H58C12C212","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:52:06+00:00 INFO (6): {"status":"failed","sku":"H58C12C214","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:52:12+00:00 INFO (6): {"status":"failed","sku":"H58C12C214","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:52:15+00:00 INFO (6): {"status":"failed","sku":"H58C12C3","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:52:18+00:00 INFO (6): {"status":"failed","sku":"H58C12C312","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:52:22+00:00 INFO (6): {"status":"failed","sku":"H58C12C312","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:52:25+00:00 INFO (6): {"status":"failed","sku":"H58C12C334","message":"The product was unable to be saved. Please try again."}
+2021-02-10T18:52:28+00:00 INFO (6): {"status":"failed","sku":"H58C12C34","message":"Database deadlock found when trying to get lock"}
+2021-02-10T18:56:29+00:00 INFO (6): {"status":"failed","sku":"H8M6M75","message":"Database deadlock found when trying to get lock"}
+2021-02-10T19:01:11+00:00 INFO (6): {"status":"failed","sku":"HKB4C58","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T19:03:15+00:00 INFO (6): {"status":"failed","sku":"HKB6C1","message":"The product was unable to be saved. Please try again."}
+2021-02-10T19:06:23+00:00 INFO (6): {"status":"failed","sku":"HKC0F18","message":"The product was unable to be saved. Please try again."}
+2021-02-10T19:07:10+00:00 INFO (6): {"status":"failed","sku":"HKC10C2","message":"The product was unable to be saved. Please try again."}
+2021-02-10T19:15:17+00:00 INFO (6): {"status":"failed","sku":"HKC12C58","message":"The product was unable to be saved. Please try again."}
+2021-02-10T19:16:12+00:00 INFO (6): {"status":"failed","sku":"HKC12C9","message":"The product was unable to be saved. Please try again."}
+2021-02-10T19:17:40+00:00 INFO (6): {"status":"failed","sku":"HKC12F6","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T19:18:14+00:00 INFO (6): {"status":"failed","sku":"HKC12M15","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T19:30:07+00:00 INFO (6): {"status":"failed","sku":"HKC20M30","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T19:37:33+00:00 INFO (6): {"status":"failed","sku":"HKC30M110","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T19:43:24+00:00 INFO (6): {"status":"failed","sku":"HKC34F6","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T19:45:03+00:00 INFO (6): {"status":"failed","sku":"HKC36M300","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T19:45:55+00:00 INFO (6): {"status":"failed","sku":"HKC36M460","message":"The product was unable to be saved. Please try again."}
+2021-02-10T19:47:39+00:00 INFO (6): {"status":"failed","sku":"HKC38C212","message":"The product was unable to be saved. Please try again."}
+2021-02-10T20:00:18+00:00 INFO (6): {"status":"failed","sku":"HKC58C234","message":"The product was unable to be saved. Please try again."}
+2021-02-10T20:00:36+00:00 INFO (6): {"status":"failed","sku":"HKC58C314","message":"The product was unable to be saved. Please try again."}
+2021-02-10T20:08:42+00:00 INFO (6): {"status":"failed","sku":"HKC6M100","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T20:22:11+00:00 INFO (6): {"status":"failed","sku":"HKCL38C1","message":"The product was unable to be saved. Please try again."}
+2021-02-10T20:35:15+00:00 INFO (6): {"status":"failed","sku":"HKK4M25","message":"The product was unable to be saved. Please try again."}
+2021-02-10T20:36:08+00:00 INFO (6): {"status":"failed","sku":"HKK516C212","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T20:42:37+00:00 INFO (6): {"status":"failed","sku":"HKSF3M6","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T20:45:05+00:00 INFO (6): {"status":"failed","sku":"HKSP10C1","message":"The product was unable to be saved. Please try again."}
+2021-02-10T20:55:06+00:00 INFO (6): {"status":"failed","sku":"HKSP5C14","message":"The product was unable to be saved. Please try again."}
+2021-02-10T20:55:22+00:00 INFO (6): {"status":"failed","sku":"HKSP5C34","message":"The product was unable to be saved. Please try again."}
+2021-02-10T20:57:10+00:00 INFO (6): {"status":"failed","sku":"HKSP6M16","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T20:57:46+00:00 INFO (6): {"status":"failed","sku":"HKSP716C114","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T21:00:06+00:00 INFO (6): {"status":"failed","sku":"HKSP8M20","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:00:19+00:00 INFO (6): {"status":"failed","sku":"K0F1","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:00:24+00:00 INFO (6): {"status":"failed","sku":"K0F1","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:00:27+00:00 INFO (6): {"status":"failed","sku":"K0F38","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:00:31+00:00 INFO (6): {"status":"failed","sku":"K0F516","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:00:37+00:00 INFO (6): {"status":"failed","sku":"K0F516","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:00:40+00:00 INFO (6): {"status":"failed","sku":"K10C112","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:00:48+00:00 INFO (6): {"status":"failed","sku":"K10C112Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:00:59+00:00 INFO (6): {"status":"failed","sku":"K10C114Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:01:04+00:00 INFO (6): {"status":"failed","sku":"K10C12","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:01:09+00:00 INFO (6): {"status":"failed","sku":"K10C134","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:01:14+00:00 INFO (6): {"status":"failed","sku":"K10C14","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:01:19+00:00 INFO (6): {"status":"failed","sku":"K10C2","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:01:24+00:00 INFO (6): {"status":"failed","sku":"K10C34","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:01:33+00:00 INFO (6): {"status":"failed","sku":"K10C38Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:01:38+00:00 INFO (6): {"status":"failed","sku":"K10C516","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:01:42+00:00 INFO (6): {"status":"failed","sku":"K10C58","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:01:46+00:00 INFO (6): {"status":"failed","sku":"K10C58Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:01:52+00:00 INFO (6): {"status":"failed","sku":"K10C716","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:01:56+00:00 INFO (6): {"status":"failed","sku":"K10C78","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:02:01+00:00 INFO (6): {"status":"failed","sku":"K10F1","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:02:06+00:00 INFO (6): {"status":"failed","sku":"K10F112","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:02:10+00:00 INFO (6): {"status":"failed","sku":"K10F114","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:02:15+00:00 INFO (6): {"status":"failed","sku":"K10F12","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:02:19+00:00 INFO (6): {"status":"failed","sku":"K10F12Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:02:24+00:00 INFO (6): {"status":"failed","sku":"K10F134","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:02:29+00:00 INFO (6): {"status":"failed","sku":"K10F14","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:02:33+00:00 INFO (6): {"status":"failed","sku":"K10F1Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:02:37+00:00 INFO (6): {"status":"failed","sku":"K10F2","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:02:42+00:00 INFO (6): {"status":"failed","sku":"K10F212","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:02:47+00:00 INFO (6): {"status":"failed","sku":"K10F3","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:02:52+00:00 INFO (6): {"status":"failed","sku":"K10F34","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:02:56+00:00 INFO (6): {"status":"failed","sku":"K10F38","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:03:07+00:00 INFO (6): {"status":"failed","sku":"K10F516","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:05:08+00:00 INFO (6): {"status":"failed","sku":"K10M20Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:05:13+00:00 INFO (6): {"status":"failed","sku":"K10M22","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:05:17+00:00 INFO (6): {"status":"failed","sku":"K10M25","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:05:27+00:00 INFO (6): {"status":"failed","sku":"K10M30","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:05:38+00:00 INFO (6): {"status":"failed","sku":"K10M35Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:05:42+00:00 INFO (6): {"status":"failed","sku":"K10M35Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:05:45+00:00 INFO (6): {"status":"failed","sku":"K10M40Z","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:05:48+00:00 INFO (6): {"status":"failed","sku":"K10M45","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:05:53+00:00 INFO (6): {"status":"failed","sku":"K10M45","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:05:56+00:00 INFO (6): {"status":"failed","sku":"K10M50","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:05:59+00:00 INFO (6): {"status":"failed","sku":"K10M50Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:06:09+00:00 INFO (6): {"status":"failed","sku":"K10M55Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:06:14+00:00 INFO (6): {"status":"failed","sku":"K10M55","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:06:23+00:00 INFO (6): {"status":"failed","sku":"K10M60","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:06:26+00:00 INFO (6): {"status":"failed","sku":"K10M65","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:06:40+00:00 INFO (6): {"status":"failed","sku":"K10M70Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:06:44+00:00 INFO (6): {"status":"failed","sku":"K10M70Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:06:47+00:00 INFO (6): {"status":"failed","sku":"K10M75Z","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:06:51+00:00 INFO (6): {"status":"failed","sku":"K10M80","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:06:56+00:00 INFO (6): {"status":"failed","sku":"K10M80","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:06:59+00:00 INFO (6): {"status":"failed","sku":"K10M90","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:07:02+00:00 INFO (6): {"status":"failed","sku":"K10M90Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:07:07+00:00 INFO (6): {"status":"failed","sku":"K10M90Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:07:10+00:00 INFO (6): {"status":"failed","sku":"K12B112","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:07:13+00:00 INFO (6): {"status":"failed","sku":"K12B134","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:07:18+00:00 INFO (6): {"status":"failed","sku":"K12B134","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:07:21+00:00 INFO (6): {"status":"failed","sku":"K12B78","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:07:24+00:00 INFO (6): {"status":"failed","sku":"K12C1","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:07:28+00:00 INFO (6): {"status":"failed","sku":"K12C1","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:07:31+00:00 INFO (6): {"status":"failed","sku":"K12C114","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:07:34+00:00 INFO (6): {"status":"failed","sku":"K12C114Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:07:44+00:00 INFO (6): {"status":"failed","sku":"K12C134","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:10:15+00:00 INFO (6): {"status":"failed","sku":"K12M120Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:10:20+00:00 INFO (6): {"status":"failed","sku":"K12M120Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:10:23+00:00 INFO (6): {"status":"failed","sku":"K12M140","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:10:27+00:00 INFO (6): {"status":"failed","sku":"K12M150","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:10:31+00:00 INFO (6): {"status":"failed","sku":"K12M150","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:10:34+00:00 INFO (6): {"status":"failed","sku":"K12M16","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:10:37+00:00 INFO (6): {"status":"failed","sku":"K12M160","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:10:42+00:00 INFO (6): {"status":"failed","sku":"K12M160","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:10:45+00:00 INFO (6): {"status":"failed","sku":"K12M18","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:10:48+00:00 INFO (6): {"status":"failed","sku":"K12M180","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:10:53+00:00 INFO (6): {"status":"failed","sku":"K12M180","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:10:56+00:00 INFO (6): {"status":"failed","sku":"K12M20Z","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:10:59+00:00 INFO (6): {"status":"failed","sku":"K12M22","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:11:04+00:00 INFO (6): {"status":"failed","sku":"K12M22","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:11:07+00:00 INFO (6): {"status":"failed","sku":"K12M25Z","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:11:11+00:00 INFO (6): {"status":"failed","sku":"K12M30","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:11:16+00:00 INFO (6): {"status":"failed","sku":"K12M30","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:11:19+00:00 INFO (6): {"status":"failed","sku":"K12M35","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:11:41+00:00 INFO (6): {"status":"failed","sku":"K12M45","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:12:02+00:00 INFO (6): {"status":"failed","sku":"K12M55","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:12:11+00:00 INFO (6): {"status":"failed","sku":"K12M60","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:12:21+00:00 INFO (6): {"status":"failed","sku":"K12M65","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:12:31+00:00 INFO (6): {"status":"failed","sku":"K12M70","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:15:07+00:00 INFO (6): {"status":"failed","sku":"K14C134","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:15:12+00:00 INFO (6): {"status":"failed","sku":"K14C134","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:15:15+00:00 INFO (6): {"status":"failed","sku":"K14C2","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:15:18+00:00 INFO (6): {"status":"failed","sku":"K14C212","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:15:23+00:00 INFO (6): {"status":"failed","sku":"K14C212","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:15:26+00:00 INFO (6): {"status":"failed","sku":"K14C234","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:15:39+00:00 INFO (6): {"status":"failed","sku":"K14C34","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:15:44+00:00 INFO (6): {"status":"failed","sku":"K14C34Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:15:49+00:00 INFO (6): {"status":"failed","sku":"K14C38","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:15:53+00:00 INFO (6): {"status":"failed","sku":"K14C4","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:15:58+00:00 INFO (6): {"status":"failed","sku":"K14C58","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:16:03+00:00 INFO (6): {"status":"failed","sku":"K14C58Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:16:08+00:00 INFO (6): {"status":"failed","sku":"K14C78","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:16:13+00:00 INFO (6): {"status":"failed","sku":"K14F1","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:16:18+00:00 INFO (6): {"status":"failed","sku":"K14F112","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:16:23+00:00 INFO (6): {"status":"failed","sku":"K14F114","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:16:28+00:00 INFO (6): {"status":"failed","sku":"K14F12","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:16:38+00:00 INFO (6): {"status":"failed","sku":"K14F2","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:16:43+00:00 INFO (6): {"status":"failed","sku":"K14F212","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:16:47+00:00 INFO (6): {"status":"failed","sku":"K14F3","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:16:52+00:00 INFO (6): {"status":"failed","sku":"K14F38","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:16:57+00:00 INFO (6): {"status":"failed","sku":"K14F58","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:17:08+00:00 INFO (6): {"status":"failed","sku":"K14F78","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:17:13+00:00 INFO (6): {"status":"failed","sku":"K14M100","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:17:17+00:00 INFO (6): {"status":"failed","sku":"K14M120","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:17:22+00:00 INFO (6): {"status":"failed","sku":"K14M130","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:17:26+00:00 INFO (6): {"status":"failed","sku":"K14M140","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:17:31+00:00 INFO (6): {"status":"failed","sku":"K14M25","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:17:36+00:00 INFO (6): {"status":"failed","sku":"K14M25Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:17:41+00:00 INFO (6): {"status":"failed","sku":"K14M30","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:17:51+00:00 INFO (6): {"status":"failed","sku":"K14M35","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:17:56+00:00 INFO (6): {"status":"failed","sku":"K14M40","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:18:00+00:00 INFO (6): {"status":"failed","sku":"K14M40Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:20:11+00:00 INFO (6): {"status":"failed","sku":"K16M110","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:20:16+00:00 INFO (6): {"status":"failed","sku":"K16M110Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:20:26+00:00 INFO (6): {"status":"failed","sku":"K16M130","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:20:31+00:00 INFO (6): {"status":"failed","sku":"K16M130","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:20:34+00:00 INFO (6): {"status":"failed","sku":"K16M140","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:20:37+00:00 INFO (6): {"status":"failed","sku":"K16M140Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:20:41+00:00 INFO (6): {"status":"failed","sku":"K16M140Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:20:44+00:00 INFO (6): {"status":"failed","sku":"K16M150Z","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:20:48+00:00 INFO (6): {"status":"failed","sku":"K16M160","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:20:53+00:00 INFO (6): {"status":"failed","sku":"K16M160","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:20:56+00:00 INFO (6): {"status":"failed","sku":"K16M170Z","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:20:59+00:00 INFO (6): {"status":"failed","sku":"K16M180","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:21:10+00:00 INFO (6): {"status":"failed","sku":"K16M220","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:21:14+00:00 INFO (6): {"status":"failed","sku":"K16M200","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:21:19+00:00 INFO (6): {"status":"failed","sku":"K16M25","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:21:24+00:00 INFO (6): {"status":"failed","sku":"K16M240","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:21:29+00:00 INFO (6): {"status":"failed","sku":"K16M30","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:21:39+00:00 INFO (6): {"status":"failed","sku":"K16M35","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:21:44+00:00 INFO (6): {"status":"failed","sku":"K16M30Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:21:48+00:00 INFO (6): {"status":"failed","sku":"K16M40","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:21:52+00:00 INFO (6): {"status":"failed","sku":"K16M35Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:21:57+00:00 INFO (6): {"status":"failed","sku":"K16M45","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:22:02+00:00 INFO (6): {"status":"failed","sku":"K16M40Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:22:07+00:00 INFO (6): {"status":"failed","sku":"K16M50","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:22:17+00:00 INFO (6): {"status":"failed","sku":"K16M55","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:22:21+00:00 INFO (6): {"status":"failed","sku":"K16M50Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:22:27+00:00 INFO (6): {"status":"failed","sku":"K16M60","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:22:32+00:00 INFO (6): {"status":"failed","sku":"K16M55Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:22:37+00:00 INFO (6): {"status":"failed","sku":"K16M65","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:22:41+00:00 INFO (6): {"status":"failed","sku":"K16M60Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:22:46+00:00 INFO (6): {"status":"failed","sku":"K16M70","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:22:51+00:00 INFO (6): {"status":"failed","sku":"K16M65Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:22:55+00:00 INFO (6): {"status":"failed","sku":"K16M75","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:23:06+00:00 INFO (6): {"status":"failed","sku":"K16M80","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:23:11+00:00 INFO (6): {"status":"failed","sku":"K16M75Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:23:15+00:00 INFO (6): {"status":"failed","sku":"K16M90","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:25:07+00:00 INFO (6): {"status":"failed","sku":"K20M100Z","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:25:14+00:00 INFO (6): {"status":"failed","sku":"K20M110","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:25:19+00:00 INFO (6): {"status":"failed","sku":"K20M110Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:25:23+00:00 INFO (6): {"status":"failed","sku":"K20M120","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:25:33+00:00 INFO (6): {"status":"failed","sku":"K20M130","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:25:38+00:00 INFO (6): {"status":"failed","sku":"K20M130Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:25:43+00:00 INFO (6): {"status":"failed","sku":"K20M140","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:25:47+00:00 INFO (6): {"status":"failed","sku":"K20M150","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:25:52+00:00 INFO (6): {"status":"failed","sku":"K20M160","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:26:07+00:00 INFO (6): {"status":"failed","sku":"K20M30","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:26:11+00:00 INFO (6): {"status":"failed","sku":"K20M35","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:26:27+00:00 INFO (6): {"status":"failed","sku":"K20M40Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:26:31+00:00 INFO (6): {"status":"failed","sku":"K20M45","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:26:41+00:00 INFO (6): {"status":"failed","sku":"K20M50","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:26:51+00:00 INFO (6): {"status":"failed","sku":"K20M55","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:27:06+00:00 INFO (6): {"status":"failed","sku":"K20M60Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:27:11+00:00 INFO (6): {"status":"failed","sku":"K20M65","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:27:20+00:00 INFO (6): {"status":"failed","sku":"K20M70","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:27:25+00:00 INFO (6): {"status":"failed","sku":"K20M70Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:27:30+00:00 INFO (6): {"status":"failed","sku":"K20M75","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:27:34+00:00 INFO (6): {"status":"failed","sku":"K20M80","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:27:44+00:00 INFO (6): {"status":"failed","sku":"K20M90","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:28:07+00:00 INFO (6): {"status":"failed","sku":"K24M120","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:30:05+00:00 INFO (6): {"status":"failed","sku":"K24M75","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:30:15+00:00 INFO (6): {"status":"failed","sku":"K24M90","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:30:20+00:00 INFO (6): {"status":"failed","sku":"K24M90","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:30:22+00:00 INFO (6): {"status":"failed","sku":"K2C14","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:30:26+00:00 INFO (6): {"status":"failed","sku":"K2C18","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:30:36+00:00 INFO (6): {"status":"failed","sku":"K2C38","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:30:41+00:00 INFO (6): {"status":"failed","sku":"K2C316","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:30:45+00:00 INFO (6): {"status":"failed","sku":"K2M10","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:30:52+00:00 INFO (6): {"status":"failed","sku":"K2M10","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:31:00+00:00 INFO (6): {"status":"failed","sku":"K316B38","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:31:05+00:00 INFO (6): {"status":"failed","sku":"K316B516","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:31:15+00:00 INFO (6): {"status":"failed","sku":"K316W58","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:31:19+00:00 INFO (6): {"status":"failed","sku":"K316W58","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:31:22+00:00 INFO (6): {"status":"failed","sku":"K34C112","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:31:26+00:00 INFO (6): {"status":"failed","sku":"K34C114","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:31:31+00:00 INFO (6): {"status":"failed","sku":"K34C114","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:31:33+00:00 INFO (6): {"status":"failed","sku":"K34C2","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:31:37+00:00 INFO (6): {"status":"failed","sku":"K34C212","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:31:42+00:00 INFO (6): {"status":"failed","sku":"K34C212","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:31:45+00:00 INFO (6): {"status":"failed","sku":"K34C3","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:31:49+00:00 INFO (6): {"status":"failed","sku":"K34C312","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:31:54+00:00 INFO (6): {"status":"failed","sku":"K34C312","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:31:57+00:00 INFO (6): {"status":"failed","sku":"K34C412","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:32:00+00:00 INFO (6): {"status":"failed","sku":"K34C5","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:32:05+00:00 INFO (6): {"status":"failed","sku":"K34C5","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:32:08+00:00 INFO (6): {"status":"failed","sku":"K34W114","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:32:42+00:00 INFO (6): {"status":"failed","sku":"K38C1","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:32:46+00:00 INFO (6): {"status":"failed","sku":"K38C112","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:32:50+00:00 INFO (6): {"status":"failed","sku":"K38C114","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:35:07+00:00 INFO (6): {"status":"failed","sku":"K38F212","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:35:17+00:00 INFO (6): {"status":"failed","sku":"K38F3","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:35:22+00:00 INFO (6): {"status":"failed","sku":"K38F34","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:35:27+00:00 INFO (6): {"status":"failed","sku":"K38F58","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:35:31+00:00 INFO (6): {"status":"failed","sku":"K38F78","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:35:36+00:00 INFO (6): {"status":"failed","sku":"K38W2","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:35:56+00:00 INFO (6): {"status":"failed","sku":"K3C316","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:36:02+00:00 INFO (6): {"status":"failed","sku":"K3C316","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:36:05+00:00 INFO (6): {"status":"failed","sku":"K3M10","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:36:18+00:00 INFO (6): {"status":"failed","sku":"K3M12","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:36:29+00:00 INFO (6): {"status":"failed","sku":"K3M15","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:36:34+00:00 INFO (6): {"status":"failed","sku":"K3M16","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:36:43+00:00 INFO (6): {"status":"failed","sku":"K3M18","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:36:48+00:00 INFO (6): {"status":"failed","sku":"K3M20","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:37:00+00:00 INFO (6): {"status":"failed","sku":"K3M25","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:37:10+00:00 INFO (6): {"status":"failed","sku":"K3M30","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:37:22+00:00 INFO (6): {"status":"failed","sku":"K3M35","message":"The category doesn't contain the specified product."}
+2021-02-10T21:40:03+00:00 INFO (6): {"status":"failed","sku":"K4M16","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:40:09+00:00 INFO (6): {"status":"failed","sku":"K4M16Z","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:40:14+00:00 INFO (6): {"status":"failed","sku":"K4M18","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:40:19+00:00 INFO (6): {"status":"failed","sku":"K4M20","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:41:01+00:00 INFO (6): {"status":"failed","sku":"K4M40","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:41:18+00:00 INFO (6): {"status":"failed","sku":"K4M50","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:41:20+00:00 INFO (6): {"status":"failed","sku":"K4M50Z","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T21:41:24+00:00 INFO (6): {"status":"failed","sku":"K4M55","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:41:28+00:00 INFO (6): {"status":"failed","sku":"K4M55","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:41:31+00:00 INFO (6): {"status":"failed","sku":"K4M60","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:42:00+00:00 INFO (6): {"status":"failed","sku":"K516B34","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:42:05+00:00 INFO (6): {"status":"failed","sku":"K516C1","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:42:10+00:00 INFO (6): {"status":"failed","sku":"K516C112","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:42:15+00:00 INFO (6): {"status":"failed","sku":"K516C114","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:42:25+00:00 INFO (6): {"status":"failed","sku":"K516C118","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:42:30+00:00 INFO (6): {"status":"failed","sku":"K516C12","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:42:41+00:00 INFO (6): {"status":"failed","sku":"K516C2","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:42:46+00:00 INFO (6): {"status":"failed","sku":"K516C2","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:42:49+00:00 INFO (6): {"status":"failed","sku":"K516C214","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:45:05+00:00 INFO (6): {"status":"failed","sku":"K58C114","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:45:09+00:00 INFO (6): {"status":"failed","sku":"K58C134","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:45:14+00:00 INFO (6): {"status":"failed","sku":"K58C134","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:45:19+00:00 INFO (6): {"status":"failed","sku":"K58C212","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:45:22+00:00 INFO (6): {"status":"failed","sku":"K58C214","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:45:27+00:00 INFO (6): {"status":"failed","sku":"K58C214","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:45:30+00:00 INFO (6): {"status":"failed","sku":"K58C3","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:45:33+00:00 INFO (6): {"status":"failed","sku":"K58C312","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:45:38+00:00 INFO (6): {"status":"failed","sku":"K58C312","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:45:41+00:00 INFO (6): {"status":"failed","sku":"K58C7","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:45:55+00:00 INFO (6): {"status":"failed","sku":"K58F114","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:46:00+00:00 INFO (6): {"status":"failed","sku":"K58F114","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:46:03+00:00 INFO (6): {"status":"failed","sku":"K58F2","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:46:06+00:00 INFO (6): {"status":"failed","sku":"K58F212","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:46:11+00:00 INFO (6): {"status":"failed","sku":"K58F212","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:46:14+00:00 INFO (6): {"status":"failed","sku":"K58F3","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:46:38+00:00 INFO (6): {"status":"failed","sku":"K5C12","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:46:43+00:00 INFO (6): {"status":"failed","sku":"K5C14","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:46:48+00:00 INFO (6): {"status":"failed","sku":"K5C34","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:46:53+00:00 INFO (6): {"status":"failed","sku":"K5C38","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:46:57+00:00 INFO (6): {"status":"failed","sku":"K5C58","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:47:02+00:00 INFO (6): {"status":"failed","sku":"K5F1","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:47:08+00:00 INFO (6): {"status":"failed","sku":"K5M10","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:47:13+00:00 INFO (6): {"status":"failed","sku":"K5M100","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:47:23+00:00 INFO (6): {"status":"failed","sku":"K5M12","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:47:32+00:00 INFO (6): {"status":"failed","sku":"K5M14","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:47:42+00:00 INFO (6): {"status":"failed","sku":"K5M15","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:47:47+00:00 INFO (6): {"status":"failed","sku":"K5M16","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:47:58+00:00 INFO (6): {"status":"failed","sku":"K5M20","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:50:12+00:00 INFO (6): {"status":"failed","sku":"K5M80","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:50:16+00:00 INFO (6): {"status":"failed","sku":"K5M80","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:50:20+00:00 INFO (6): {"status":"failed","sku":"K5M8Z","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:50:24+00:00 INFO (6): {"status":"failed","sku":"K5M90","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:50:29+00:00 INFO (6): {"status":"failed","sku":"K5M90","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:50:33+00:00 INFO (6): {"status":"failed","sku":"K6C112","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:50:36+00:00 INFO (6): {"status":"failed","sku":"K6C12","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:50:41+00:00 INFO (6): {"status":"failed","sku":"K6C12","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:50:44+00:00 INFO (6): {"status":"failed","sku":"K6C14","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:50:47+00:00 INFO (6): {"status":"failed","sku":"K6C2","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:50:52+00:00 INFO (6): {"status":"failed","sku":"K6C2","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:50:55+00:00 INFO (6): {"status":"failed","sku":"K6C34","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:50:59+00:00 INFO (6): {"status":"failed","sku":"K6C38","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:51:04+00:00 INFO (6): {"status":"failed","sku":"K6C38","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:51:07+00:00 INFO (6): {"status":"failed","sku":"K6C516","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:51:10+00:00 INFO (6): {"status":"failed","sku":"K6C58","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:51:15+00:00 INFO (6): {"status":"failed","sku":"K6C58","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:51:18+00:00 INFO (6): {"status":"failed","sku":"K6C78","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:51:21+00:00 INFO (6): {"status":"failed","sku":"K6F12","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:51:26+00:00 INFO (6): {"status":"failed","sku":"K6F12","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:51:29+00:00 INFO (6): {"status":"failed","sku":"K6F34","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:51:32+00:00 INFO (6): {"status":"failed","sku":"K6F38","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:51:37+00:00 INFO (6): {"status":"failed","sku":"K6F38","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:51:41+00:00 INFO (6): {"status":"failed","sku":"K6M100","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:52:05+00:00 INFO (6): {"status":"failed","sku":"K6M12","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:52:10+00:00 INFO (6): {"status":"failed","sku":"K6M120","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:52:20+00:00 INFO (6): {"status":"failed","sku":"K6M14","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:52:30+00:00 INFO (6): {"status":"failed","sku":"K6M15","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:52:39+00:00 INFO (6): {"status":"failed","sku":"K6M16","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:55:14+00:00 INFO (6): {"status":"failed","sku":"K6M8","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:55:26+00:00 INFO (6): {"status":"failed","sku":"K6M85","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:55:37+00:00 INFO (6): {"status":"failed","sku":"K716C1","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:55:41+00:00 INFO (6): {"status":"failed","sku":"K716C1","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:55:44+00:00 INFO (6): {"status":"failed","sku":"K716C114","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:55:48+00:00 INFO (6): {"status":"failed","sku":"K716C134","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:55:52+00:00 INFO (6): {"status":"failed","sku":"K716C134","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:55:55+00:00 INFO (6): {"status":"failed","sku":"K716C34","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:55:59+00:00 INFO (6): {"status":"failed","sku":"K716C78","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:56:05+00:00 INFO (6): {"status":"failed","sku":"K716C78","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:56:08+00:00 INFO (6): {"status":"failed","sku":"K716F112","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:56:11+00:00 INFO (6): {"status":"failed","sku":"K716F114","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:56:16+00:00 INFO (6): {"status":"failed","sku":"K716F114","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:56:19+00:00 INFO (6): {"status":"failed","sku":"K716F2","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:56:23+00:00 INFO (6): {"status":"failed","sku":"K716F212","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:56:28+00:00 INFO (6): {"status":"failed","sku":"K716F212","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:56:31+00:00 INFO (6): {"status":"failed","sku":"K78C3","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:56:34+00:00 INFO (6): {"status":"failed","sku":"K78C4","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:56:39+00:00 INFO (6): {"status":"failed","sku":"K78C4","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:56:42+00:00 INFO (6): {"status":"failed","sku":"K78W334","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:56:45+00:00 INFO (6): {"status":"failed","sku":"K8C1","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:56:50+00:00 INFO (6): {"status":"failed","sku":"K8C1","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:56:53+00:00 INFO (6): {"status":"failed","sku":"K8C12","message":"The product was unable to be saved. Please try again."}
+2021-02-10T21:57:08+00:00 INFO (6): {"status":"failed","sku":"K8C14","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:57:18+00:00 INFO (6): {"status":"failed","sku":"K8C2","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:57:23+00:00 INFO (6): {"status":"failed","sku":"K8C34","message":"Database deadlock found when trying to get lock"}
+2021-02-10T21:57:32+00:00 INFO (6): {"status":"failed","sku":"K8C38","message":"Database deadlock found when trying to get lock"}
+2021-02-10T22:00:09+00:00 INFO (6): {"status":"failed","sku":"K8M18","message":"Database deadlock found when trying to get lock"}
+2021-02-10T22:00:13+00:00 INFO (6): {"status":"failed","sku":"K8M20","message":"Database deadlock found when trying to get lock"}
+2021-02-10T22:00:46+00:00 INFO (6): {"status":"failed","sku":"K8M35","message":"Database deadlock found when trying to get lock"}
+2021-02-10T22:00:56+00:00 INFO (6): {"status":"failed","sku":"K8M40","message":"Database deadlock found when trying to get lock"}
+2021-02-10T22:01:37+00:00 INFO (6): {"status":"failed","sku":"K8M60","message":"Database deadlock found when trying to get lock"}
+2021-02-10T22:01:55+00:00 INFO (6): {"status":"failed","sku":"K8M70","message":"Database deadlock found when trying to get lock"}
+2021-02-10T22:02:17+00:00 INFO (6): {"status":"failed","sku":"K8M90","message":"The product was unable to be saved. Please try again."}
+2021-02-10T22:05:06+00:00 INFO (6): {"status":"failed","sku":"SC5C316","message":"The product was unable to be saved. Please try again."}
+2021-02-10T22:11:45+00:00 INFO (6): {"status":"failed","sku":"SF14C516","message":"The product was unable to be saved. Please try again."}
+2021-02-10T22:28:11+00:00 INFO (6): {"status":"failed","sku":"SP0F316","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T22:55:05+00:00 INFO (6): {"status":"failed","sku":"SP38W2","message":"The product was unable to be saved. Please try again."}
+2021-02-10T23:02:02+00:00 INFO (6): {"status":"failed","sku":"SP516F212","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-10T23:20:06+00:00 INFO (6): {"status":"failed","sku":"SQD78C3","message":"The product was unable to be saved. Please try again."}
+2021-02-10T23:40:05+00:00 INFO (6): {"status":"failed","sku":"UC12C12","message":"The product was unable to be saved. Please try again."}
+2021-02-10T23:50:02+00:00 INFO (6): {"status":"failed","sku":"UC14M80","message":"Database deadlock found when trying to get lock"}
+2021-02-10T23:55:05+00:00 INFO (6): {"status":"failed","sku":"UC1W2","message":"The product was unable to be saved. Please try again."}
+2021-02-11T00:02:19+00:00 INFO (6): {"status":"failed","sku":"UC30M180","message":"The product was unable to be saved. Please try again."}
+2021-02-11T00:03:56+00:00 INFO (6): {"status":"failed","sku":"UC34C112","message":"The product was unable to be saved. Please try again."}
+2021-02-11T00:06:14+00:00 INFO (6): {"status":"failed","sku":"UC36M280","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-11T00:10:06+00:00 INFO (6): {"status":"failed","sku":"UC38W34","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-11T00:15:05+00:00 INFO (6): {"status":"failed","sku":"UC4M6","message":"The product was unable to be saved. Please try again."}
+2021-02-11T00:15:57+00:00 INFO (6): {"status":"failed","sku":"UC516C212","message":"The product was unable to be saved. Please try again."}
+2021-02-11T01:40:05+00:00 INFO (6): {"status":"failed","sku":"USK6C316","message":"The product was unable to be saved. Please try again."}
+2021-02-11T01:44:53+00:00 INFO (6): ---------------- END API Cron 11/02/21 01:44:53 ----------------

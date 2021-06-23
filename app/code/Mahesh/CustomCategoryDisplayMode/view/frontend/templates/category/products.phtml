@@ -1,0 +1,46 @@
+<?php
+/**
+ * Category view template
+ *
+ * @var $block \Magento\Catalog\Block\Category\View
+ */
+?>
+<?php $requestData = json_decode(file_get_contents('php://input'),1); ?>
+<?php if($block->getCurrentCategory()->getDisplayMode() != 'subcategories' || $block->getRequest()->getParam('isAjax') || $requestData['isAjax']){ ?>
+	<?php if (!$block->isContentMode() || $block->isMixedMode()): ?>
+	    <?php echo $block->getProductListHtml() ?>
+	<?php endif; ?>
+<?php }else{ ?>
+	<?php $current_category = $block->getCurrentCategory();
+	$subcategories = $current_category->getChildrenCategories();
+    if(count($subcategories) > 0){ ?>
+		<div class="categories-list">
+		
+		<?php $objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+		$storeManager = $objectManager->get('Magento\Store\Model\StoreManagerInterface'); 
+		$currentStore = $storeManager->getStore();
+		$mediaUrl = $currentStore->getBaseUrl(\Magento\Framework\UrlInterface::URL_TYPE_MEDIA);
+		
+		$categoryHelper = $objectManager->get('\Magento\Catalog\Helper\Category');
+		?>
+		
+        <?php foreach($subcategories as $subcategory){ ?>
+			<?php $subcategory = $objectManager->create('Magento\Catalog\Model\Category')->load($subcategory->getId()); ?>
+            <div class="col-lg-4 col-md-6 col-sm-6 category-box grouped-product franciskirk-box grid-item">
+				<a href="<?php echo $categoryHelper->getCategoryUrl($subcategory); ?>" class="anchor-neutral">
+					<figure>
+						<div class="alp-image-holder">
+							<?php if($subcategory->getImageUrl()){ ?>
+								<img class="img-responsive alp-product-image" src="<?php echo $subcategory->getImageUrl(); ?>" alt="<?php echo $subcategory->getName(); ?>" />
+							<?php }else{ ?>
+								<img class="img-responsive alp-product-image" src="<?php echo $mediaUrl; ?>images/placeholder.png" alt="<?php echo $subcategory->getName(); ?>" />
+							<?php } ?>
+						</div>
+						<figcaption><?php echo $subcategory->getName(); ?></figcaption>
+					</figure>
+				</a>
+			</div>
+        <?php } ?>
+		</div>
+    <?php } ?>
+<?php } ?>

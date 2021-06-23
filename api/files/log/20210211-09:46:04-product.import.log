@@ -1,0 +1,15 @@
+2021-02-11T09:50:02+00:00 INFO (6): ---------------- START API Cron 11/02/21 09:50:02 ----------------
+2021-02-11T09:50:09+00:00 INFO (6): {"status":"success","product_id":1267,"sku":"K8C1","message":"Product updated successfully"}
+2021-02-11T09:50:10+00:00 INFO (6): {"status":"success","product_id":1264,"sku":"K8C12","message":"Product updated successfully"}
+2021-02-11T09:50:12+00:00 INFO (6): {"status":"success","product_id":1395,"sku":"K8C14","message":"Product updated successfully"}
+2021-02-11T09:50:13+00:00 INFO (6): {"status":"success","product_id":1400,"sku":"K8C2","message":"Product updated successfully"}
+2021-02-11T09:50:15+00:00 INFO (6): {"status":"success","product_id":1266,"sku":"K8C34","message":"Product updated successfully"}
+2021-02-11T09:50:16+00:00 INFO (6): {"status":"success","product_id":1263,"sku":"K8C38","message":"Product updated successfully"}
+2021-02-11T09:50:17+00:00 INFO (6): {"status":"success","product_id":1532,"sku":"K8M18","message":"Product updated successfully"}
+2021-02-11T09:50:19+00:00 INFO (6): {"status":"success","product_id":1533,"sku":"K8M20","message":"Product updated successfully"}
+2021-02-11T09:50:20+00:00 INFO (6): {"status":"success","product_id":1537,"sku":"K8M35","message":"Product updated successfully"}
+2021-02-11T09:50:22+00:00 INFO (6): {"status":"success","product_id":1538,"sku":"K8M40","message":"Product updated successfully"}
+2021-02-11T09:50:23+00:00 INFO (6): {"status":"success","product_id":1541,"sku":"K8M60","message":"Product updated successfully"}
+2021-02-11T09:50:25+00:00 INFO (6): {"status":"success","product_id":1542,"sku":"K8M70","message":"Product updated successfully"}
+2021-02-11T09:50:26+00:00 INFO (6): {"status":"success","product_id":1548,"sku":"K8M90","message":"Product updated successfully"}
+2021-02-11T09:50:26+00:00 INFO (6): ---------------- END API Cron 11/02/21 09:50:26 ----------------

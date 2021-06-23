@@ -1,0 +1,8 @@
+2021-02-11T14:55:01+00:00 INFO (6): ---------------- START API Cron 11/02/21 14:55:01 ----------------
+2021-02-11T15:00:18+00:00 INFO (6): {"status":"success","product_id":43459,"sku":"CB14","message":"Product created successfully"}
+2021-02-11T15:00:19+00:00 INFO (6): {"status":"success","product_id":43460,"sku":"CB15","message":"Product created successfully"}
+2021-02-11T15:00:21+00:00 INFO (6): {"status":"success","product_id":43461,"sku":"CB16","message":"Product created successfully"}
+2021-02-11T15:00:22+00:00 INFO (6): {"status":"success","product_id":43462,"sku":"CB17","message":"Product created successfully"}
+2021-02-11T15:00:23+00:00 INFO (6): {"status":"success","product_id":43463,"sku":"CB18","message":"Product created successfully"}
+2021-02-11T15:00:24+00:00 INFO (6): {"status":"success","product_id":43464,"sku":"CB19","message":"Product created successfully"}
+2021-02-11T15:00:24+00:00 INFO (6): ---------------- END API Cron 11/02/21 15:00:24 ----------------

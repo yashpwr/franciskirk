@@ -1,0 +1,774 @@
+2021-03-08T23:03:59+00:00 INFO (6): {"status":"failed","sku":"B\/DWM301","message":"Request does not match any route."}
+2021-03-08T23:04:03+00:00 INFO (6): {"status":"failed","sku":"B\/DWM536","message":"Request does not match any route."}
+2021-03-08T23:04:08+00:00 INFO (6): {"status":"failed","sku":"B\/DWM550","message":"Request does not match any route."}
+2021-03-08T23:04:11+00:00 INFO (6): {"status":"failed","sku":"B\/DWM626","message":"Request does not match any route."}
+2021-03-08T23:04:16+00:00 INFO (6): {"status":"failed","sku":"B\/DWM825","message":"Request does not match any route."}
+2021-03-08T23:04:20+00:00 INFO (6): {"status":"failed","sku":"B\/S09101","message":"Request does not match any route."}
+2021-03-08T23:04:41+00:00 INFO (6): {"status":"failed","sku":"B\/S22523","message":"Request does not match any route."}
+2021-03-08T23:04:45+00:00 INFO (6): {"status":"failed","sku":"B\/S31100","message":"Request does not match any route."}
+2021-03-08T23:04:58+00:00 INFO (6): {"status":"failed","sku":"B\/S31110","message":"Request does not match any route."}
+2021-03-08T23:06:18+00:00 INFO (6): {"status":"failed","sku":".cloudinary.com\/image\/private\/w_640\/toolbank\/products\/BESG12H.jpg","message":"Product is not available."}
+2021-03-08T23:06:18+00:00 INFO (6): {"status":"failed","sku":".cloudinary.com\/image\/private\/w_640\/toolbank\/products\/BESG12H.jpg","message":"Product is not available."}
+2021-03-08T23:10:23+00:00 INFO (6): {"status":"failed","sku":"CUPGFSO750","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:10:30+00:00 INFO (6): {"status":"failed","sku":"CUPGFST750","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:10:36+00:00 INFO (6): {"status":"failed","sku":"CUPGSBAR1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:10:42+00:00 INFO (6): {"status":"failed","sku":"CUPGSBAR25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:10:48+00:00 INFO (6): {"status":"failed","sku":"CUPGSBAR5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:10:54+00:00 INFO (6): {"status":"failed","sku":"CUPGSBB1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:11:00+00:00 INFO (6): {"status":"failed","sku":"CUPGSBLA25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:11:07+00:00 INFO (6): {"status":"failed","sku":"CUPGSBLA5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:11:13+00:00 INFO (6): {"status":"failed","sku":"CUPGSBMB1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:11:19+00:00 INFO (6): {"status":"failed","sku":"CUPGSCLM25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:11:25+00:00 INFO (6): {"status":"failed","sku":"CUPGSCM1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:11:31+00:00 INFO (6): {"status":"failed","sku":"CUPGSCM25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:11:37+00:00 INFO (6): {"status":"failed","sku":"CUPGSCM5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:11:43+00:00 INFO (6): {"status":"failed","sku":"CUPGSCOR1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:11:50+00:00 INFO (6): {"status":"failed","sku":"CUPGSDAZ1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:11:56+00:00 INFO (6): {"status":"failed","sku":"CUPGSDG1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:12:02+00:00 INFO (6): {"status":"failed","sku":"CUPGSDG25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:12:08+00:00 INFO (6): {"status":"failed","sku":"CUPGSDG5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:12:15+00:00 INFO (6): {"status":"failed","sku":"CUPGSFM25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:12:21+00:00 INFO (6): {"status":"failed","sku":"CUPGSFOR1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:12:31+00:00 INFO (6): {"status":"failed","sku":"CUPGSFOR25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:12:40+00:00 INFO (6): {"status":"failed","sku":"CUPGSFOR5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:12:47+00:00 INFO (6): {"status":"failed","sku":"CUPGSFR25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:12:53+00:00 INFO (6): {"status":"failed","sku":"CUPGSHCC1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:12:59+00:00 INFO (6): {"status":"failed","sku":"CUPGSHCC25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:13:05+00:00 INFO (6): {"status":"failed","sku":"CUPGSHCC5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:13:12+00:00 INFO (6): {"status":"failed","sku":"CUPGSHOEG25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:13:18+00:00 INFO (6): {"status":"failed","sku":"CUPGSHW25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:13:24+00:00 INFO (6): {"status":"failed","sku":"CUPGSIRI1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:13:30+00:00 INFO (6): {"status":"failed","sku":"CUPGSJAS1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:13:36+00:00 INFO (6): {"status":"failed","sku":"CUPGSJAS25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:13:42+00:00 INFO (6): {"status":"failed","sku":"CUPGSJAS5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:13:49+00:00 INFO (6): {"status":"failed","sku":"CUPGSLAV25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:13:55+00:00 INFO (6): {"status":"failed","sku":"CUPGSLAV5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:14:01+00:00 INFO (6): {"status":"failed","sku":"CUPGSMC1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:14:07+00:00 INFO (6): {"status":"failed","sku":"CUPGSMC25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:14:13+00:00 INFO (6): {"status":"failed","sku":"CUPGSNS1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:14:20+00:00 INFO (6): {"status":"failed","sku":"CUPGSNS25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:14:26+00:00 INFO (6): {"status":"failed","sku":"CUPGSNS5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:14:32+00:00 INFO (6): {"status":"failed","sku":"CUPGSOLI25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:14:38+00:00 INFO (6): {"status":"failed","sku":"CUPGSPP1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:14:45+00:00 INFO (6): {"status":"failed","sku":"CUPGSPT25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:14:51+00:00 INFO (6): {"status":"failed","sku":"CUPGSSAG1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:14:57+00:00 INFO (6): {"status":"failed","sku":"CUPGSSAG25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:15:04+00:00 INFO (6): {"status":"failed","sku":"CUPGSSD25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:15:10+00:00 INFO (6): {"status":"failed","sku":"CUPGSSEA1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:15:17+00:00 INFO (6): {"status":"failed","sku":"CUPGSSEA25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:16:52+00:00 INFO (6): {"status":"failed","sku":"CUPGSWIL5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:16:58+00:00 INFO (6): {"status":"failed","sku":"CUPGSWT1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:17:05+00:00 INFO (6): {"status":"failed","sku":"CUPGSWT25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:17:11+00:00 INFO (6): {"status":"failed","sku":"CUPGSWT5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:17:17+00:00 INFO (6): {"status":"failed","sku":"CUPGWPREAB1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:17:24+00:00 INFO (6): {"status":"failed","sku":"CUPGWPREAB4L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:17:30+00:00 INFO (6): {"status":"failed","sku":"CUPGWPRECO1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:17:36+00:00 INFO (6): {"status":"failed","sku":"CUPGWPRECO4L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:17:42+00:00 INFO (6): {"status":"failed","sku":"CUPGWPREGC1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:17:48+00:00 INFO (6): {"status":"failed","sku":"CUPGWPREGC4L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:17:55+00:00 INFO (6): {"status":"failed","sku":"CUPGWPREGO1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:18:01+00:00 INFO (6): {"status":"failed","sku":"CUPGWPREGO4L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:18:07+00:00 INFO (6): {"status":"failed","sku":"CUPGWPRERC1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:18:14+00:00 INFO (6): {"status":"failed","sku":"CUPGWPRERC4L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:18:20+00:00 INFO (6): {"status":"failed","sku":"CUPGWPRESG1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:18:26+00:00 INFO (6): {"status":"failed","sku":"CUPGWPRESG4L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:18:33+00:00 INFO (6): {"status":"failed","sku":"CUPLMFCAG6L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:18:39+00:00 INFO (6): {"status":"failed","sku":"CUPLMFCAR6L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:18:45+00:00 INFO (6): {"status":"failed","sku":"CUPLMFCBL6L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:18:51+00:00 INFO (6): {"status":"failed","sku":"CUPLMFCRB6L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:18:57+00:00 INFO (6): {"status":"failed","sku":"CUPLMFCRO6L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:19:04+00:00 INFO (6): {"status":"failed","sku":"CUPLMFCWG6L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:19:11+00:00 INFO (6): {"status":"failed","sku":"CUPMPSB","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:19:17+00:00 INFO (6): {"status":"failed","sku":"CUPNSFTAB5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:19:23+00:00 INFO (6): {"status":"failed","sku":"CUPNSFTAG5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:19:29+00:00 INFO (6): {"status":"failed","sku":"CUPNSFTBL5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:19:36+00:00 INFO (6): {"status":"failed","sku":"CUPNSFTFG5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:19:42+00:00 INFO (6): {"status":"failed","sku":"CUPNSFTFO5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:19:48+00:00 INFO (6): {"status":"failed","sku":"CUPNSFTHB5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:19:54+00:00 INFO (6): {"status":"failed","sku":"CUPNSFTRC5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:20:01+00:00 INFO (6): {"status":"failed","sku":"CUPNSFTSC5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:20:08+00:00 INFO (6): {"status":"failed","sku":"CUPSFAB5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:20:55+00:00 INFO (6): {"status":"failed","sku":"CUPTDC5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:21:02+00:00 INFO (6): {"status":"failed","sku":"CUPUTDSAM25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:21:08+00:00 INFO (6): {"status":"failed","sku":"CUPUTDSBA25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:21:15+00:00 INFO (6): {"status":"failed","sku":"CUPUTDSBT25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:21:21+00:00 INFO (6): {"status":"failed","sku":"CUPUTDSCF25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:21:27+00:00 INFO (6): {"status":"failed","sku":"CUPUTDSCS25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:21:33+00:00 INFO (6): {"status":"failed","sku":"CUPUTDSGM25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:21:39+00:00 INFO (6): {"status":"failed","sku":"CUPUTDSHO25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:21:45+00:00 INFO (6): {"status":"failed","sku":"CUPUTDSSB25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:21:51+00:00 INFO (6): {"status":"failed","sku":"CUPUTDSUS25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:21:57+00:00 INFO (6): {"status":"failed","sku":"CUPUTDSVG25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:22:04+00:00 INFO (6): {"status":"failed","sku":"CUPWPCL1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:22:10+00:00 INFO (6): {"status":"failed","sku":"CUPWPCL5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:22:16+00:00 INFO (6): {"status":"failed","sku":"CUPWW1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:22:26+00:00 INFO (6): {"status":"failed","sku":"CUPWW500","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:22:32+00:00 INFO (6): {"status":"failed","sku":"CUPWW5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:22:42+00:00 INFO (6): {"status":"failed","sku":"DEW175676","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:23:02+00:00 INFO (6): {"status":"failed","sku":"DEWDCS491N","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:23:08+00:00 INFO (6): {"status":"failed","sku":"DEWDE7035","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:23:14+00:00 INFO (6): {"status":"failed","sku":"DEWDE7450","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:23:34+00:00 INFO (6): {"status":"failed","sku":"DISGRIT","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:23:59+00:00 INFO (6): {"status":"failed","sku":"EVBLJCR05","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:24:10+00:00 INFO (6): {"status":"failed","sku":"EVBLJDO05","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:24:19+00:00 INFO (6): {"status":"failed","sku":"EVBLJFG05","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:24:29+00:00 INFO (6): {"status":"failed","sku":"EVBLJUN01","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:24:35+00:00 INFO (6): {"status":"failed","sku":"EVBLJUN05","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:24:45+00:00 INFO (6): {"status":"failed","sku":"EVBLJWORM05","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:27:38+00:00 INFO (6): {"status":"failed","sku":"FAI5802","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:27:45+00:00 INFO (6): {"status":"failed","sku":"FAI5803","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:27:52+00:00 INFO (6): {"status":"failed","sku":"FAI5804","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:27:58+00:00 INFO (6): {"status":"failed","sku":"FAI5804S","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:28:05+00:00 INFO (6): {"status":"failed","sku":"FAI6802","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:28:12+00:00 INFO (6): {"status":"failed","sku":"FAI6803","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:28:18+00:00 INFO (6): {"status":"failed","sku":"FAI6804","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:28:25+00:00 INFO (6): {"status":"failed","sku":"FAI6804S","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:28:31+00:00 INFO (6): {"status":"failed","sku":"FAI680B2","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:28:38+00:00 INFO (6): {"status":"failed","sku":"FAI680B3","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:28:44+00:00 INFO (6): {"status":"failed","sku":"FAI680B4","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:28:51+00:00 INFO (6): {"status":"failed","sku":"FAI680S2","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:28:58+00:00 INFO (6): {"status":"failed","sku":"FAI680S3","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:29:05+00:00 INFO (6): {"status":"failed","sku":"FAI680S4","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:33:16+00:00 INFO (6): {"status":"failed","sku":"FAIBCS","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:34:53+00:00 INFO (6): {"status":"failed","sku":"FAIHSVP","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:35:39+00:00 INFO (6): {"status":"failed","sku":"FAISB164S","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:35:40+00:00 INFO (6): {"status":"failed","sku":"FAISB164S","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:35:49+00:00 INFO (6): {"status":"failed","sku":"FAISB164SB","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:35:49+00:00 INFO (6): {"status":"failed","sku":"FAISB164SB","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:36:00+00:00 INFO (6): {"status":"failed","sku":"FAISB164SP","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:36:00+00:00 INFO (6): {"status":"failed","sku":"FAISB164SP","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:36:11+00:00 INFO (6): {"status":"failed","sku":"FAISB164SS","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:36:11+00:00 INFO (6): {"status":"failed","sku":"FAISB164SS","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:36:22+00:00 INFO (6): {"status":"failed","sku":"FAISCHS5","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:36:22+00:00 INFO (6): {"status":"failed","sku":"FAISCHS5","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:36:33+00:00 INFO (6): {"status":"failed","sku":"FAISCHS6","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:36:33+00:00 INFO (6): {"status":"failed","sku":"FAISCHS6","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:36:44+00:00 INFO (6): {"status":"failed","sku":"FAISCNSS312","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:36:44+00:00 INFO (6): {"status":"failed","sku":"FAISCNSS312","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:36:55+00:00 INFO (6): {"status":"failed","sku":"FAISCPS4","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:36:55+00:00 INFO (6): {"status":"failed","sku":"FAISCPS4","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:37:06+00:00 INFO (6): {"status":"failed","sku":"FAISCSS7","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:37:06+00:00 INFO (6): {"status":"failed","sku":"FAISCSS7","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:37:17+00:00 INFO (6): {"status":"failed","sku":"FAISCSS8","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:37:17+00:00 INFO (6): {"status":"failed","sku":"FAISCSS8","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:37:28+00:00 INFO (6): {"status":"failed","sku":"FAISCTS10","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:37:28+00:00 INFO (6): {"status":"failed","sku":"FAISCTS10","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:37:38+00:00 INFO (6): {"status":"failed","sku":"FAISCTS8","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:37:38+00:00 INFO (6): {"status":"failed","sku":"FAISCTS8","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:37:49+00:00 INFO (6): {"status":"failed","sku":"FAISCWC5","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:37:49+00:00 INFO (6): {"status":"failed","sku":"FAISCWC5","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:38:13+00:00 INFO (6): {"status":"failed","sku":"FAITD","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:38:13+00:00 INFO (6): {"status":"failed","sku":"FAITD","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:38:24+00:00 INFO (6): {"status":"failed","sku":"FAITWSET4","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:38:24+00:00 INFO (6): {"status":"failed","sku":"FAITWSET4","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:38:34+00:00 INFO (6): {"status":"failed","sku":"FAIWBHANDB","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:38:34+00:00 INFO (6): {"status":"failed","sku":"FAIWBHANDB","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:38:44+00:00 INFO (6): {"status":"failed","sku":"FAIWBHANDS","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:38:44+00:00 INFO (6): {"status":"failed","sku":"FAIWBHANDS","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:38:55+00:00 INFO (6): {"status":"failed","sku":"FAIWBHANDSS","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:38:55+00:00 INFO (6): {"status":"failed","sku":"FAIWBHANDSS","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:39:06+00:00 INFO (6): {"status":"failed","sku":"FCM779PEN","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:39:06+00:00 INFO (6): {"status":"failed","sku":"FCM779PEN","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:39:17+00:00 INFO (6): {"status":"failed","sku":"FCM841A3","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:39:17+00:00 INFO (6): {"status":"failed","sku":"FCM841A3","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:39:38+00:00 INFO (6): {"status":"failed","sku":"FLU100","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:39:49+00:00 INFO (6): {"status":"failed","sku":"FLU450","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:39:59+00:00 INFO (6): {"status":"failed","sku":"FORRIV3210M","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:40:07+00:00 INFO (6): {"status":"failed","sku":"FORRIV3212M","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:44:33+00:00 INFO (6): {"status":"failed","sku":"FRYLF500","message":"Database deadlock found when trying to get lock"}
+2021-03-08T23:45:00+00:00 INFO (6): {"status":"failed","sku":"K\/S70100555","message":"Request does not match any route."}
+2021-03-08T23:45:05+00:00 INFO (6): {"status":"failed","sku":"K\/S70100560","message":"Request does not match any route."}
+2021-03-08T23:45:06+00:00 INFO (6): {"status":"failed","sku":"K\/S70100560","message":"Request does not match any route."}
+2021-03-08T23:45:09+00:00 INFO (6): {"status":"failed","sku":"K\/S70100565","message":"Request does not match any route."}
+2021-03-08T23:45:10+00:00 INFO (6): {"status":"failed","sku":"K\/S70100565","message":"Request does not match any route."}
+2021-03-08T23:45:29+00:00 INFO (6): {"status":"failed","sku":"L\/H200HAND","message":"Request does not match any route."}
+2021-03-08T23:45:33+00:00 INFO (6): {"status":"failed","sku":"L\/H200LAMP","message":"Request does not match any route."}
+2021-03-08T23:45:34+00:00 INFO (6): {"status":"failed","sku":"L\/H200HAND","message":"Request does not match any route."}
+2021-03-08T23:45:37+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC350L","message":"Request does not match any route."}
+2021-03-08T23:45:38+00:00 INFO (6): {"status":"failed","sku":"L\/H200LAMP","message":"Request does not match any route."}
+2021-03-08T23:45:42+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC400","message":"Request does not match any route."}
+2021-03-08T23:45:42+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC350L","message":"Request does not match any route."}
+2021-03-08T23:45:47+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC400","message":"Request does not match any route."}
+2021-03-08T23:45:59+00:00 INFO (6): {"status":"failed","sku":"K\/S70100555","message":"Request does not match any route."}
+2021-03-08T23:45:59+00:00 INFO (6): {"status":"failed","sku":"K\/S70100555","message":"Request does not match any route."}
+2021-03-08T23:46:04+00:00 INFO (6): {"status":"failed","sku":"K\/S70100560","message":"Request does not match any route."}
+2021-03-08T23:46:04+00:00 INFO (6): {"status":"failed","sku":"K\/S70100560","message":"Request does not match any route."}
+2021-03-08T23:46:08+00:00 INFO (6): {"status":"failed","sku":"K\/S70100565","message":"Request does not match any route."}
+2021-03-08T23:46:08+00:00 INFO (6): {"status":"failed","sku":"K\/S70100565","message":"Request does not match any route."}
+2021-03-08T23:46:25+00:00 INFO (6): {"status":"failed","sku":"L\/H200HAND","message":"Request does not match any route."}
+2021-03-08T23:46:25+00:00 INFO (6): {"status":"failed","sku":"L\/H200HAND","message":"Request does not match any route."}
+2021-03-08T23:46:29+00:00 INFO (6): {"status":"failed","sku":"L\/H200LAMP","message":"Request does not match any route."}
+2021-03-08T23:46:29+00:00 INFO (6): {"status":"failed","sku":"L\/H200LAMP","message":"Request does not match any route."}
+2021-03-08T23:46:33+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC350L","message":"Request does not match any route."}
+2021-03-08T23:46:34+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC350L","message":"Request does not match any route."}
+2021-03-08T23:46:37+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC400","message":"Request does not match any route."}
+2021-03-08T23:46:38+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC400","message":"Request does not match any route."}
+2021-03-08T23:47:08+00:00 INFO (6): {"status":"failed","sku":"LAC4","message":"Database deadlock found when trying to get lock"}
+2021-03-08T23:50:31+00:00 INFO (6): {"status":"failed","sku":"LIBEWHP1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:50:43+00:00 INFO (6): {"status":"failed","sku":"LIBEWHP25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:50:54+00:00 INFO (6): {"status":"failed","sku":"LIBEWMO25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:51:04+00:00 INFO (6): {"status":"failed","sku":"LIBEWP25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:51:11+00:00 INFO (6): {"status":"failed","sku":"LIBEWPC1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:51:22+00:00 INFO (6): {"status":"failed","sku":"LIBEWPC25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:51:33+00:00 INFO (6): {"status":"failed","sku":"LIBEWPC5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:51:45+00:00 INFO (6): {"status":"failed","sku":"LIBEWSC1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:51:55+00:00 INFO (6): {"status":"failed","sku":"LIBEWSC25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:52:02+00:00 INFO (6): {"status":"failed","sku":"LIBEWT1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:52:13+00:00 INFO (6): {"status":"failed","sku":"LIBEWT25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:52:19+00:00 INFO (6): {"status":"failed","sku":"LIBFCS1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:52:26+00:00 INFO (6): {"status":"failed","sku":"LIBFCS5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:52:32+00:00 INFO (6): {"status":"failed","sku":"LIBFCW1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:52:40+00:00 INFO (6): {"status":"failed","sku":"LIBFSS1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:52:46+00:00 INFO (6): {"status":"failed","sku":"LIBFSS5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:53:01+00:00 INFO (6): {"status":"failed","sku":"LIBFSSEAL5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:53:07+00:00 INFO (6): {"status":"failed","sku":"LIBFSW1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:53:14+00:00 INFO (6): {"status":"failed","sku":"LIBFSW5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:53:21+00:00 INFO (6): {"status":"failed","sku":"LIBFVWNCM25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:53:31+00:00 INFO (6): {"status":"failed","sku":"LIBFVWNCS25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:53:38+00:00 INFO (6): {"status":"failed","sku":"LIBFWW1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:53:44+00:00 INFO (6): {"status":"failed","sku":"LIBFWW5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:53:51+00:00 INFO (6): {"status":"failed","sku":"LIBGDC2L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:53:57+00:00 INFO (6): {"status":"failed","sku":"LIBGFC1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:54:03+00:00 INFO (6): {"status":"failed","sku":"LIBGFOCL1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:54:10+00:00 INFO (6): {"status":"failed","sku":"LIBGFOCL500","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:54:20+00:00 INFO (6): {"status":"failed","sku":"LIBGFOTE1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:54:27+00:00 INFO (6): {"status":"failed","sku":"LIBGFOTE500","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:54:38+00:00 INFO (6): {"status":"failed","sku":"LIBHPWSP1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:54:48+00:00 INFO (6): {"status":"failed","sku":"LIBHRFVCM25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:54:55+00:00 INFO (6): {"status":"failed","sku":"LIBHRFVCS25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:55:06+00:00 INFO (6): {"status":"failed","sku":"LIBHRFVWE25L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:55:12+00:00 INFO (6): {"status":"failed","sku":"LIBLFC1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:55:19+00:00 INFO (6): {"status":"failed","sku":"LIBLFS1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:55:26+00:00 INFO (6): {"status":"failed","sku":"LIBLRS","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:55:40+00:00 INFO (6): {"status":"failed","sku":"LIBNFSFS5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:55:41+00:00 INFO (6): {"status":"failed","sku":"LIBNFSFS5L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:55:46+00:00 INFO (6): {"status":"failed","sku":"LIBSFW1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:56:01+00:00 INFO (6): {"status":"failed","sku":"LIBVWNCM1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:56:02+00:00 INFO (6): {"status":"failed","sku":"LIBVWNCM1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:56:10+00:00 INFO (6): {"status":"failed","sku":"LIBVWNCS1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:56:17+00:00 INFO (6): {"status":"failed","sku":"LIBWFO1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:56:18+00:00 INFO (6): {"status":"failed","sku":"LIBWFO1L","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:56:40+00:00 INFO (6): {"status":"failed","sku":"LTHB229W","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:56:50+00:00 INFO (6): {"status":"failed","sku":"LTHE145W","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:56:51+00:00 INFO (6): {"status":"failed","sku":"LTHE145W","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:57:02+00:00 INFO (6): {"status":"failed","sku":"LTHE279W","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:57:02+00:00 INFO (6): {"status":"failed","sku":"LTHE279W","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:57:13+00:00 INFO (6): {"status":"failed","sku":"LTHFE145W","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:57:13+00:00 INFO (6): {"status":"failed","sku":"LTHFE145W","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:57:24+00:00 INFO (6): {"status":"failed","sku":"LTHFE276W","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:57:24+00:00 INFO (6): {"status":"failed","sku":"LTHFE276W","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:57:35+00:00 INFO (6): {"status":"failed","sku":"LTHFE27L6W","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:57:35+00:00 INFO (6): {"status":"failed","sku":"LTHFE27L6W","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:57:46+00:00 INFO (6): {"status":"failed","sku":"LTHGU105W","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:57:46+00:00 INFO (6): {"status":"failed","sku":"LTHGU105W","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:57:58+00:00 INFO (6): {"status":"failed","sku":"LTHSMARTPLUG","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:57:58+00:00 INFO (6): {"status":"failed","sku":"LTHSMARTPLUG","message":"The product was unable to be saved. Please try again."}
+2021-03-08T23:59:39+00:00 INFO (6): {"status":"failed","sku":"Q\/GXP","message":"Product is not available."}
+2021-03-08T23:59:54+00:00 INFO (6): {"status":"failed","sku":"Q\/GXP","message":"Product is not available."}
+2021-03-09T00:09:08+00:00 INFO (6): {"status":"failed","sku":"RSL38","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:09:08+00:00 INFO (6): {"status":"failed","sku":"RSL38","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:09:18+00:00 INFO (6): {"status":"failed","sku":"RSLCCODVM250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:09:19+00:00 INFO (6): {"status":"failed","sku":"RSLCCODVM250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:09:25+00:00 INFO (6): {"status":"failed","sku":"RSLCCODVM25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:09:41+00:00 INFO (6): {"status":"failed","sku":"RSLCCODVS250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:09:42+00:00 INFO (6): {"status":"failed","sku":"RSLCCODVS250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:09:51+00:00 INFO (6): {"status":"failed","sku":"RSLCCODVS25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:09:58+00:00 INFO (6): {"status":"failed","sku":"RSLCCODVS750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:10:32+00:00 INFO (6): {"status":"failed","sku":"RSLCRPBWN4","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:10:38+00:00 INFO (6): {"status":"failed","sku":"RSLDC","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:10:40+00:00 INFO (6): {"status":"failed","sku":"RSLDC","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:10:47+00:00 INFO (6): {"status":"failed","sku":"RSLDC20ML","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:11:14+00:00 INFO (6): {"status":"failed","sku":"RSLDHFVG25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:11:14+00:00 INFO (6): {"status":"failed","sku":"RSLDHFVG25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:11:24+00:00 INFO (6): {"status":"failed","sku":"RSLDHFVG5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:11:25+00:00 INFO (6): {"status":"failed","sku":"RSLDHFVG5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:11:31+00:00 INFO (6): {"status":"failed","sku":"RSLDHFVM25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:12:12+00:00 INFO (6): {"status":"failed","sku":"RSLDHFVS5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:12:13+00:00 INFO (6): {"status":"failed","sku":"RSLDHFVS5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:12:21+00:00 INFO (6): {"status":"failed","sku":"RSLDHFWN25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:12:42+00:00 INFO (6): {"status":"failed","sku":"RSLDHFWNO25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:12:42+00:00 INFO (6): {"status":"failed","sku":"RSLDHFWNO25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:12:48+00:00 INFO (6): {"status":"failed","sku":"RSLDOCL25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:12:50+00:00 INFO (6): {"status":"failed","sku":"RSLDOCL25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:13:29+00:00 INFO (6): {"status":"failed","sku":"RSLDONC25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:13:32+00:00 INFO (6): {"status":"failed","sku":"RSLDONC25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:13:55+00:00 INFO (6): {"status":"failed","sku":"RSLDONO25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:13:55+00:00 INFO (6): {"status":"failed","sku":"RSLDONO25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:14:16+00:00 INFO (6): {"status":"failed","sku":"RSLDONP25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:14:17+00:00 INFO (6): {"status":"failed","sku":"RSLDONP25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:14:24+00:00 INFO (6): {"status":"failed","sku":"RSLDPN5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:14:26+00:00 INFO (6): {"status":"failed","sku":"RSLDPN5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:14:34+00:00 INFO (6): {"status":"failed","sku":"RSLDPNO5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:14:35+00:00 INFO (6): {"status":"failed","sku":"RSLDPNO5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:14:41+00:00 INFO (6): {"status":"failed","sku":"RSLDR25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:14:50+00:00 INFO (6): {"status":"failed","sku":"RSLDRPB25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:14:51+00:00 INFO (6): {"status":"failed","sku":"RSLDRPB25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:15:22+00:00 INFO (6): {"status":"failed","sku":"RSLDRPC5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:15:23+00:00 INFO (6): {"status":"failed","sku":"RSLDRPC5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:15:25+00:00 INFO (6): {"status":"failed","sku":"RSLDRPC5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:15:42+00:00 INFO (6): {"status":"failed","sku":"RSLDRPCH5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:15:43+00:00 INFO (6): {"status":"failed","sku":"RSLDRPCH5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:15:54+00:00 INFO (6): {"status":"failed","sku":"RSLDRPDB25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:20:34+00:00 INFO (6): {"status":"failed","sku":"RSLFLPPS5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:20:41+00:00 INFO (6): {"status":"failed","sku":"RSLFLPPSA5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:20:56+00:00 INFO (6): {"status":"failed","sku":"RSLFLPPW5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:21:04+00:00 INFO (6): {"status":"failed","sku":"RSLFLPPWS5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:21:12+00:00 INFO (6): {"status":"failed","sku":"RSLGFC","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:21:19+00:00 INFO (6): {"status":"failed","sku":"RSLGFC750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:21:31+00:00 INFO (6): {"status":"failed","sku":"RSLGFON750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:21:39+00:00 INFO (6): {"status":"failed","sku":"RSLGFOT750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:21:51+00:00 INFO (6): {"status":"failed","sku":"RSLGFS750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:21:58+00:00 INFO (6): {"status":"failed","sku":"RSLGPBLKB250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:22:05+00:00 INFO (6): {"status":"failed","sku":"RSLGPBLKB25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:22:13+00:00 INFO (6): {"status":"failed","sku":"RSLGPBLKB750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:22:21+00:00 INFO (6): {"status":"failed","sku":"RSLGPC250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:22:28+00:00 INFO (6): {"status":"failed","sku":"RSLGPC750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:22:36+00:00 INFO (6): {"status":"failed","sku":"RSLGPCB250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:22:47+00:00 INFO (6): {"status":"failed","sku":"RSLGPCB750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:22:54+00:00 INFO (6): {"status":"failed","sku":"RSLGPCDB250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:23:03+00:00 INFO (6): {"status":"failed","sku":"RSLGPCDB25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:23:12+00:00 INFO (6): {"status":"failed","sku":"RSLGPCDB750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:23:19+00:00 INFO (6): {"status":"failed","sku":"RSLGPCF250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:23:26+00:00 INFO (6): {"status":"failed","sku":"RSLGPCF25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:23:33+00:00 INFO (6): {"status":"failed","sku":"RSLGPCF750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:24:08+00:00 INFO (6): {"status":"failed","sku":"RSLGPD25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:24:15+00:00 INFO (6): {"status":"failed","sku":"RSLGPD750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:24:29+00:00 INFO (6): {"status":"failed","sku":"RSLGPEF25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:24:35+00:00 INFO (6): {"status":"failed","sku":"RSLGPEF750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:24:43+00:00 INFO (6): {"status":"failed","sku":"RSLGPEO250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:24:50+00:00 INFO (6): {"status":"failed","sku":"RSLGPEO25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:24:56+00:00 INFO (6): {"status":"failed","sku":"RSLGPEO750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:25:04+00:00 INFO (6): {"status":"failed","sku":"RSLGPLZ250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:25:11+00:00 INFO (6): {"status":"failed","sku":"RSLGPLZ25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:25:18+00:00 INFO (6): {"status":"failed","sku":"RSLGPLZ750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:25:34+00:00 INFO (6): {"status":"failed","sku":"RSLGPM25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:25:35+00:00 INFO (6): {"status":"failed","sku":"RSLGPM25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:25:50+00:00 INFO (6): {"status":"failed","sku":"RSLGPMB250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:25:52+00:00 INFO (6): {"status":"failed","sku":"RSLGPMB250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:26:07+00:00 INFO (6): {"status":"failed","sku":"RSLGPMB750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:26:08+00:00 INFO (6): {"status":"failed","sku":"RSLGPMB750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:26:15+00:00 INFO (6): {"status":"failed","sku":"RSLGPMR250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:26:21+00:00 INFO (6): {"status":"failed","sku":"RSLGPMR750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:26:28+00:00 INFO (6): {"status":"failed","sku":"RSLGPP250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:26:43+00:00 INFO (6): {"status":"failed","sku":"RSLGPP750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:26:44+00:00 INFO (6): {"status":"failed","sku":"RSLGPP750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:26:50+00:00 INFO (6): {"status":"failed","sku":"RSLGPPB250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:27:05+00:00 INFO (6): {"status":"failed","sku":"RSLGPPB750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:27:06+00:00 INFO (6): {"status":"failed","sku":"RSLGPPB750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:27:19+00:00 INFO (6): {"status":"failed","sku":"RSLGPPJ25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:27:20+00:00 INFO (6): {"status":"failed","sku":"RSLGPPJ25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:27:26+00:00 INFO (6): {"status":"failed","sku":"RSLGPPJ750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:27:40+00:00 INFO (6): {"status":"failed","sku":"RSLGPS750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:27:41+00:00 INFO (6): {"status":"failed","sku":"RSLGPS750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:27:54+00:00 INFO (6): {"status":"failed","sku":"RSLGPSA25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:27:55+00:00 INFO (6): {"status":"failed","sku":"RSLGPSA25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:28:01+00:00 INFO (6): {"status":"failed","sku":"RSLGPSA750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:28:15+00:00 INFO (6): {"status":"failed","sku":"RSLGPSB750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:28:17+00:00 INFO (6): {"status":"failed","sku":"RSLGPSB750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:28:30+00:00 INFO (6): {"status":"failed","sku":"RSLGPSL25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:28:31+00:00 INFO (6): {"status":"failed","sku":"RSLGPSL25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:28:44+00:00 INFO (6): {"status":"failed","sku":"RSLGPSS250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:28:50+00:00 INFO (6): {"status":"failed","sku":"RSLGPSS25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:28:57+00:00 INFO (6): {"status":"failed","sku":"RSLGPSS750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:29:03+00:00 INFO (6): {"status":"failed","sku":"RSLGPW250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:29:10+00:00 INFO (6): {"status":"failed","sku":"RSLGPW25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:29:17+00:00 INFO (6): {"status":"failed","sku":"RSLGPW750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:29:23+00:00 INFO (6): {"status":"failed","sku":"RSLGPWA250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:29:29+00:00 INFO (6): {"status":"failed","sku":"RSLGPWA25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:29:36+00:00 INFO (6): {"status":"failed","sku":"RSLGPWA750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:29:42+00:00 INFO (6): {"status":"failed","sku":"RSLGPWS250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:29:49+00:00 INFO (6): {"status":"failed","sku":"RSLGPWS25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:29:55+00:00 INFO (6): {"status":"failed","sku":"RSLGPWS750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:29:59+00:00 INFO (6): {"status":"failed","sku":"1","message":"Product is not available."}
+2021-03-09T00:30:00+00:00 INFO (6): {"status":"failed","sku":"1","message":"Product is not available."}
+2021-03-09T00:30:07+00:00 INFO (6): {"status":"failed","sku":"RSLHWFSDM750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:32:13+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSAP750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:32:23+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSDM250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:32:34+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSDM25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:32:44+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSDM750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:32:54+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSDO250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:33:04+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSDO25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:33:10+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSDO750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:33:17+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSE250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:33:23+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSE25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:33:29+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSE750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:33:40+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSM250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:33:50+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSM25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:34:00+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSM750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:34:07+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSNO250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:34:13+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSNO25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:34:20+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSNO750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:34:26+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSNP250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:34:33+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSNP25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:34:39+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSNP750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:34:45+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSSW250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:34:52+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSSW25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:35:02+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSSW750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:35:15+00:00 INFO (6): {"status":"failed","sku":"RSLQDWST250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:35:26+00:00 INFO (6): {"status":"failed","sku":"RSLQDWST25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:35:36+00:00 INFO (6): {"status":"failed","sku":"RSLQDWST750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:35:36+00:00 INFO (6): {"status":"failed","sku":"RSLQDWST750","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:35:47+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSW250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:35:47+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSW250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:35:53+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSW25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:35:54+00:00 INFO (6): {"status":"failed","sku":"RSLQDWSW25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:36:12+00:00 INFO (6): {"status":"failed","sku":"RSLSFAB5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:36:12+00:00 INFO (6): {"status":"failed","sku":"RSLSFAB5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:36:22+00:00 INFO (6): {"status":"failed","sku":"RSLSFB5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:36:23+00:00 INFO (6): {"status":"failed","sku":"RSLSFB5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:36:33+00:00 INFO (6): {"status":"failed","sku":"RSLSFDB5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:36:33+00:00 INFO (6): {"status":"failed","sku":"RSLSFDB5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:36:43+00:00 INFO (6): {"status":"failed","sku":"RSLSFG5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:36:43+00:00 INFO (6): {"status":"failed","sku":"RSLSFG5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:36:49+00:00 INFO (6): {"status":"failed","sku":"RSLSFLB5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:36:50+00:00 INFO (6): {"status":"failed","sku":"RSLSFLB5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:37:03+00:00 INFO (6): {"status":"failed","sku":"RSLTTWPBL25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:37:04+00:00 INFO (6): {"status":"failed","sku":"RSLTTWPBL25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:37:17+00:00 INFO (6): {"status":"failed","sku":"RSLTTWPCL25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:37:18+00:00 INFO (6): {"status":"failed","sku":"RSLTTWPCL25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:37:23+00:00 INFO (6): {"status":"failed","sku":"RSLTTWPCL5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:37:38+00:00 INFO (6): {"status":"failed","sku":"RSLTTWPDB5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:37:45+00:00 INFO (6): {"status":"failed","sku":"RSLTTWPGR25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:37:51+00:00 INFO (6): {"status":"failed","sku":"RSLTTWPGR5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:37:58+00:00 INFO (6): {"status":"failed","sku":"RSLTTWPLB25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:38:04+00:00 INFO (6): {"status":"failed","sku":"RSLTTWPLB5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:38:11+00:00 INFO (6): {"status":"failed","sku":"RSLUDODO25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:38:17+00:00 INFO (6): {"status":"failed","sku":"RSLUDODO5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:38:24+00:00 INFO (6): {"status":"failed","sku":"RSLUDON25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:38:30+00:00 INFO (6): {"status":"failed","sku":"RSLUDON5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:38:36+00:00 INFO (6): {"status":"failed","sku":"RSLUDONC25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:38:43+00:00 INFO (6): {"status":"failed","sku":"RSLUDONC5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:38:49+00:00 INFO (6): {"status":"failed","sku":"RSLUDONO25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:38:55+00:00 INFO (6): {"status":"failed","sku":"RSLUDONO5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:39:02+00:00 INFO (6): {"status":"failed","sku":"RSLUDONP25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:39:15+00:00 INFO (6): {"status":"failed","sku":"RSLUDOT25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:39:21+00:00 INFO (6): {"status":"failed","sku":"RSLUDOT5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:39:28+00:00 INFO (6): {"status":"failed","sku":"RSLUDSC25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:39:34+00:00 INFO (6): {"status":"failed","sku":"RSLUDSCE25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:39:40+00:00 INFO (6): {"status":"failed","sku":"RSLUDSCO25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:39:47+00:00 INFO (6): {"status":"failed","sku":"RSLUDSCO2LAV","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:39:53+00:00 INFO (6): {"status":"failed","sku":"RSLUDSDO25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:40:00+00:00 INFO (6): {"status":"failed","sku":"RSLUDSMG25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:40:07+00:00 INFO (6): {"status":"failed","sku":"RSLUDSMO25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:40:21+00:00 INFO (6): {"status":"failed","sku":"RSLUDSRT25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:40:22+00:00 INFO (6): {"status":"failed","sku":"RSLUDSRT25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:40:35+00:00 INFO (6): {"status":"failed","sku":"RSLUDSSG25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:40:36+00:00 INFO (6): {"status":"failed","sku":"RSLUDSSG25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:40:49+00:00 INFO (6): {"status":"failed","sku":"RSLUDSWW25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:40:50+00:00 INFO (6): {"status":"failed","sku":"RSLUDSWW25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:40:56+00:00 INFO (6): {"status":"failed","sku":"RSLWK5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:41:11+00:00 INFO (6): {"status":"failed","sku":"RSLWT25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:41:12+00:00 INFO (6): {"status":"failed","sku":"RSLWT25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:41:20+00:00 INFO (6): {"status":"failed","sku":"RSLWT5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:41:27+00:00 INFO (6): {"status":"failed","sku":"RUSAWPC1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:41:28+00:00 INFO (6): {"status":"failed","sku":"RUSAWPC1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:41:41+00:00 INFO (6): {"status":"failed","sku":"RUSAWPDB5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:41:42+00:00 INFO (6): {"status":"failed","sku":"RUSAWPDB5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:41:56+00:00 INFO (6): {"status":"failed","sku":"RUSAWPMB5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:41:57+00:00 INFO (6): {"status":"failed","sku":"RUSAWPMB5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:42:02+00:00 INFO (6): {"status":"failed","sku":"RUSDECL4L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:42:20+00:00 INFO (6): {"status":"failed","sku":"RUSECWP5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:42:21+00:00 INFO (6): {"status":"failed","sku":"RUSECWP5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:42:38+00:00 INFO (6): {"status":"failed","sku":"RUSEWO500","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:42:38+00:00 INFO (6): {"status":"failed","sku":"RUSEWO500","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:42:45+00:00 INFO (6): {"status":"failed","sku":"RUSFPCGG1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:42:51+00:00 INFO (6): {"status":"failed","sku":"RUSPCFS4L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:42:57+00:00 INFO (6): {"status":"failed","sku":"RUSPCOFIT","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:43:04+00:00 INFO (6): {"status":"failed","sku":"RUSPCT250","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:43:10+00:00 INFO (6): {"status":"failed","sku":"RUSPCT500","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:43:17+00:00 INFO (6): {"status":"failed","sku":"RUSPFCFK1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:43:23+00:00 INFO (6): {"status":"failed","sku":"RUSPFCFK4L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:43:29+00:00 INFO (6): {"status":"failed","sku":"RUSPFCS1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:43:36+00:00 INFO (6): {"status":"failed","sku":"RUSQDCFVDO25","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:43:42+00:00 INFO (6): {"status":"failed","sku":"RUSQDCFVLO25","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:43:49+00:00 INFO (6): {"status":"failed","sku":"RUSQDCFVMO25","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:43:55+00:00 INFO (6): {"status":"failed","sku":"RUSQDFVG1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:44:02+00:00 INFO (6): {"status":"failed","sku":"RUSQDFVG25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:44:13+00:00 INFO (6): {"status":"failed","sku":"RUSQDFVG5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:44:23+00:00 INFO (6): {"status":"failed","sku":"RUSQDFVS1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:44:33+00:00 INFO (6): {"status":"failed","sku":"RUSQDFVS25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:44:44+00:00 INFO (6): {"status":"failed","sku":"RUSQDFVS5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:44:57+00:00 INFO (6): {"status":"failed","sku":"RUSTDOC25L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:45:04+00:00 INFO (6): {"status":"failed","sku":"SAD5012897","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:45:11+00:00 INFO (6): {"status":"failed","sku":"SAD5012901","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:45:17+00:00 INFO (6): {"status":"failed","sku":"SAD5012903","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:45:32+00:00 INFO (6): {"status":"failed","sku":"SAD5012923","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:45:33+00:00 INFO (6): {"status":"failed","sku":"SAD5012923","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:45:39+00:00 INFO (6): {"status":"failed","sku":"SAD5012924","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:45:46+00:00 INFO (6): {"status":"failed","sku":"SAD5012989","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:46:01+00:00 INFO (6): {"status":"failed","sku":"SAD5012994","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:46:02+00:00 INFO (6): {"status":"failed","sku":"SAD5012994","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:46:15+00:00 INFO (6): {"status":"failed","sku":"SAD5012999","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:46:16+00:00 INFO (6): {"status":"failed","sku":"SAD5012999","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:46:21+00:00 INFO (6): {"status":"failed","sku":"SAD5013000","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:46:28+00:00 INFO (6): {"status":"failed","sku":"SAD5013002","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:46:43+00:00 INFO (6): {"status":"failed","sku":"SAD5028458","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:46:44+00:00 INFO (6): {"status":"failed","sku":"SAD5028458","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:46:49+00:00 INFO (6): {"status":"failed","sku":"SAD5028459","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:47:03+00:00 INFO (6): {"status":"failed","sku":"SAD5028462","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:47:17+00:00 INFO (6): {"status":"failed","sku":"SAD5028465","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:47:23+00:00 INFO (6): {"status":"failed","sku":"SAD5028466","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:47:30+00:00 INFO (6): {"status":"failed","sku":"SAD5028467","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:47:36+00:00 INFO (6): {"status":"failed","sku":"SAD5028470","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:47:43+00:00 INFO (6): {"status":"failed","sku":"SAD5028473","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:47:50+00:00 INFO (6): {"status":"failed","sku":"SAD5028475","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:47:56+00:00 INFO (6): {"status":"failed","sku":"SAD5028476","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:48:10+00:00 INFO (6): {"status":"failed","sku":"SAD5028479","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:48:16+00:00 INFO (6): {"status":"failed","sku":"SAD5028480","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:48:23+00:00 INFO (6): {"status":"failed","sku":"SAD5028481","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:48:29+00:00 INFO (6): {"status":"failed","sku":"SAD5028483","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:48:35+00:00 INFO (6): {"status":"failed","sku":"SAD5028484","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:48:42+00:00 INFO (6): {"status":"failed","sku":"SAD5028485","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:48:48+00:00 INFO (6): {"status":"failed","sku":"SAD5028487","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:48:55+00:00 INFO (6): {"status":"failed","sku":"SAD5028488","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:49:02+00:00 INFO (6): {"status":"failed","sku":"SAD5028489","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:49:09+00:00 INFO (6): {"status":"failed","sku":"SAD5028491","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:49:15+00:00 INFO (6): {"status":"failed","sku":"SAD5028492","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:49:21+00:00 INFO (6): {"status":"failed","sku":"SAD5028493","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:49:28+00:00 INFO (6): {"status":"failed","sku":"SAD5028498","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:49:34+00:00 INFO (6): {"status":"failed","sku":"SAD5028502","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:49:41+00:00 INFO (6): {"status":"failed","sku":"SAD5028503","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:49:47+00:00 INFO (6): {"status":"failed","sku":"SAD5028504","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:49:53+00:00 INFO (6): {"status":"failed","sku":"SAD5028527","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:50:00+00:00 INFO (6): {"status":"failed","sku":"SAD5028528","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:50:06+00:00 INFO (6): {"status":"failed","sku":"SAD5028529","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:50:13+00:00 INFO (6): {"status":"failed","sku":"SAD5028530","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:50:15+00:00 INFO (6): {"status":"failed","sku":"SAD5028530","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:50:28+00:00 INFO (6): {"status":"failed","sku":"SAD5028534","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:50:29+00:00 INFO (6): {"status":"failed","sku":"SAD5028534","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:50:42+00:00 INFO (6): {"status":"failed","sku":"SAD5028536","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:50:43+00:00 INFO (6): {"status":"failed","sku":"SAD5028536","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:50:56+00:00 INFO (6): {"status":"failed","sku":"SAD5028539","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:50:57+00:00 INFO (6): {"status":"failed","sku":"SAD5028539","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:51:49+00:00 INFO (6): {"status":"failed","sku":"SAD5028548","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:51:55+00:00 INFO (6): {"status":"failed","sku":"SAD5028549","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:52:02+00:00 INFO (6): {"status":"failed","sku":"SAD5028550","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:52:09+00:00 INFO (6): {"status":"failed","sku":"SAD5028551","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:52:15+00:00 INFO (6): {"status":"failed","sku":"SAD5028552","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:52:22+00:00 INFO (6): {"status":"failed","sku":"SAD5028553","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:52:35+00:00 INFO (6): {"status":"failed","sku":"SAD5028555","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:52:41+00:00 INFO (6): {"status":"failed","sku":"SAD5028556","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:52:48+00:00 INFO (6): {"status":"failed","sku":"SAD5028557","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:52:55+00:00 INFO (6): {"status":"failed","sku":"SAD5028558","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:53:08+00:00 INFO (6): {"status":"failed","sku":"SAD5028560","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:53:14+00:00 INFO (6): {"status":"failed","sku":"SAD5028561","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:53:20+00:00 INFO (6): {"status":"failed","sku":"SAD5028565","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:53:27+00:00 INFO (6): {"status":"failed","sku":"SAD5028566","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:53:33+00:00 INFO (6): {"status":"failed","sku":"SAD5028567","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:53:40+00:00 INFO (6): {"status":"failed","sku":"SAD5028568","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:53:46+00:00 INFO (6): {"status":"failed","sku":"SAD5028573","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:53:52+00:00 INFO (6): {"status":"failed","sku":"SAD5028574","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:53:59+00:00 INFO (6): {"status":"failed","sku":"SAD5028577","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:54:05+00:00 INFO (6): {"status":"failed","sku":"SAD5028578","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:54:11+00:00 INFO (6): {"status":"failed","sku":"SAD5028579","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:54:17+00:00 INFO (6): {"status":"failed","sku":"SAD5028580","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:54:24+00:00 INFO (6): {"status":"failed","sku":"SAD5028825","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:54:30+00:00 INFO (6): {"status":"failed","sku":"SAD5028826","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:54:36+00:00 INFO (6): {"status":"failed","sku":"SAD5028827","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:54:43+00:00 INFO (6): {"status":"failed","sku":"SAD5028828","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:54:49+00:00 INFO (6): {"status":"failed","sku":"SAD5028829","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:54:55+00:00 INFO (6): {"status":"failed","sku":"SAD5028830","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:55:01+00:00 INFO (6): {"status":"failed","sku":"SAD5028850","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:55:15+00:00 INFO (6): {"status":"failed","sku":"SAD5028852","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:55:16+00:00 INFO (6): {"status":"failed","sku":"SAD5028852","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:55:22+00:00 INFO (6): {"status":"failed","sku":"SAD5028853","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:55:37+00:00 INFO (6): {"status":"failed","sku":"SAD5028855","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:55:38+00:00 INFO (6): {"status":"failed","sku":"SAD5028855","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:55:51+00:00 INFO (6): {"status":"failed","sku":"SAD5090980","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:55:52+00:00 INFO (6): {"status":"failed","sku":"SAD5090980","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:55:57+00:00 INFO (6): {"status":"failed","sku":"SAD5090981","message":"The product was unable to be saved. Please try again."}
+2021-03-09T00:56:04+00:00 INFO (6): {"status":"failed","sku":"SAD5090982","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:07:49+00:00 INFO (6): {"status":"failed","sku":"SIKCF7PDO1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:07:50+00:00 INFO (6): {"status":"failed","sku":"SIKCF7PDO1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:08:12+00:00 INFO (6): {"status":"failed","sku":"SIKCF7PE1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:08:13+00:00 INFO (6): {"status":"failed","sku":"SIKCF7PE1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:08:18+00:00 INFO (6): {"status":"failed","sku":"SIKCF7PLO1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:08:25+00:00 INFO (6): {"status":"failed","sku":"SIKCF7PLO25","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:08:40+00:00 INFO (6): {"status":"failed","sku":"SIKCF7PM1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:08:41+00:00 INFO (6): {"status":"failed","sku":"SIKCF7PM1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:08:54+00:00 INFO (6): {"status":"failed","sku":"SIKCF7PM5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:08:55+00:00 INFO (6): {"status":"failed","sku":"SIKCF7PM5L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:09:01+00:00 INFO (6): {"status":"failed","sku":"SIKCF7PP1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:09:16+00:00 INFO (6): {"status":"failed","sku":"SIKCF7PT1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:09:17+00:00 INFO (6): {"status":"failed","sku":"SIKCF7PT1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:10:26+00:00 INFO (6): {"status":"failed","sku":"SIKCHLSPM25","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:10:33+00:00 INFO (6): {"status":"failed","sku":"SIKCHLSPM5","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:10:40+00:00 INFO (6): {"status":"failed","sku":"SIKCHLSPP1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:10:46+00:00 INFO (6): {"status":"failed","sku":"SIKCHLSPRW1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:10:53+00:00 INFO (6): {"status":"failed","sku":"SIKCHLSPT1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:11:00+00:00 INFO (6): {"status":"failed","sku":"SIKCHLSPT5","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:11:07+00:00 INFO (6): {"status":"failed","sku":"SIKCHLSPW1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:11:13+00:00 INFO (6): {"status":"failed","sku":"SIKCTHBPDO1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:11:20+00:00 INFO (6): {"status":"failed","sku":"SIKCTHBPLO1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:11:35+00:00 INFO (6): {"status":"failed","sku":"SIKCTHBPLO5","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:11:36+00:00 INFO (6): {"status":"failed","sku":"SIKCTHBPLO5","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:11:49+00:00 INFO (6): {"status":"failed","sku":"SIKCTHBPM25","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:11:50+00:00 INFO (6): {"status":"failed","sku":"SIKCTHBPM25","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:12:03+00:00 INFO (6): {"status":"failed","sku":"SIKCTHBPT1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:12:04+00:00 INFO (6): {"status":"failed","sku":"SIKCTHBPT1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:12:11+00:00 INFO (6): {"status":"failed","sku":"SIKCTHBPW1L","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:12:22+00:00 INFO (6): {"status":"failed","sku":"ST","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:12:22+00:00 INFO (6): {"status":"failed","sku":"ST","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:12:33+00:00 INFO (6): {"status":"failed","sku":"STA0168","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:12:33+00:00 INFO (6): {"status":"failed","sku":"STA0168","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:12:43+00:00 INFO (6): {"status":"failed","sku":"STA029088","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:12:43+00:00 INFO (6): {"status":"failed","sku":"STA029088","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:13:08+00:00 INFO (6): {"status":"failed","sku":"STA095112","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:13:09+00:00 INFO (6): {"status":"failed","sku":"STA095112","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:13:14+00:00 INFO (6): {"status":"failed","sku":"STA095113","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:13:28+00:00 INFO (6): {"status":"failed","sku":"STA197475","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:13:29+00:00 INFO (6): {"status":"failed","sku":"STA197475","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:13:43+00:00 INFO (6): {"status":"failed","sku":"STA1PAA44","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:13:43+00:00 INFO (6): {"status":"failed","sku":"STA1PAA44","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:13:51+00:00 INFO (6): {"status":"failed","sku":"STA1PAA48","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:14:01+00:00 INFO (6): {"status":"failed","sku":"STA1PAA52","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:14:01+00:00 INFO (6): {"status":"failed","sku":"STA1PAA52","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:14:11+00:00 INFO (6): {"status":"failed","sku":"STA1PAA54","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:14:11+00:00 INFO (6): {"status":"failed","sku":"STA1PAA54","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:14:19+00:00 INFO (6): {"status":"failed","sku":"STA1PAA58","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:14:19+00:00 INFO (6): {"status":"failed","sku":"STA1PAA58","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:14:27+00:00 INFO (6): {"status":"failed","sku":"STA6MR100","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:14:39+00:00 INFO (6): {"status":"failed","sku":"STA6MR55","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:14:39+00:00 INFO (6): {"status":"failed","sku":"STA6MR55","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:14:49+00:00 INFO (6): {"status":"failed","sku":"STA6MR77","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:14:49+00:00 INFO (6): {"status":"failed","sku":"STA6MR77","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:14:59+00:00 INFO (6): {"status":"failed","sku":"STR","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:14:59+00:00 INFO (6): {"status":"failed","sku":"STR","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:15:00+00:00 INFO (6): {"status":"failed","sku":"STR161","message":"Product is not available."}
+2021-03-09T01:15:00+00:00 INFO (6): {"status":"failed","sku":"STR161","message":"Product is not available."}
+2021-03-09T01:15:00+00:00 INFO (6): {"status":"failed","sku":"STR161","message":"Product is not available."}
+2021-03-09T01:15:30+00:00 INFO (6): {"status":"failed","sku":"SWASWDC5LB","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:15:32+00:00 INFO (6): {"status":"failed","sku":"SWASWDC5LB","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:15:33+00:00 INFO (6): {"status":"failed","sku":"SWASWDC5LB","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:16:00+00:00 INFO (6): {"status":"failed","sku":"UBW1.27.050M","message":"Database deadlock found when trying to get lock"}
+2021-03-09T01:16:12+00:00 INFO (6): {"status":"failed","sku":"UBW1.5M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:16:23+00:00 INFO (6): {"status":"failed","sku":"UBW10M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:16:46+00:00 INFO (6): {"status":"failed","sku":"UBW14I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:16:46+00:00 INFO (6): {"status":"failed","sku":"UBW14I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:17:09+00:00 INFO (6): {"status":"failed","sku":"UBW2.5M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:17:09+00:00 INFO (6): {"status":"failed","sku":"UBW2.5M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:17:31+00:00 INFO (6): {"status":"failed","sku":"UBW316I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:17:31+00:00 INFO (6): {"status":"failed","sku":"UBW316I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:17:36+00:00 INFO (6): {"status":"failed","sku":"UBW32I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T01:17:37+00:00 INFO (6): {"status":"failed","sku":"UBW32I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T01:17:44+00:00 INFO (6): {"status":"failed","sku":"UBW32I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T01:17:48+00:00 INFO (6): {"status":"failed","sku":"UBW332I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:17:53+00:00 INFO (6): {"status":"failed","sku":"UBW33I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T01:17:53+00:00 INFO (6): {"status":"failed","sku":"UBW33I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T01:18:00+00:00 INFO (6): {"status":"failed","sku":"UBW33I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T01:18:06+00:00 INFO (6): {"status":"failed","sku":"UBW36M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:18:11+00:00 INFO (6): {"status":"failed","sku":"UBW37M","message":"The image content must be valid base64 encoded data."}
+2021-03-09T01:18:11+00:00 INFO (6): {"status":"failed","sku":"UBW37M","message":"The image content must be valid base64 encoded data."}
+2021-03-09T01:18:15+00:00 INFO (6): {"status":"failed","sku":"UBW37M","message":"The image content must be valid base64 encoded data."}
+2021-03-09T01:18:24+00:00 INFO (6): {"status":"failed","sku":"UBW38I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:18:37+00:00 INFO (6): {"status":"failed","sku":"UBW3M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:18:37+00:00 INFO (6): {"status":"failed","sku":"UBW3M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:19:00+00:00 INFO (6): {"status":"failed","sku":"UBW516I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:19:00+00:00 INFO (6): {"status":"failed","sku":"UBW516I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:19:33+00:00 INFO (6): {"status":"failed","sku":"UBW5M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:19:33+00:00 INFO (6): {"status":"failed","sku":"UBW5M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:19:56+00:00 INFO (6): {"status":"failed","sku":"UBW732I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:19:56+00:00 INFO (6): {"status":"failed","sku":"UBW732I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:20:20+00:00 INFO (6): {"status":"failed","sku":"UBW8M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:20:31+00:00 INFO (6): {"status":"failed","sku":"UBW964I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:21:28+00:00 INFO (6): {"status":"failed","sku":"ULW10M","message":"Database deadlock found when trying to get lock"}
+2021-03-09T01:23:31+00:00 INFO (6): {"status":"failed","sku":"ULW18I","message":"Database deadlock found when trying to get lock"}
+2021-03-09T01:25:40+00:00 INFO (6): {"status":"failed","sku":"ULW3I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:25:52+00:00 INFO (6): {"status":"failed","sku":"ULW3M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:26:06+00:00 INFO (6): {"status":"failed","sku":"ULW4M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:26:29+00:00 INFO (6): {"status":"failed","sku":"ULW516I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:26:29+00:00 INFO (6): {"status":"failed","sku":"ULW516I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:31:57+00:00 INFO (6): {"status":"failed","sku":"USW0.71M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:32:20+00:00 INFO (6): {"status":"failed","sku":"USW0.89M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:32:41+00:00 INFO (6): {"status":"failed","sku":"USW1.27M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:33:04+00:00 INFO (6): {"status":"failed","sku":"USW1.5M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:33:14+00:00 INFO (6): {"status":"failed","sku":"USW10M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:33:24+00:00 INFO (6): {"status":"failed","sku":"USW116I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:33:46+00:00 INFO (6): {"status":"failed","sku":"USW12I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:33:56+00:00 INFO (6): {"status":"failed","sku":"USW12M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:34:18+00:00 INFO (6): {"status":"failed","sku":"USW14I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:34:28+00:00 INFO (6): {"status":"failed","sku":"USW14M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:34:39+00:00 INFO (6): {"status":"failed","sku":"USW17M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:34:49+00:00 INFO (6): {"status":"failed","sku":"USW18I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:35:00+00:00 INFO (6): {"status":"failed","sku":"USW19M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:35:24+00:00 INFO (6): {"status":"failed","sku":"USW1I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:35:47+00:00 INFO (6): {"status":"failed","sku":"USW2.5M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:35:47+00:00 INFO (6): {"status":"failed","sku":"USW2.5M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:40:22+00:00 INFO (6): {"status":"failed","sku":"USW6M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:40:46+00:00 INFO (6): {"status":"failed","sku":"USW716I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:41:09+00:00 INFO (6): {"status":"failed","sku":"USW732I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:41:21+00:00 INFO (6): {"status":"failed","sku":"USW764I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:41:43+00:00 INFO (6): {"status":"failed","sku":"USW78I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:42:05+00:00 INFO (6): {"status":"failed","sku":"USW8M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:42:27+00:00 INFO (6): {"status":"failed","sku":"USW916I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:42:39+00:00 INFO (6): {"status":"failed","sku":"USW964I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:42:53+00:00 INFO (6): {"status":"failed","sku":"USWS5M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:43:14+00:00 INFO (6): {"status":"failed","sku":"UTH3M","message":"Database deadlock found when trying to get lock"}
+2021-03-09T01:43:26+00:00 INFO (6): {"status":"failed","sku":"UTH5M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:43:40+00:00 INFO (6): {"status":"failed","sku":"UTH6M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:43:41+00:00 INFO (6): {"status":"failed","sku":"UTH6M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:43:54+00:00 INFO (6): {"status":"failed","sku":"UTH8M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:43:54+00:00 INFO (6): {"status":"failed","sku":"UTH8M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:44:02+00:00 INFO (6): {"status":"failed","sku":"UWT15","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:44:04+00:00 INFO (6): {"status":"failed","sku":"UWT15","message":"The product was unable to be saved. Please try again."}
+2021-03-09T01:44:17+00:00 INFO (6): {"status":"failed","sku":"UWT18I","message":"The product was unable to be saved. Please try again."}
+2021-03-09T02:06:28+00:00 INFO (6): ---------------- END API Cron 09/03/21 02:06:28 ----------------
+2021-03-09T02:06:28+00:00 INFO (6): ---------------- END API Cron 09/03/21 02:06:28 ----------------
+2021-03-09T02:06:28+00:00 INFO (6): ---------------- END API Cron 09/03/21 02:06:28 ----------------
+2021-03-09T02:06:28+00:00 INFO (6): ---------------- END API Cron 09/03/21 02:06:28 ----------------
+2021-03-09T02:06:29+00:00 INFO (6): ---------------- END API Cron 09/03/21 02:06:29 ----------------
+2021-03-09T08:35:09+00:00 INFO (6): {"status":"failed","sku":"B\/DWM301","message":"Request does not match any route."}
+2021-03-09T08:35:13+00:00 INFO (6): {"status":"failed","sku":"B\/DWM536","message":"Request does not match any route."}
+2021-03-09T08:35:18+00:00 INFO (6): {"status":"failed","sku":"B\/DWM550","message":"Request does not match any route."}
+2021-03-09T08:35:22+00:00 INFO (6): {"status":"failed","sku":"B\/DWM626","message":"Request does not match any route."}
+2021-03-09T08:35:26+00:00 INFO (6): {"status":"failed","sku":"B\/DWM825","message":"Request does not match any route."}
+2021-03-09T08:35:31+00:00 INFO (6): {"status":"failed","sku":"B\/S09101","message":"Request does not match any route."}
+2021-03-09T08:35:35+00:00 INFO (6): {"status":"failed","sku":"B\/S22523","message":"Request does not match any route."}
+2021-03-09T08:35:39+00:00 INFO (6): {"status":"failed","sku":"B\/S31100","message":"Request does not match any route."}
+2021-03-09T08:35:43+00:00 INFO (6): {"status":"failed","sku":"B\/S31110","message":"Request does not match any route."}
+2021-03-09T08:35:44+00:00 INFO (6): {"status":"failed","sku":".cloudinary.com\/image\/private\/w_640\/toolbank\/products\/BESG12H.jpg","message":"Product is not available."}
+2021-03-09T08:39:09+00:00 INFO (6): {"status":"failed","sku":"K\/S70100555","message":"Request does not match any route."}
+2021-03-09T08:39:14+00:00 INFO (6): {"status":"failed","sku":"K\/S70100560","message":"Request does not match any route."}
+2021-03-09T08:39:18+00:00 INFO (6): {"status":"failed","sku":"K\/S70100565","message":"Request does not match any route."}
+2021-03-09T08:39:22+00:00 INFO (6): {"status":"failed","sku":"L\/H200HAND","message":"Request does not match any route."}
+2021-03-09T08:39:27+00:00 INFO (6): {"status":"failed","sku":"L\/H200LAMP","message":"Request does not match any route."}
+2021-03-09T08:39:31+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC350L","message":"Request does not match any route."}
+2021-03-09T08:39:35+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC400","message":"Request does not match any route."}
+2021-03-09T08:39:44+00:00 INFO (6): {"status":"failed","sku":"Q\/GXP","message":"Product is not available."}
+2021-03-09T08:40:43+00:00 INFO (6): {"status":"failed","sku":"1","message":"Product is not available."}
+2021-03-09T08:40:52+00:00 INFO (6): {"status":"failed","sku":"1","message":"Product is not available."}
+2021-03-09T08:44:11+00:00 INFO (6): {"status":"failed","sku":"STR161","message":"Product is not available."}
+2021-03-09T08:44:19+00:00 INFO (6): {"status":"failed","sku":"STR161","message":"Product is not available."}
+2021-03-09T08:44:46+00:00 INFO (6): {"status":"failed","sku":"UBW32I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T08:44:51+00:00 INFO (6): {"status":"failed","sku":"UBW33I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T08:44:53+00:00 INFO (6): {"status":"failed","sku":"UBW32I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T08:44:56+00:00 INFO (6): {"status":"failed","sku":"UBW37M","message":"The image content must be valid base64 encoded data."}
+2021-03-09T08:44:58+00:00 INFO (6): {"status":"failed","sku":"UBW33I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T08:45:03+00:00 INFO (6): {"status":"failed","sku":"UBW37M","message":"The image content must be valid base64 encoded data."}
+2021-03-09T08:45:57+00:00 INFO (6): ---------------- END API Cron 09/03/21 08:45:57 ----------------
+2021-03-09T08:46:15+00:00 INFO (6): ---------------- END API Cron 09/03/21 08:46:15 ----------------
+2021-03-09T08:46:15+00:00 INFO (6): ---------------- END API Cron 09/03/21 08:46:15 ----------------
+2021-03-09T09:00:09+00:00 INFO (6): {"status":"failed","sku":"B\/DWM301","message":"Request does not match any route."}
+2021-03-09T09:00:13+00:00 INFO (6): {"status":"failed","sku":"B\/DWM536","message":"Request does not match any route."}
+2021-03-09T09:00:17+00:00 INFO (6): {"status":"failed","sku":"B\/DWM550","message":"Request does not match any route."}
+2021-03-09T09:00:22+00:00 INFO (6): {"status":"failed","sku":"B\/DWM626","message":"Request does not match any route."}
+2021-03-09T09:00:26+00:00 INFO (6): {"status":"failed","sku":"B\/DWM825","message":"Request does not match any route."}
+2021-03-09T09:00:30+00:00 INFO (6): {"status":"failed","sku":"B\/S09101","message":"Request does not match any route."}
+2021-03-09T09:00:34+00:00 INFO (6): {"status":"failed","sku":"B\/S22523","message":"Request does not match any route."}
+2021-03-09T09:00:38+00:00 INFO (6): {"status":"failed","sku":"B\/S31100","message":"Request does not match any route."}
+2021-03-09T09:00:43+00:00 INFO (6): {"status":"failed","sku":"B\/S31110","message":"Request does not match any route."}
+2021-03-09T09:00:43+00:00 INFO (6): {"status":"failed","sku":".cloudinary.com\/image\/private\/w_640\/toolbank\/products\/BESG12H.jpg","message":"Product is not available."}
+2021-03-09T09:00:47+00:00 INFO (6): {"status":"failed","sku":"K\/S70100555","message":"Request does not match any route."}
+2021-03-09T09:00:51+00:00 INFO (6): {"status":"failed","sku":"K\/S70100560","message":"Request does not match any route."}
+2021-03-09T09:00:56+00:00 INFO (6): {"status":"failed","sku":"K\/S70100565","message":"Request does not match any route."}
+2021-03-09T09:01:00+00:00 INFO (6): {"status":"failed","sku":"L\/H200HAND","message":"Request does not match any route."}
+2021-03-09T09:01:05+00:00 INFO (6): {"status":"failed","sku":"L\/H200LAMP","message":"Request does not match any route."}
+2021-03-09T09:01:09+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC350L","message":"Request does not match any route."}
+2021-03-09T09:01:13+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC400","message":"Request does not match any route."}
+2021-03-09T09:01:14+00:00 INFO (6): {"status":"failed","sku":"Q\/GXP","message":"Product is not available."}
+2021-03-09T09:01:14+00:00 INFO (6): {"status":"failed","sku":"1","message":"Product is not available."}
+2021-03-09T09:01:15+00:00 INFO (6): {"status":"failed","sku":"STR161","message":"Product is not available."}
+2021-03-09T09:01:20+00:00 INFO (6): {"status":"failed","sku":"UBW32I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T09:01:24+00:00 INFO (6): {"status":"failed","sku":"UBW33I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T09:01:29+00:00 INFO (6): {"status":"failed","sku":"UBW37M","message":"The image content must be valid base64 encoded data."}
+2021-03-09T09:01:29+00:00 INFO (6): ---------------- END API Cron 09/03/21 09:01:29 ----------------

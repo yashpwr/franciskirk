@@ -1,0 +1,20 @@
+2021-02-25T12:50:02+00:00 INFO (6): ---------------- START API Cron 25/02/21 12:50:02 ----------------
+2021-02-25T13:13:46+00:00 INFO (6): {"status":"failed","sku":"FAITBBIN2","message":"The product was unable to be saved. Please try again."}
+2021-02-25T13:13:51+00:00 INFO (6): {"status":"failed","sku":"FAITBBIN2L","message":"The product was unable to be saved. Please try again."}
+2021-02-25T13:13:57+00:00 INFO (6): {"status":"failed","sku":"FAITBBIN3","message":"The product was unable to be saved. Please try again."}
+2021-02-25T13:14:03+00:00 INFO (6): {"status":"failed","sku":"FAITBBIN4","message":"The product was unable to be saved. Please try again."}
+2021-02-25T13:14:09+00:00 INFO (6): {"status":"failed","sku":"FAITBBIN5","message":"The product was unable to be saved. Please try again."}
+2021-02-25T13:14:15+00:00 INFO (6): {"status":"failed","sku":"FAITBBUCKET","message":"The product was unable to be saved. Please try again."}
+2021-02-25T13:15:26+00:00 INFO (6): {"status":"failed","sku":"FAITHHUMID","message":"The product was unable to be saved. Please try again."}
+2021-02-25T13:20:32+00:00 INFO (6): {"status":"failed","sku":"FCMJETC4M5","message":"The product was unable to be saved. Please try again."}
+2021-02-25T13:20:49+00:00 INFO (6): {"status":"failed","sku":"FCMJETT6GM3","message":"The product was unable to be saved. Please try again."}
+2021-02-25T13:27:25+00:00 INFO (6): {"status":"failed","sku":"FORRIV3212M","message":"The product was unable to be saved. Please try again."}
+2021-02-25T13:27:58+00:00 INFO (6): {"status":"failed","sku":"FORRIV4016M","message":"The product was unable to be saved. Please try again."}
+2021-02-25T13:28:05+00:00 INFO (6): {"status":"failed","sku":"FORRIV408M","message":"The product was unable to be saved. Please try again."}
+2021-02-25T14:00:14+00:00 INFO (6): {"status":"failed","sku":"IRW10504392","message":"The product was unable to be saved. Please try again."}
+2021-02-25T14:00:23+00:00 INFO (6): {"status":"failed","sku":"IRW10504394","message":"The product was unable to be saved. Please try again."}
+2021-02-25T14:00:39+00:00 INFO (6): {"status":"failed","sku":"IRW10504398","message":"The product was unable to be saved. Please try again."}
+2021-02-25T14:00:44+00:00 INFO (6): {"status":"failed","sku":"IRW10504399","message":"The product was unable to be saved. Please try again."}
+2021-02-25T14:00:50+00:00 INFO (6): {"status":"failed","sku":"IRW10504400","message":"The product was unable to be saved. Please try again."}
+2021-02-25T14:00:55+00:00 INFO (6): {"status":"failed","sku":"IRW10504401","message":"The product was unable to be saved. Please try again."}
+2021-02-25T14:45:59+00:00 INFO (6): ---------------- END API Cron 25/02/21 14:45:59 ----------------

@@ -1,0 +1,181 @@
+<?php
+/**
+ * Cminds MultiUserAccounts waiting for approve orders list template.
+ *
+ * @category    Cminds
+ * @package     Cminds_MultiUserAccounts
+ * @author      Piotr Pierzak <piotr@cminds.com>
+ */
+?>
+<?php
+/**
+ * @var \Cminds\MultiUserAccounts\Block\Order\Approve\Table $block
+ */
+?>
+<?php $quotes = $block->getQuotes(); ?>
+<?php if ($quotes && count($quotes)) : ?>
+    <div class="table-wrapper order-approve-manage">
+        <table class="data table table-order-items orders" id="order-approve-manage-table">
+            <caption class="table-caption"><?= __('Orders Waiting For Approval') ?></caption>
+            <thead>
+            <tr>
+                <th scope="col" class="col email"><?= __('Email') ?></th>
+                <th scope="col" class="col name"><?= __('Name') ?></th>
+                <th scope="col" class="col items-qty"><?= __('Items Qty') ?></th>
+                <th scope="col" class="col grand-total"><?= __('Grand Total') ?></th>
+                <?php if (!$block->isParentLoggedIn()) : ?>
+                    <th scope="col" class="col"><?= __('Status') ?></th>
+                <?php endif; ?>
+                <th scope="col" class="col actions">&nbsp;</th>
+        </tr>
+            </thead>
+            <tbody>
+            <?php foreach ($quotes as $quote) : ?>
+                <?php $name = trim($quote->getCustomerFirstname() . ' ' . $quote->getCustomerLastname()); ?>
+                <tr class="quote-info" data-quote-id="<?= $quote->getId(); ?>">
+                    <td data-th="<?= $block->escapeHtml(__('Email')) ?>"
+                        class="col email"><?= $block->escapeHtml($quote->getCustomerEmail()) ?></td>
+                    <td data-th="<?= $block->escapeHtml(__('Name')) ?>"
+                        class="col"><?= $block->escapeHtml($name) ?></td>
+                    <td data-th="<?= $block->escapeHtml(__('Items Qty')) ?>"
+                        class="col"><?= $block->escapeHtml($quote->getItemsQty()) ?></td>
+                    <td data-th="<?= $block->escapeHtml(__('Grand Total')) ?>"
+                        class="col"><?= $block->getPriceHtml($quote->getGrandTotal(), $quote->getStoreId()) ?></td>
+                    <?php if (!$block->isParentLoggedIn()) : ?>
+                        <td data-th="<?= $block->escapeHtml(__('Status')) ?>"
+                            class="col"><?= __('Pending') ?></td>
+                    <?php endif; ?>
+                    <td data-th="<?= $block->escapeHtml(__('Actions')) ?>"
+                        class="col actions">
+                            <a href="#" class="action show-items">
+                                <span><?= __('Show Items') ?></span>
+                            </a>
+                        <?php if ($block->isParentLoggedIn()) : ?>
+                            <?php if ((int)$quote->getIsAuthorized() === 1) : ?>
+                                <form action="<?= $block->getApproveUrl($quote) ?>" method="post">
+                                    <a href="#" class="action approve">
+                                        <span><?= __('Approve') ?></span>
+                                    </a>
+                                </form>
+                            <?php endif; ?>
+
+                            <?php if ((int)$quote->getIsAuthorized() === 0) : ?>
+                                <form action="<?= $block->getAuthorizeUrl($quote) ?>" method="post">
+                                    <a href="#" class="action authorize">
+                                        <span><?= __('Authorize') ?></span>
+                                    </a>
+                                </form>
+                            <?php endif; ?>
+                            <a href="#" class="action reject">
+                                <span><?= __('Reject') ?></span>
+                            </a>
+                        <?php endif; ?>
+                    </td>
+                </tr>
+                <tr style="display:none;" class="quote-items" data-quote-id="<?= $quote->getId(); ?>">
+                    <td colspan="5">
+                        <table id="order-approve-manage-items-table" class="items data table">
+                            <thead>
+                            <tr>
+                                <th class="col item" scope="col"><span><?= __('Item') ?></span></th>
+                                <th class="col price" scope="col"><span><?= __('Price') ?></span></th>
+                                <th class="col qty" scope="col"><span><?= __('Qty') ?></span></th>
+                                <th class="col subtotal" scope="col"><span><?= __('Subtotal') ?></span></th>
+                            </tr>
+                            </thead>
+                            <?php foreach ($block->getQuoteItems($quote->getId()) as $item) : ?>
+                                <?= $block->getItemHtml($item) ?>
+                            <?php endforeach ?>
+                        </table>
+                    </td>
+                </tr>
+                <tr style="display:none;" class="quote-reject" data-quote-id="<?= $quote->getId(); ?>">
+                    <td colspan="5">
+                        <form action="<?= $block->getRejectUrl($quote) ?>" method="post">
+                            <div class="quote-reject-reason-container">
+                                <div class="quote-reject-reason">
+                                    <textarea name="reason"></textarea>
+                                </div>
+                                <div class="actions">
+                                    <button type="submit" class="action reject"
+                                            title="<?= __('Reject') ?>">
+                                        <span><?= __('Reject') ?></span>
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    </td>
+                </tr>
+            <?php endforeach; ?>
+            </tbody>
+        </table>
+        <script type="text/javascript">
+            require([ 'jquery'], function($) {
+                $(function() {
+                    $('#order-approve-manage-table a.approve').bind('click', function() {
+                        if (confirm('<?= __('Are you sure that you want to approve this order?') ?>')) {
+                            $(this).closest('form').submit();
+                        }
+                    });
+
+                    $('#order-approve-manage-table a.authorize').bind('click', function() {
+                        if (confirm('<?= __('Are you sure that you want to authorize this order?') ?>')) {
+                            $(this).closest('form').submit();
+                        }
+                    });
+
+                    $('#order-approve-manage-table a.reject').bind('click', function() {
+                        $('#order-approve-manage-table a.show-items.active').trigger('click');
+
+                        var quoteId = $(this).closest('tr').attr('data-quote-id'),
+                            quoteItemsContainer = $('tr.quote-reject[data-quote-id=' + quoteId + ']');
+
+                        if (quoteItemsContainer.is(':visible')) {
+                            quoteItemsContainer.hide();
+                            $(this).removeClass('active');
+                        } else {
+                            $('#order-approve-manage-table a.reject.active').trigger('click');
+                            quoteItemsContainer.show();
+                            $(this).addClass('active');
+                        }
+                    });
+
+                    $('.quote-reject button.reject').bind('click', function() {
+                        if (confirm('<?= __('Are you sure that you want to reject this request?') ?>')) {
+                            $(this).closest('form').submit();
+                        } else {
+                            return false;
+                        }
+                    });
+
+                    $('#order-approve-manage-table a.show-items').bind('click', function() {
+                        $('#order-approve-manage-table a.reject.active').trigger('click');
+
+                        var quoteId = $(this).closest('tr').attr('data-quote-id'),
+                            quoteItemsContainer = $('tr.quote-items[data-quote-id=' + quoteId + ']');
+
+                        if (quoteItemsContainer.is(':visible')) {
+                            quoteItemsContainer.hide();
+                            $(this)
+                                .removeClass('active')
+                                .html('<?= __('Show Items') ?>');
+                        } else {
+                            $('#order-approve-manage-table a.show-items.active').trigger('click');
+                            quoteItemsContainer.show();
+                            $(this)
+                                .addClass('active')
+                                .html('<?= __('Hide Items') ?>');
+                        }
+                    });
+                });
+            });
+        </script>
+    </div>
+    <?php if ($block->getPagerHtml()) : ?>
+        <div class="order-products-toolbar toolbar bottom"><?= $block->getPagerHtml(); ?></div>
+    <?php endif ?>
+<?php else : ?>
+    <div class="message info empty">
+        <span><?= __('There are no waiting orders to display.'); ?></span>
+    </div>
+<?php endif ?>

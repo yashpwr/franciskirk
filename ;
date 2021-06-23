@@ -1,0 +1,8 @@
+*/5 * * * * php /home/default/html/api/updateProduct.php
+*/5 * * * * php /home/default/html/api/createProduct.php
+*/5 * * * * php /home/default/html/api/deleteProduct.php
+0 0 * * * php /home/default/html/bin/magento cron:run >> /home/default/html/var/log/magento.cron.log
+0 0 * * * php /home/default/html/update/cron.php >> /home/default/html/var/log/update.cron.log
+0 0 * * * php /home/default/html/bin/magento setup:cron:run >> /home/default/html/var/log/setup.cron.log
+0 0 * * * php /home/default/html/bin/magento c:f
+0 0 * * * php /home/default/html/bin/magento c:c

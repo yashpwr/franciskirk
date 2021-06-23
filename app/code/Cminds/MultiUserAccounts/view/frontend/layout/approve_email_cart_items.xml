@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <update handle="checkout_item_price_renderers"/>
+    <body>
+        <block class="Cminds\MultiUserAccounts\Block\Order\Email\Table" name="subaccounts_email_order_table"
+               template="Cminds_MultiUserAccounts::order/email/table.phtml"
+               cacheable="false">
+            <block class="Magento\Framework\View\Element\RendererList" name="checkout.cart.item.renderers"
+                   as="renderer.list">
+                <block class="Magento\Checkout\Block\Cart\Item\Renderer" as="default"
+                       template="Cminds_MultiUserAccounts::order/email/item/default.phtml"/>
+                <block class="Magento\Checkout\Block\Cart\Item\Renderer" as="simple"
+                       template="Cminds_MultiUserAccounts::order/email/item/default.phtml"/>
+                <block class="Magento\Bundle\Block\Checkout\Cart\Item\Renderer" as="bundle"
+                       template="Cminds_MultiUserAccounts::order/email/item/default.phtml"/>
+                <block class="Magento\Checkout\Block\Cart\Item\Renderer" as="virtual"
+                       template="Cminds_MultiUserAccounts::order/email/item/default.phtml"/>
+                <block class="Magento\ConfigurableProduct\Block\Cart\Item\Renderer\Configurable" as="configurable"
+                       template="Cminds_MultiUserAccounts::order/email/item/default.phtml"/>
+                <block class="Magento\Tax\Block\Sales\Order\Tax" name="tax" template="Magento_Tax::order/tax.phtml"/>
+            </block>
+            <block class="Magento\Tax\Block\Item\Price\Renderer" name="checkout.item.price.unit" template="Magento_Tax::item/price/unit.phtml"/>
+            <block class="Magento\Tax\Block\Item\Price\Renderer" name="checkout.item.price.row" template="Magento_Tax::item/price/row.phtml"/>
+        </block>
+    </body>
+</page>

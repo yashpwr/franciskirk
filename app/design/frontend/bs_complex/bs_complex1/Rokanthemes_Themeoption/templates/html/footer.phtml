@@ -1,0 +1,53 @@
+<div class="section-newsletter">
+	<div class="container">
+		<?php echo $block->getLayout()->createBlock('Magento\Newsletter\Block\Subscribe')->setTemplate('Magento_Newsletter::subscribe.phtml')->toHtml();?> 
+	</div>
+</div>
+<div class="footer-container">
+	<div class="footer-static-container">
+		<div class="container">
+			<div class="footer-static">
+				<div class="row">
+					<?php echo $this->getChildHtml("footer_static"); ?>
+					<div class="col-sm-3 col-md-4 col-xs-12">
+						<?php echo $block->getLayout()->createBlock('Rokanthemes\Onsaleproduct\Block\Onsaleproduct')->setTemplate('Rokanthemes_Onsaleproduct::onsaleproduct.phtml')->toHtml();?> 
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer-bottom">
+		<div class="container">
+			<div class="footer-bottom-inner">
+				<div class="row">
+					<div class="col-md-6 col-sm-6 col-xs-12">
+						<?php echo $this->getChildHtml("copyright"); ?>
+					</div>
+					<div class="col-md-6 col-sm-6 col-xs-12 payment-logo">
+						<?php echo $this->getChildHtml("payment"); ?>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="back-top" class="hidden-xs"><i class="fa fa-angle-up"></i></div>
+<script>
+	window.onload = function () {
+		document.body.className += " preloaded";
+	}
+</script>
+<script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=AdhUh4VEYBm82XIa1kwHpEfbEqr2WGbwHTAo8nKDYIUn4lTfBCGkB474yZYP"></script>
+
+<script type="text/javascript">
+require([
+    'jquery'
+], function ($) {
+	$(document).ajaxComplete(function() {
+	    $('.catalog-category-view .lazyOwl.lazy.product-image-photo').each(function(){
+	        var src = $(this).data('src');
+	        $(this).attr('src',src);
+	    });
+	});
+});
+</script>

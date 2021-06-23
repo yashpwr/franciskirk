@@ -1,0 +1,213 @@
+<div class="top-content-home">
+
+	<div class="banner-top-home">
+
+		<div class="container">
+
+			<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('banner_top')->toHtml();?>
+
+		</div>
+
+	</div>
+
+	<div class="box-new-sale">
+
+		<div class="container">
+
+			<div class="row">
+
+				<div class="col-xs-12 col-sm-12 col-md-3">
+
+					<?php echo $block->getLayout()->createBlock('Rokanthemes\Newproduct\Block\Newproduct')->setTemplate('Rokanthemes_Newproduct::newproduct.phtml')->toHtml();?> 
+
+				</div>
+
+				<div class="col-xs-12 col-sm-12 col-md-9">
+
+					<div class="onsale-countdown">
+
+						<?php echo $block->getLayout()->createBlock('Rokanthemes\PriceCountdown\Block\Pricecountdown')->setTemplate('Rokanthemes_PriceCountdown::pricecountdown.phtml')->toHtml();?>			
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	
+
+	<div class="section-category-tab category-tab-5">
+
+		<div class="container">
+
+			<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('cat5_slider')->toHtml();?>
+
+		</div>
+
+	</div>
+
+	
+
+	<div class="section-category-tab category-tab-1">
+
+		<div class="container">
+
+			<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('cat1_slider')->toHtml();?>
+
+		</div>
+
+	</div>
+
+	
+
+	<div class="box-banner-middle">
+
+		<div class="container">
+
+			<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('banner_middle')->toHtml();?>
+
+		</div>
+
+	</div>
+
+
+
+	<div class="section-category-tab category-tab-2">
+
+		<div class="container">
+
+			<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('cat2_slider')->toHtml();?>
+
+		</div>
+
+	</div>
+
+
+
+	<div class="box-banner-middle box-banner-middle-2">
+
+		<div class="container">
+
+			<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('banner_middle2')->toHtml();?>
+
+		</div>
+
+	</div>
+
+
+
+	<div class="section-category-tab category-tab-3">
+
+		<div class="container">
+
+			<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('cat3_slider')->toHtml();?>
+
+		</div>
+
+	</div>
+
+
+
+	<div class="box-banner-middle box-banner-middle-3">
+
+		<div class="container">
+
+			<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('banner_middle3')->toHtml();?>
+
+		</div>
+
+	</div>
+
+
+
+	<div class="section-category-tab category-tab-4">
+
+		<div class="container">
+
+			<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('cat4_slider')->toHtml();?>
+
+		</div>
+
+	</div>
+
+	
+
+	<div class="box-banner-middle box-banner-middle-4">
+
+		<div class="container">
+
+			<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('banner_middle4')->toHtml();?>
+
+		</div>
+
+	</div>
+
+
+
+	<div class="section-blog">
+
+		<div class="container">
+
+			<?php echo $block->getLayout()->createBlock('Rokanthemes\Blog\Block\Sidebar\Recent')->setTemplate('Rokanthemes_Blog::sidebar/slider.phtml')->toHtml();?>
+
+		</div>
+
+	</div>
+
+	<!--
+
+	<div class="section-brands">
+
+		<div class="container">
+
+			<?php //echo $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('section_brands')->toHtml(); ?>
+
+		</div>
+
+	</div>
+
+	-->
+
+	<!--<div class="section_testimonial">
+
+		<div class="container">
+
+			<?php //echo $block->getLayout()->createBlock('Rokanthemes\Testimonial\Block\Testimonial')->setTemplate('Rokanthemes_Testimonial::testimonial.phtml')->toHtml();?>
+
+		</div>
+
+	</div>-->
+
+	<div class="section_testimonial">
+
+		<div class="container">
+
+			<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('home_bottom')->toHtml();?>
+
+		</div>
+
+	</div>
+
+	<div class="section-services">
+
+		<div class="container">
+
+			<div class="support-footer-inner">
+
+				<div class="row">
+
+					<?php echo $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('section_services')->toHtml(); ?>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>

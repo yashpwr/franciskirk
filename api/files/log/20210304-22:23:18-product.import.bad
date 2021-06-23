@@ -1,0 +1,24 @@
+2021-03-04T22:25:02+00:00 INFO (6): ---------------- START API Cron 04/03/21 22:25:02 ----------------
+2021-03-04T22:25:11+00:00 INFO (6): {"status":"failed","sku":"ROU31984","message":"Product is not available."}
+2021-03-04T22:25:20+00:00 INFO (6): {"status":"failed","sku":"Sku","message":"Product is not available."}
+2021-03-04T22:25:43+00:00 INFO (6): {"status":"failed","sku":"RECJ918H","message":"Product is not available."}
+2021-03-04T22:25:56+00:00 INFO (6): {"status":"failed","sku":"Sku","message":"Product is not available."}
+2021-03-04T22:26:21+00:00 INFO (6): {"status":"failed","sku":"sku","message":"Product is not available."}
+2021-03-04T22:26:57+00:00 INFO (6): {"status":"failed","sku":"Sku","message":"Product is not available."}
+2021-03-04T22:27:02+00:00 INFO (6): {"status":"failed","sku":"Sku","message":"Product is not available."}
+2021-03-04T22:27:06+00:00 INFO (6): {"status":"failed","sku":"Sku","message":"Product is not available."}
+2021-03-04T22:27:10+00:00 INFO (6): {"status":"failed","sku":"Sku","message":"Product is not available."}
+2021-03-04T22:27:13+00:00 INFO (6): {"status":"failed","sku":"Sku","message":"Product is not available."}
+2021-03-04T22:27:23+00:00 INFO (6): {"status":"failed","sku":"Sku","message":"Product is not available."}
+2021-03-04T22:30:51+00:00 INFO (6): {"status":"failed","sku":"PRI99040","message":"Product is not available."}
+2021-03-04T22:31:28+00:00 INFO (6): {"status":"failed","sku":"PRIN332","message":"Product is not available."}
+2021-03-04T22:31:37+00:00 INFO (6): {"status":"failed","sku":"PRIN564","message":"Product is not available."}
+2021-03-04T22:33:04+00:00 INFO (6): {"status":"failed","sku":"B\/S22445","message":"Request does not match any route."}
+2021-03-04T22:33:05+00:00 INFO (6): {"status":"failed","sku":"Sku","message":"Product is not available."}
+2021-03-04T22:35:38+00:00 INFO (6): {"status":"failed","sku":"B\/S2010","message":"Request does not match any route."}
+2021-03-04T22:43:59+00:00 INFO (6): {"status":"failed","sku":"BRIE113651B","message":"Product is not available."}
+2021-03-04T22:45:15+00:00 INFO (6): {"status":"failed","sku":"B\/S02070","message":"Request does not match any route."}
+2021-03-04T22:45:16+00:00 INFO (6): {"status":"failed","sku":"B\/S02074","message":"Request does not match any route."}
+2021-03-04T22:45:17+00:00 INFO (6): {"status":"failed","sku":"B\/S2014","message":"Request does not match any route."}
+2021-03-04T22:54:13+00:00 INFO (6): {"status":"failed","sku":"STW5212","message":"Product is not available."}
+2021-03-04T22:56:59+00:00 INFO (6): ---------------- END API Cron 04/03/21 22:56:59 ----------------

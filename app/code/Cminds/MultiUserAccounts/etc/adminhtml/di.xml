@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Magento\Customer\Model\Customer\DataProviderWithDefaultAddresses">
+        <plugin name="subaccountCustomerDataProvider"
+                type="\Cminds\MultiUserAccounts\Ui\Plugin\Customer\Component\DataProviderWithDefaultAddresses\Plugin"
+                sortOrder="10"/>
+    </type>
+    <type name="Magento\Customer\Model\Customer\DataProviderWithDefaultAddresses">
+        <plugin name="customerDataProviderForeignFields"
+                type="\Cminds\MultiUserAccounts\Model\Plugin\Customer\DataProviderWithDefaultAddresses\Plugin"
+                sortOrder="10"/>
+    </type>
+    <type name="Magento\Customer\Ui\Component\DataProvider">
+        <plugin name="subaccountCustomerDataProvider"
+                type="\Cminds\MultiUserAccounts\Ui\Plugin\Customer\Component\DataProvider\Plugin"
+                sortOrder="10"/>
+    </type>
+    <type name="Magento\Customer\Model\Customer\DataProvider">
+        <plugin name="customerDataProviderForeignFields"
+                type="\Cminds\MultiUserAccounts\Model\Plugin\Customer\DataProvider\Plugin"
+                sortOrder="10"/>
+    </type>
+    <type name="Magento\Ui\Component\Form\Field">
+        <plugin name="customerDataProviderFieldTypeChange"
+                type="\Cminds\MultiUserAccounts\Ui\Plugin\Component\Form\Field"
+                sortOrder="10"/>
+    </type>
+</config>

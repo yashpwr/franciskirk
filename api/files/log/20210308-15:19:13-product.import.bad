@@ -1,0 +1,13 @@
+2021-03-08T15:20:02+00:00 INFO (6): ---------------- START API Cron 08/03/21 15:20:02 ----------------
+2021-03-08T15:50:38+00:00 INFO (6): {"status":"failed","sku":"64MCJ837","message":"Database deadlock found when trying to get lock"}
+2021-03-08T15:56:40+00:00 INFO (6): {"status":"failed","sku":"EUVS155","message":"Database deadlock found when trying to get lock"}
+2021-03-08T16:35:14+00:00 INFO (6): {"status":"failed","sku":"JWI137","message":"Database deadlock found when trying to get lock"}
+2021-03-08T16:35:33+00:00 INFO (6): {"status":"failed","sku":"LF4610878","message":"Database deadlock found when trying to get lock"}
+2021-03-08T16:35:41+00:00 INFO (6): {"status":"failed","sku":"LF4610878","message":"The product was unable to be saved. Please try again."}
+2021-03-08T16:35:57+00:00 INFO (6): {"status":"failed","sku":"LF46138106","message":"Database deadlock found when trying to get lock"}
+2021-03-08T16:36:17+00:00 INFO (6): {"status":"failed","sku":"LF50042S103","message":"The product was unable to be saved. Please try again."}
+2021-03-08T17:07:17+00:00 INFO (6): {"status":"failed","sku":"ZAWI100","message":"Database deadlock found when trying to get lock"}
+2021-03-08T17:07:28+00:00 INFO (6): ---------------- END API Cron 08/03/21 17:07:28 ----------------
+2021-03-08T17:07:28+00:00 INFO (6): ---------------- END API Cron 08/03/21 17:07:28 ----------------
+2021-03-08T17:07:29+00:00 INFO (6): ---------------- END API Cron 08/03/21 17:07:29 ----------------
+2021-03-08T17:07:38+00:00 INFO (6): ---------------- END API Cron 08/03/21 17:07:38 ----------------

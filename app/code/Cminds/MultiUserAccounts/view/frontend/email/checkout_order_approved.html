@@ -1,0 +1,20 @@
+<!--@subject Your Order Has Been Approved @-->
+<!--@vars {
+"var this.getUrl($store,'subaccounts/order_approve/approved/',[_nosid:1])":"Customer Account Approver Orders URL"
+} @-->
+
+{{template config_path="design/email/header_template"}}
+
+<table>
+    <tr class="email-intro">
+        <td>
+            <p class="greeting">Hello {{trans "%requester_name" requester_name=$data.requester_name}},</p>
+            <p>
+                {{trans "Your order has been approved."}}
+            </p>
+            <p>{{trans 'Currently, you can complete the order process in your customer account <a href="%account_url">logging into your account</a>.' account_url=$this.getUrl($store,'subaccounts/order_approve/approved/',[_nosid:1]) |raw}}</p>
+        </td>
+    </tr>
+</table>
+
+{{template config_path="design/email/footer_template"}}

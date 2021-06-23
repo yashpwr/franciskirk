@@ -1,0 +1,134 @@
+<?php
+
+/**
+
+ * Copyright © Magento, Inc. All rights reserved.
+
+ * See COPYING.txt for license details.
+
+ */
+
+
+
+// phpcs:disable Magento2.Templates.ThisInTemplate.FoundThis
+
+
+
+/**
+
+ * Product view template
+
+ *
+
+ * @var $block \Magento\Catalog\Block\Product\View
+
+ */
+
+?>
+
+<?php $_helper = $this->helper(Magento\Catalog\Helper\Output::class); ?>
+
+<?php $_product = $block->getProduct(); ?>
+
+
+
+<?php 
+$objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+$eavConfig = $objectManager->get('\Magento\Eav\Model\Config');
+
+$price_structure = $_product->getPriceStructure();
+$stockRegistry = $objectManager->get('\Magento\CatalogInventory\Api\StockRegistryInterface');
+$stockItem = $stockRegistry->getStockItem($_product->getId());
+
+if(!$price_structure){
+	
+	if($_product->getData('price_unit') != ''){ ?>
+		<div class="price_unit_top"><?php echo 'Per '.$_product->getData('price_unit'); ?></div>
+	<?php }
+	if($_product->getData('pack_qty') != ''){ ?>
+		<?php $pack_qty = $eavConfig->getAttribute('catalog_product', 'pack_qty'); ?>
+		<div class="pack_qty"><?php echo $pack_qty->getData('frontend_label').': '.$_product->getData('pack_qty'); ?></div>
+	<?php }
+
+} ?>
+
+<div class="product-add-form">
+
+    <form data-product-sku="<?= $block->escapeHtmlAttr($_product->getSku()) ?>"
+
+          action="<?= $block->escapeUrl($block->getSubmitUrl($_product)) ?>" method="post"
+
+          id="product_addtocart_form"<?php if ($_product->getOptions()) :?> enctype="multipart/form-data"<?php endif; ?>>
+
+        <input type="hidden" name="product" value="<?= (int)$_product->getId() ?>" />
+
+        <input type="hidden" name="selected_configurable_option" value="" />
+
+        <input type="hidden" name="related_product" id="related-products-field" value="" />
+
+        <input type="hidden" name="item"  value="<?= (int)$block->getRequest()->getParam('id') ?>" />
+
+        <?= $block->getBlockHtml('formkey') ?>
+
+        <?= $block->getChildHtml('form_top') ?>
+
+        <?php if (!$block->hasOptions()) :?>
+
+            <?= $block->getChildHtml('product_info_form_content') ?>
+
+        <?php else :?>
+
+            <?php if ($_product->isSaleable() && $block->getOptionsContainer() == 'container1') :?>
+
+                <?= $block->getChildChildHtml('options_container') ?>
+
+            <?php endif;?>
+
+        <?php endif; ?>
+
+
+
+        <?php if ($_product->isSaleable() && $block->hasOptions() && $block->getOptionsContainer() == 'container2') :?>
+
+            <?= $block->getChildChildHtml('options_container') ?>
+
+        <?php endif;?>
+
+        <?= $block->getChildHtml('form_bottom') ?>
+
+    </form>
+
+</div>
+
+
+
+<script>
+
+    require([
+
+        'jquery',
+
+        'priceBox'
+
+    ], function($){
+
+        var dataPriceBoxSelector = '[data-role=priceBox]',
+
+            dataProductIdSelector = '[data-product-id=<?= $block->escapeHtml($_product->getId()) ?>]',
+
+            priceBoxes = $(dataPriceBoxSelector + dataProductIdSelector);
+
+
+
+        priceBoxes = priceBoxes.filter(function(index, elem){
+
+            return !$(elem).find('.price-from').length;
+
+        });
+
+        priceBoxes.priceBox({'priceConfig': <?= /* @noEscape */ $block->getJsonConfig() ?>});
+
+    });
+
+</script>
+

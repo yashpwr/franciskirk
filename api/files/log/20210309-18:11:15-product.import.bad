@@ -1,0 +1,15 @@
+2021-03-09T20:18:23+00:00 INFO (6): ---------------- START API Cron 09/03/21 20:18:23 ----------------
+2021-03-09T20:18:23+00:00 INFO (6): ---------------- START API Cron 09/03/21 20:18:23 ----------------
+2021-03-09T20:18:24+00:00 INFO (6): ---------------- START API Cron 09/03/21 20:18:24 ----------------
+2021-03-09T20:18:24+00:00 INFO (6): ---------------- START API Cron 09/03/21 20:18:24 ----------------
+2021-03-09T20:18:24+00:00 INFO (6): ---------------- START API Cron 09/03/21 20:18:24 ----------------
+2021-03-09T20:20:56+00:00 INFO (6): {"status":"failed","sku":"HB5114C2Z","message":"The product was unable to be saved. Please try again."}
+2021-03-09T20:20:57+00:00 INFO (6): {"status":"failed","sku":"HB5114C2Z","message":"The product was unable to be saved. Please try again."}
+2021-03-09T20:20:58+00:00 INFO (6): {"status":"failed","sku":"HB5114C2Z","message":"The product was unable to be saved. Please try again."}
+2021-03-09T20:20:59+00:00 INFO (6): {"status":"failed","sku":"HB5114C2Z","message":"The product was unable to be saved. Please try again."}
+2021-03-09T20:21:01+00:00 INFO (6): {"status":"failed","sku":"HB5114C2Z","message":"The product was unable to be saved. Please try again."}
+2021-03-09T20:21:16+00:00 INFO (6): {"status":"failed","sku":"HB5118C3Z","message":"The product was unable to be saved. Please try again."}
+2021-03-09T20:21:26+00:00 INFO (6): {"status":"failed","sku":"HB514C38Z","message":"The product was unable to be saved. Please try again."}
+2021-03-09T21:12:39+00:00 INFO (6): ---------------- END API Cron 09/03/21 21:12:39 ----------------
+2021-03-09T21:12:39+00:00 INFO (6): ---------------- END API Cron 09/03/21 21:12:39 ----------------
+2021-03-09T21:12:39+00:00 INFO (6): ---------------- END API Cron 09/03/21 21:12:39 ----------------

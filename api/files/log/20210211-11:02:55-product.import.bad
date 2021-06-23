@@ -1,0 +1,22 @@
+2021-02-11T11:05:02+00:00 INFO (6): ---------------- START API Cron 11/02/21 11:05:02 ----------------
+2021-02-11T11:05:11+00:00 INFO (6): {"status":"failed","sku":"CB14","message":"Invalid product data: %1"}
+2021-02-11T11:05:12+00:00 INFO (6): {"status":"failed","sku":"CB15","message":"Invalid product data: %1"}
+2021-02-11T11:05:12+00:00 INFO (6): {"status":"failed","sku":"CB16","message":"Invalid product data: %1"}
+2021-02-11T11:05:13+00:00 INFO (6): {"status":"failed","sku":"CB17","message":"Invalid product data: %1"}
+2021-02-11T11:05:14+00:00 INFO (6): {"status":"failed","sku":"CB18","message":"Invalid product data: %1"}
+2021-02-11T11:05:15+00:00 INFO (6): {"status":"failed","sku":"CB19","message":"Invalid product data: %1"}
+2021-02-11T11:15:06+00:00 INFO (6): {"status":"failed","sku":"MEMCAP24180","message":"The product was unable to be saved. Please try again."}
+2021-02-11T11:15:20+00:00 INFO (6): {"status":"failed","sku":"MEMCAP30100","message":"The product was unable to be saved. Please try again."}
+2021-02-11T11:17:25+00:00 INFO (6): {"status":"failed","sku":"MEMCAP635","message":"The product was unable to be saved. Please try again."}
+2021-02-11T11:17:37+00:00 INFO (6): {"status":"failed","sku":"MEMCAP640","message":"The product was unable to be saved. Please try again."}
+2021-02-11T11:17:49+00:00 INFO (6): {"status":"failed","sku":"MEMCAP645Z","message":"The product was unable to be saved. Please try again."}
+2021-02-11T11:18:00+00:00 INFO (6): {"status":"failed","sku":"MEMCAP660","message":"The product was unable to be saved. Please try again."}
+2021-02-11T11:18:12+00:00 INFO (6): {"status":"failed","sku":"MEMCAP670Z","message":"The product was unable to be saved. Please try again."}
+2021-02-11T11:18:24+00:00 INFO (6): {"status":"failed","sku":"MEMCAP8100Z","message":"The product was unable to be saved. Please try again."}
+2021-02-11T11:18:36+00:00 INFO (6): {"status":"failed","sku":"MEMCAP816","message":"The product was unable to be saved. Please try again."}
+2021-02-11T11:18:47+00:00 INFO (6): {"status":"failed","sku":"MEMCAP820","message":"The product was unable to be saved. Please try again."}
+2021-02-11T11:18:59+00:00 INFO (6): {"status":"failed","sku":"MEMCAP825","message":"The product was unable to be saved. Please try again."}
+2021-02-11T11:19:08+00:00 INFO (6): {"status":"failed","sku":"MEMCAP825Z","message":"Database deadlock found when trying to get lock"}
+2021-02-11T11:19:10+00:00 INFO (6): {"status":"failed","sku":"MEMCAP830","message":"The product was unable to be saved. Please try again."}
+2021-02-11T11:21:05+00:00 INFO (6): ---------------- END API Cron 11/02/21 11:21:05 ----------------
+2021-02-11T11:21:06+00:00 INFO (6): ---------------- END API Cron 11/02/21 11:21:06 ----------------

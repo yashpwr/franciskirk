@@ -1,0 +1,25 @@
+<!--@subject Order Approve Request @-->
+<!--@vars {
+"var this.getUrl($store,'subaccounts/order_approve/waiting/',[_nosid:1])":"Customer Account Approver Orders URL"
+"var data.approve_url":"Order Approve Url",
+"layout handle=\"approve_email_cart_items\" area=\"frontend\"":"Quote Items Grid"
+} @-->
+
+{{template config_path="design/email/header_template"}}
+
+<table>
+    <tr class="email-intro">
+        <td>
+            <p class="greeting">{{trans "Hello %approver_name," approver_name=$data.approver_name}}</p>
+            <p>{{trans "%requester_name has send order to approve." requester_name=$data.requester_name}}</p>
+            <p>{{trans 'You can approve or reject this order by clicking the appropriate link in the orders waiting for the approval grid in your customer account <a href="%account_url">logging into your account</a>.' account_url=$this.getUrl($store,'subaccounts/order_approve/waiting/',[_nosid:1]) |raw}}</p>
+
+            {{layout handle="approve_email_cart_items" area="frontend"}}
+
+            <p>{{trans 'OR'}}</p>
+            <p>{{trans 'You can approve this order right now by <a href="%approve_url">clicking on this link</a>.' approve_url=$data.approve_url |raw}}</p>
+        </td>
+    </tr>
+</table>
+
+{{template config_path="design/email/footer_template"}}

@@ -1,0 +1,75 @@
+<?php
+/**
+ * Copyright © 2016 TuanHatay. All rights reserved.
+ */
+
+?>
+<?php
+/**
+ * Top menu for store
+ *
+ * @see \Rokanthemes\VerticalMenu\Block\Verticalmenu
+ */
+?>
+<?php
+    $_helper = $this->helper('Rokanthemes\VerticalMenu\Helper\Data');
+    $_config = $_helper->getConfig('verticalmenu');
+    $columnsLimit = 0;
+    if($_config['general']['enable']) {
+?>
+<?php $_menu = $block->getVerticalMenuHtml(); ?>
+
+<nav class="navigation verticalmenu side-verticalmenu">
+	<h2 class="title-category-dropdown">
+		<i class="fa fa-navicon"></i>
+		<span><?php echo __('All Categories'); ?></span>
+		<i class="fa fa-chevron-up"></i>
+	</h2>
+    <ul class="list-category-dropdown">
+        <?php echo $_menu; ?>
+        <li class="expand-category-link">
+        	<i class="fa fa-plus"></i>
+        	<span><?php echo __('More Categories') ?></span>
+        </li>
+	</ul>
+</nav>
+
+<script type="text/javascript">
+    require([
+        'jquery',
+        'rokanthemes/verticalmenu'
+    ], function ($) {
+        $(".verticalmenu").VerticalMenu();
+        //$('.cms-index-index .side-verticalmenu').addClass('open');
+		$('.title-category-dropdown').click(function(event){
+			if ($('.side-verticalmenu').hasClass('open'))
+				$('.side-verticalmenu').removeClass('open');
+			else
+				$('.side-verticalmenu').addClass('open');
+		});
+		$( document ).ready(function() {
+			var lenghtLi = $('.navigation.verticalmenu .ui-menu-item.level0').length;
+			var limitItemShow = <?php echo $block->getConfig('limit_show'); ?>;
+			if(lenghtLi > limitItemShow)
+			{
+				$('.navigation.verticalmenu .ui-menu-item.level0').each(function( index ) {
+					if(index >= (limitItemShow - 1))
+					{
+						$(this).addClass('orther-link');
+						$(this).hide();
+					}
+				});
+				$('.navigation.verticalmenu .expand-category-link').show();
+				$('.navigation.verticalmenu .expand-category-link').on( "click", function() {
+					$(this).toggleClass('expanding');
+					$('.navigation.verticalmenu .ui-menu-item.level0.orther-link').slideToggle('slow');
+				});
+			}else {
+				$('.expand-category-link').addClass('hidden');
+			}
+		});
+    });
+</script>
+<?php
+    }
+?>

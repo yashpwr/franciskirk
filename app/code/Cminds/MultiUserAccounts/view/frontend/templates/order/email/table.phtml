@@ -1,0 +1,32 @@
+<?php $quotes = $block->getQuotes(); ?>
+<?php if ($quotes) : ?>
+    <div class="table-wrapper order-approve-manage">
+        <?php foreach($quotes as $quote) : ?>
+            <?php $items = $block->getQuoteItems($quote->getId()); ?>
+            <?php if (count($items) > 0) : ?>
+                <h2><?= __('Order Items For Approval (#%1)', $quote->getId()) ?></h2>
+                <table id="order-approve-manage-items-table" class="items data table" width="100%">
+                    <thead>
+                        <tr>
+                            <th class="col item" scope="col" width="10%"></th>
+                            <th class="col item" scope="col" width="40%"><span><?= $block->escapeHtml(__('Item')) ?></span></th>
+                            <th class="col price" scope="col" width="20%"><span><?= $block->escapeHtml(__('Price')) ?></span></th>
+                            <th class="col qty" scope="col" width="10%"><span><?= $block->escapeHtml(__('Qty')) ?></span></th>
+                            <th class="col subtotal" scope="col" width="20%"><span><?= $block->escapeHtml(__('Subtotal')) ?></span></th>
+                        </tr>
+                    </thead>
+                    <?php foreach ($items as $item): ?>
+                        <?= $block->getItemHtml($item) ?>
+                    <?php endforeach ?>
+                </table>
+            <?php endif ?>
+        <?php endforeach; ?>
+    </div>
+<?php endif; ?>
+<style>
+    .order-approve-manage th.col,
+    .order-approve-manage .cart.item {
+        border-bottom: 1px solid #cccccc;
+        position: relative;
+    }
+</style>

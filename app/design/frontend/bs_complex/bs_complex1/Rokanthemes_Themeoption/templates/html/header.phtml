@@ -1,0 +1,249 @@
+<?php
+
+$objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+
+$storeManager = $objectManager->get('Magento\Store\Model\StoreManagerInterface'); 
+
+$currentStore = $storeManager->getStore();
+
+$mediaUrl = $currentStore->getBaseUrl(\Magento\Framework\UrlInterface::URL_TYPE_MEDIA);
+
+$customerSession = $objectManager->get('Magento\Customer\Model\SessionFactory')->create();
+$hidePaymentMethod = false;
+if($customerSession->isLoggedIn()){
+	if($customerSession->getCustomer()->getAccountFlag()){
+		$hidePaymentMethod = true;
+	}
+}
+
+?>
+
+<link data-value="<?php echo ($hidePaymentMethod) ? $hidePaymentMethod : '0'; ?>" rel="stylesheet" type="text/css" media="all" href="<?php echo $mediaUrl.'css/custom_dev.css?ver='.time(); ?>">
+
+
+
+<div class="block-social on_right hidden-sm hidden-xs">
+
+	<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('social')->toHtml();?>
+
+</div>
+
+<div class="header-container">
+
+	<div class="top-link-container">
+
+		<div class="container">
+
+			<div class="row">
+
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 top-bar">
+
+					<?php echo $this->getChildHtml("store_switcher"); ?>
+
+					<?php echo $this->getChildHtml("store_language"); ?>
+
+					<?php echo $this->getChildHtml("currency"); ?>
+
+					<span class="txt-welcome">
+
+						<?php echo $this->helper('Rokanthemes\RokanBase\Helper\Data')->getConfigData('design/header/welcome'); ?>
+
+					</span>
+
+				</div>
+
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 end-top-bar">
+
+					<?php //echo $this->getChildHtml("top.search"); ?>
+
+					<?php echo $this->getChildHtml("minicart"); ?>
+
+					<?php echo $this->getChildHtml("top_link"); ?>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class="header">
+
+		<div class="container">
+
+			<div class="row">
+
+				<div class="col-md-3 col-sm-3 col-xs-12 col-logo">
+
+					<?php echo $this->getChildHtml("logo"); ?>
+
+				</div>
+
+				<div class="col-md-9 col-sm-9 col-xs-12 col-search">	
+
+					<?php //echo $this->getChildHtml("minicart");?>
+
+					<?php echo $this->getChildHtml("topSearch");?>	
+
+					<?php //echo $this->getChildHtml("top.search"); ?>
+
+					<?php //echo $this->getChildHtml("top.navigation.sections"); ?>	
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class="nav-menus">
+
+		<div class="container">
+
+			<div class="row">
+
+				<div class="col-md-3 col-sm-12 categories-nav">
+
+					<?php echo $this->getChildHtml("top.navigation.sections"); ?>	
+
+				</div>
+
+				<div class="col-md-9 col-sm-12 wraper-main-nav">
+
+					<div class="visible-xs visible-sm icon-menu-bar">
+
+						<div class="toggle-action">
+
+							<div class="menu-line"></div>
+
+							<div class="menu-line"></div>
+
+							<div class="menu-line"></div>
+
+						</div>
+
+					</div>		
+
+					<?php echo $block->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('main-nav')->toHtml();?>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+<?php if ($this->helper('Rokanthemes\Themeoption\Helper\Themeconfig')->isEnableStickyHeader()): ?>
+
+<script type="text/javascript">
+
+	require(['jquery'],function($){
+
+		$(document).ready(function($){
+
+			var screenWidth = $(window).width();
+
+			var num = $('.header-container').outerHeight();
+
+			var flag = true;
+
+			function scrollSticky() {
+
+				$(window).scroll(function() {
+
+					if ($(this).scrollTop() > num && screenWidth >= 991 ){  
+
+						$(".header-container").addClass("sticky");
+
+						$('.side-verticalmenu').removeClass('open');
+
+						var width_container = $(".header-container .container").outerWidth();
+
+						var fixed_right = (screenWidth - width_container) / 2;
+
+						$(".header-container.sticky .minicart-wrapper").css('right', fixed_right+'px');
+
+					}else if( $(this).scrollTop() <= num && screenWidth >= 991 ){
+
+						$(".header-container").removeClass("sticky");
+
+						//$('.cms-index-index .side-verticalmenu').addClass('open');
+
+						$(".header-container .minicart-wrapper").css('right', 'initial');
+
+					}else {
+
+						$(".header-container").removeClass("sticky");
+
+					}
+
+					
+
+				});
+
+			}
+
+			scrollSticky();
+
+
+
+			$(window).resize(function(){
+
+				screenWidth = $(window).width();
+
+				scrollSticky();
+
+			});
+
+        	////********DOOFINDER CODE*****************////
+
+        	var dfUrl = '//cdn.doofinder.com/media/js/doofinder-fullscreen.7.latest.min.js';
+        	(function(c,o,k,e){var r,t,i=setInterval(function(){t+=c;r=typeof(require)==='function';
+        		if(t>=o||r)clearInterval(i);if(r)require([k],e)},c)})(100, 10000, dfUrl, function(doofinder){
+        			doofinder.fullscreen.setLayers([{
+        				"hashid": "ed4d51efde79280651fd9600cd129619",
+        				"zone": "eu1",
+        				"display": {
+        					"lang": "en",
+        					"templateVars": {
+        						"topbarLogo": "https://franciskirk.shop/pub/media/logo/stores/1/Francis_Kirk_Logo_1.png",
+        						"topbarLogoLink": "https://franciskirk.shop/"
+        					}
+        				},
+        				"toggleInput": "#search"
+        			}]);
+        		});
+
+
+        	});
+
+	});
+
+</script>
+
+<?php endif; ?>
+
+<script type="text/javascript">
+
+	require(['jquery'],function($){
+
+		$(document).ready(function($){
+
+			var widthMobile = $(window).width();
+
+			if ( widthMobile < 991 ) {
+
+				$('.side-verticalmenu').removeClass('open');
+
+			}
+
+		});
+
+	});
+
+</script>

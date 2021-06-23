@@ -1,0 +1,191 @@
+<?php 
+	use Magento\Framework\App\Action\Action;
+	$enable = $block->getConfig('enabled');
+	if($enable < 1) return ; 
+	$items = $block->getConfig('items');
+	$speed = $block->getConfig('speed');
+	$qty = $block->getConfig('qty');
+	$showCart = $block->getConfig('addtocart');
+	$showWishlist = $block->getConfig('wishlist');
+	$showCompare = $block->getConfig('compare');
+	$show_navigation = $block->getConfig('navigation');
+	$show_pagination = $block->getConfig('pagination');
+	$auto = $block->getConfig('auto');
+	$rows = 2;
+	$title = $block->getTitle(); 
+	$identify = trim($block->getIdentify()); 
+	$categoryIds = $block->getCategoryIds();
+	$categoryIds = explode(',', $categoryIds);
+	$isEnableQuickView = $this->helper('Rokanthemes\QuickView\Helper\Data')->isEnable();
+
+	$productsOnRow = 2 ;
+	if(!$productsOnRow) $productsOnRow = 3;
+
+?>
+
+<div class="categorytab-container">
+<div class="rokan-product-heading rokan-featured-heading">
+	<?php 	echo '<h2>'.$title.'</h2>'; ?>
+</div>
+  <ul class="tabs tabs<?php echo '-'.$identify;?>"> 
+   <?php 
+	$k = 0;
+	foreach($categoryIds as $cate_id) {
+		$cate_model =  $block->getCategory($cate_id);
+		$cateName = $cate_model->load($cate_id)->getName();
+		//echo "<pre>"; print_r($cate_model->getData()); die; 
+		if($cateName) {
+   ?>
+			<li class="<?php if($k==0){ echo "active"; }?>" rel="tab<?php echo trim($cate_id).'-'.$identify;?>"><?php  echo $cateName; ?></li>
+	<?php }  $k++; } ?>
+    </ul>
+     <?php 
+		
+		$imageBlock =  $block->getLayout()->createBlock('Magento\Catalog\Block\Product\Image');
+		$image = 'new_products_content_widget_grid';
+		$type = 'widget-new-grid';
+		$templateType = \Magento\Catalog\Block\Product\ReviewRendererInterface::DEFAULT_VIEW;
+		$showWishlist = true;
+		$showCompare = true;
+		$showCart = true;
+	?>
+	<div class="tab_container"> 
+		<?php foreach($categoryIds as $cate_id) { ?>
+		<div id="tab<?php echo trim($cate_id).'-'.$identify;?>" class="tab_content_<?php echo $identify; ?>"> 
+				
+			<div class="owl-container">
+				<div class="category_tab_slider owl-carousel">
+					<?php 
+					$newItems =  $block -> getProductCate($cate_id)->getItems(); 
+					$i=0;
+					foreach($newItems as $_item) { 
+						$productImage = $block->getImage($_item, $image);
+					?>
+					<?php if($i++%$rows==0) { ?> <div class="product_row"> <?php } ?>
+						<div class="item-product">
+							<div class="content-item-product">
+								<div class="product-thumb">
+									<a href="<?php /* @escapeNotVerified */ echo $_item->getProductUrl() ?>" class="product-thumb-link">
+										<?php $productImageThumb = $block->getImage($_item, 'category_page_grid-1');?>
+										<span class="first-thumb">
+											<?php echo $productImage->toHtml(); ?>
+										</span>
+										<span class="second-thumb">
+											<?php echo $productImageThumb->toHtml(); ?>
+										</span>
+									</a>
+									<?php if ($isEnableQuickView): ?>
+									<div class="quickview-product">
+										<a  data-role="quickview-button" data-id="<?php echo $_item->getId(); ?>" href="javascript: void(0);" data-href="<?php echo $block->getUrl('quickview/product/quickview/id/' . $_item->getId()) ?>" title="<?php echo __('Quick view');?>"><i class="fa fa-eye"></i></a>
+								    </div>
+								    <?php endif; ?>
+									<?php if ( $_item->getFinalPrice() < $_item->getPrice() ): ?>
+										<span class="onsale">
+											<span class="sale-bg"></span>
+											<span class="sale-text"><?php echo __('Sale') ?></span>
+										</span>
+									<?php endif; ?>
+									<?php $todayDate = time(); 
+										$timeStartNew = strtotime($_item->getData('news_from_date'));
+										$timeEndNew = strtotime($_item->getData('news_to_date')); ?>
+									<?php if ( $timeEndNew >= $todayDate && $timeStartNew <= $todayDate): ?>
+										<span class="newlabel">
+											<span><?php echo __('New') ?></span>
+										</span>
+									<?php endif; ?>
+							    </div>
+							    <div class="product-info">
+									<h3 class="title-product">
+			 							<a title="<?php echo $_item->getName(); ?>" href="<?php /* @escapeNotVerified */ echo $_item->getProductUrl() ?>" class="product-item-link">
+											<?php echo $_item->getName(); ?>
+										</a>
+									</h3>
+									<div class="info-price">
+										<?php /* @escapeNotVerified */ echo $this->helper('Rokanthemes\Themeoption\Helper\Data')->getPriceDisplayCustom($block->getProductPrice($_item)) ?>
+									</div>
+							    </div>
+				              	<div class="product-info-cart">
+					                <?php if ($showWishlist || $showCompare || $showCart): ?>
+					                  <ul class="product-extra-link add-to-links">
+
+										<?php if ($showWishlist || $showCompare): ?>
+											<?php if ($this->helper('Magento\Wishlist\Helper\Data')->isAllow() && $showWishlist): ?>
+											<li>
+												<a href="#"
+												   data-post='<?php echo $block->getAddToWishlistParams($_item); ?>'
+												   class="wishlist-link action towishlist" data-action="add-to-wishlist"
+												   title="<?php echo __('Add to Wishlist') ?>">
+													<i class="fa fa-heart" aria-hidden="true"></i><?php echo __('Wishlist') ?>
+												</a>
+											</li>
+											<?php endif; ?>
+											<?php if ($block->getAddToCompareUrl() && $showCompare): ?>
+											<?php $compareHelper = $this->helper('Magento\Catalog\Helper\Product\Compare');?>
+												<li>
+													<a href="#" class="compare-link action tocompare"
+													   data-post='<?php echo $compareHelper->getPostDataParams($_item);?>'
+													   title="<?php echo __('Add to Compare') ?>">
+														<i class="fa fa-retweet" aria-hidden="true"></i><?php echo __('Compare') ?>
+													</a>
+												</li>
+					                        
+												<?php endif; ?>
+											<?php endif; ?>
+										</ul>
+		  							<?php endif; ?>
+	  							</div>
+								
+							</div>
+
+						</div>
+
+							
+							<?php if($i%$rows==0 || $i == count($newItems)) { ?> </div> <?php }?>
+					<?php 
+					}
+					?>
+				</div>
+			</div>	
+			
+		 </div><!-- #tab1 -->
+		 <?php }?>
+
+		 
+	 </div> <!-- .tab_container --> 
+</div>
+<script type="text/javascript">
+require([
+	'jquery',
+	'mage/mage',
+	'rokanthemes/owl'
+], function ($) {
+	'use strict';
+
+	jQuery(".tab_content_<?php echo $identify; ?>").hide();
+	jQuery(".tab_content_<?php echo $identify; ?>:first").show(); 
+
+	jQuery("ul.tabs<?php echo '-'.$identify;?> li").click(function() {
+		jQuery("ul.tabs<?php echo '-'.$identify;?> li").removeClass("active");
+		jQuery(this).addClass("active");
+		jQuery(".tab_content_<?php echo $identify; ?>").hide();
+		var activeTab = $(this).attr("rel"); 
+		jQuery("#"+activeTab).fadeIn(); 
+	});
+	
+	 jQuery(".category_tab_slider").owlCarousel({
+		items : 3,
+		autoPlay : <?php if($auto) echo 'true'; else echo 'false'; ?>,
+		slideSpeed : <?php if($speed) echo $speed; else echo '500'; ?>,
+		navigation : <?php if($show_navigation) echo 'true'; else echo 'false'; ?>,
+		stopOnHover : true,
+		pagination : false,
+		itemsDesktop : [1199,3],
+		itemsDesktopSmall : [992,3],
+		itemsTablet: [767,2],
+		itemsMobile : [479,1]
+	});
+	
+});
+ 
+
+</script> 

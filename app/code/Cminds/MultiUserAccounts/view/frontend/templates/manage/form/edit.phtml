@@ -1,0 +1,420 @@
+<?php
+/**
+ * Cminds MultiUserAccounts frontend subaccount edit template.
+ *
+ * @category Cminds
+ * @package  Cminds_MultiUserAccounts
+ * @author   Cminds Team <info@cminds.com>
+ */
+?>
+<?php
+/** @var \Cminds\MultiUserAccounts\Block\Manage\Form\Edit $block */
+?>
+<?php
+$canManageSub = $block->getCanManageSubaccounts();
+
+?>
+<form class="form form-edit-account"
+      action="<?= $block->escapeUrl($block->getFormActionUrl()) ?>"
+      method="post"
+      id="form-validate"
+      enctype="multipart/form-data"
+      data-hasrequired="<?= __('* Required Fields') ?>"
+      autocomplete="off">
+
+    <fieldset class="fieldset info">
+        <?= $block->getBlockHtml('formkey')?>
+        <legend class="legend">
+            <span><?= __('Subaccount Information') ?></span>
+        </legend><br>
+
+        <?php if ($block->getSubaccount()->getId()) : ?>
+            <input type="hidden"
+                   name="id"
+                   value="<?= $block->escapeHtml($block->getSubaccount()->getId()) ?>"/>
+        <?php endif; ?>
+
+        <div class="field field-name-firstname required">
+            <label class="label"
+                   for="firstname">
+                <span><?= __('First Name') ?></span>
+            </label>
+            <div class="control">
+                <input type="text"
+                       id="firstname"
+                       name="firstname"
+                       title="<?= __('First Name') ?>"
+                       class="input-text"
+                       data-validate="{required:true}"
+                       value="<?= $block->escapeHtml($block->getSubaccount()->getFirstname()) ?>"
+                    <?php if ($canManageSub) {
+                        echo '';
+
+                    } else {
+                        echo 'disabled';
+                    } ?>/>
+            </div>
+        </div>
+
+        <div class="field field-name-lastname required">
+            <label class="label"
+                   for="lastname">
+                <span><?= __('Last Name') ?></span>
+            </label>
+            <div class="control">
+                <input type="text"
+                       id="lastname"
+                       name="lastname"
+                       title="<?= __('Last Name') ?>"
+                       class="input-text"
+                       data-validate="{required:true}"
+                       value="<?= $block->escapeHtml($block->getSubaccount()->getLastname()) ?>"
+                    <?php if ($canManageSub) {
+                        echo '';
+
+                    } else {
+                        echo 'disabled';
+                    } ?>/>
+            </div>
+        </div>
+
+        <?php if (!$block->isLoginAuthEnabled()): ?>
+            <div class="field field-name-email required">
+                <label class="label"
+                       for="email">
+                    <span><?= __('Email') ?></span>
+                </label>
+                <div class="control">
+                    <input type="email"
+                           id="email"
+                           name="email"
+                           title="<?= __('Email') ?>"
+                           class="input-text"
+                           data-validate="{required:true, 'validate-email':true}"
+                           value="<?= $block->escapeHtml($block->getSubaccount()->getEmail()) ?>"
+                        <?php if ($canManageSub) {
+                            echo '';
+
+                        } else {
+                            echo 'disabled';
+                        } ?>/>
+                </div>
+            </div>
+        <?php else: ?>
+            <div class="field field-name-nickname required">
+                <label class="label"
+                       for="login">
+                    <span><?= __('Login') ?></span>
+                </label>
+                <div class="control">
+                    <input type="text"
+                           id="login"
+                           name="login"
+                           title="<?= __('Login') ?>"
+                           class="input-text"
+                           data-validate="{required:true}"
+                           value="<?= $block->escapeHtml($block->getSubaccount()->getLogin()) ?>"
+                        />
+                </div>
+                <div class="comment">
+                    <?php echo __('Your subaccount will use your email + his login + password for authorization'); ?>
+                </div>
+            </div>
+        <?php endif; ?>
+
+        <div class="field field-name-is-active required">
+            <?php
+            $customerId = $block->getSubaccount()->getCustomerId();
+            $isActive = null;
+            if ($customerId !== null) {
+                $isActive = $block->getIsActive($customerId);
+            }
+            if ($isActive === null) {
+                $isActive = 1;
+            }
+            ?>
+            <input type="checkbox"
+                   name="is_active"
+                   id="is-active"
+                   value="1"
+                   title="<?= __('Is Active') ?>"
+                   class="checkbox" <?php if ($isActive) : ?>checked="checked"<?php endif; ?>/>
+            <label class="label"
+                   for="is-active">
+                <span><?= __('Is Active') ?></span>
+            </label>
+        </div>
+    </fieldset>
+
+    <fieldset class="fieldset access">
+        <legend class="legend">
+            <span><?= __('Password') ?></span>
+        </legend><br>
+
+        <div class="field password required">
+            <label class="label"
+                   for="password">
+                <span><?= __('Password') ?></span>
+            </label>
+            <div class="control">
+                <input type="password"
+                       class="input-text"
+                       name="password"
+                       id="password"
+                       autocomplete="off"
+                    <?php if ($canManageSub) {
+                        echo '';
+
+                    } else {
+                        echo 'disabled';
+                    } ?>/>
+            </div>
+        </div>
+        <div class="field confirm password required">
+            <label class="label"
+                   for="password-confirmation">
+                <span><?= __('Confirm Password') ?></span>
+            </label>
+            <div class="control">
+                <input type="password"
+                       class="input-text"
+                       name="password_confirmation"
+                       id="password-confirmation"
+                       autocomplete="off"
+                    <?php if ($canManageSub) {
+                        echo '';
+                    } else {
+                        echo 'disabled';
+                    } ?>/>
+            </div>
+        </div>
+
+        <?php
+        $showTaxVat = $block->showTaxVatConfiguration();
+        $isForced = (bool) $block->getSubaccount()->getForceUsageParentVatPermission();
+        if (!empty($showTaxVat)) : ?>
+            <div class="field taxvat taxvat-hidden
+                <?php
+                if ($showTaxVat === 'req') { echo 'required'; }
+                if ($isForced) { echo " hidden"; }
+                ?>"
+            >
+                <label class="label"
+                       for="taxvat">
+                    <span><?= __('Tax/VAT Number') ?></span>
+                </label>
+                <div class="control">
+                    <input type="text"
+                           value="<?= $block->getSubaccount()->getTaxvat(); ?>"
+                           class="input-text"
+                           name="taxvat"
+                           id="taxvat"/>
+                </div>
+            </div>
+        <?php endif; ?>
+
+        <?php /*
+        $_taxvat = $block->getLayout()->createBlock('Magento\Customer\Block\Widget\Taxvat') ?>
+        <?php if ($_taxvat->isEnabled()): ?>
+            <div class = 'taxvat-hidden<?php if($isForced) echo " hidden"; ?>'>
+            <?= $_taxvat->setTaxvat($block->getFormData()->getTaxvat())->toHtml() ?>
+            </div>
+        <?php endif; */
+
+        // Date of birth
+        $_dob = $block->getLayout()->createBlock('Magento\Customer\Block\Widget\Dob');
+        if ($_dob->isEnabled()) {
+            echo $_dob->setDate($block->getSubaccount()->getDob())->toHtml();
+        }
+        // gender
+        $_gender = $block->getLayout()->createBlock('Magento\Customer\Block\Widget\Gender');
+        if ($_gender->isEnabled()) {
+            echo $_gender->setGender($block->getSubaccount()->getGender())->toHtml();
+        }
+        ?>
+    </fieldset>
+
+    <fieldset class="fieldset permissions">
+        <legend class="legend">
+            <span><?= __('Permissions') ?></span>
+        </legend><br>
+
+        <?php $permissions = $block->getPermissions();
+        foreach ($permissions as $permissionCode => $permissionData) : ?>
+            <?php
+            // skip permission display if global setting disabled
+            if (false === $this->getParentCanSeeSubaccountsOrderHistory()
+                && 'account_order_history_view_permission' === $permissionCode
+            ) {
+                continue;
+            }
+            $isForced = $block->isPermissionForced($permissionCode);
+            ?>
+            <div class="field <?= $block->getPermissionHtmlId($permissionCode) ?>">
+                <?php $permission = $block->getSubaccount()->{$block->getPermissionGetter($permissionCode)}(); ?>
+                <input type="checkbox"
+                       name="<?= $permissionCode ?>"
+                       id="<?= $block->getPermissionHtmlId($permissionCode) ?>"
+                       value="1"
+                    <?= empty($permissionData['disabled']) && !$isForced ? '' : 'disabled="disabled"' ?>
+                       title="<?= $permissionData['description'] ?>"
+                       class="checkbox" <?php if ($permission || $isForced) :
+                            ?>checked="checked"<?php
+                                        endif; ?>/>
+                <label class="label" for="<?= $block->getPermissionHtmlId($permissionCode) ?>">
+                    <span><?= $permissionData['description'] ?></span>
+                </label>
+            </div>
+        <?php endforeach; ?>
+    </fieldset>
+    <script type="text/x-magento-init">
+        {
+            "#checkout-order-approval-permission": {
+                "Cminds_MultiUserAccounts/js/input_dependency": {}
+            }
+        }
+    </script>
+
+    <fieldset class="fieldset additional-configuration">
+        <legend class="legend">
+            <span><?= __('Additional Configuration') ?></span>
+        </legend><br>
+
+        <div class="field field-name-manage-order-max-amount hidden">
+            <label class="label"
+                   for="manage_order_max_amount">
+                <span><?= __('Order Amount Without Approval') ?></span>
+            </label>
+            <div class="control">
+                <input type="text"
+                       id="manage_order_max_amount"
+                       name="additional_information[manage_order_max_amount]"
+                       title="<?= __('Order Amount Without Approval') ?>"
+                       class="input-text required-entry"
+                       data-validate="{required:false}"
+                       value="<?= $block->escapeHtml($block->getSubaccount()->getAdditionalInformationValue('manage_order_max_amount')) ?>"/>
+            </div>
+            <div class="comment">
+                <?php echo __('"Can Create Order" permission has to be set.'); ?>
+            </div>
+        </div>
+
+        <div class="field field-name-manage-order-approval-permission-amount">
+            <label class="label"
+                   for="manage_order_approval_permission_amount">
+                <span><?= __('Order Approval Permission Amount') ?></span>
+            </label>
+            <div class="control">
+                <input type="text"
+                       id="manage_order_approval_permission_amount"
+                       name="additional_information[manage_order_approval_permission_amount]"
+                       title="<?= __('Order Approval Permission Amount') ?>"
+                       class="input-text required-entry"
+                       data-validate="{required:false}"
+                       value="<?= $block->escapeHtml($block->getSubaccount()->getAdditionalInformationValue('manage_order_approval_permission_amount')) ?>"/>
+            </div>
+            <div class="comment">
+                <?php
+                echo __(
+                    'Sub-account will be allowed to approve orders with amount '
+                    . 'not bigger than above amount. No value or 0 is equal to '
+                    . 'no limit. "Can Approve Orders" or "Can Authorize Orders" permission has to be set.'
+                );
+                ?>
+            </div>
+        </div>
+
+        <div class="field field-name-manage-limit-order-times">
+            <label class="label"
+                   for="manage_limit_order_times">
+                <span><?= __('Order Amount Limit') ?></span>
+            </label>
+            <div class="control">
+                <input type="text"
+                       id="manage_limit_order_times"
+                       name="additional_information[manage_limit_order_times]"
+                       title="<?= __('Order Limit Times') ?>"
+                       class="input-text required-entry"
+                       data-validate="{required:false}"
+                       value="<?= $block->escapeHtml($block->getSubaccount()->getAdditionalInformationValue('manage_limit_order_times')) ?>"/>
+            </div>
+            <div class="comment">
+                <?php echo __('Amount limit per order'); ?>
+            </div>
+        </div>
+
+        <div class="field field-name-manage-limit-order-month">
+            <label class="label"
+                   for="manage_limit_order_month">
+                <span><?= __('Order Limit Amount Per Month') ?></span>
+            </label>
+            <div class="control">
+                <input type="text"
+                       id="manage_limit_order_month"
+                       name="additional_information[manage_limit_order_month]"
+                       title="<?= __('Order Limit Per Month') ?>"
+                       class="input-text required-entry"
+                       data-validate="{required:false}"
+                       value="<?= $block->escapeHtml($block->getSubaccount()->getAdditionalInformationValue('manage_limit_order_month')) ?>"/>
+            </div>
+            <div class="comment">
+                <?php echo __('Amount limit per month'); ?>
+            </div>
+        </div>
+
+        <div class="field field-name-manage-limit-order-week">
+            <label class="label"
+                   for="manage_limit_order_week">
+                <span><?= __('Order Limit Per Week') ?></span>
+            </label>
+            <div class="control">
+                <input type="text"
+                       id="manage_limit_order_week"
+                       name="additional_information[manage_limit_order_week]"
+                       title="<?= __('Order Limit Per Week') ?>"
+                       class="input-text required-entry"
+                       data-validate="{required:false}"
+                       value="<?= $block->escapeHtml($block->getSubaccount()->getAdditionalInformationValue('manage_limit_order_week')) ?>"/>
+            </div>
+            <div class="comment">
+                <?php echo __('Amount Amount limit per week'); ?>
+            </div>
+        </div>
+
+        <div class="field field-name-manage-limit-order-day">
+            <label class="label"
+                   for="manage_limit_order_day">
+                <span><?= __('Order Amount Limit Per Day') ?></span>
+            </label>
+            <div class="control">
+                <input type="text"
+                       id="manage_limit_order_day"
+                       name="additional_information[manage_limit_order_day]"
+                       title="<?= __('Order Limit Per Day') ?>"
+                       class="input-text required-entry"
+                       data-validate="{required:false}"
+                       value="<?= $block->escapeHtml($block->getSubaccount()->getAdditionalInformationValue('manage_limit_order_day')) ?>"/>
+            </div>
+            <div class="comment">
+                <?php echo __('Amount Amount limit per day'); ?>
+            </div>
+        </div>
+
+    </fieldset>
+
+    <div class="actions-toolbar">
+        <div class="primary">
+            <button type="submit"
+                    class="action save primary"
+                    title="<?= __('Save') ?>">
+                <span><?= __('Save') ?></span>
+            </button>
+        </div>
+        <div class="secondary">
+            <a class="action back"
+               href="<?= $block->escapeUrl($block->getBackUrl()) ?>">
+                <span><?= __('Go back') ?></span>
+            </a>
+        </div>
+    </div>
+</form>

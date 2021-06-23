@@ -1,0 +1,65 @@
+<?php
+/**
+ * Copyright © 2016 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+?>
+<?php
+/** @var $block \Magento\Framework\View\Element\Template */
+/** @var $helper \Magento\Search\Helper\Data */
+$helper = $this->helper('Magento\Search\Helper\Data');
+?>
+<div class="smart-search search-by-category">
+	<form class="form minisearch" id="search_mini_form" action="<?php /* @escapeNotVerified */ echo $helper->getResultUrl() ?>" method="get">
+		<div class="select-category">
+			<select name="cat" id="choose_category">
+				<option value=""><?php echo __('All Categories'); ?></option>
+				<?php $categories = $block->getCategories();
+				foreach($categories as $cat)
+				{
+					?>
+					<option <?php echo (isset($_GET['cat']) && $_GET['cat'] == $cat->getId()) ? 'selected="selected"' : '';?> value="<?php echo $cat->getId(); ?>"><?php echo $cat->getName(); ?></option>
+					<?php
+				}
+				?>
+			</select>
+		</div>
+		<div class="smart-search-form">
+			<input id="search"
+			   data-mage-init='{"quickSearch":{
+					"formSelector":"#search_mini_form",
+					"url":"<?php /* @escapeNotVerified */ echo $block->getUrl('search/ajax/suggest', ['_secure' => $block->getRequest()->isSecure()]); ?>",
+					"destinationSelector":"#search_autocomplete"}
+			   }'
+			   type="text"
+			   name="<?php /* @escapeNotVerified */ echo $helper->getQueryParamName() ?>"
+			   value="<?php /* @escapeNotVerified */ echo $helper->getEscapedQueryText() ?>"
+			   placeholder="<?php /* @escapeNotVerified */ echo __('Search here...'); ?>"
+			   class="input-text"
+			   maxlength="<?php /* @escapeNotVerified */ echo $helper->getMaxQueryLength();?>"
+			   role="combobox"
+			   aria-haspopup="false"
+			   aria-autocomplete="both"
+			   aria-expanded="false"
+			   autocomplete="off"/>
+			   <div id="search_autocomplete" class="search-autocomplete"></div>
+			<?php echo $block->getChildHtml() ?>
+			<button type="submit"
+					title="<?php echo $block->escapeHtml(__('Search')) ?>"
+			>
+				<span><?php echo __('Search'); ?></span>
+			</button>
+		</div>
+	</form>
+</div>
+
+<script type="text/javascript">
+    require([
+        'jquery',
+        'rokanthemes/choose'
+    ], function ($) {
+		$("#choose_category").chosen();
+    });
+</script>

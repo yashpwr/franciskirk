@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Cminds MultiUserAccounts frontend email templates config.
+ *
+ * @category Cminds
+ * @package  Cminds_MultiUserAccounts
+ * @author   Piotr Pierzak <piotr@cminds.com>
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Email:etc/email_templates.xsd">
+    <template id="subaccount_email_checkout_order_approve_request_template" label="Order Approval Request"
+              file="checkout_order_approve_request.html" type="html" module="Cminds_MultiUserAccounts" area="frontend"/>
+    <template id="subaccount_email_checkout_order_approved_template" label="Order Approved"
+              file="checkout_order_approved.html" type="html" module="Cminds_MultiUserAccounts" area="frontend"/>
+    <template id="subaccount_email_checkout_order_authorization_request_template" label="Order Authorization Request"
+              file="checkout_order_authorization.html" type="html" module="Cminds_MultiUserAccounts" area="frontend"/>
+    <template id="subaccount_email_checkout_order_rejected_template" label="Order Rejected"
+              file="checkout_order_rejected.html" type="html" module="Cminds_MultiUserAccounts" area="frontend"/>
+    <template id="subaccount_email_customer_approve_template" label="Customer Approve"
+              file="customer_approve.html" type="html" module="Cminds_MultiUserAccounts" area="frontend"/>
+</config>

@@ -1,0 +1,122 @@
+<?php
+/**
+ * Cminds MultiUserAccounts waiting for approve orders list template.
+ *
+ * @category Cminds
+ * @package  Cminds_MultiUserAccounts
+ * @author   Cminds Team <info@cminds.com>
+ */
+?>
+<?php
+/**
+ * @var \Cminds\MultiUserAccounts\Block\Order\Approved\Table $block
+ */
+?>
+<?php $quotes = $block->getQuotes(); ?>
+<?php if ($quotes && count($quotes)) : ?>
+    <div class="table-wrapper order-approve-manage">
+        <table class="data table table-order-items orders" id="order-approve-manage-table">
+            <caption class="table-caption"><?= __('Approved Orders') ?></caption>
+            <thead>
+            <tr>
+                <th scope="col" class="col email"><?= __('Email') ?></th>
+                <th scope="col" class="col name"><?= __('Name') ?></th>
+                <th scope="col" class="col items-qty"><?= __('Items Qty') ?></th>
+                <th scope="col" class="col grand-total"><?= __('Grand Total') ?></th>
+                <?php if (!$block->isParentLoggedIn()): ?>
+                    <th scope="col" class="col"><?= __('Status') ?></th>
+                <?php endif; ?>
+                <th scope="col" class="col actions">&nbsp;</th>
+        </tr>
+            </thead>
+            <tbody>
+            <?php foreach ($quotes as $quote) : ?>
+                <?php $name = trim($quote->getCustomerFirstname() . ' ' . $quote->getCustomerLastname()); ?>
+                <tr class="quote-info" data-quote-id="<?= $quote->getId(); ?>">
+                    <td data-th="<?= $block->escapeHtml(__('Email')) ?>"
+                        class="col email"><?= $block->escapeHtml($quote->getCustomerEmail()) ?></td>
+                    <td data-th="<?= $block->escapeHtml(__('Name')) ?>"
+                        class="col"><?= $block->escapeHtml($name) ?></td>
+                    <td data-th="<?= $block->escapeHtml(__('Items Qty')) ?>"
+                        class="col"><?= $block->escapeHtml($quote->getItemsQty()) ?></td>
+                    <td data-th="<?= $block->escapeHtml(__('Grand Total')) ?>"
+                        class="col"><?= $block->getPriceHtml($quote->getGrandTotal(), $quote->getStoreId()) ?></td>
+                    <?php if (!$block->isParentLoggedIn()): ?>
+                        <td data-th="<?= $block->escapeHtml(__('Status')) ?>"
+                            class="col"><?= $block->escapeHtml(__('Pending')) ?></td>
+                    <?php endif; ?>
+                    <td data-th="<?= $block->escapeHtml(__('Actions')) ?>" class="col actions">
+                        <a href="#" class="action show-items">
+                            <span><?= $block->escapeHtml(__('Show Items')) ?></span>
+                        </a>
+                        <?php if ($quote->getIsApproved() == 1) : ?>
+                            <form action="<?= $block->getOrderCreateUrl($quote)?>" method="post">
+                                <a href="#" class="action create">
+                                    <span><?= $block->escapeHtml(__('Create Order')) ?></span>
+                                </a>
+                            </form>
+                        <?php else : ?>
+                            <span><?= $block->getQuoteStatus($quote) ?></span>
+                        <?php endif; ?>
+                    </td>
+                </tr>
+                <tr style="display:none;" class="quote-items" data-quote-id="<?= $quote->getId(); ?>">
+                    <td colspan="5">
+                        <table id="order-approve-manage-items-table" class="items data table">
+                            <thead>
+                            <tr>
+                                <th class="col item" scope="col"><span><?= $block->escapeHtml(__('Item')) ?></span></th>
+                                <th class="col price" scope="col"><span><?= $block->escapeHtml(__('Price')) ?></span></th>
+                                <th class="col qty" scope="col"><span><?= $block->escapeHtml(__('Qty')) ?></span></th>
+                                <th class="col subtotal" scope="col"><span><?= $block->escapeHtml(__('Subtotal')) ?></span></th>
+                            </tr>
+                            </thead>
+                            <?php foreach ($block->getQuoteItems($quote->getId()) as $item): ?>
+                                <?= $block->getItemHtml($item) ?>
+                            <?php endforeach ?>
+                        </table>
+                    </td>
+                </tr>
+            <?php endforeach; ?>
+            </tbody>
+        </table>
+        <script type="text/javascript">
+            require([ 'jquery'], function($) {
+                $(function() {
+                    $('#order-approve-manage-table a.create').bind('click', function() {
+                        if (confirm('<?= __('Are you sure that you want to create this order? All current items in cart would be removed.') ?>')) {
+                            $(this).closest('form').submit();
+                        }
+                    });
+
+                    $('#order-approve-manage-table a.show-items').bind('click', function() {
+                        $('#order-approve-manage-table a.reject.active').trigger('click');
+
+                        var quoteId = $(this).closest('tr').attr('data-quote-id'),
+                            quoteItemsContainer = $('tr.quote-items[data-quote-id=' + quoteId + ']');
+
+                        if (quoteItemsContainer.is(':visible')) {
+                            quoteItemsContainer.hide();
+                            $(this)
+                                .removeClass('active')
+                                .html('<?= __('Show Items') ?>');
+                        } else {
+                            $('#order-approve-manage-table a.show-items.active').trigger('click');
+                            quoteItemsContainer.show();
+                            $(this)
+                                .addClass('active')
+                                .html('<?= __('Hide Items') ?>');
+                        }
+                    });
+                });
+            });
+        </script>
+    </div>
+    <?php if ($block->getPagerHtml()) : ?>
+        <div class="order-products-toolbar toolbar bottom"><?= $block->getPagerHtml(); ?></div>
+    <?php endif ?>
+<?php else : ?>
+    <div class="message info empty">
+        <span><?= __('There are no approved orders to display.'); ?></span>
+    </div>
+<?php endif ?>

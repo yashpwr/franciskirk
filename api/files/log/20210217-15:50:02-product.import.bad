@@ -1,0 +1,15 @@
+2021-02-17T16:05:24+00:00 INFO (6): {"status":"failed","sku":"MOL255555","message":"The product was unable to be saved. Please try again."}
+2021-02-17T16:05:27+00:00 INFO (6): {"status":"failed","sku":"MOL330801","message":"The product was unable to be saved. Please try again."}
+2021-02-17T16:05:30+00:00 INFO (6): {"status":"failed","sku":"MOL3405","message":"The product was unable to be saved. Please try again."}
+2021-02-17T16:05:33+00:00 INFO (6): {"status":"failed","sku":"MOL340512","message":"The product was unable to be saved. Please try again."}
+2021-02-17T16:05:36+00:00 INFO (6): {"status":"failed","sku":"MOL340801","message":"The product was unable to be saved. Please try again."}
+2021-02-17T16:05:39+00:00 INFO (6): {"status":"failed","sku":"MOL399401","message":"The product was unable to be saved. Please try again."}
+2021-02-17T16:10:29+00:00 INFO (6): {"status":"failed","sku":"Packof10aprons","message":"Product is not available."}
+2021-02-17T16:10:29+00:00 INFO (6): {"status":"failed","sku":"Aprontiesnotincludedsee","message":"Product is not available."}
+2021-02-17T16:10:30+00:00 INFO (6): {"status":"failed","sku":"Productcode:AT","message":"Product is not available."}
+2021-02-17T16:10:30+00:00 INFO (6): {"status":"failed","sku":"Productcode:ATR\\\"","message":"Product is not available."}
+2021-02-17T16:10:33+00:00 INFO (6): {"status":"failed","sku":"Packof10aprons","message":"Product is not available."}
+2021-02-17T16:10:33+00:00 INFO (6): {"status":"failed","sku":"Aprontiesnotincludedsee","message":"Product is not available."}
+2021-02-17T16:10:34+00:00 INFO (6): {"status":"failed","sku":"Productcode:AT","message":"Product is not available."}
+2021-02-17T16:10:34+00:00 INFO (6): {"status":"failed","sku":"Productcode:ATR\\\"","message":"Product is not available."}
+2021-02-17T16:13:17+00:00 INFO (6): ---------------- END API Cron 17/02/21 16:13:17 ----------------

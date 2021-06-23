@@ -1,0 +1,64 @@
+<?php 
+	$enable = $block->getConfig('enabled');
+	if($enable < 1) return ; 
+	$title = $block->getTitle();
+	$categoryIds = $block->getCategoryIds();
+	$categoryIds = explode(',', $categoryIds);
+?>
+<div class="rokan-product-heading">
+	<h2 class="title-catthum"><?php echo '<span>'.$title.'</span>'; ?></h2>	
+</div>
+
+
+<?php if(count($categoryIds) > 0) : ?>
+	<div class="wrap-category">
+		<?php foreach($categoryIds as $key => $cate_id) : ?>
+		<div class="item">
+			<div class="popcat-box">
+				<?php 
+					$cate_model =  $block->getCategory($cate_id);
+					$subCate = $block->getCategoryList($cate_model->getChildren());
+			   	?>
+			   	<a href="<?php echo $cate_model->getUrl() ?>">
+			    	<img src="<?php echo $this->helper('Rokanthemes\Categorytab\Helper\Data')->getThumbnailImageUrl($cate_model) ?>" alt="<?php echo $cate_model->getName() ?>" />
+			    </a>
+				<h3><a href="<?php echo $cate_model->getUrl() ?>"><?php echo $cate_model->getName(); ?></a></h3>
+			    <ul class="sub-categories">
+			   		<?php foreach ($subCate as $key => $value): ?>
+						<li><a href="<?php echo $value->getUrl(); ?>"><?php echo $value->getName(); ?></a></li>
+			   		<?php endforeach; ?>
+			    </ul>
+			    <div class="link-all">
+			    	<a href="<?php echo $cate_model->getUrl() ?>"><?php echo __('Shop All'); ?><i class="fa fa-long-arrow-right"></i></a>
+			    </div>
+			</div>
+		</div>
+		<?php endforeach; ?>
+	</div>
+<?php endif; ?>
+
+
+<script>
+	require([
+		'jquery',
+		'mage/mage',
+		'rokanthemes/owl'
+	], function ($) {
+		'use strict';
+		jQuery(".wrap-category").owlCarousel({
+			autoPlay : false,
+			items : 4,
+			itemsDesktop : [1199,4],
+			itemsDesktopSmall : [980,4],
+			itemsTablet: [768,3],
+			itemsMobile : [479,2],
+			slideSpeed : 500,
+			paginationSpeed : 500,
+			rewindSpeed : 500,
+			navigation : true,
+			stopOnHover : true,
+			pagination :false,
+			scrollPerPage:true,
+		});
+	});
+</script>

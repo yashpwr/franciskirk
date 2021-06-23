@@ -1,0 +1,417 @@
+2021-02-23T17:05:15+00:00 INFO (6): {"status":"success","product_id":44813,"sku":"UNC65487","message":"Product updated successfully"}
+2021-02-23T17:05:26+00:00 INFO (6): {"status":"success","product_id":44814,"sku":"UNC65555","message":"Product updated successfully"}
+2021-02-23T17:05:37+00:00 INFO (6): {"status":"success","product_id":44815,"sku":"UNC65562","message":"Product updated successfully"}
+2021-02-23T17:05:46+00:00 INFO (6): {"status":"success","product_id":44816,"sku":"UNC66149","message":"Product updated successfully"}
+2021-02-23T17:05:57+00:00 INFO (6): {"status":"success","product_id":44837,"sku":"UNC66354","message":"Product updated successfully"}
+2021-02-23T17:06:17+00:00 INFO (6): {"status":"success","product_id":44839,"sku":"UNC66378","message":"Product updated successfully"}
+2021-02-23T17:06:29+00:00 INFO (6): {"status":"success","product_id":44840,"sku":"UNC66385","message":"Product updated successfully"}
+2021-02-23T17:06:42+00:00 INFO (6): {"status":"success","product_id":44861,"sku":"UNC66408","message":"Product updated successfully"}
+2021-02-23T17:06:54+00:00 INFO (6): {"status":"success","product_id":44862,"sku":"UNC66705","message":"Product updated successfully"}
+2021-02-23T17:07:04+00:00 INFO (6): {"status":"success","product_id":44863,"sku":"UNC66712","message":"Product updated successfully"}
+2021-02-23T17:07:14+00:00 INFO (6): {"status":"success","product_id":44864,"sku":"UNC66729","message":"Product updated successfully"}
+2021-02-23T17:07:25+00:00 INFO (6): {"status":"success","product_id":45837,"sku":"UNC66774","message":"Product updated successfully"}
+2021-02-23T17:07:37+00:00 INFO (6): {"status":"success","product_id":43628,"sku":"UNI1381190","message":"Product updated successfully"}
+2021-02-23T17:07:48+00:00 INFO (6): {"status":"success","product_id":42403,"sku":"UNI1405197","message":"Product updated successfully"}
+2021-02-23T17:07:55+00:00 INFO (6): {"status":"success","product_id":42404,"sku":"UNI1405198","message":"Product updated successfully"}
+2021-02-23T17:08:03+00:00 INFO (6): {"status":"success","product_id":42405,"sku":"UNI1418175","message":"Product updated successfully"}
+2021-02-23T17:08:14+00:00 INFO (6): {"status":"success","product_id":45838,"sku":"UNI1418247","message":"Product updated successfully"}
+2021-02-23T17:08:22+00:00 INFO (6): {"status":"success","product_id":42406,"sku":"UNI1418606","message":"Product updated successfully"}
+2021-02-23T17:08:32+00:00 INFO (6): {"status":"success","product_id":45839,"sku":"UNI1427383","message":"Product updated successfully"}
+2021-02-23T17:08:43+00:00 INFO (6): {"status":"success","product_id":45840,"sku":"UNI1430100","message":"Product updated successfully"}
+2021-02-23T17:08:53+00:00 INFO (6): {"status":"success","product_id":45841,"sku":"UNI1448672","message":"Product updated successfully"}
+2021-02-23T17:09:03+00:00 INFO (6): {"status":"success","product_id":45842,"sku":"UNI1517009","message":"Product updated successfully"}
+2021-02-23T17:09:14+00:00 INFO (6): {"status":"success","product_id":45843,"sku":"UNI1518497","message":"Product updated successfully"}
+2021-02-23T17:09:26+00:00 INFO (6): {"status":"success","product_id":44388,"sku":"UNI1550217","message":"Product updated successfully"}
+2021-02-23T17:09:38+00:00 INFO (6): {"status":"success","product_id":44389,"sku":"UNI1582528","message":"Product updated successfully"}
+2021-02-23T17:09:49+00:00 INFO (6): {"status":"success","product_id":45844,"sku":"UNI1667265","message":"Product updated successfully"}
+2021-02-23T17:09:59+00:00 INFO (6): {"status":"success","product_id":45845,"sku":"UNI1667748","message":"Product updated successfully"}
+2021-02-23T17:10:10+00:00 INFO (6): {"status":"success","product_id":43722,"sku":"UNI1668006","message":"Product updated successfully"}
+2021-02-23T17:10:14+00:00 INFO (6): {"status":"success","product_id":43722,"sku":"UNI1668006","message":"Product updated successfully"}
+2021-02-23T17:10:21+00:00 INFO (6): {"status":"success","product_id":43652,"sku":"UNI1668019","message":"Product updated successfully"}
+2021-02-23T17:10:22+00:00 INFO (6): {"status":"success","product_id":43652,"sku":"UNI1668019","message":"Product updated successfully"}
+2021-02-23T17:10:31+00:00 INFO (6): {"status":"success","product_id":45846,"sku":"UNI1668253","message":"Product updated successfully"}
+2021-02-23T17:10:32+00:00 INFO (6): {"status":"success","product_id":45846,"sku":"UNI1668253","message":"Product updated successfully"}
+2021-02-23T17:10:43+00:00 INFO (6): {"status":"success","product_id":45847,"sku":"UNI1963627","message":"Product updated successfully"}
+2021-02-23T17:10:44+00:00 INFO (6): {"status":"success","product_id":45847,"sku":"UNI1963627","message":"Product updated successfully"}
+2021-02-23T17:10:54+00:00 INFO (6): {"status":"success","product_id":45848,"sku":"UNI1963632","message":"Product updated successfully"}
+2021-02-23T17:10:55+00:00 INFO (6): {"status":"success","product_id":45848,"sku":"UNI1963632","message":"Product updated successfully"}
+2021-02-23T17:11:07+00:00 INFO (6): {"status":"success","product_id":45849,"sku":"UNI1967992","message":"Product updated successfully"}
+2021-02-23T17:11:07+00:00 INFO (6): {"status":"success","product_id":45849,"sku":"UNI1967992","message":"Product updated successfully"}
+2021-02-23T17:11:18+00:00 INFO (6): {"status":"success","product_id":45850,"sku":"UNI1969154","message":"Product updated successfully"}
+2021-02-23T17:11:19+00:00 INFO (6): {"status":"success","product_id":45850,"sku":"UNI1969154","message":"Product updated successfully"}
+2021-02-23T17:11:29+00:00 INFO (6): {"status":"success","product_id":44390,"sku":"UNI2046694","message":"Product updated successfully"}
+2021-02-23T17:11:30+00:00 INFO (6): {"status":"success","product_id":44390,"sku":"UNI2046694","message":"Product updated successfully"}
+2021-02-23T17:11:39+00:00 INFO (6): {"status":"success","product_id":44391,"sku":"UNI2079321","message":"Product updated successfully"}
+2021-02-23T17:11:40+00:00 INFO (6): {"status":"success","product_id":44391,"sku":"UNI2079321","message":"Product updated successfully"}
+2021-02-23T17:11:50+00:00 INFO (6): {"status":"success","product_id":44392,"sku":"UNI2079323","message":"Product updated successfully"}
+2021-02-23T17:11:51+00:00 INFO (6): {"status":"success","product_id":44392,"sku":"UNI2079323","message":"Product updated successfully"}
+2021-02-23T17:12:01+00:00 INFO (6): {"status":"success","product_id":44434,"sku":"UNI2079356","message":"Product updated successfully"}
+2021-02-23T17:12:02+00:00 INFO (6): {"status":"success","product_id":44434,"sku":"UNI2079356","message":"Product updated successfully"}
+2021-02-23T17:12:12+00:00 INFO (6): {"status":"success","product_id":45852,"sku":"UNI781739","message":"Product updated successfully"}
+2021-02-23T17:12:13+00:00 INFO (6): {"status":"success","product_id":45852,"sku":"UNI781739","message":"Product updated successfully"}
+2021-02-23T17:12:24+00:00 INFO (6): {"status":"success","product_id":45853,"sku":"UNI781740","message":"Product updated successfully"}
+2021-02-23T17:12:25+00:00 INFO (6): {"status":"success","product_id":45853,"sku":"UNI781740","message":"Product updated successfully"}
+2021-02-23T17:12:34+00:00 INFO (6): {"status":"success","product_id":45854,"sku":"UNI781742","message":"Product updated successfully"}
+2021-02-23T17:12:35+00:00 INFO (6): {"status":"success","product_id":45854,"sku":"UNI781742","message":"Product updated successfully"}
+2021-02-23T17:12:46+00:00 INFO (6): {"status":"success","product_id":45855,"sku":"UNI781746","message":"Product updated successfully"}
+2021-02-23T17:12:47+00:00 INFO (6): {"status":"success","product_id":45855,"sku":"UNI781746","message":"Product updated successfully"}
+2021-02-23T17:12:57+00:00 INFO (6): {"status":"success","product_id":45856,"sku":"UNI952558","message":"Product updated successfully"}
+2021-02-23T17:13:07+00:00 INFO (6): {"status":"success","product_id":45857,"sku":"UNI964763","message":"Product updated successfully"}
+2021-02-23T17:13:18+00:00 INFO (6): {"status":"success","product_id":45587,"sku":"UNI998703","message":"Product updated successfully"}
+2021-02-23T17:13:18+00:00 INFO (6): {"status":"success","product_id":45587,"sku":"UNI998703","message":"Product updated successfully"}
+2021-02-23T17:13:28+00:00 INFO (6): {"status":"success","product_id":45588,"sku":"UNI999473","message":"Product updated successfully"}
+2021-02-23T17:13:28+00:00 INFO (6): {"status":"success","product_id":45588,"sku":"UNI999473","message":"Product updated successfully"}
+2021-02-23T17:13:39+00:00 INFO (6): {"status":"success","product_id":44865,"sku":"UNNB3G110B73","message":"Product updated successfully"}
+2021-02-23T17:13:40+00:00 INFO (6): {"status":"success","product_id":44865,"sku":"UNNB3G110B73","message":"Product updated successfully"}
+2021-02-23T17:13:46+00:00 INFO (6): {"status":"success","product_id":42407,"sku":"UNNB3G110C73","message":"Product updated successfully"}
+2021-02-23T17:13:46+00:00 INFO (6): {"status":"success","product_id":42407,"sku":"UNNB3G110C73","message":"Product updated successfully"}
+2021-02-23T17:13:57+00:00 INFO (6): {"status":"success","product_id":44866,"sku":"UNNJ2100R05C","message":"Product updated successfully"}
+2021-02-23T17:13:58+00:00 INFO (6): {"status":"success","product_id":44866,"sku":"UNNJ2100R05C","message":"Product updated successfully"}
+2021-02-23T17:14:08+00:00 INFO (6): {"status":"success","product_id":44867,"sku":"UNNJ2100R05P","message":"Product updated successfully"}
+2021-02-23T17:14:08+00:00 INFO (6): {"status":"success","product_id":44867,"sku":"UNNJ2100R05P","message":"Product updated successfully"}
+2021-02-23T17:14:14+00:00 INFO (6): {"status":"success","product_id":42408,"sku":"UNNJ2100R10P","message":"Product updated successfully"}
+2021-02-23T17:14:14+00:00 INFO (6): {"status":"success","product_id":42408,"sku":"UNNJ2100R10P","message":"Product updated successfully"}
+2021-02-23T17:14:25+00:00 INFO (6): {"status":"success","product_id":44895,"sku":"UNNJ2100SC25","message":"Product updated successfully"}
+2021-02-23T17:14:26+00:00 INFO (6): {"status":"success","product_id":44895,"sku":"UNNJ2100SC25","message":"Product updated successfully"}
+2021-02-23T17:14:36+00:00 INFO (6): {"status":"success","product_id":44896,"sku":"UNNJ2100SC30","message":"Product updated successfully"}
+2021-02-23T17:14:37+00:00 INFO (6): {"status":"success","product_id":44896,"sku":"UNNJ2100SC30","message":"Product updated successfully"}
+2021-02-23T17:14:46+00:00 INFO (6): {"status":"success","product_id":44897,"sku":"UNNJ2100SP25","message":"Product updated successfully"}
+2021-02-23T17:14:47+00:00 INFO (6): {"status":"success","product_id":44897,"sku":"UNNJ2100SP25","message":"Product updated successfully"}
+2021-02-23T17:14:57+00:00 INFO (6): {"status":"success","product_id":44898,"sku":"UNNJ2100SP30","message":"Product updated successfully"}
+2021-02-23T17:14:58+00:00 INFO (6): {"status":"success","product_id":44898,"sku":"UNNJ2100SP30","message":"Product updated successfully"}
+2021-02-23T17:15:07+00:00 INFO (6): {"status":"success","product_id":44899,"sku":"UNNJ2101PL25","message":"Product updated successfully"}
+2021-02-23T17:15:08+00:00 INFO (6): {"status":"success","product_id":44899,"sku":"UNNJ2101PL25","message":"Product updated successfully"}
+2021-02-23T17:15:08+00:00 INFO (6): {"status":"success","product_id":44899,"sku":"UNNJ2101PL25","message":"Product updated successfully"}
+2021-02-23T17:15:20+00:00 INFO (6): {"status":"success","product_id":42409,"sku":"UNNJ2101PL30","message":"Product updated successfully"}
+2021-02-23T17:15:20+00:00 INFO (6): {"status":"success","product_id":42409,"sku":"UNNJ2101PL30","message":"Product updated successfully"}
+2021-02-23T17:15:20+00:00 INFO (6): {"status":"success","product_id":42409,"sku":"UNNJ2101PL30","message":"Product updated successfully"}
+2021-02-23T17:15:26+00:00 INFO (6): {"status":"success","product_id":42410,"sku":"UNNJ2101SC25","message":"Product updated successfully"}
+2021-02-23T17:15:27+00:00 INFO (6): {"status":"success","product_id":42410,"sku":"UNNJ2101SC25","message":"Product updated successfully"}
+2021-02-23T17:15:27+00:00 INFO (6): {"status":"success","product_id":42410,"sku":"UNNJ2101SC25","message":"Product updated successfully"}
+2021-02-23T17:15:33+00:00 INFO (6): {"status":"success","product_id":42411,"sku":"UNNJ2101SC30","message":"Product updated successfully"}
+2021-02-23T17:15:34+00:00 INFO (6): {"status":"success","product_id":42411,"sku":"UNNJ2101SC30","message":"Product updated successfully"}
+2021-02-23T17:15:34+00:00 INFO (6): {"status":"success","product_id":42411,"sku":"UNNJ2101SC30","message":"Product updated successfully"}
+2021-02-23T17:15:46+00:00 INFO (6): {"status":"success","product_id":42412,"sku":"UNNJ2134EC25","message":"Product updated successfully"}
+2021-02-23T17:15:47+00:00 INFO (6): {"status":"success","product_id":42412,"sku":"UNNJ2134EC25","message":"Product updated successfully"}
+2021-02-23T17:15:47+00:00 INFO (6): {"status":"success","product_id":42412,"sku":"UNNJ2134EC25","message":"Product updated successfully"}
+2021-02-23T17:15:57+00:00 INFO (6): {"status":"success","product_id":42413,"sku":"UNNJ2134EC30","message":"Product updated successfully"}
+2021-02-23T17:15:57+00:00 INFO (6): {"status":"success","product_id":42413,"sku":"UNNJ2134EC30","message":"Product updated successfully"}
+2021-02-23T17:15:57+00:00 INFO (6): {"status":"success","product_id":42413,"sku":"UNNJ2134EC30","message":"Product updated successfully"}
+2021-02-23T17:16:02+00:00 INFO (6): {"status":"success","product_id":44900,"sku":"UNNJ2134EP25","message":"Product updated successfully"}
+2021-02-23T17:16:03+00:00 INFO (6): {"status":"success","product_id":44900,"sku":"UNNJ2134EP25","message":"Product updated successfully"}
+2021-02-23T17:16:03+00:00 INFO (6): {"status":"success","product_id":44900,"sku":"UNNJ2134EP25","message":"Product updated successfully"}
+2021-02-23T17:16:14+00:00 INFO (6): {"status":"success","product_id":42414,"sku":"UNNJ2134EP30","message":"Product updated successfully"}
+2021-02-23T17:16:14+00:00 INFO (6): {"status":"success","product_id":42414,"sku":"UNNJ2134EP30","message":"Product updated successfully"}
+2021-02-23T17:16:14+00:00 INFO (6): {"status":"success","product_id":42414,"sku":"UNNJ2134EP30","message":"Product updated successfully"}
+2021-02-23T17:16:25+00:00 INFO (6): {"status":"success","product_id":44901,"sku":"UNNJ2177PL25","message":"Product updated successfully"}
+2021-02-23T17:16:26+00:00 INFO (6): {"status":"success","product_id":44901,"sku":"UNNJ2177PL25","message":"Product updated successfully"}
+2021-02-23T17:16:26+00:00 INFO (6): {"status":"success","product_id":44901,"sku":"UNNJ2177PL25","message":"Product updated successfully"}
+2021-02-23T17:16:32+00:00 INFO (6): {"status":"success","product_id":42415,"sku":"UNNJ2177PL30","message":"Product updated successfully"}
+2021-02-23T17:16:32+00:00 INFO (6): {"status":"success","product_id":42415,"sku":"UNNJ2177PL30","message":"Product updated successfully"}
+2021-02-23T17:16:32+00:00 INFO (6): {"status":"success","product_id":42415,"sku":"UNNJ2177PL30","message":"Product updated successfully"}
+2021-02-23T17:16:38+00:00 INFO (6): {"status":"success","product_id":42416,"sku":"UNNJ2177SC25","message":"Product updated successfully"}
+2021-02-23T17:16:39+00:00 INFO (6): {"status":"success","product_id":42416,"sku":"UNNJ2177SC25","message":"Product updated successfully"}
+2021-02-23T17:16:39+00:00 INFO (6): {"status":"success","product_id":42416,"sku":"UNNJ2177SC25","message":"Product updated successfully"}
+2021-02-23T17:16:45+00:00 INFO (6): {"status":"success","product_id":42417,"sku":"UNNJ2177SC30","message":"Product updated successfully"}
+2021-02-23T17:16:45+00:00 INFO (6): {"status":"success","product_id":42417,"sku":"UNNJ2177SC30","message":"Product updated successfully"}
+2021-02-23T17:16:47+00:00 INFO (6): {"status":"success","product_id":42417,"sku":"UNNJ2177SC30","message":"Product updated successfully"}
+2021-02-23T17:16:56+00:00 INFO (6): {"status":"success","product_id":44582,"sku":"UNNJ2200R05P","message":"Product updated successfully"}
+2021-02-23T17:16:57+00:00 INFO (6): {"status":"success","product_id":44582,"sku":"UNNJ2200R05P","message":"Product updated successfully"}
+2021-02-23T17:16:57+00:00 INFO (6): {"status":"success","product_id":44582,"sku":"UNNJ2200R05P","message":"Product updated successfully"}
+2021-02-23T17:17:08+00:00 INFO (6): {"status":"success","product_id":44583,"sku":"UNNJ2200R05S","message":"Product updated successfully"}
+2021-02-23T17:17:09+00:00 INFO (6): {"status":"success","product_id":44583,"sku":"UNNJ2200R05S","message":"Product updated successfully"}
+2021-02-23T17:17:09+00:00 INFO (6): {"status":"success","product_id":44583,"sku":"UNNJ2200R05S","message":"Product updated successfully"}
+2021-02-23T17:17:19+00:00 INFO (6): {"status":"success","product_id":44584,"sku":"UNNJ2200SC25","message":"Product updated successfully"}
+2021-02-23T17:17:20+00:00 INFO (6): {"status":"success","product_id":44584,"sku":"UNNJ2200SC25","message":"Product updated successfully"}
+2021-02-23T17:17:20+00:00 INFO (6): {"status":"success","product_id":44584,"sku":"UNNJ2200SC25","message":"Product updated successfully"}
+2021-02-23T17:17:30+00:00 INFO (6): {"status":"success","product_id":44585,"sku":"UNNJ2200SC30","message":"Product updated successfully"}
+2021-02-23T17:17:31+00:00 INFO (6): {"status":"success","product_id":44585,"sku":"UNNJ2200SC30","message":"Product updated successfully"}
+2021-02-23T17:17:31+00:00 INFO (6): {"status":"success","product_id":44585,"sku":"UNNJ2200SC30","message":"Product updated successfully"}
+2021-02-23T17:17:42+00:00 INFO (6): {"status":"success","product_id":44586,"sku":"UNNJ2200SP25","message":"Product updated successfully"}
+2021-02-23T17:17:43+00:00 INFO (6): {"status":"success","product_id":44586,"sku":"UNNJ2200SP25","message":"Product updated successfully"}
+2021-02-23T17:17:43+00:00 INFO (6): {"status":"success","product_id":44586,"sku":"UNNJ2200SP25","message":"Product updated successfully"}
+2021-02-23T17:17:53+00:00 INFO (6): {"status":"success","product_id":43731,"sku":"UNNJ2200SP30","message":"Product updated successfully"}
+2021-02-23T17:17:54+00:00 INFO (6): {"status":"success","product_id":43731,"sku":"UNNJ2200SP30","message":"Product updated successfully"}
+2021-02-23T17:17:54+00:00 INFO (6): {"status":"success","product_id":43731,"sku":"UNNJ2200SP30","message":"Product updated successfully"}
+2021-02-23T17:18:07+00:00 INFO (6): {"status":"success","product_id":44587,"sku":"UNNJ2201PL25","message":"Product updated successfully"}
+2021-02-23T17:18:08+00:00 INFO (6): {"status":"success","product_id":44587,"sku":"UNNJ2201PL25","message":"Product updated successfully"}
+2021-02-23T17:18:08+00:00 INFO (6): {"status":"success","product_id":44587,"sku":"UNNJ2201PL25","message":"Product updated successfully"}
+2021-02-23T17:18:14+00:00 INFO (6): {"status":"success","product_id":42418,"sku":"UNNJ2201PL30","message":"Product updated successfully"}
+2021-02-23T17:18:15+00:00 INFO (6): {"status":"success","product_id":42418,"sku":"UNNJ2201PL30","message":"Product updated successfully"}
+2021-02-23T17:18:16+00:00 INFO (6): {"status":"success","product_id":42418,"sku":"UNNJ2201PL30","message":"Product updated successfully"}
+2021-02-23T17:18:27+00:00 INFO (6): {"status":"success","product_id":42419,"sku":"UNNJ2201SC25","message":"Product updated successfully"}
+2021-02-23T17:18:27+00:00 INFO (6): {"status":"success","product_id":42419,"sku":"UNNJ2201SC25","message":"Product updated successfully"}
+2021-02-23T17:18:27+00:00 INFO (6): {"status":"success","product_id":42419,"sku":"UNNJ2201SC25","message":"Product updated successfully"}
+2021-02-23T17:18:35+00:00 INFO (6): {"status":"success","product_id":42420,"sku":"UNNJ2201SC30","message":"Product updated successfully"}
+2021-02-23T17:18:35+00:00 INFO (6): {"status":"success","product_id":42420,"sku":"UNNJ2201SC30","message":"Product updated successfully"}
+2021-02-23T17:18:36+00:00 INFO (6): {"status":"success","product_id":42420,"sku":"UNNJ2201SC30","message":"Product updated successfully"}
+2021-02-23T17:18:46+00:00 INFO (6): {"status":"success","product_id":42421,"sku":"UNNJ2234EC25","message":"Product updated successfully"}
+2021-02-23T17:18:47+00:00 INFO (6): {"status":"success","product_id":42421,"sku":"UNNJ2234EC25","message":"Product updated successfully"}
+2021-02-23T17:18:47+00:00 INFO (6): {"status":"success","product_id":42421,"sku":"UNNJ2234EC25","message":"Product updated successfully"}
+2021-02-23T17:18:53+00:00 INFO (6): {"status":"success","product_id":42422,"sku":"UNNJ2234EC30","message":"Product updated successfully"}
+2021-02-23T17:18:53+00:00 INFO (6): {"status":"success","product_id":42422,"sku":"UNNJ2234EC30","message":"Product updated successfully"}
+2021-02-23T17:18:54+00:00 INFO (6): {"status":"success","product_id":42422,"sku":"UNNJ2234EC30","message":"Product updated successfully"}
+2021-02-23T17:18:59+00:00 INFO (6): {"status":"success","product_id":44614,"sku":"UNNJ2234EP25","message":"Product updated successfully"}
+2021-02-23T17:19:00+00:00 INFO (6): {"status":"success","product_id":44614,"sku":"UNNJ2234EP25","message":"Product updated successfully"}
+2021-02-23T17:19:00+00:00 INFO (6): {"status":"success","product_id":44614,"sku":"UNNJ2234EP25","message":"Product updated successfully"}
+2021-02-23T17:19:06+00:00 INFO (6): {"status":"success","product_id":42423,"sku":"UNNJ2234EP30","message":"Product updated successfully"}
+2021-02-23T17:19:07+00:00 INFO (6): {"status":"success","product_id":42423,"sku":"UNNJ2234EP30","message":"Product updated successfully"}
+2021-02-23T17:19:07+00:00 INFO (6): {"status":"success","product_id":42423,"sku":"UNNJ2234EP30","message":"Product updated successfully"}
+2021-02-23T17:19:12+00:00 INFO (6): {"status":"success","product_id":44615,"sku":"UNNJ2277PL25","message":"Product updated successfully"}
+2021-02-23T17:19:17+00:00 INFO (6): {"status":"success","product_id":44615,"sku":"UNNJ2277PL25","message":"Product updated successfully"}
+2021-02-23T17:19:17+00:00 INFO (6): {"status":"success","product_id":44615,"sku":"UNNJ2277PL25","message":"Product updated successfully"}
+2021-02-23T17:19:24+00:00 INFO (6): {"status":"success","product_id":42424,"sku":"UNNJ2277PL30","message":"Product updated successfully"}
+2021-02-23T17:19:26+00:00 INFO (6): {"status":"success","product_id":42424,"sku":"UNNJ2277PL30","message":"Product updated successfully"}
+2021-02-23T17:19:26+00:00 INFO (6): {"status":"success","product_id":42424,"sku":"UNNJ2277PL30","message":"Product updated successfully"}
+2021-02-23T17:19:31+00:00 INFO (6): {"status":"success","product_id":42425,"sku":"UNNJ2277SC25","message":"Product updated successfully"}
+2021-02-23T17:19:36+00:00 INFO (6): {"status":"success","product_id":42425,"sku":"UNNJ2277SC25","message":"Product updated successfully"}
+2021-02-23T17:19:36+00:00 INFO (6): {"status":"success","product_id":42425,"sku":"UNNJ2277SC25","message":"Product updated successfully"}
+2021-02-23T17:19:37+00:00 INFO (6): {"status":"success","product_id":42426,"sku":"UNNJ2277SC30","message":"Product updated successfully"}
+2021-02-23T17:19:47+00:00 INFO (6): {"status":"success","product_id":42426,"sku":"UNNJ2277SC30","message":"Product updated successfully"}
+2021-02-23T17:19:47+00:00 INFO (6): {"status":"success","product_id":42426,"sku":"UNNJ2277SC30","message":"Product updated successfully"}
+2021-02-23T17:19:51+00:00 INFO (6): {"status":"success","product_id":44616,"sku":"UNNJ2294CH25","message":"Product updated successfully"}
+2021-02-23T17:19:57+00:00 INFO (6): {"status":"success","product_id":42427,"sku":"UNNJ2294CH30","message":"Product updated successfully"}
+2021-02-23T17:19:59+00:00 INFO (6): {"status":"success","product_id":44616,"sku":"UNNJ2294CH25","message":"Product updated successfully"}
+2021-02-23T17:19:59+00:00 INFO (6): {"status":"success","product_id":44616,"sku":"UNNJ2294CH25","message":"Product updated successfully"}
+2021-02-23T17:19:59+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:19:59 ----------------
+2021-02-23T17:19:59+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:19:59 ----------------
+2021-02-23T17:20:03+00:00 INFO (6): {"status":"success","product_id":42428,"sku":"UNNJ2294PL25","message":"Product updated successfully"}
+2021-02-23T17:20:03+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:20:03 ----------------
+2021-02-23T17:20:10+00:00 INFO (6): {"status":"success","product_id":42427,"sku":"UNNJ2294CH30","message":"Product updated successfully"}
+2021-02-23T17:20:10+00:00 INFO (6): {"status":"success","product_id":42427,"sku":"UNNJ2294CH30","message":"Product updated successfully"}
+2021-02-23T17:20:10+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:20:10 ----------------
+2021-02-23T17:20:11+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:20:11 ----------------
+2021-02-23T17:20:12+00:00 INFO (6): {"status":"success","product_id":42429,"sku":"UNNJ2294PL30","message":"Product updated successfully"}
+2021-02-23T17:20:12+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:20:12 ----------------
+2021-02-23T17:20:23+00:00 INFO (6): {"status":"success","product_id":42428,"sku":"UNNJ2294PL25","message":"Product updated successfully"}
+2021-02-23T17:20:23+00:00 INFO (6): {"status":"success","product_id":42428,"sku":"UNNJ2294PL25","message":"Product updated successfully"}
+2021-02-23T17:20:23+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:20:23 ----------------
+2021-02-23T17:20:23+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:20:23 ----------------
+2021-02-23T17:20:25+00:00 INFO (6): {"status":"success","product_id":44643,"sku":"UNNJ2295CH25","message":"Product updated successfully"}
+2021-02-23T17:20:25+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:20:25 ----------------
+2021-02-23T17:20:32+00:00 INFO (6): {"status":"success","product_id":42430,"sku":"UNNJ2295CH30","message":"Product updated successfully"}
+2021-02-23T17:20:33+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:20:33 ----------------
+2021-02-23T17:20:35+00:00 INFO (6): {"status":"success","product_id":42429,"sku":"UNNJ2294PL30","message":"Product updated successfully"}
+2021-02-23T17:20:35+00:00 INFO (6): {"status":"success","product_id":42429,"sku":"UNNJ2294PL30","message":"Product updated successfully"}
+2021-02-23T17:20:35+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:20:35 ----------------
+2021-02-23T17:20:35+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:20:35 ----------------
+2021-02-23T17:20:40+00:00 INFO (6): {"status":"success","product_id":42431,"sku":"UNNJ2295PL25","message":"Product updated successfully"}
+2021-02-23T17:20:41+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:20:41 ----------------
+2021-02-23T17:20:45+00:00 INFO (6): {"status":"success","product_id":44643,"sku":"UNNJ2295CH25","message":"Product updated successfully"}
+2021-02-23T17:20:46+00:00 INFO (6): {"status":"success","product_id":44643,"sku":"UNNJ2295CH25","message":"Product updated successfully"}
+2021-02-23T17:20:46+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:20:46 ----------------
+2021-02-23T17:20:46+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:20:46 ----------------
+2021-02-23T17:20:47+00:00 INFO (6): {"status":"success","product_id":42432,"sku":"UNNJ2295PL30","message":"Product updated successfully"}
+2021-02-23T17:20:47+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:20:47 ----------------
+2021-02-23T17:20:57+00:00 INFO (6): {"status":"success","product_id":42430,"sku":"UNNJ2295CH30","message":"Product updated successfully"}
+2021-02-23T17:20:57+00:00 INFO (6): {"status":"success","product_id":42430,"sku":"UNNJ2295CH30","message":"Product updated successfully"}
+2021-02-23T17:20:57+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:20:57 ----------------
+2021-02-23T17:20:57+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:20:57 ----------------
+2021-02-23T17:20:59+00:00 INFO (6): {"status":"success","product_id":42433,"sku":"UNNJ2600PL25","message":"Product updated successfully"}
+2021-02-23T17:21:00+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:21:00 ----------------
+2021-02-23T17:21:06+00:00 INFO (6): {"status":"success","product_id":42434,"sku":"UNNJ2600PL30","message":"Product updated successfully"}
+2021-02-23T17:21:06+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:21:06 ----------------
+2021-02-23T17:21:07+00:00 INFO (6): {"status":"success","product_id":42431,"sku":"UNNJ2295PL25","message":"Product updated successfully"}
+2021-02-23T17:21:07+00:00 INFO (6): {"status":"success","product_id":42431,"sku":"UNNJ2295PL25","message":"Product updated successfully"}
+2021-02-23T17:21:07+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:21:07 ----------------
+2021-02-23T17:21:08+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:21:08 ----------------
+2021-02-23T17:21:19+00:00 INFO (6): {"status":"success","product_id":42435,"sku":"UNNJ2600ZP25","message":"Product updated successfully"}
+2021-02-23T17:21:19+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:21:19 ----------------
+2021-02-23T17:21:19+00:00 INFO (6): {"status":"success","product_id":42432,"sku":"UNNJ2295PL30","message":"Product updated successfully"}
+2021-02-23T17:21:19+00:00 INFO (6): {"status":"success","product_id":42432,"sku":"UNNJ2295PL30","message":"Product updated successfully"}
+2021-02-23T17:21:19+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:21:19 ----------------
+2021-02-23T17:21:20+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:21:20 ----------------
+2021-02-23T17:21:25+00:00 INFO (6): {"status":"success","product_id":42436,"sku":"UNNJ2600ZP30","message":"Product updated successfully"}
+2021-02-23T17:21:25+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:21:25 ----------------
+2021-02-23T17:21:29+00:00 INFO (6): {"status":"success","product_id":42433,"sku":"UNNJ2600PL25","message":"Product updated successfully"}
+2021-02-23T17:21:29+00:00 INFO (6): {"status":"success","product_id":42433,"sku":"UNNJ2600PL25","message":"Product updated successfully"}
+2021-02-23T17:21:29+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:21:29 ----------------
+2021-02-23T17:21:29+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:21:29 ----------------
+2021-02-23T17:21:37+00:00 INFO (6): {"status":"success","product_id":44644,"sku":"UNNJ2648PL25","message":"Product updated successfully"}
+2021-02-23T17:21:38+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:21:38 ----------------
+2021-02-23T17:21:41+00:00 INFO (6): {"status":"success","product_id":42434,"sku":"UNNJ2600PL30","message":"Product updated successfully"}
+2021-02-23T17:21:41+00:00 INFO (6): {"status":"success","product_id":42434,"sku":"UNNJ2600PL30","message":"Product updated successfully"}
+2021-02-23T17:21:41+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:21:41 ----------------
+2021-02-23T17:21:41+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:21:41 ----------------
+2021-02-23T17:21:45+00:00 INFO (6): {"status":"success","product_id":42437,"sku":"UNNJ2648PL30","message":"Product updated successfully"}
+2021-02-23T17:21:45+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:21:45 ----------------
+2021-02-23T17:21:52+00:00 INFO (6): {"status":"success","product_id":42438,"sku":"UNNJ2648SE25","message":"Product updated successfully"}
+2021-02-23T17:21:52+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:21:52 ----------------
+2021-02-23T17:21:53+00:00 INFO (6): {"status":"success","product_id":42435,"sku":"UNNJ2600ZP25","message":"Product updated successfully"}
+2021-02-23T17:21:53+00:00 INFO (6): {"status":"success","product_id":42435,"sku":"UNNJ2600ZP25","message":"Product updated successfully"}
+2021-02-23T17:21:53+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:21:53 ----------------
+2021-02-23T17:21:53+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:21:53 ----------------
+2021-02-23T17:21:59+00:00 INFO (6): {"status":"success","product_id":42439,"sku":"UNNJ2648SE30","message":"Product updated successfully"}
+2021-02-23T17:21:59+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:21:59 ----------------
+2021-02-23T17:22:04+00:00 INFO (6): {"status":"success","product_id":42436,"sku":"UNNJ2600ZP30","message":"Product updated successfully"}
+2021-02-23T17:22:04+00:00 INFO (6): {"status":"success","product_id":42436,"sku":"UNNJ2600ZP30","message":"Product updated successfully"}
+2021-02-23T17:22:05+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:22:05 ----------------
+2021-02-23T17:22:05+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:22:05 ----------------
+2021-02-23T17:22:13+00:00 INFO (6): {"status":"success","product_id":44645,"sku":"UNNJ2964PL13","message":"Product updated successfully"}
+2021-02-23T17:22:13+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:22:13 ----------------
+2021-02-23T17:22:14+00:00 INFO (6): {"status":"success","product_id":44644,"sku":"UNNJ2648PL25","message":"Product updated successfully"}
+2021-02-23T17:22:14+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:22:14 ----------------
+2021-02-23T17:22:22+00:00 INFO (6): {"status":"success","product_id":42437,"sku":"UNNJ2648PL30","message":"Product updated successfully"}
+2021-02-23T17:22:22+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:22:22 ----------------
+2021-02-23T17:22:24+00:00 INFO (6): {"status":"success","product_id":44675,"sku":"UNNJ8755AB","message":"Product updated successfully"}
+2021-02-23T17:22:24+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:22:24 ----------------
+2021-02-23T17:22:30+00:00 INFO (6): {"status":"success","product_id":42438,"sku":"UNNJ2648SE25","message":"Product updated successfully"}
+2021-02-23T17:22:30+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:22:30 ----------------
+2021-02-23T17:22:37+00:00 INFO (6): {"status":"success","product_id":44676,"sku":"UNNJ8755AW","message":"Product updated successfully"}
+2021-02-23T17:22:37+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:22:37 ----------------
+2021-02-23T17:22:39+00:00 INFO (6): {"status":"success","product_id":42439,"sku":"UNNJ2648SE30","message":"Product updated successfully"}
+2021-02-23T17:22:39+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:22:39 ----------------
+2021-02-23T17:22:46+00:00 INFO (6): {"status":"success","product_id":44645,"sku":"UNNJ2964PL13","message":"Product updated successfully"}
+2021-02-23T17:22:46+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:22:46 ----------------
+2021-02-23T17:22:47+00:00 INFO (6): {"status":"success","product_id":44677,"sku":"UNNJCE3F","message":"Product updated successfully"}
+2021-02-23T17:22:47+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:22:47 ----------------
+2021-02-23T17:22:53+00:00 INFO (6): {"status":"success","product_id":44675,"sku":"UNNJ8755AB","message":"Product updated successfully"}
+2021-02-23T17:22:53+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:22:53 ----------------
+2021-02-23T17:22:57+00:00 INFO (6): {"status":"success","product_id":44678,"sku":"UNNJFL26PB25","message":"Product updated successfully"}
+2021-02-23T17:22:57+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:22:57 ----------------
+2021-02-23T17:23:00+00:00 INFO (6): {"status":"success","product_id":44676,"sku":"UNNJ8755AW","message":"Product updated successfully"}
+2021-02-23T17:23:00+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:23:00 ----------------
+2021-02-23T17:23:08+00:00 INFO (6): {"status":"success","product_id":44679,"sku":"UNNJFL26PB30","message":"Product updated successfully"}
+2021-02-23T17:23:08+00:00 INFO (6): {"status":"success","product_id":44677,"sku":"UNNJCE3F","message":"Product updated successfully"}
+2021-02-23T17:23:08+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:23:08 ----------------
+2021-02-23T17:23:09+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:23:09 ----------------
+2021-02-23T17:23:16+00:00 INFO (6): {"status":"success","product_id":44678,"sku":"UNNJFL26PB25","message":"Product updated successfully"}
+2021-02-23T17:23:17+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:23:17 ----------------
+2021-02-23T17:23:19+00:00 INFO (6): {"status":"success","product_id":44680,"sku":"UNNJFL27PB25","message":"Product updated successfully"}
+2021-02-23T17:23:19+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:23:19 ----------------
+2021-02-23T17:23:24+00:00 INFO (6): {"status":"success","product_id":44679,"sku":"UNNJFL26PB30","message":"Product updated successfully"}
+2021-02-23T17:23:24+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:23:24 ----------------
+2021-02-23T17:23:32+00:00 INFO (6): {"status":"success","product_id":44681,"sku":"UNNJFL27PB30","message":"Product updated successfully"}
+2021-02-23T17:23:33+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:23:33 ----------------
+2021-02-23T17:23:33+00:00 INFO (6): {"status":"success","product_id":44680,"sku":"UNNJFL27PB25","message":"Product updated successfully"}
+2021-02-23T17:23:34+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:23:34 ----------------
+2021-02-23T17:23:41+00:00 INFO (6): {"status":"success","product_id":44681,"sku":"UNNJFL27PB30","message":"Product updated successfully"}
+2021-02-23T17:23:41+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:23:41 ----------------
+2021-02-23T17:23:43+00:00 INFO (6): {"status":"success","product_id":44682,"sku":"UNNJFL27SN25","message":"Product updated successfully"}
+2021-02-23T17:23:43+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:23:43 ----------------
+2021-02-23T17:23:48+00:00 INFO (6): {"status":"success","product_id":44682,"sku":"UNNJFL27SN25","message":"Product updated successfully"}
+2021-02-23T17:23:48+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:23:48 ----------------
+2021-02-23T17:23:54+00:00 INFO (6): {"status":"success","product_id":43680,"sku":"UNNJFL27SN30","message":"Product updated successfully"}
+2021-02-23T17:23:54+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:23:54 ----------------
+2021-02-23T17:23:55+00:00 INFO (6): {"status":"success","product_id":43680,"sku":"UNNJFL27SN30","message":"Product updated successfully"}
+2021-02-23T17:23:55+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:23:55 ----------------
+2021-02-23T17:24:05+00:00 INFO (6): {"status":"success","product_id":44683,"sku":"UNNJL21EPB25","message":"Product updated successfully"}
+2021-02-23T17:24:05+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:24:05 ----------------
+2021-02-23T17:24:06+00:00 INFO (6): {"status":"success","product_id":44683,"sku":"UNNJL21EPB25","message":"Product updated successfully"}
+2021-02-23T17:24:06+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:24:06 ----------------
+2021-02-23T17:24:11+00:00 INFO (6): {"status":"success","product_id":42440,"sku":"UNNJL21EPB30","message":"Product updated successfully"}
+2021-02-23T17:24:11+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:24:11 ----------------
+2021-02-23T17:24:12+00:00 INFO (6): {"status":"success","product_id":42440,"sku":"UNNJL21EPB30","message":"Product updated successfully"}
+2021-02-23T17:24:12+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:24:12 ----------------
+2021-02-23T17:24:23+00:00 INFO (6): {"status":"success","product_id":44684,"sku":"UNNJL21ESS25","message":"Product updated successfully"}
+2021-02-23T17:24:23+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:24:23 ----------------
+2021-02-23T17:24:23+00:00 INFO (6): {"status":"success","product_id":44684,"sku":"UNNJL21ESS25","message":"Product updated successfully"}
+2021-02-23T17:24:24+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:24:24 ----------------
+2021-02-23T17:24:30+00:00 INFO (6): {"status":"success","product_id":42441,"sku":"UNNJL21ESS30","message":"Product updated successfully"}
+2021-02-23T17:24:30+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:24:30 ----------------
+2021-02-23T17:24:30+00:00 INFO (6): {"status":"success","product_id":42441,"sku":"UNNJL21ESS30","message":"Product updated successfully"}
+2021-02-23T17:24:31+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:24:31 ----------------
+2021-02-23T17:24:42+00:00 INFO (6): {"status":"success","product_id":44685,"sku":"UNNJL22EPB25","message":"Product updated successfully"}
+2021-02-23T17:24:42+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:24:42 ----------------
+2021-02-23T17:24:43+00:00 INFO (6): {"status":"success","product_id":44685,"sku":"UNNJL22EPB25","message":"Product updated successfully"}
+2021-02-23T17:24:43+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:24:43 ----------------
+2021-02-23T17:24:51+00:00 INFO (6): {"status":"success","product_id":42442,"sku":"UNNJL22EPB30","message":"Product updated successfully"}
+2021-02-23T17:24:51+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:24:51 ----------------
+2021-02-23T17:24:52+00:00 INFO (6): {"status":"success","product_id":42442,"sku":"UNNJL22EPB30","message":"Product updated successfully"}
+2021-02-23T17:24:52+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:24:52 ----------------
+2021-02-23T17:25:03+00:00 INFO (6): {"status":"success","product_id":44718,"sku":"UNNJL22ESS25","message":"Product updated successfully"}
+2021-02-23T17:25:03+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:25:03 ----------------
+2021-02-23T17:25:04+00:00 INFO (6): {"status":"success","product_id":44718,"sku":"UNNJL22ESS25","message":"Product updated successfully"}
+2021-02-23T17:25:04+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:25:04 ----------------
+2021-02-23T17:25:12+00:00 INFO (6): {"status":"success","product_id":42443,"sku":"UNNJL22ESS30","message":"Product updated successfully"}
+2021-02-23T17:25:12+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:25:12 ----------------
+2021-02-23T17:25:13+00:00 INFO (6): {"status":"success","product_id":42443,"sku":"UNNJL22ESS30","message":"Product updated successfully"}
+2021-02-23T17:25:13+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:25:13 ----------------
+2021-02-23T17:25:25+00:00 INFO (6): {"status":"success","product_id":44719,"sku":"UNNJRETROV","message":"Product updated successfully"}
+2021-02-23T17:25:25+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:25:25 ----------------
+2021-02-23T17:25:26+00:00 INFO (6): {"status":"success","product_id":44719,"sku":"UNNJRETROV","message":"Product updated successfully"}
+2021-02-23T17:25:26+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:25:26 ----------------
+2021-02-23T17:25:37+00:00 INFO (6): {"status":"success","product_id":44720,"sku":"UNNK1K21","message":"Product updated successfully"}
+2021-02-23T17:25:37+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:25:37 ----------------
+2021-02-23T17:25:38+00:00 INFO (6): {"status":"success","product_id":44720,"sku":"UNNK1K21","message":"Product updated successfully"}
+2021-02-23T17:25:38+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:25:38 ----------------
+2021-02-23T17:25:50+00:00 INFO (6): {"status":"success","product_id":44721,"sku":"UNNV3G114B67","message":"Product updated successfully"}
+2021-02-23T17:25:50+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:25:50 ----------------
+2021-02-23T17:25:51+00:00 INFO (6): {"status":"success","product_id":44721,"sku":"UNNV3G114B67","message":"Product updated successfully"}
+2021-02-23T17:25:51+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:25:51 ----------------
+2021-02-23T17:26:01+00:00 INFO (6): {"status":"success","product_id":42444,"sku":"UNNV3G114B80","message":"Product updated successfully"}
+2021-02-23T17:26:02+00:00 INFO (6): {"status":"success","product_id":42444,"sku":"UNNV3G114B80","message":"Product updated successfully"}
+2021-02-23T17:26:02+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:26:02 ----------------
+2021-02-23T17:26:02+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:26:02 ----------------
+2021-02-23T17:26:10+00:00 INFO (6): {"status":"success","product_id":42445,"sku":"UNNV3G114C67","message":"Product updated successfully"}
+2021-02-23T17:26:11+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:26:11 ----------------
+2021-02-23T17:26:11+00:00 INFO (6): {"status":"success","product_id":42445,"sku":"UNNV3G114C67","message":"Product updated successfully"}
+2021-02-23T17:26:11+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:26:11 ----------------
+2021-02-23T17:26:19+00:00 INFO (6): {"status":"success","product_id":42446,"sku":"UNNV3G114C80","message":"Product updated successfully"}
+2021-02-23T17:26:20+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:26:20 ----------------
+2021-02-23T17:26:20+00:00 INFO (6): {"status":"success","product_id":42446,"sku":"UNNV3G114C80","message":"Product updated successfully"}
+2021-02-23T17:26:21+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:26:21 ----------------
+2021-02-23T17:26:31+00:00 INFO (6): {"status":"success","product_id":42447,"sku":"UNNV3G115B67","message":"Product updated successfully"}
+2021-02-23T17:26:32+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:26:32 ----------------
+2021-02-23T17:26:32+00:00 INFO (6): {"status":"success","product_id":42447,"sku":"UNNV3G115B67","message":"Product updated successfully"}
+2021-02-23T17:26:32+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:26:32 ----------------
+2021-02-23T17:26:38+00:00 INFO (6): {"status":"success","product_id":43537,"sku":"UNNV3G115C67","message":"Product updated successfully"}
+2021-02-23T17:26:39+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:26:39 ----------------
+2021-02-23T17:26:39+00:00 INFO (6): {"status":"success","product_id":43537,"sku":"UNNV3G115C67","message":"Product updated successfully"}
+2021-02-23T17:26:39+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:26:39 ----------------
+2021-02-23T17:26:50+00:00 INFO (6): {"status":"success","product_id":43538,"sku":"UNNY2077PL5","message":"Product updated successfully"}
+2021-02-23T17:26:50+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:26:50 ----------------
+2021-02-23T17:26:57+00:00 INFO (6): {"status":"success","product_id":42448,"sku":"UNNY2077PL6","message":"Product updated successfully"}
+2021-02-23T17:26:57+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:26:57 ----------------
+2021-02-23T17:27:05+00:00 INFO (6): {"status":"success","product_id":42449,"sku":"UNNY2077SC5","message":"Product updated successfully"}
+2021-02-23T17:27:05+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:27:05 ----------------
+2021-02-23T17:27:12+00:00 INFO (6): {"status":"success","product_id":42450,"sku":"UNNY2100SC25","message":"Product updated successfully"}
+2021-02-23T17:27:12+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:27:12 ----------------
+2021-02-23T17:27:19+00:00 INFO (6): {"status":"success","product_id":42451,"sku":"UNNY2100SC30","message":"Product updated successfully"}
+2021-02-23T17:27:19+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:27:19 ----------------
+2021-02-23T17:27:25+00:00 INFO (6): {"status":"success","product_id":42452,"sku":"UNNY2100SP25","message":"Product updated successfully"}
+2021-02-23T17:27:25+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:27:25 ----------------
+2021-02-23T17:27:31+00:00 INFO (6): {"status":"success","product_id":42453,"sku":"UNNY2100SP30","message":"Product updated successfully"}
+2021-02-23T17:27:32+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:27:32 ----------------
+2021-02-23T17:27:38+00:00 INFO (6): {"status":"success","product_id":42454,"sku":"UNNY2101PL25","message":"Product updated successfully"}
+2021-02-23T17:27:39+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:27:39 ----------------
+2021-02-23T17:27:44+00:00 INFO (6): {"status":"success","product_id":42455,"sku":"UNNY2101PL30","message":"Product updated successfully"}
+2021-02-23T17:27:44+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:27:44 ----------------
+2021-02-23T17:27:50+00:00 INFO (6): {"status":"success","product_id":42456,"sku":"UNNY2101SC25","message":"Product updated successfully"}
+2021-02-23T17:27:50+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:27:50 ----------------
+2021-02-23T17:27:56+00:00 INFO (6): {"status":"success","product_id":42457,"sku":"UNNY2101SC30","message":"Product updated successfully"}
+2021-02-23T17:27:56+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:27:56 ----------------
+2021-02-23T17:28:07+00:00 INFO (6): {"status":"success","product_id":44746,"sku":"UNNY2103PB25","message":"Product updated successfully"}
+2021-02-23T17:28:08+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:28:08 ----------------
+2021-02-23T17:28:18+00:00 INFO (6): {"status":"success","product_id":44747,"sku":"UNNY2103PB30","message":"Product updated successfully"}
+2021-02-23T17:28:19+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:28:19 ----------------
+2021-02-23T17:28:31+00:00 INFO (6): {"status":"success","product_id":44748,"sku":"UNNY2103SS25","message":"Product updated successfully"}
+2021-02-23T17:28:31+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:28:31 ----------------
+2021-02-23T17:28:37+00:00 INFO (6): {"status":"success","product_id":42458,"sku":"UNNY2103SS30","message":"Product updated successfully"}
+2021-02-23T17:28:37+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:28:37 ----------------
+2021-02-23T17:28:49+00:00 INFO (6): {"status":"success","product_id":44749,"sku":"UNNY2105PB25","message":"Product updated successfully"}
+2021-02-23T17:28:49+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:28:49 ----------------
+2021-02-23T17:28:59+00:00 INFO (6): {"status":"success","product_id":44750,"sku":"UNNY2105PB30","message":"Product updated successfully"}
+2021-02-23T17:28:59+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:28:59 ----------------
+2021-02-23T17:29:09+00:00 INFO (6): {"status":"success","product_id":43730,"sku":"UNNY2105SS25","message":"Product updated successfully"}
+2021-02-23T17:29:10+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:29:10 ----------------
+2021-02-23T17:29:15+00:00 INFO (6): {"status":"success","product_id":42459,"sku":"UNNY2105SS30","message":"Product updated successfully"}
+2021-02-23T17:29:15+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:29:15 ----------------
+2021-02-23T17:29:21+00:00 INFO (6): {"status":"success","product_id":42460,"sku":"UNNY2134EC25","message":"Product updated successfully"}
+2021-02-23T17:29:21+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:29:21 ----------------
+2021-02-23T17:29:28+00:00 INFO (6): {"status":"success","product_id":42461,"sku":"UNNY2134EC30","message":"Product updated successfully"}
+2021-02-23T17:29:28+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:29:28 ----------------
+2021-02-23T17:29:35+00:00 INFO (6): {"status":"success","product_id":42462,"sku":"UNNY2134EP25","message":"Product updated successfully"}
+2021-02-23T17:29:35+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:29:35 ----------------
+2021-02-23T17:29:42+00:00 INFO (6): {"status":"success","product_id":42463,"sku":"UNNY2134EP30","message":"Product updated successfully"}
+2021-02-23T17:29:42+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:29:42 ----------------
+2021-02-23T17:29:47+00:00 INFO (6): {"status":"success","product_id":44777,"sku":"UNNY2177PL25","message":"Product updated successfully"}
+2021-02-23T17:29:48+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:29:48 ----------------
+2021-02-23T17:29:53+00:00 INFO (6): {"status":"success","product_id":42464,"sku":"UNNY2177PL30","message":"Product updated successfully"}
+2021-02-23T17:29:53+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:29:53 ----------------
+2021-02-23T17:30:00+00:00 INFO (6): {"status":"success","product_id":42465,"sku":"UNNY2177SC25","message":"Product updated successfully"}
+2021-02-23T17:30:00+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:30:00 ----------------
+2021-02-23T17:30:07+00:00 INFO (6): {"status":"success","product_id":42466,"sku":"UNNY2177SC30","message":"Product updated successfully"}
+2021-02-23T17:30:07+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:30:07 ----------------
+2021-02-23T17:30:13+00:00 INFO (6): {"status":"success","product_id":42467,"sku":"UNNY2200SC25","message":"Product updated successfully"}
+2021-02-23T17:30:14+00:00 INFO (6): ---------------- END API Cron 23/02/21 17:30:14 ----------------

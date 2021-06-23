@@ -1,0 +1,52 @@
+You can manage your accounts by splitting the permissions between them as follow schemes:
+
+FOUR LEVELS:
+1) Main account
+|
+2) SubAccount with "Can Approve Orders" permission
+|
+3) Subaccount with "Can Authorize Orders" permission
+|
+4) Subaccount with "Can Create Order" permission, but with "Require Approval Before Creating An Order" permission.
+
+THREE LEVELS:
+1) Main account (has approval permission by default)
+|
+2) Subaccount with "Can Authorize Orders" permission
+|
+3) Subaccount with "Can Create Order" permission, but with "Require Approval Before Creating An Order" permission.
+
+THREE LEVELS (ALTERNATIVE):
+1) Main account
+|
+2) SubAccount with "Can Authorize Orders" and "Can Approve Orders" permissions.
+|
+3) Subaccount with "Can Create Order" permission, but with "Require Approval Before Creating An Order" permission.
+
+TWO LEVELS:
+1) Main account
+|
+2) Subaccount with "Can Create Order" permission, but with "Require Approval Before Creating An Order" permission.
+
+TWO LEVELS (ALTERNATIVE):
+1) Main account
+|
+2) Subaccount with "Can Create Order" permission, but with "Require Approval Before Creating An Order" permission.
+2) Subacount with "Can Authorize Orders" 
+2) Subaccount with "Can Approve Orders" permissions.
+
+TWO LEVELS (ALTERNATIVE 2):
+...
+|
+2) Subaccount (Parent Subaccount) with "Can Approve Orders" permission.
+|
+3) Subaccount with "Can Create Order" permission, but with "Require Approval Before Creating An Order" permission.
+|
+...
+
+
+
+
+
+
+

@@ -1,0 +1,531 @@
+<?php
+
+/**
+
+ * Copyright © 2015 Magento. All rights reserved.
+
+ * See COPYING.txt for license details.
+
+ */
+
+
+
+// @codingStandardsIgnoreFile
+
+
+
+/** @var $block \Magento\Catalog\Block\Product\View */
+
+?>
+
+<?php $_product = $block->getProduct(); ?>
+
+<?php $buttonTitle = __('Add to Cart'); ?>
+
+
+
+<?php
+
+$objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+
+$eavConfig = $objectManager->get('\Magento\Eav\Model\Config');
+
+$priceHelper = $objectManager->create('Magento\Framework\Pricing\Helper\Data');
+
+
+
+$currency = $objectManager->get('Magento\Directory\Model\Currency');
+
+$priceCurrency = $objectManager->get('Magento\Framework\Pricing\PriceCurrencyInterface');
+
+$currencySymbol = $priceCurrency->getCurrencySymbol();
+
+
+
+$attribute_set_id = 0;
+
+if($_product){
+
+	$attribute_set_id = $_product->getAttributeSetId();
+
+}
+
+
+
+$price_structure = $_product->getPriceStructure();
+
+
+
+$stockRegistry = $objectManager->get('\Magento\CatalogInventory\Api\StockRegistryInterface');
+
+$stockItem = $stockRegistry->getStockItem($_product->getId());
+
+?>
+
+
+
+<?php if($price_structure && !$stockItem->getManageStock() && $attribute_set_id == 9 && $_product->getData('pack_qty') != '' && $_product->getData('unit_price') != ''){ ?>
+
+
+
+	<?php if ($_product->isSaleable()): ?>
+
+	
+
+	<style>
+
+		.product-view .product-info-main .price-box { display: none; }
+
+		.product-view .product-info-main .product-add-form .price-box { display: block; }
+
+	</style>
+
+	
+
+	<div class="multiple_add_to_cart">
+
+	
+
+	<div class="box-tocart pack_qty_price">
+
+	    <div class="fieldset">
+
+	    	<div class="field price-label">
+				<div class="price-label"><?php echo __("Price Per")." ".$_product->getData('price_unit').":"; ?></div>
+	        </div>
+
+	    	<div class="field qty pack_qty_price">
+
+	            <?php echo $block->getProductPrice($_product); ?>
+
+					<?php
+
+						$pack_qty = $eavConfig->getAttribute('catalog_product', 'pack_qty');
+
+					?>
+
+					<!--<div class="pack_qty"><?php echo $pack_qty->getData('frontend_label').': '.$_product->getData('pack_qty'); ?></div>-->
+
+	        </div>
+
+	    
+
+	        <?php if ($block->shouldRenderQuantity()): ?>
+
+	        <div class="field qty">
+
+	            <label class="label" for="qty"><span><?php /* @escapeNotVerified */ echo __('Quantity :') ?></span></label>
+
+	            <div class="control">
+
+	                <input type="number"
+
+	                       name="qty"
+
+	                       id="pack_qty"
+
+	                       maxlength="12"
+
+	                       value="0"
+
+	                       min="0"
+
+	                       title="<?php /* @escapeNotVerified */ echo __('Quantity') ?>" class="input-text qty"
+
+	                       data-price="<?php echo $_product->getFinalPrice(); ?>"
+
+	                       />
+
+	            	<input style="display:none;" type="checkbox" name="add_pack_qty" value="1"/>
+
+	            </div>
+
+	        </div>
+
+	        <?php endif; ?>
+
+	        <div class="actions" style="display:none !important;">
+
+	            <button type="submit"
+
+	                    title="<?php /* @escapeNotVerified */ echo $buttonTitle ?>"
+
+	                    class="action primary tocart" id="add_pack_qty">
+
+	                <span><?php /* @escapeNotVerified */ echo $buttonTitle ?></span>
+
+	            </button>
+
+	        </div>
+
+	    </div>
+
+	</div>
+
+	
+
+	<div class="box-tocart unit_price">
+
+	    <div class="fieldset">
+	    
+	    	<div class="field price-label">
+				<div class="price-label"><?php echo __("Price Per Ind:"); ?></div>
+	        </div>
+
+	    	<div class="field qty unit_price">
+
+				<?php $product_unit_price = $_product->getData('unit_price');
+				$customerSession = $objectManager->get('Magento\Customer\Model\SessionFactory')->create();
+				if($customerSession->isLoggedIn()){
+					$customer_id = $customerSession->getCustomer()->getId();
+					$customerPriceData = $objectManager->get('\MageWorx\CustomerPrices\Model\ResourceModel\CustomerPrices')->getCustomerProductPrice($customer_id,$_product->getId());
+					if(!empty($customerPriceData)){
+						if($customerPriceData['unit_price_value'] != '' && $customerPriceData['unit_price_type'] == '1' ){
+							if($customerPriceData['unit_price_sign'] == '+'){
+								$product_unit_price = $_product->getData('unit_price') + $customerPriceData['unit_price_value'];
+							}elseif($customerPriceData['unit_price_sign'] == '-'){
+								$product_unit_price = $_product->getData('unit_price') - $customerPriceData['unit_price_value'];
+							}else{
+								$product_unit_price = $customerPriceData['unit_price_value'];
+							}
+						}elseif($customerPriceData['unit_price_value'] != '' && $customerPriceData['unit_price_type'] == '2'){
+							if($customerPriceData['unit_price_sign'] == '+'){
+								$product_unit_price = ($_product->getData('unit_price') / 100) * $customerPriceData['unit_price_value'];
+								$product_unit_price = $_product->getData('unit_price') + $product_unit_price;
+							}elseif($customerPriceData['unit_price_sign'] == '-'){
+								$product_unit_price = ($_product->getData('unit_price') / 100) * $customerPriceData['unit_price_value'];
+								$product_unit_price = $_product->getData('unit_price') - $product_unit_price;
+							}else{
+								$product_unit_price = ($_product->getData('unit_price') / 100) * $customerPriceData['unit_price_value'];
+							}
+						}						
+					}
+				} ?>
+
+	    		<div class="price-box price-final_price" data-unit-price="<?php echo $product_unit_price; ?>">
+	    			<span class="price-container price-final_price tax weee">
+	    				<span class="price-wrapper">
+	    					<span class="price"><?php echo $priceHelper->currency($product_unit_price, true, false); ?></span>
+	    				</span>
+	    			</span>
+	    		</div>
+
+				<?php
+
+					$unit_price = $eavConfig->getAttribute('catalog_product', 'unit_price');
+
+				?>
+
+				<div class="unit_price"><?php echo $unit_price->getData('frontend_label'); ?></div>
+
+	        </div>
+
+	    
+
+	        <?php if ($block->shouldRenderQuantity()): ?>
+
+	        <div class="field qty">
+
+	            <label class="label" for="qty"><span><?php /* @escapeNotVerified */ echo __('Quantity :') ?></span></label>
+
+	            <div class="control">
+
+	                <input type="number"
+
+	                       name="unit_qty"
+
+	                       id="unit_qty"
+
+	                       maxlength="12"
+
+	                       value="0"
+
+	                       min="0"
+
+	                       title="<?php /* @escapeNotVerified */ echo __('Quantity') ?>" class="input-text qty"
+
+	                       data-price="<?php echo $currency->format($_product->getData('unit_price'), ['display'=>\Zend_Currency::NO_SYMBOL], false); ?>"
+
+	                       />
+
+	            	<input style="display:none;" type="checkbox" name="add_unit_price" value="1"/>
+
+	            </div>
+
+	        </div>
+
+	        <?php endif; ?>
+
+	        <div class="actions" style="display:none !important;">
+
+	            <button type="submit"
+
+	                    title="<?php /* @escapeNotVerified */ echo $buttonTitle ?>"
+
+	                    class="action primary tocart" id="add_unit_price">
+
+	                <span><?php /* @escapeNotVerified */ echo $buttonTitle ?></span>
+
+	            </button>
+
+	        </div>
+
+	    </div>
+
+	</div>
+	
+	<div class="box-tocart">
+	    <div class="fieldset">
+	        <div class="actions">
+	            <button type="button" title="<?php /* @escapeNotVerified */ echo $buttonTitle ?>" class="action primary tocart" id="add_to_cart_product">
+	                <span><?php /* @escapeNotVerified */ echo $buttonTitle ?></span>
+	            </button>
+	        </div>
+	        <div class="error" style="color: #e02b27;margin-top: 15px;display:none;"><?php echo __("Quntity must be greater than 0."); ?></div>
+	    </div>
+	</div>
+
+	
+
+	</div>
+
+	<?php endif; ?>
+
+
+
+<?php }else{ ?>
+
+
+
+	<?php if ($_product->isSaleable()): ?>
+
+	<div class="box-tocart">
+
+	    <div class="fieldset">
+
+	        <?php if ($block->shouldRenderQuantity()): ?>
+
+	        <div class="field qty">
+
+	            <label class="label" for="qty"><span><?php /* @escapeNotVerified */ echo __('Quantity :') ?></span></label>
+
+	            <div class="control">
+
+	                <input type="number"
+
+	                       name="qty"
+
+	                       id="qty"
+
+	                       maxlength="12"
+
+	                       value="<?php /* @escapeNotVerified */ echo $block->getProductDefaultQty() * 1 ?>"
+
+	                       title="<?php /* @escapeNotVerified */ echo __('Quantity') ?>" class="input-text qty"
+
+	                       data-validate="<?php echo $block->escapeHtml(json_encode($block->getQuantityValidators())) ?>"
+
+	                       />
+
+	            </div>
+
+	        </div>
+
+	        <?php endif; ?>
+
+	        <div class="actions">
+
+	            <button type="submit"
+
+	                    title="<?php /* @escapeNotVerified */ echo $buttonTitle ?>"
+
+	                    class="action primary tocart"
+
+	                    id="product-addtocart-button">
+
+	                <span><?php /* @escapeNotVerified */ echo $buttonTitle ?></span>
+
+	            </button>
+
+	            <?php echo $block->getChildHtml('', true) ?>
+
+	        </div>
+
+	    </div>
+
+	</div>
+
+	<?php endif; ?>
+
+	
+
+<?php } ?>
+
+
+
+
+
+<?php if ($block->isRedirectToCartEnabled()) : ?>
+
+<script type="text/x-magento-init">
+
+    {
+
+        "#product_addtocart_form": {
+
+            "Magento_Catalog/product/view/validation": {
+
+                "radioCheckboxClosest": ".nested"
+
+            }
+
+        }
+
+    }
+
+</script>
+
+<?php else : ?>
+
+<script>
+
+    require([
+
+        'jquery',
+
+        'mage/mage',
+
+        'Magento_Catalog/product/view/validation',
+
+        'Magento_Catalog/js/catalog-add-to-cart'
+
+    ], function ($) {
+
+        'use strict';
+
+
+
+        $('#product_addtocart_form').mage('validation', {
+
+            radioCheckboxClosest: '.nested',
+
+            submitHandler: function (form) {
+
+                var widget = $(form).catalogAddToCart({
+
+                    bindSubmit: false
+
+                });
+
+
+
+                widget.catalogAddToCart('submitForm', $(form));
+
+
+
+                return false;
+
+            }
+
+        });
+
+    
+
+    });
+
+</script>
+
+<?php endif; ?>
+
+
+
+<script>
+
+    require([
+
+        'jquery'
+
+    ], function ($) {
+
+        'use strict';
+
+
+
+        $('#add_unit_price').click(function(){
+
+	        $('input[name="add_unit_price"]').prop('checked',true);
+
+	        $('input[name="add_pack_qty"]').prop('checked',false);
+
+	    });
+
+	    $('#add_pack_qty').click(function(){
+
+	        $('input[name="add_pack_qty"]').prop('checked',true);
+
+	        $('input[name="add_unit_price"]').prop('checked',false);
+
+	    });
+
+	    $('#add_to_cart_product').click(function(){
+	    	
+	    	if($('#pack_qty').val() <= 0 && $('#unit_qty').val() <= 0){
+				$(this).parent().parent().find('.error').show();
+			}else{
+				$(this).parent().parent().find('.error').hide();
+				if($('#pack_qty').val() > 0){
+			        $('#add_pack_qty').click();
+			    }
+			    if($('#unit_qty').val() > 0){
+			        $('#add_unit_price').click();
+			    }				
+			}
+		});
+
+	    /*var currencySymbol = '<?php echo $currencySymbol; ?>';
+
+	    $('#pack_qty').keyup(function(){
+
+	        var pack_price = $(this).data('price');
+
+	        var value = $(this).val();
+
+	        if(value > 0){
+
+	            var price = value * pack_price;
+
+	            $('.field.qty.pack_qty_price .price-box span.price').html(currencySymbol+price.toFixed(2));
+
+	        }else{
+
+	            $('.field.qty.pack_qty_price .price-box span.price').html(currencySymbol+pack_price.toFixed(2));
+
+	        }
+
+	    });
+
+	    $('#unit_qty').keyup(function(){
+
+	        var pack_price = $(this).data('price');
+
+	        var value = $(this).val();
+
+	        if(value > 0){
+
+	            var price = value * pack_price;
+
+	            $('.field.qty.unit_price .price-box span.price').html(currencySymbol+price.toFixed(2));
+
+	        }else{
+
+	            $('.field.qty.unit_price .price-box span.price').html(currencySymbol+pack_price.toFixed(2));
+
+	        }
+
+	    });*/
+
+    
+
+    });
+
+</script>

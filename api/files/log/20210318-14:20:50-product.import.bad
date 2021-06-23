@@ -1,0 +1,221 @@
+2021-03-18T14:25:27+00:00 INFO (6): {"status":"failed","sku":"7IN1","message":"Error occurred during \"custom_attributes\" processing. Attribute \"fkbrand\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T14:30:26+00:00 INFO (6): {"status":"failed","sku":"B\/S16332","message":"Request does not match any route."}
+2021-03-18T14:30:26+00:00 INFO (6): {"status":"failed","sku":"B\/S16332","message":"Request does not match any route."}
+2021-03-18T14:31:07+00:00 INFO (6): {"status":"failed","sku":"BB","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:32:48+00:00 INFO (6): {"status":"failed","sku":"BBFV7","message":"Error occurred during \"custom_attributes\" processing. Attribute \"thread_form\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T14:32:48+00:00 INFO (6): {"status":"failed","sku":"BBFV7","message":"Error occurred during \"custom_attributes\" processing. Attribute \"thread_form\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T14:36:27+00:00 INFO (6): {"status":"failed","sku":"BPK3Q","message":"Error occurred during \"status\" processing. The \"B-SEEN HV POLO\/SWEATSHIRT\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T14:36:28+00:00 INFO (6): {"status":"failed","sku":"BPK3Q","message":"Error occurred during \"status\" processing. The \"B-SEEN HV POLO\/SWEATSHIRT\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T14:37:15+00:00 INFO (6): {"status":"failed","sku":"BS062","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:39:04+00:00 INFO (6): {"status":"failed","sku":"BWENG","message":"Error occurred during \"custom_attributes\" processing. Attribute \"thread_form\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T14:39:04+00:00 INFO (6): {"status":"failed","sku":"BWENG","message":"Error occurred during \"custom_attributes\" processing. Attribute \"thread_form\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T14:39:12+00:00 INFO (6): {"status":"failed","sku":"C2WRP","message":"Error occurred during \"custom_attributes\" processing. Attribute \"finish_colour\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T14:39:12+00:00 INFO (6): {"status":"failed","sku":"C2WRP","message":"Error occurred during \"custom_attributes\" processing. Attribute \"finish_colour\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T14:39:33+00:00 INFO (6): {"status":"failed","sku":"JPG","message":"Product is not available."}
+2021-03-18T14:39:33+00:00 INFO (6): {"status":"failed","sku":"JPG","message":"Product is not available."}
+2021-03-18T14:40:39+00:00 INFO (6): {"status":"failed","sku":"CARC4N","message":"Error occurred during \"price\" processing. The \" Does NOT conform to EN ISO 20471\\\"\" value's type is invalid. The \"float\" type was expected. Verify and try again."}
+2021-03-18T14:40:39+00:00 INFO (6): {"status":"failed","sku":"CARC4N","message":"Error occurred during \"price\" processing. The \" Does NOT conform to EN ISO 20471\\\"\" value's type is invalid. The \"float\" type was expected. Verify and try again."}
+2021-03-18T14:42:38+00:00 INFO (6): {"status":"failed","sku":"CCCHABL29X22","message":"Error occurred during \"status\" processing. The \"WORKWEAR & CLOTHING\/WORKWEAR\/APRONS\/CHEFS BIB APRON\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T14:42:38+00:00 INFO (6): {"status":"failed","sku":"CCCHABL29X22","message":"Error occurred during \"status\" processing. The \"WORKWEAR & CLOTHING\/WORKWEAR\/APRONS\/CHEFS BIB APRON\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T14:42:42+00:00 INFO (6): {"status":"failed","sku":"CCCJ","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:43:11+00:00 INFO (6): {"status":"failed","sku":"CCFB","message":"Error occurred during \"status\" processing. The \"WORKWEAR & CLOTHING\/WORKWEAR\/COVERALLS \/ BOILER SUITS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T14:43:11+00:00 INFO (6): {"status":"failed","sku":"CCFB","message":"Error occurred during \"status\" processing. The \"WORKWEAR & CLOTHING\/WORKWEAR\/COVERALLS \/ BOILER SUITS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T14:43:16+00:00 INFO (6): {"status":"failed","sku":"CCFCN","message":"Error occurred during \"price\" processing. The \"WORKWEAR & CLOTHING\/WORKWEAR\/COVERALLS \/ BOILER SUITS\" value's type is invalid. The \"float\" type was expected. Verify and try again."}
+2021-03-18T14:43:16+00:00 INFO (6): {"status":"failed","sku":"CCFCN","message":"Error occurred during \"price\" processing. The \"WORKWEAR & CLOTHING\/WORKWEAR\/COVERALLS \/ BOILER SUITS\" value's type is invalid. The \"float\" type was expected. Verify and try again."}
+2021-03-18T14:43:31+00:00 INFO (6): {"status":"failed","sku":"CCFHN","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:43:36+00:00 INFO (6): {"status":"failed","sku":"CCFJN","message":"Error occurred during \"status\" processing. The \"WORKWEAR & CLOTHING\/WORKWEAR\/INDUSTRIAL CLOTHING\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T14:43:36+00:00 INFO (6): {"status":"failed","sku":"CCFJN","message":"Error occurred during \"status\" processing. The \"WORKWEAR & CLOTHING\/WORKWEAR\/INDUSTRIAL CLOTHING\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T14:43:51+00:00 INFO (6): {"status":"failed","sku":"CCH","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:49:29+00:00 INFO (6): {"status":"failed","sku":"CF84","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:49:42+00:00 INFO (6): {"status":"failed","sku":"CF8620","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:52:09+00:00 INFO (6): {"status":"failed","sku":"CFRPTN","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:52:10+00:00 INFO (6): {"status":"failed","sku":"CFRPTN","message":"The product was unable to be saved. Please try again."}
+2021-03-18T14:54:43+00:00 INFO (6): {"status":"failed","sku":"CPKSTTEN","message":"Error occurred during \"custom_attributes\" processing. Attribute \"thread_form\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T14:54:43+00:00 INFO (6): {"status":"failed","sku":"CPKSTTEN","message":"Error occurred during \"custom_attributes\" processing. Attribute \"thread_form\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T15:07:44+00:00 INFO (6): {"status":"failed","sku":"EY1600","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:07:44+00:00 INFO (6): {"status":"failed","sku":"EY1600","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:10:46+00:00 INFO (6): {"status":"failed","sku":"GWB","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:10:48+00:00 INFO (6): {"status":"failed","sku":"GWB","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:11:00+00:00 INFO (6): {"status":"failed","sku":"GZAVG","message":"Error occurred during \"status\" processing. The \"WORKWEAR & CLOTHING\/WORKWEAR\/ACCESSORIES\/GLOVES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T15:11:03+00:00 INFO (6): {"status":"failed","sku":"GZAVG","message":"Error occurred during \"status\" processing. The \"WORKWEAR & CLOTHING\/WORKWEAR\/ACCESSORIES\/GLOVES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T15:11:03+00:00 INFO (6): {"status":"failed","sku":"GZAVG","message":"Error occurred during \"status\" processing. The \"WORKWEAR & CLOTHING\/WORKWEAR\/ACCESSORIES\/GLOVES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T15:11:36+00:00 INFO (6): {"status":"failed","sku":"HSFA10102","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:11:36+00:00 INFO (6): {"status":"failed","sku":"HSFA10102","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:11:44+00:00 INFO (6): {"status":"failed","sku":"HSFA10106","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:11:45+00:00 INFO (6): {"status":"failed","sku":"HSFA10106","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:11:52+00:00 INFO (6): {"status":"failed","sku":"HSFA10108","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:11:53+00:00 INFO (6): {"status":"failed","sku":"HSFA10108","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:11:56+00:00 INFO (6): {"status":"failed","sku":"HSFA20301","message":"Database deadlock found when trying to get lock"}
+2021-03-18T15:12:51+00:00 INFO (6): {"status":"failed","sku":"HT22","message":"Error occurred during \"custom_attributes\" processing. Attribute \"length\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T15:12:58+00:00 INFO (6): {"status":"failed","sku":"HT22","message":"Error occurred during \"custom_attributes\" processing. Attribute \"length\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T15:13:11+00:00 INFO (6): {"status":"failed","sku":"HT22","message":"Error occurred during \"custom_attributes\" processing. Attribute \"length\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T15:23:43+00:00 INFO (6): {"status":"failed","sku":"M\/T821","message":"Request does not match any route."}
+2021-03-18T15:24:22+00:00 INFO (6): {"status":"failed","sku":"M\/T821","message":"Request does not match any route."}
+2021-03-18T15:26:15+00:00 INFO (6): {"status":"failed","sku":"PCTSYNN","message":"Error occurred during \"price\" processing. The \"WORKWEAR & CLOTHING\/WORKWEAR\/TROUSERS FOR MEN\" value's type is invalid. The \"float\" type was expected. Verify and try again."}
+2021-03-18T15:26:15+00:00 INFO (6): {"status":"failed","sku":"PCTSYNN","message":"Error occurred during \"price\" processing. The \"WORKWEAR & CLOTHING\/WORKWEAR\/TROUSERS FOR MEN\" value's type is invalid. The \"float\" type was expected. Verify and try again."}
+2021-03-18T15:26:26+00:00 INFO (6): {"status":"failed","sku":"PKJENG","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:26:37+00:00 INFO (6): {"status":"failed","sku":"PNA","message":"Error occurred during \"status\" processing. The \"CLICK APRONS\/ACCESSORIES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T15:26:37+00:00 INFO (6): {"status":"failed","sku":"PNA","message":"Error occurred during \"status\" processing. The \"CLICK APRONS\/ACCESSORIES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T15:28:39+00:00 INFO (6): {"status":"failed","sku":"RSV02P","message":"Error occurred during \"custom_attributes\" processing. Attribute \"grade\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T15:28:39+00:00 INFO (6): {"status":"failed","sku":"RSV02P","message":"Error occurred during \"custom_attributes\" processing. Attribute \"grade\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T15:30:23+00:00 INFO (6): {"status":"failed","sku":"SBDBB","message":"Error occurred during \"price\" processing. The \"WORKWEAR & CLOTHING\/WORKWEAR\/COVERALLS \/ BOILER SUITS\" value's type is invalid. The \"float\" type was expected. Verify and try again."}
+2021-03-18T15:30:23+00:00 INFO (6): {"status":"failed","sku":"SBDBB","message":"Error occurred during \"price\" processing. The \"WORKWEAR & CLOTHING\/WORKWEAR\/COVERALLS \/ BOILER SUITS\" value's type is invalid. The \"float\" type was expected. Verify and try again."}
+2021-03-18T15:31:08+00:00 INFO (6): {"status":"failed","sku":"SCAGLOCUT","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:31:15+00:00 INFO (6): {"status":"failed","sku":"SCAGLODEX","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:31:37+00:00 INFO (6): {"status":"failed","sku":"SCAGLOHVIS","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:31:44+00:00 INFO (6): {"status":"failed","sku":"SCAGLOINS","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:31:52+00:00 INFO (6): {"status":"failed","sku":"SCAGLOK","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:32:00+00:00 INFO (6): {"status":"failed","sku":"SCAGLOKST","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:32:08+00:00 INFO (6): {"status":"failed","sku":"SCAGLOLA","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:32:15+00:00 INFO (6): {"status":"failed","sku":"SCAGLOLAT","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:32:38+00:00 INFO (6): {"status":"failed","sku":"SCAGLONITB","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:32:53+00:00 INFO (6): {"status":"failed","sku":"SCAGLONITM","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:33:08+00:00 INFO (6): {"status":"failed","sku":"SCAGLOPU","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:33:36+00:00 INFO (6): {"status":"failed","sku":"SCAGLOTOUC","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:33:51+00:00 INFO (6): {"status":"failed","sku":"SCAGLOVR","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:36:47+00:00 INFO (6): {"status":"failed","sku":"SS20471O","message":"Error occurred during \"custom_attributes\" processing. Attribute \"fkbrand\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T15:36:47+00:00 INFO (6): {"status":"failed","sku":"SS20471O","message":"Error occurred during \"custom_attributes\" processing. Attribute \"fkbrand\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T15:38:02+00:00 INFO (6): {"status":"failed","sku":"SU1401","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:38:21+00:00 INFO (6): {"status":"failed","sku":"SUS10LXPB","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:38:24+00:00 INFO (6): {"status":"failed","sku":"SUS13","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:38:59+00:00 INFO (6): {"status":"failed","sku":"SUS13PNT","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:39:07+00:00 INFO (6): {"status":"failed","sku":"SUS13TAGP","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:39:14+00:00 INFO (6): {"status":"failed","sku":"SUS15TAFG","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:39:29+00:00 INFO (6): {"status":"failed","sku":"SUSCXPNTF","message":"Error occurred during \"custom_attributes\" processing. Attribute \"diameter\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T15:39:29+00:00 INFO (6): {"status":"failed","sku":"SUSCXPNTF","message":"Error occurred during \"custom_attributes\" processing. Attribute \"diameter\" has invalid value. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-03-18T15:39:48+00:00 INFO (6): {"status":"failed","sku":"SUSKFGFNV","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:40:03+00:00 INFO (6): {"status":"failed","sku":"SUSTAFGFN","message":"The product was unable to be saved. Please try again."}
+2021-03-18T15:40:21+00:00 INFO (6): {"status":"failed","sku":"T\/CPTGL276M","message":"Request does not match any route."}
+2021-03-18T15:40:22+00:00 INFO (6): {"status":"failed","sku":"T\/CPTGL276S","message":"Request does not match any route."}
+2021-03-18T15:40:23+00:00 INFO (6): {"status":"failed","sku":"T\/CPTGL276M","message":"Request does not match any route."}
+2021-03-18T15:40:23+00:00 INFO (6): {"status":"failed","sku":"T\/CPTGL276M","message":"Request does not match any route."}
+2021-03-18T15:40:23+00:00 INFO (6): {"status":"failed","sku":"T\/CPTGL444L","message":"Request does not match any route."}
+2021-03-18T15:40:25+00:00 INFO (6): {"status":"failed","sku":"T\/CPTGL276S","message":"Request does not match any route."}
+2021-03-18T15:40:25+00:00 INFO (6): {"status":"failed","sku":"T\/CPTGL276S","message":"Request does not match any route."}
+2021-03-18T15:40:25+00:00 INFO (6): {"status":"failed","sku":"T\/CTCG8049","message":"Request does not match any route."}
+2021-03-18T15:40:26+00:00 INFO (6): {"status":"failed","sku":"T\/CPTGL444L","message":"Request does not match any route."}
+2021-03-18T15:40:26+00:00 INFO (6): {"status":"failed","sku":"T\/CPTGL444L","message":"Request does not match any route."}
+2021-03-18T15:40:27+00:00 INFO (6): {"status":"failed","sku":"T\/CTCG8050","message":"Request does not match any route."}
+2021-03-18T15:40:27+00:00 INFO (6): {"status":"failed","sku":"T\/CTCG8049","message":"Request does not match any route."}
+2021-03-18T15:40:28+00:00 INFO (6): {"status":"failed","sku":"T\/CTCG8049","message":"Request does not match any route."}
+2021-03-18T15:40:28+00:00 INFO (6): {"status":"failed","sku":"T\/CTFW","message":"Request does not match any route."}
+2021-03-18T15:40:29+00:00 INFO (6): {"status":"failed","sku":"T\/CTCG8050","message":"Request does not match any route."}
+2021-03-18T15:40:29+00:00 INFO (6): {"status":"failed","sku":"T\/CTCG8050","message":"Request does not match any route."}
+2021-03-18T15:40:30+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL101","message":"Request does not match any route."}
+2021-03-18T15:40:30+00:00 INFO (6): {"status":"failed","sku":"T\/CTFW","message":"Request does not match any route."}
+2021-03-18T15:40:31+00:00 INFO (6): {"status":"failed","sku":"T\/CTFW","message":"Request does not match any route."}
+2021-03-18T15:40:31+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL104M","message":"Request does not match any route."}
+2021-03-18T15:40:32+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL101","message":"Request does not match any route."}
+2021-03-18T15:40:32+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL101","message":"Request does not match any route."}
+2021-03-18T15:40:33+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL104S","message":"Request does not match any route."}
+2021-03-18T15:40:33+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL104M","message":"Request does not match any route."}
+2021-03-18T15:40:33+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL104M","message":"Request does not match any route."}
+2021-03-18T15:40:35+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL105M","message":"Request does not match any route."}
+2021-03-18T15:40:35+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL104S","message":"Request does not match any route."}
+2021-03-18T15:40:35+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL104S","message":"Request does not match any route."}
+2021-03-18T15:40:36+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL105M","message":"Request does not match any route."}
+2021-03-18T15:40:36+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL105S","message":"Request does not match any route."}
+2021-03-18T15:40:37+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL105M","message":"Request does not match any route."}
+2021-03-18T15:40:37+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL105S","message":"Request does not match any route."}
+2021-03-18T15:40:38+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL106M","message":"Request does not match any route."}
+2021-03-18T15:40:38+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL105S","message":"Request does not match any route."}
+2021-03-18T15:40:39+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL106M","message":"Request does not match any route."}
+2021-03-18T15:40:39+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL106S","message":"Request does not match any route."}
+2021-03-18T15:40:40+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL106M","message":"Request does not match any route."}
+2021-03-18T15:40:40+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL106S","message":"Request does not match any route."}
+2021-03-18T15:40:41+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL108M","message":"Request does not match any route."}
+2021-03-18T15:40:41+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL106S","message":"Request does not match any route."}
+2021-03-18T15:40:42+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL108M","message":"Request does not match any route."}
+2021-03-18T15:40:43+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL108M","message":"Request does not match any route."}
+2021-03-18T15:40:43+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL109M","message":"Request does not match any route."}
+2021-03-18T15:40:44+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL109M","message":"Request does not match any route."}
+2021-03-18T15:40:45+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL114M","message":"Request does not match any route."}
+2021-03-18T15:40:46+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL114M","message":"Request does not match any route."}
+2021-03-18T15:40:47+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL115M","message":"Request does not match any route."}
+2021-03-18T15:40:47+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL115M","message":"Request does not match any route."}
+2021-03-18T15:40:48+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL115S","message":"Request does not match any route."}
+2021-03-18T15:40:50+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL109M","message":"Request does not match any route."}
+2021-03-18T15:40:50+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL116M","message":"Request does not match any route."}
+2021-03-18T15:40:51+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL114M","message":"Request does not match any route."}
+2021-03-18T15:40:51+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL118M","message":"Request does not match any route."}
+2021-03-18T15:40:52+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL115M","message":"Request does not match any route."}
+2021-03-18T15:40:53+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL118S","message":"Request does not match any route."}
+2021-03-18T15:40:54+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL115S","message":"Request does not match any route."}
+2021-03-18T15:40:54+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL119M","message":"Request does not match any route."}
+2021-03-18T15:40:55+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL116M","message":"Request does not match any route."}
+2021-03-18T15:40:56+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL200M","message":"Request does not match any route."}
+2021-03-18T15:40:56+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL118M","message":"Request does not match any route."}
+2021-03-18T15:40:57+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL200S","message":"Request does not match any route."}
+2021-03-18T15:40:58+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL118S","message":"Request does not match any route."}
+2021-03-18T15:40:59+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL201","message":"Request does not match any route."}
+2021-03-18T15:40:59+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL119M","message":"Request does not match any route."}
+2021-03-18T15:41:01+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL202","message":"Request does not match any route."}
+2021-03-18T15:41:01+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL200M","message":"Request does not match any route."}
+2021-03-18T15:41:02+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL206","message":"Request does not match any route."}
+2021-03-18T15:41:02+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL200S","message":"Request does not match any route."}
+2021-03-18T15:41:04+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL201","message":"Request does not match any route."}
+2021-03-18T15:41:04+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL207","message":"Request does not match any route."}
+2021-03-18T15:41:05+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL202","message":"Request does not match any route."}
+2021-03-18T15:41:05+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL209","message":"Request does not match any route."}
+2021-03-18T15:41:07+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL206","message":"Request does not match any route."}
+2021-03-18T15:41:07+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL216","message":"Request does not match any route."}
+2021-03-18T15:41:08+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL207","message":"Request does not match any route."}
+2021-03-18T15:41:09+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL219","message":"Request does not match any route."}
+2021-03-18T15:41:10+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL209","message":"Request does not match any route."}
+2021-03-18T15:41:10+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL223M","message":"Request does not match any route."}
+2021-03-18T15:41:11+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL216","message":"Request does not match any route."}
+2021-03-18T15:41:12+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL271M","message":"Request does not match any route."}
+2021-03-18T15:41:12+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL219","message":"Request does not match any route."}
+2021-03-18T15:41:13+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL271S","message":"Request does not match any route."}
+2021-03-18T15:41:14+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL223M","message":"Request does not match any route."}
+2021-03-18T15:41:15+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL272M","message":"Request does not match any route."}
+2021-03-18T15:41:15+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL271M","message":"Request does not match any route."}
+2021-03-18T15:41:16+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL272S","message":"Request does not match any route."}
+2021-03-18T15:41:17+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL271S","message":"Request does not match any route."}
+2021-03-18T15:41:17+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL273S","message":"Request does not match any route."}
+2021-03-18T15:41:18+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL272M","message":"Request does not match any route."}
+2021-03-18T15:41:19+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL401","message":"Request does not match any route."}
+2021-03-18T15:41:20+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL272S","message":"Request does not match any route."}
+2021-03-18T15:41:20+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL402","message":"Request does not match any route."}
+2021-03-18T15:41:21+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL273S","message":"Request does not match any route."}
+2021-03-18T15:41:22+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL403","message":"Request does not match any route."}
+2021-03-18T15:41:22+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL401","message":"Request does not match any route."}
+2021-03-18T15:41:23+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL404","message":"Request does not match any route."}
+2021-03-18T15:41:24+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL402","message":"Request does not match any route."}
+2021-03-18T15:41:25+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL409","message":"Request does not match any route."}
+2021-03-18T15:41:25+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL403","message":"Request does not match any route."}
+2021-03-18T15:41:27+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL404","message":"Request does not match any route."}
+2021-03-18T15:41:27+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL410","message":"Request does not match any route."}
+2021-03-18T15:41:28+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL409","message":"Request does not match any route."}
+2021-03-18T15:41:29+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL412","message":"Request does not match any route."}
+2021-03-18T15:41:30+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL410","message":"Request does not match any route."}
+2021-03-18T15:41:30+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL415","message":"Request does not match any route."}
+2021-03-18T15:41:31+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL412","message":"Request does not match any route."}
+2021-03-18T15:41:32+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL416","message":"Request does not match any route."}
+2021-03-18T15:41:33+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL415","message":"Request does not match any route."}
+2021-03-18T15:41:34+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL418L","message":"Request does not match any route."}
+2021-03-18T15:41:34+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL416","message":"Request does not match any route."}
+2021-03-18T15:41:36+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL429","message":"Request does not match any route."}
+2021-03-18T15:41:37+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL418L","message":"Request does not match any route."}
+2021-03-18T15:41:38+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL434","message":"Request does not match any route."}
+2021-03-18T15:41:38+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL429","message":"Request does not match any route."}
+2021-03-18T15:41:39+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL435L","message":"Request does not match any route."}
+2021-03-18T15:41:40+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL434","message":"Request does not match any route."}
+2021-03-18T15:41:41+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL435M","message":"Request does not match any route."}
+2021-03-18T15:41:41+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL435L","message":"Request does not match any route."}
+2021-03-18T15:41:43+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL436L","message":"Request does not match any route."}
+2021-03-18T15:41:43+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL435M","message":"Request does not match any route."}
+2021-03-18T15:41:44+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL436XL","message":"Request does not match any route."}
+2021-03-18T15:41:45+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL436L","message":"Request does not match any route."}
+2021-03-18T15:41:46+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL441L","message":"Request does not match any route."}
+2021-03-18T15:41:47+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL436XL","message":"Request does not match any route."}
+2021-03-18T15:41:48+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL441M","message":"Request does not match any route."}
+2021-03-18T15:41:48+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL441L","message":"Request does not match any route."}
+2021-03-18T15:41:49+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL442L","message":"Request does not match any route."}
+2021-03-18T15:41:50+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL441M","message":"Request does not match any route."}
+2021-03-18T15:41:51+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL446L","message":"Request does not match any route."}
+2021-03-18T15:41:52+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL442L","message":"Request does not match any route."}
+2021-03-18T15:41:54+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL446L","message":"Request does not match any route."}
+2021-03-18T15:41:55+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL446XL","message":"Request does not match any route."}
+2021-03-18T15:41:57+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL447L","message":"Request does not match any route."}
+2021-03-18T15:49:10+00:00 INFO (6): ---------------- END API Cron 18/03/21 15:49:10 ----------------

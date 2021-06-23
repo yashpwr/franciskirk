@@ -1,0 +1,21 @@
+2021-02-09T13:10:45+00:00 INFO (6): {"status":"failed","sku":"GRPASSKIT","message":"Error occurred during \"visibility\" processing. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-09T13:21:14+00:00 INFO (6): {"status":"failed","sku":"VITS10105","message":"URL key for specified store already exists."}
+2021-02-09T13:21:18+00:00 INFO (6): {"status":"failed","sku":"VITS10405","message":"URL key for specified store already exists."}
+2021-02-09T13:21:19+00:00 INFO (6): {"status":"failed","sku":"VITS20208","message":"URL key for specified store already exists."}
+2021-02-09T13:25:14+00:00 INFO (6): {"status":"failed","sku":"FORSPECTRE12","message":"Error occurred during \"visibility\" processing. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-09T13:25:41+00:00 INFO (6): {"status":"failed","sku":"GRPCURTKIT","message":"Error occurred during \"visibility\" processing. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-09T13:25:41+00:00 INFO (6): {"status":"failed","sku":"GRPMIRKIT","message":"Error occurred during \"visibility\" processing. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-09T13:25:42+00:00 INFO (6): {"status":"failed","sku":"GRPMULTIPK","message":"Error occurred during \"visibility\" processing. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-09T13:25:44+00:00 INFO (6): {"status":"failed","sku":"GRPTVKIT","message":"Error occurred during \"visibility\" processing. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-09T13:26:10+00:00 INFO (6): {"status":"failed","sku":"MHT932471433","message":"Error occurred during \"visibility\" processing. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-09T13:26:11+00:00 INFO (6): {"status":"failed","sku":"MHT932471434","message":"Error occurred during \"visibility\" processing. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-09T13:31:23+00:00 INFO (6): {"status":"failed","sku":"FAIAUFUNNEL3","message":"Error occurred during \"visibility\" processing. The \"\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-09T13:46:03+00:00 INFO (6): {"status":"failed","sku":"CB11","message":"URL key for specified store already exists."}
+2021-02-09T13:46:04+00:00 INFO (6): {"status":"failed","sku":"CB12","message":"URL key for specified store already exists."}
+2021-02-09T13:46:05+00:00 INFO (6): {"status":"failed","sku":"CB14","message":"URL key for specified store already exists."}
+2021-02-09T13:46:06+00:00 INFO (6): {"status":"failed","sku":"CB15","message":"URL key for specified store already exists."}
+2021-02-09T13:46:06+00:00 INFO (6): {"status":"failed","sku":"CB16","message":"URL key for specified store already exists."}
+2021-02-09T13:46:07+00:00 INFO (6): {"status":"failed","sku":"CB17","message":"URL key for specified store already exists."}
+2021-02-09T13:46:08+00:00 INFO (6): {"status":"failed","sku":"CB18","message":"URL key for specified store already exists."}
+2021-02-09T13:46:09+00:00 INFO (6): {"status":"failed","sku":"CB19","message":"URL key for specified store already exists."}
+2021-02-09T13:46:40+00:00 INFO (6): ---------------- END API Cron 09/02/21 13:46:40 ----------------

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<page>
+    <body>
+	<referenceBlock name="breadcrumbs" remove="true" />
+	<referenceContainer name="page.top">
+		<block class="Mahesh\ProductBreadcrumbs\Block\Product\Breadcrumbs" name="product.breadcrumbs" as="product_breadcrumbs" template="Mahesh_ProductBreadcrumbs::product/breadcrumbs.phtml" />
+	</referenceContainer>
+    </body>
+</page>

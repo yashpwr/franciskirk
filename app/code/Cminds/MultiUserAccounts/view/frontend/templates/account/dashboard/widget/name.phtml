@@ -1,0 +1,160 @@
+<?php
+/**
+ * Cminds MultiUserAccounts editpost.
+ *
+ * @category Cminds
+ * @package  Cminds_MultiUserAccounts
+ * @author   Jigs
+ */
+
+// @codingStandardsIgnoreFile
+
+$prefix = $block->showPrefix();
+$middle = $block->showMiddlename();
+$suffix = $block->showSuffix();
+
+if ($block->getAccountFirstname()) {
+  $firstname = $block->getAccountFirstName();
+} else {
+  $firstname = $block->getObject()->getFirstname();
+}
+
+if ($block->getAccountLastName()) {
+  $lastname = $block->getAccountLastName();
+} else {
+  $lastname = $block->getObject()->getLastname();
+}
+
+if ($block->getAccountMiddleName()) {
+  $middlename = $block->getAccountMiddleName();
+} else {
+  $middlename = $block->getObject()->getMiddlename();
+}
+
+if ($block->getAccountSuffix()) {
+  $suffixVal = $block->getAccountSuffix();
+} else {
+  $suffixVal = $block->getObject()->getSuffix();
+}
+
+if ($block->getAccountPrefix()) {
+  $prefixVal = $block->getAccountPrefix();
+} else {
+  $prefixVal = $block->getObject()->getPrefix();
+}
+?>
+<?php if (($prefix || $middle || $suffix) && !$block->getNoWrap()): ?>
+<div class="field required fullname <?= $block->escapeHtml($block->getContainerClassName()) ?>">
+    <label for="<?= $block->escapeHtml($block->getFieldId('firstname')) ?>" class="label">
+        <span><?= $block->escapeHtml(__('Name')) ?></span>
+    </label>
+    <div class="control">
+        <fieldset class="fieldset fieldset-fullname">
+        <div class="fields">
+<?php endif; ?>
+
+    <?php if ($prefix): ?>
+        <div class="field field-name-prefix<?php if ($block->isPrefixRequired()) echo ' required' ?>">
+            <label class="label" for="<?= $block->escapeHtml($block->getFieldId('prefix')) ?>">
+                <span><?= $block->escapeHtml($block->getStoreLabel('prefix')) ?></span>
+            </label>
+
+            <div class="control">
+                <?php if ($block->getPrefixOptions() === false): ?>
+                    <input type="text" id="<?= $block->escapeHtml($block->getFieldId('prefix')) ?>"
+                           name="<?= $block->escapeHtml($block->getFieldName('prefix')) ?>"
+                           value="<?= $block->escapeHtml($prefixVal) ?>"
+                           title="<?= $block->escapeHtml($block->getStoreLabel('prefix')) ?>"
+                           class="input-text <?= $block->escapeHtml($block->getAttributeValidationClass('prefix')) ?>" <?php if ($block->isPrefixRequired()) echo ' data-validate="{required:true}"' ?>>
+                <?php else: ?>
+                    <select id="<?= $block->escapeHtml($block->getFieldId('prefix')) ?>"
+                            name="<?= $block->escapeHtml($block->getFieldName('prefix')) ?>"
+                            title="<?= $block->escapeHtml($block->getStoreLabel('prefix')) ?>"
+                            class="<?= $block->escapeHtml($block->getAttributeValidationClass('prefix')) ?>" <?php if ($block->isPrefixRequired()) echo ' data-validate="{required:true}"' ?> >
+                        <?php foreach ($block->getPrefixOptions() as $_option): ?>
+                            <option value="<?= $block->escapeHtml($_option) ?>"<?php if ($block->getObject()->getPrefix() == $_option): ?> selected="selected"<?php endif; ?>>
+                                <?= $block->escapeHtml(__($_option)) ?>
+                            </option>
+                        <?php endforeach; ?>
+                    </select>
+                <?php endif; ?>
+            </div>
+        </div>
+    <?php endif; ?>
+        <div class="field field-name-firstname required">
+            <label class="label" for="<?= $block->escapeHtml($block->getFieldId('firstname')) ?>">
+                <span><?= $block->escapeHtml($block->getStoreLabel('firstname')) ?></span>
+            </label>
+
+            <div class="control">
+                <input type="text" id="<?= $block->escapeHtml($block->getFieldId('firstname')) ?>"
+                       name="<?= $block->escapeHtml($block->getFieldName('firstname')) ?>"
+                       value="<?= $block->escapeHtml($firstname) ?>"
+                       title="<?= $block->escapeHtml($block->getStoreLabel('firstname')) ?>"
+                       class="input-text <?= $block->escapeHtml($block->getAttributeValidationClass('firstname')) ?>" <?php if ($block->getAttributeValidationClass('firstname') == 'required-entry') echo ' data-validate="{required:true}"' ?>>
+            </div>
+        </div>
+    <?php if ($middle): ?>
+        <?php $isMiddlenameRequired = $block->isMiddlenameRequired(); ?>
+        <div class="field field-name-middlename<?= $isMiddlenameRequired ? ' required' : '' ?>">
+            <label class="label" for="<?= $block->escapeHtml($block->getFieldId('middlename')) ?>">
+                <span><?= $block->escapeHtml($block->getStoreLabel('middlename')) ?></span>
+            </label>
+
+            <div class="control">
+                <input type="text" id="<?= $block->escapeHtml($block->getFieldId('middlename')) ?>"
+                       name="<?= $block->escapeHtml($block->getFieldName('middlename')) ?>"
+                       value="<?= $block->escapeHtml($middlename) ?>"
+                       title="<?= $block->escapeHtml($block->getStoreLabel('middlename')) ?>"
+                       class="input-text <?= $block->escapeHtml($block->getAttributeValidationClass('middlename')) ?>" <?= $isMiddlenameRequired ? ' data-validate="{required:true}"' : '' ?>>
+            </div>
+        </div>
+    <?php endif; ?>
+        <div class="field field-name-lastname required">
+            <label class="label" for="<?= $block->escapeHtml($block->getFieldId('lastname')) ?>">
+                <span><?= $block->escapeHtml($block->getStoreLabel('lastname')) ?></span>
+            </label>
+
+            <div class="control">
+                <input type="text" id="<?= $block->escapeHtml($block->getFieldId('lastname')) ?>"
+                       name="<?= $block->escapeHtml($block->getFieldName('lastname')) ?>"
+                       value="<?= $block->escapeHtml($lastname) ?>"
+                       title="<?= $block->escapeHtml($block->getStoreLabel('lastname')) ?>"
+                       class="input-text <?= $block->escapeHtml($block->getAttributeValidationClass('lastname')) ?>" <?php if ($block->getAttributeValidationClass('lastname') == 'required-entry') echo ' data-validate="{required:true}"' ?>>
+            </div>
+        </div>
+    <?php if ($suffix): ?>
+        <div class="field field-name-suffix<?php if ($block->isSuffixRequired()) echo ' required' ?>">
+            <label class="label" for="<?= $block->escapeHtml($block->getFieldId('suffix')) ?>">
+                <span><?= $block->escapeHtml($block->getStoreLabel('suffix')) ?></span>
+            </label>
+
+            <div class="control">
+                <?php if ($block->getSuffixOptions() === false): ?>
+                    <input type="text" id="<?= $block->escapeHtml($block->getFieldId('suffix')) ?>"
+                           name="<?= $block->escapeHtml($block->getFieldName('suffix')) ?>"
+                           value="<?= $block->escapeHtml($suffixVal) ?>"
+                           title="<?= $block->escapeHtml($block->getStoreLabel('suffix')) ?>"
+                           class="input-text <?= $block->escapeHtml($block->getAttributeValidationClass('suffix')) ?>" <?php if ($block->isSuffixRequired()) echo ' data-validate="{required:true}"' ?>>
+                <?php else: ?>
+                    <select id="<?= $block->escapeHtml($block->getFieldId('suffix')) ?>"
+                            name="<?= $block->escapeHtml($block->getFieldName('suffix')) ?>"
+                            title="<?= $block->escapeHtml($block->getStoreLabel('suffix')) ?>"
+                            class="<?= $block->escapeHtml($block->getAttributeValidationClass('suffix')) ?>" <?php if ($block->isSuffixRequired()) echo ' data-validate="{required:true}"' ?>>
+                        <?php foreach ($block->getSuffixOptions() as $_option): ?>
+                            <option value="<?= $block->escapeHtml($_option) ?>"<?php if ($block->getObject()->getSuffix() == $_option): ?> selected="selected"<?php endif; ?>>
+                                <?= $block->escapeHtml(__($_option)) ?>
+                            </option>
+                        <?php endforeach; ?>
+                    </select>
+                <?php endif; ?>
+            </div>
+        </div>
+    <?php endif; ?>
+
+    <?php if (($prefix || $middle || $suffix) && !$block->getNoWrap()): ?>
+            </div>
+        </fieldset>
+    </div>
+</div>
+<?php endif; ?>

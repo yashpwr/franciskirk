@@ -1,0 +1,7 @@
+2021-03-01T23:50:03+00:00 INFO (6): ---------------- START API Cron 01/03/21 23:50:03 ----------------
+2021-03-02T00:10:05+00:00 INFO (6): {"status":"failed","sku":"HKSP4C14","message":"Database deadlock found when trying to get lock"}
+2021-03-02T00:21:50+00:00 INFO (6): {"status":"failed","sku":"HKSP5C18","message":"Database deadlock found when trying to get lock"}
+2021-03-02T00:23:37+00:00 INFO (6): {"status":"failed","sku":"HKSP5C516","message":"Database deadlock found when trying to get lock"}
+2021-03-02T00:23:57+00:00 INFO (6): {"status":"failed","sku":"HKSP5C58","message":"Database deadlock found when trying to get lock"}
+2021-03-02T00:26:45+00:00 INFO (6): ---------------- END API Cron 02/03/21 00:26:45 ----------------
+2021-03-02T00:26:51+00:00 INFO (6): ---------------- END API Cron 02/03/21 00:26:51 ----------------

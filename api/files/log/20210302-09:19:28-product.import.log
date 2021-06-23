@@ -1,0 +1,12 @@
+2021-03-02T09:20:02+00:00 INFO (6): ---------------- START API Cron 02/03/21 09:20:02 ----------------
+2021-03-02T09:20:20+00:00 INFO (6): {"status":"success","product_id":27998,"sku":"ARA400001","message":"Product updated successfully"}
+2021-03-02T09:20:26+00:00 INFO (6): {"status":"success","product_id":27999,"sku":"ARA400002","message":"Product updated successfully"}
+2021-03-02T09:20:31+00:00 INFO (6): {"status":"success","product_id":28000,"sku":"ARA400003","message":"Product updated successfully"}
+2021-03-02T09:20:37+00:00 INFO (6): {"status":"success","product_id":28029,"sku":"ARA400005","message":"Product updated successfully"}
+2021-03-02T09:20:42+00:00 INFO (6): {"status":"success","product_id":28031,"sku":"ARA400007","message":"Product updated successfully"}
+2021-03-02T09:20:48+00:00 INFO (6): {"status":"success","product_id":28032,"sku":"ARA400008","message":"Product updated successfully"}
+2021-03-02T09:20:54+00:00 INFO (6): {"status":"success","product_id":28033,"sku":"ARA400010","message":"Product updated successfully"}
+2021-03-02T09:20:59+00:00 INFO (6): {"status":"success","product_id":28034,"sku":"ARA400012","message":"Product updated successfully"}
+2021-03-02T09:21:05+00:00 INFO (6): {"status":"success","product_id":28035,"sku":"ARA400013","message":"Product updated successfully"}
+2021-03-02T09:21:11+00:00 INFO (6): {"status":"success","product_id":28090,"sku":"ARA400015","message":"Product updated successfully"}
+2021-03-02T09:21:11+00:00 INFO (6): ---------------- END API Cron 02/03/21 09:21:11 ----------------

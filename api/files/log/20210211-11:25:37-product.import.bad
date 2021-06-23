@@ -1,0 +1,8 @@
+2021-02-11T11:30:01+00:00 INFO (6): ---------------- START API Cron 11/02/21 11:30:01 ----------------
+2021-02-11T11:30:05+00:00 INFO (6): {"status":"failed","sku":"CB14","message":"Invalid product data: %1"}
+2021-02-11T11:30:06+00:00 INFO (6): {"status":"failed","sku":"CB15","message":"Invalid product data: %1"}
+2021-02-11T11:30:07+00:00 INFO (6): {"status":"failed","sku":"CB16","message":"Invalid product data: %1"}
+2021-02-11T11:30:08+00:00 INFO (6): {"status":"failed","sku":"CB17","message":"Invalid product data: %1"}
+2021-02-11T11:30:09+00:00 INFO (6): {"status":"failed","sku":"CB18","message":"Invalid product data: %1"}
+2021-02-11T11:30:10+00:00 INFO (6): {"status":"failed","sku":"CB19","message":"Invalid product data: %1"}
+2021-02-11T11:37:38+00:00 INFO (6): ---------------- END API Cron 11/02/21 11:37:38 ----------------

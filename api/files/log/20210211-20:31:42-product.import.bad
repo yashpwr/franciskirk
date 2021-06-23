@@ -1,0 +1,772 @@
+2021-02-11T20:40:15+00:00 INFO (6): {"status":"failed","sku":"ARCPH001","message":"The product was unable to be saved. Please try again."}
+2021-02-11T20:40:18+00:00 INFO (6): {"status":"failed","sku":"ARCSP1","message":"The product was unable to be saved. Please try again."}
+2021-02-11T20:40:20+00:00 INFO (6): {"status":"failed","sku":"ARCVG1","message":"The product was unable to be saved. Please try again."}
+2021-02-11T20:50:05+00:00 INFO (6): {"status":"failed","sku":"ARRAP10","message":"The product was unable to be saved. Please try again."}
+2021-02-11T20:50:08+00:00 INFO (6): {"status":"failed","sku":"ARRAP2000","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:05:08+00:00 INFO (6): {"status":"failed","sku":"ALMFL288","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:05:11+00:00 INFO (6): {"status":"failed","sku":"ALMFL289","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:05:13+00:00 INFO (6): {"status":"failed","sku":"ALMFL301","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:05:20+00:00 INFO (6): {"status":"failed","sku":"ALMFL330","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:05:23+00:00 INFO (6): {"status":"failed","sku":"ALMFL331","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:05:31+00:00 INFO (6): {"status":"failed","sku":"ALMFL333","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:05:35+00:00 INFO (6): {"status":"failed","sku":"ALMFL340","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:05:39+00:00 INFO (6): {"status":"failed","sku":"ALMFL350","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:05:45+00:00 INFO (6): {"status":"failed","sku":"ALMFL420","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:25:58+00:00 INFO (6): {"status":"failed","sku":"ABU1850185","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:26:02+00:00 INFO (6): {"status":"failed","sku":"ABU190055","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:26:05+00:00 INFO (6): {"status":"failed","sku":"ABU190055C","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:26:11+00:00 INFO (6): {"status":"failed","sku":"ABU1950120","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:26:15+00:00 INFO (6): {"status":"failed","sku":"ABU1950120C","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:27:14+00:00 INFO (6): {"status":"failed","sku":"ABU8KS110","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:27:18+00:00 INFO (6): {"status":"failed","sku":"ABU8KS140","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:37:31+00:00 INFO (6): {"status":"failed","sku":"ABU56065W","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:37:35+00:00 INFO (6): {"status":"failed","sku":"ABU58575W","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:40:09+00:00 INFO (6): {"status":"failed","sku":"DEWDCN681N","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:40:12+00:00 INFO (6): {"status":"failed","sku":"DEWDCN682D2","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:50:45+00:00 INFO (6): {"status":"failed","sku":"BONB27050","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:50:53+00:00 INFO (6): {"status":"failed","sku":"BONB54210","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:50:59+00:00 INFO (6): {"status":"failed","sku":"BONB54250","message":"The product was unable to be saved. Please try again."}
+2021-02-11T21:56:10+00:00 INFO (6): {"status":"failed","sku":"DECAD6LRM","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:05:47+00:00 INFO (6): {"status":"failed","sku":"DEW311K","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:05:50+00:00 INFO (6): {"status":"failed","sku":"DEW331K","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:05:53+00:00 INFO (6): {"status":"failed","sku":"DEW331KL","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:06:13+00:00 INFO (6): {"status":"failed","sku":"DEW625EK","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:06:17+00:00 INFO (6): {"status":"failed","sku":"DEW625EKL","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:06:26+00:00 INFO (6): {"status":"failed","sku":"DEW680K","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:06:32+00:00 INFO (6): {"status":"failed","sku":"DEW680KL","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:06:42+00:00 INFO (6): {"status":"failed","sku":"DEW682KL","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:06:51+00:00 INFO (6): {"status":"failed","sku":"DEWDRS18100X","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:06:55+00:00 INFO (6): {"status":"failed","sku":"DEWDSTSX12Z","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:06:58+00:00 INFO (6): {"status":"failed","sku":"DEWDSTSX15Z","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:07:01+00:00 INFO (6): {"status":"failed","sku":"DEWDSTSX19Z","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:07:04+00:00 INFO (6): {"status":"failed","sku":"DEWDSTSX22Z","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:07:07+00:00 INFO (6): {"status":"failed","sku":"DEWDSTSX25Z","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:07:10+00:00 INFO (6): {"status":"failed","sku":"DEWDSTSX30Z","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:10:09+00:00 INFO (6): {"status":"failed","sku":"DEWDT1473QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:10:13+00:00 INFO (6): {"status":"failed","sku":"DEWDT1474QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:10:17+00:00 INFO (6): {"status":"failed","sku":"DEWDT1475QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:10:20+00:00 INFO (6): {"status":"failed","sku":"DEWDT1668QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:10:24+00:00 INFO (6): {"status":"failed","sku":"DEWDT1669QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:10:27+00:00 INFO (6): {"status":"failed","sku":"DEWDT1670QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:10:30+00:00 INFO (6): {"status":"failed","sku":"DEWDT1931QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:10:32+00:00 INFO (6): {"status":"failed","sku":"DEWDT1932QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:10:35+00:00 INFO (6): {"status":"failed","sku":"DEWDT1934QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:10:41+00:00 INFO (6): {"status":"failed","sku":"DEWDT1938QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:10:45+00:00 INFO (6): {"status":"failed","sku":"DEWDT1939QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:10:48+00:00 INFO (6): {"status":"failed","sku":"DEWDT1940QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:10:52+00:00 INFO (6): {"status":"failed","sku":"DEWDT1941QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:10:54+00:00 INFO (6): {"status":"failed","sku":"DEWDT1942QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:10:58+00:00 INFO (6): {"status":"failed","sku":"DEWDT1943QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:11:35+00:00 INFO (6): {"status":"failed","sku":"BRIE020613","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/FILES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:32:33+00:00 INFO (6): {"status":"failed","sku":"BRIE160902B","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:32:37+00:00 INFO (6): {"status":"failed","sku":"BRIE160903B","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:32:41+00:00 INFO (6): {"status":"failed","sku":"BRIE160904B","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:32:46+00:00 INFO (6): {"status":"failed","sku":"BRIE160905B","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:34:21+00:00 INFO (6): {"status":"failed","sku":"BRIE160907B","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:34:25+00:00 INFO (6): {"status":"failed","sku":"BRIE160908B","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:35:50+00:00 INFO (6): {"status":"failed","sku":"CASMPS500","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:35:53+00:00 INFO (6): {"status":"failed","sku":"COLC300","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:39:26+00:00 INFO (6): {"status":"failed","sku":"BAH9873","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/PLIERS, STRIPPERS, SNIPS & CROPPERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:39:29+00:00 INFO (6): {"status":"failed","sku":"BAH9881","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:39:37+00:00 INFO (6): {"status":"failed","sku":"BAH9881SL","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:39:43+00:00 INFO (6): {"status":"failed","sku":"BAH9882","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:39:54+00:00 INFO (6): {"status":"failed","sku":"BAH9882TB","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:40:03+00:00 INFO (6): {"status":"failed","sku":"BAH9886","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:40:04+00:00 INFO (6): {"status":"failed","sku":"BAH9886","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:41:53+00:00 INFO (6): {"status":"failed","sku":"BAH9897","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/PLIERS, STRIPPERS, SNIPS & CROPPERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:41:56+00:00 INFO (6): {"status":"failed","sku":"BAHADJ3","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/WRENCHES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:45:53+00:00 INFO (6): {"status":"failed","sku":"BAHB219015","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:45:56+00:00 INFO (6): {"status":"failed","sku":"BAHB219017","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:49:41+00:00 INFO (6): {"status":"failed","sku":"BAHB219026","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T22:50:33+00:00 INFO (6): {"status":"failed","sku":"BAI1602","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:50:43+00:00 INFO (6): {"status":"failed","sku":"BAI1604","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:50:46+00:00 INFO (6): {"status":"failed","sku":"BAI1605","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:50:57+00:00 INFO (6): {"status":"failed","sku":"BAI1607","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:51:09+00:00 INFO (6): {"status":"failed","sku":"BAI1741","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:51:13+00:00 INFO (6): {"status":"failed","sku":"BAI1742","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:51:22+00:00 INFO (6): {"status":"failed","sku":"BAI1752","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:51:31+00:00 INFO (6): {"status":"failed","sku":"BAI1771","message":"The product was unable to be saved. Please try again."}
+2021-02-11T22:51:36+00:00 INFO (6): {"status":"failed","sku":"BAI1772","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:00:50+00:00 INFO (6): {"status":"failed","sku":"BAH396LAPAV","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:00:57+00:00 INFO (6): {"status":"failed","sku":"BAH3PB","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:01:03+00:00 INFO (6): {"status":"failed","sku":"BAH40116","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:01:13+00:00 INFO (6): {"status":"failed","sku":"BAH41410","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:01:16+00:00 INFO (6): {"status":"failed","sku":"BAH41412","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:01:19+00:00 INFO (6): {"status":"failed","sku":"BAH41416","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:01:23+00:00 INFO (6): {"status":"failed","sku":"BAHDE6","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:01:29+00:00 INFO (6): {"status":"failed","sku":"BAHEBS21","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:01:33+00:00 INFO (6): {"status":"failed","sku":"BAHEBS24","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:01:36+00:00 INFO (6): {"status":"failed","sku":"BAHEBS30","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:01:41+00:00 INFO (6): {"status":"failed","sku":"BAHEBS36","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:01:45+00:00 INFO (6): {"status":"failed","sku":"BAHEX14TEN","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:01:48+00:00 INFO (6): {"status":"failed","sku":"BAHEX14VEN","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:01:54+00:00 INFO (6): {"status":"failed","sku":"BAHEX20LAM","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:05:35+00:00 INFO (6): {"status":"failed","sku":"BAH424P25","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:05:38+00:00 INFO (6): {"status":"failed","sku":"BAH424P28","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:05:41+00:00 INFO (6): {"status":"failed","sku":"BAH424P30","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:05:43+00:00 INFO (6): {"status":"failed","sku":"BAH424P32","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:05:46+00:00 INFO (6): {"status":"failed","sku":"BAH424P35","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:05:49+00:00 INFO (6): {"status":"failed","sku":"BAH424P38","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:05:52+00:00 INFO (6): {"status":"failed","sku":"BAH424P4","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:05:55+00:00 INFO (6): {"status":"failed","sku":"BAH424P40","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:05:57+00:00 INFO (6): {"status":"failed","sku":"BAH424P6","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:06:00+00:00 INFO (6): {"status":"failed","sku":"BAH424PS3","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:06:03+00:00 INFO (6): {"status":"failed","sku":"BAH424PS6","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:06:05+00:00 INFO (6): {"status":"failed","sku":"BAHEX20XT11","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:06:11+00:00 INFO (6): {"status":"failed","sku":"BAHEX22XT7","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:08:48+00:00 INFO (6): {"status":"failed","sku":"BAH219006","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T23:08:51+00:00 INFO (6): {"status":"failed","sku":"BAH219016","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T23:18:06+00:00 INFO (6): {"status":"failed","sku":"BAH59S10BC","message":"Error occurred during \"status\" processing. The \"TOOLS\/SCREWDRIVER INSERT BITS & ADAPTORS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T23:21:15+00:00 INFO (6): {"status":"failed","sku":"BAH59S35BC","message":"Error occurred during \"status\" processing. The \"TOOLS\/SCREWDRIVER INSERT BITS & ADAPTORS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T23:21:17+00:00 INFO (6): {"status":"failed","sku":"BAH59S54B","message":"Error occurred during \"status\" processing. The \"TOOLS\/SCREWDRIVER INSERT BITS & ADAPTORS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T23:21:20+00:00 INFO (6): {"status":"failed","sku":"BAH6056","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T23:26:20+00:00 INFO (6): {"status":"failed","sku":"BAH808050SET","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T23:28:50+00:00 INFO (6): {"status":"failed","sku":"BAH808061","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T23:35:19+00:00 INFO (6): {"status":"failed","sku":"BAHPMECLEAD","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/MARKING TOOLS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T23:41:38+00:00 INFO (6): {"status":"failed","sku":"FAIHSSTM10","message":"Error occurred during \"status\" processing. The \"TOOLS\/POWER TOOL ACCESSORIES\/TAPS & DIES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T23:41:41+00:00 INFO (6): {"status":"failed","sku":"FAIHSSTM12","message":"Error occurred during \"status\" processing. The \"TOOLS\/POWER TOOL ACCESSORIES\/TAPS & DIES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T23:41:44+00:00 INFO (6): {"status":"failed","sku":"FAIHSSTM3","message":"Error occurred during \"status\" processing. The \"TOOLS\/POWER TOOL ACCESSORIES\/TAPS & DIES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T23:41:48+00:00 INFO (6): {"status":"failed","sku":"FAIHSSTM4","message":"Error occurred during \"status\" processing. The \"TOOLS\/POWER TOOL ACCESSORIES\/TAPS & DIES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T23:41:51+00:00 INFO (6): {"status":"failed","sku":"FAIHSSTM5","message":"Error occurred during \"status\" processing. The \"TOOLS\/POWER TOOL ACCESSORIES\/TAPS & DIES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T23:41:54+00:00 INFO (6): {"status":"failed","sku":"FAIHSSTM6","message":"Error occurred during \"status\" processing. The \"TOOLS\/POWER TOOL ACCESSORIES\/TAPS & DIES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T23:41:57+00:00 INFO (6): {"status":"failed","sku":"FAIHSSTM8","message":"Error occurred during \"status\" processing. The \"TOOLS\/POWER TOOL ACCESSORIES\/TAPS & DIES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-11T23:45:22+00:00 INFO (6): {"status":"failed","sku":"FAI1006MDG","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:45:25+00:00 INFO (6): {"status":"failed","sku":"FAI1006SDG","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:45:28+00:00 INFO (6): {"status":"failed","sku":"FAI11510MUL","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:45:30+00:00 INFO (6): {"status":"failed","sku":"FAI11512INOX","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:45:33+00:00 INFO (6): {"status":"failed","sku":"FAI11512M","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:45:36+00:00 INFO (6): {"status":"failed","sku":"FAI1153M","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:45:39+00:00 INFO (6): {"status":"failed","sku":"FAI1153MDC","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:45:41+00:00 INFO (6): {"status":"failed","sku":"FAI1153S","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:45:47+00:00 INFO (6): {"status":"failed","sku":"FAI1156MDG","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:45:49+00:00 INFO (6): {"status":"failed","sku":"FAIBW1","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:45:52+00:00 INFO (6): {"status":"failed","sku":"FAIBWADJ","message":"The product was unable to be saved. Please try again."}
+2021-02-11T23:45:54+00:00 INFO (6): {"status":"failed","sku":"FAIBWADJL","message":"The product was unable to be saved. Please try again."}
+2021-02-12T00:16:08+00:00 INFO (6): {"status":"failed","sku":"FAICLAMPSET4","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/CLAMPS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:16:15+00:00 INFO (6): {"status":"failed","sku":"FAICLSQ8","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/CLAMPS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:20:04+00:00 INFO (6): {"status":"failed","sku":"FAIHGP","message":"The product was unable to be saved. Please try again."}
+2021-02-12T00:20:10+00:00 INFO (6): {"status":"failed","sku":"FAIHH2","message":"The product was unable to be saved. Please try again."}
+2021-02-12T00:20:15+00:00 INFO (6): {"status":"failed","sku":"FAIHK035","message":"The product was unable to be saved. Please try again."}
+2021-02-12T00:20:21+00:00 INFO (6): {"status":"failed","sku":"FAIHK07M","message":"The product was unable to be saved. Please try again."}
+2021-02-12T00:20:24+00:00 INFO (6): {"status":"failed","sku":"FAIHK09M","message":"The product was unable to be saved. Please try again."}
+2021-02-12T00:30:35+00:00 INFO (6): {"status":"failed","sku":"FAIHKSTRIPLE","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/HEXAGON KEYS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:38:48+00:00 INFO (6): {"status":"failed","sku":"FAIDSCT129TP","message":"Error occurred during \"status\" processing. The \"TOOLS\/DECORATING & WOOD CARE\/DECORATING - PREPARATION\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:43:59+00:00 INFO (6): {"status":"failed","sku":"ENGS8832","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:44:02+00:00 INFO (6): {"status":"failed","sku":"ENGS8833","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:44:05+00:00 INFO (6): {"status":"failed","sku":"ENGS8834","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:44:09+00:00 INFO (6): {"status":"failed","sku":"ENGS8837","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:44:12+00:00 INFO (6): {"status":"failed","sku":"ENGS8838","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:44:15+00:00 INFO (6): {"status":"failed","sku":"ENGS8839","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:44:18+00:00 INFO (6): {"status":"failed","sku":"ENGS8841","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:44:22+00:00 INFO (6): {"status":"failed","sku":"ENGS8843","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:44:25+00:00 INFO (6): {"status":"failed","sku":"ENGS8845","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:44:28+00:00 INFO (6): {"status":"failed","sku":"ENGS8850","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:44:31+00:00 INFO (6): {"status":"failed","sku":"ENGS8851","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:44:35+00:00 INFO (6): {"status":"failed","sku":"ENGS8854","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:44:38+00:00 INFO (6): {"status":"failed","sku":"ENGS8855","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:48:29+00:00 INFO (6): {"status":"failed","sku":"ENGS8857","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:48:32+00:00 INFO (6): {"status":"failed","sku":"ENGS8859","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:48:35+00:00 INFO (6): {"status":"failed","sku":"ENGS8862","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:48:38+00:00 INFO (6): {"status":"failed","sku":"ENGS8863","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:48:42+00:00 INFO (6): {"status":"failed","sku":"ENGS8865","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:48:45+00:00 INFO (6): {"status":"failed","sku":"ENGS8870","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:48:48+00:00 INFO (6): {"status":"failed","sku":"ENGS8872","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:48:52+00:00 INFO (6): {"status":"failed","sku":"ENGS8874","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:48:55+00:00 INFO (6): {"status":"failed","sku":"ENGS8876","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:48:58+00:00 INFO (6): {"status":"failed","sku":"ENGS9014","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:49:02+00:00 INFO (6): {"status":"failed","sku":"ENGS9015","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:49:05+00:00 INFO (6): {"status":"failed","sku":"ENGS9016","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:49:08+00:00 INFO (6): {"status":"failed","sku":"ENGS9403","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:50:08+00:00 INFO (6): {"status":"failed","sku":"DEWDT4828QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T00:50:15+00:00 INFO (6): {"status":"failed","sku":"DEWDT4832QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T00:50:23+00:00 INFO (6): {"status":"failed","sku":"DEWDT4838QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T00:52:38+00:00 INFO (6): {"status":"failed","sku":"ENGS9420","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:52:41+00:00 INFO (6): {"status":"failed","sku":"ENGS9423","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:53:12+00:00 INFO (6): {"status":"failed","sku":"ESTE311","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/HAMMERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T00:54:43+00:00 INFO (6): {"status":"failed","sku":"DEWSDSMAXSET","message":"Error occurred during \"status\" processing. The \"TOOLS\/STEELS - CHISEL & POINTS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:00:20+00:00 INFO (6): {"status":"failed","sku":"DEWDT6830QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:00:56+00:00 INFO (6): {"status":"failed","sku":"DEWDT70502QZ","message":"Error occurred during \"status\" processing. The \"TOOLS\/POWER TOOL ACCESSORIES\/OTHER POWER TOOL ACCESSORIES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:10:08+00:00 INFO (6): {"status":"failed","sku":"EVB2SWELDBK","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:10:11+00:00 INFO (6): {"status":"failed","sku":"EVB2VGTBK45","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:10:14+00:00 INFO (6): {"status":"failed","sku":"EVB2VGTV45","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:10:17+00:00 INFO (6): {"status":"failed","sku":"EVB30MINPU3","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:10:21+00:00 INFO (6): {"status":"failed","sku":"EVB30MINPU7","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:10:23+00:00 INFO (6): {"status":"failed","sku":"DEWDT9518QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:10:29+00:00 INFO (6): {"status":"failed","sku":"DEWDT9521QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:10:36+00:00 INFO (6): {"status":"failed","sku":"DEWDT9524QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:10:42+00:00 INFO (6): {"status":"failed","sku":"DEWDT9526QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:10:47+00:00 INFO (6): {"status":"failed","sku":"DEWDT9528QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:10:54+00:00 INFO (6): {"status":"failed","sku":"DEWDT9530QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:11:01+00:00 INFO (6): {"status":"failed","sku":"DEWDT9532QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:13:12+00:00 INFO (6): {"status":"failed","sku":"EVBFLAS075","message":"Error occurred during \"status\" processing. The \"TOOLS\/BUILDING CONSUMABLES\/FLASHING TAPE\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:13:15+00:00 INFO (6): {"status":"failed","sku":"EVBFLAS100","message":"Error occurred during \"status\" processing. The \"TOOLS\/BUILDING CONSUMABLES\/FLASHING TAPE\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:13:17+00:00 INFO (6): {"status":"failed","sku":"EVBFLAS150","message":"Error occurred during \"status\" processing. The \"TOOLS\/BUILDING CONSUMABLES\/FLASHING TAPE\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:13:20+00:00 INFO (6): {"status":"failed","sku":"EVBFLAS225","message":"Error occurred during \"status\" processing. The \"TOOLS\/BUILDING CONSUMABLES\/FLASHING TAPE\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:13:23+00:00 INFO (6): {"status":"failed","sku":"EVBFLAS300","message":"Error occurred during \"status\" processing. The \"TOOLS\/BUILDING CONSUMABLES\/FLASHING TAPE\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:13:28+00:00 INFO (6): {"status":"failed","sku":"EVBFLAS450","message":"Error occurred during \"status\" processing. The \"TOOLS\/BUILDING CONSUMABLES\/FLASHING TAPE\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:13:31+00:00 INFO (6): {"status":"failed","sku":"EVBFLDIY100","message":"Error occurred during \"status\" processing. The \"TOOLS\/BUILDING CONSUMABLES\/FLASHING TAPE\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:13:34+00:00 INFO (6): {"status":"failed","sku":"EVBFLDIY150","message":"Error occurred during \"status\" processing. The \"TOOLS\/BUILDING CONSUMABLES\/FLASHING TAPE\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:13:37+00:00 INFO (6): {"status":"failed","sku":"EVBFLDIY225","message":"Error occurred during \"status\" processing. The \"TOOLS\/BUILDING CONSUMABLES\/FLASHING TAPE\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:20:43+00:00 INFO (6): {"status":"failed","sku":"DMTW6C","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:20:47+00:00 INFO (6): {"status":"failed","sku":"DMTW6CP","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:20:50+00:00 INFO (6): {"status":"failed","sku":"DMTW6EP","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:20:53+00:00 INFO (6): {"status":"failed","sku":"DMTW6F","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:20:57+00:00 INFO (6): {"status":"failed","sku":"DMTW6FP","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:25:09+00:00 INFO (6): {"status":"failed","sku":"DOFBO300DOF","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:25:12+00:00 INFO (6): {"status":"failed","sku":"DOFBP200","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:30:38+00:00 INFO (6): {"status":"failed","sku":"DEWDT99572QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:30:41+00:00 INFO (6): {"status":"failed","sku":"DEWDT99573QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:30:51+00:00 INFO (6): {"status":"failed","sku":"DEWDT99575QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:30:54+00:00 INFO (6): {"status":"failed","sku":"DEWDT99576QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:31:04+00:00 INFO (6): {"status":"failed","sku":"DOFFAG800DOF","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:31:08+00:00 INFO (6): {"status":"failed","sku":"DOFFFC002DOF","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:31:15+00:00 INFO (6): {"status":"failed","sku":"DOFFFQA00DOF","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:31:18+00:00 INFO (6): {"status":"failed","sku":"DOFFLB500","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:31:22+00:00 INFO (6): {"status":"failed","sku":"DOFFLBA00DOF","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:31:25+00:00 INFO (6): {"status":"failed","sku":"DOFFLC500","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:31:28+00:00 INFO (6): {"status":"failed","sku":"DOFFLCA00DOF","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:31:31+00:00 INFO (6): {"status":"failed","sku":"DOFFLD500","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:31:35+00:00 INFO (6): {"status":"failed","sku":"DOFFLDA0001","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:31:38+00:00 INFO (6): {"status":"failed","sku":"DOFFLPADOF01","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:31:40+00:00 INFO (6): {"status":"failed","sku":"DOFFOA00","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:31:43+00:00 INFO (6): {"status":"failed","sku":"DOFFOC00","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:31:46+00:00 INFO (6): {"status":"failed","sku":"DOFFPA00","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:31:48+00:00 INFO (6): {"status":"failed","sku":"DOFFX002","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:31:52+00:00 INFO (6): {"status":"failed","sku":"DOFFY003","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:31:54+00:00 INFO (6): {"status":"failed","sku":"DOFFY006","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:31:57+00:00 INFO (6): {"status":"failed","sku":"DOFFY010","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:32:55+00:00 INFO (6): {"status":"failed","sku":"ENGS12851","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:32:59+00:00 INFO (6): {"status":"failed","sku":"ENGS12852","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:33:04+00:00 INFO (6): {"status":"failed","sku":"ENGS12855","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:33:08+00:00 INFO (6): {"status":"failed","sku":"ENGS12856","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:33:11+00:00 INFO (6): {"status":"failed","sku":"ENGS12862","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:33:15+00:00 INFO (6): {"status":"failed","sku":"ENGS12863","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:33:18+00:00 INFO (6): {"status":"failed","sku":"ENGS12864","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:33:22+00:00 INFO (6): {"status":"failed","sku":"ENGS12865","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:35:14+00:00 INFO (6): {"status":"failed","sku":"DEWDTM3115QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:35:20+00:00 INFO (6): {"status":"failed","sku":"DEWDTM3123QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:35:25+00:00 INFO (6): {"status":"failed","sku":"DEWDTM3127QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:35:32+00:00 INFO (6): {"status":"failed","sku":"DEWDTM3137QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:35:38+00:00 INFO (6): {"status":"failed","sku":"DEWDTM8552QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:35:41+00:00 INFO (6): {"status":"failed","sku":"DEWDTM8621QZ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:35:52+00:00 INFO (6): {"status":"failed","sku":"DOFLFA00","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:35:56+00:00 INFO (6): {"status":"failed","sku":"DOFLM028","message":"Error occurred during \"status\" processing. The \"TOOLS\/GARDEN TOOLS\/WEEDKILLER, FEED, SEED & PROPAGATORS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:36:00+00:00 INFO (6): {"status":"failed","sku":"DOFLM050","message":"Error occurred during \"status\" processing. The \"TOOLS\/GARDEN TOOLS\/WEEDKILLER, FEED, SEED & PROPAGATORS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:36:04+00:00 INFO (6): {"status":"failed","sku":"DOFLM100","message":"Error occurred during \"status\" processing. The \"TOOLS\/GARDEN TOOLS\/WEEDKILLER, FEED, SEED & PROPAGATORS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:36:42+00:00 INFO (6): {"status":"failed","sku":"ENGS12866","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:36:46+00:00 INFO (6): {"status":"failed","sku":"ENGS12867","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:36:50+00:00 INFO (6): {"status":"failed","sku":"ENGS12868","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:36:53+00:00 INFO (6): {"status":"failed","sku":"ENGS12869","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:36:57+00:00 INFO (6): {"status":"failed","sku":"ENGS12870","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:37:00+00:00 INFO (6): {"status":"failed","sku":"ENGS12871","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:37:03+00:00 INFO (6): {"status":"failed","sku":"ENGS12872","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:37:07+00:00 INFO (6): {"status":"failed","sku":"ENGS13561","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:37:11+00:00 INFO (6): {"status":"failed","sku":"ENGS13563","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:37:14+00:00 INFO (6): {"status":"failed","sku":"ENGS13574","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:37:19+00:00 INFO (6): {"status":"failed","sku":"ENGS5160","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/HALOGEN TUBES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:37:24+00:00 INFO (6): {"status":"failed","sku":"ENGS5161","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/HALOGEN TUBES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:40:08+00:00 INFO (6): {"status":"failed","sku":"DOR803606","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:40:15+00:00 INFO (6): {"status":"failed","sku":"DOR803806","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:40:23+00:00 INFO (6): {"status":"failed","sku":"DOR8051276","message":"The \"%1\" file doesn't exist."}
+2021-02-12T01:40:29+00:00 INFO (6): {"status":"failed","sku":"DOR805303","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:40:34+00:00 INFO (6): {"status":"failed","sku":"ENGS5162","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/HALOGEN TUBES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:40:34+00:00 INFO (6): {"status":"failed","sku":"ENGS5162","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/HALOGEN TUBES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:40:38+00:00 INFO (6): {"status":"failed","sku":"ENGS5163","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/HALOGEN TUBES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:40:41+00:00 INFO (6): {"status":"failed","sku":"ENGS5414","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/HALOGEN TUBES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:40:44+00:00 INFO (6): {"status":"failed","sku":"ENGS5415","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/HALOGEN TUBES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:40:47+00:00 INFO (6): {"status":"failed","sku":"ENGS5416","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/HALOGEN TUBES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:40:51+00:00 INFO (6): {"status":"failed","sku":"ENGS5417","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/HALOGEN TUBES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:40:54+00:00 INFO (6): {"status":"failed","sku":"ENGS8099","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:40:58+00:00 INFO (6): {"status":"failed","sku":"ENGS8100","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:41:02+00:00 INFO (6): {"status":"failed","sku":"ENGS8707","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:41:07+00:00 INFO (6): {"status":"failed","sku":"ENGS8823","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:41:10+00:00 INFO (6): {"status":"failed","sku":"ENGS8825","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:41:15+00:00 INFO (6): {"status":"failed","sku":"ENGS8826","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:41:19+00:00 INFO (6): {"status":"failed","sku":"ENGS8827","message":"Error occurred during \"status\" processing. The \"TOOLS\/BULBS & ELECTRICAL FITTINGS\/LIGHT BULBS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:42:03+00:00 INFO (6): {"status":"failed","sku":"DEWDT4535QZ","message":"Error occurred during \"status\" processing. The \"TOOLS\/POWER TOOL ACCESSORIES\/DRILL BITS - WOOD\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T01:50:20+00:00 INFO (6): {"status":"failed","sku":"FLO70300001","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:50:43+00:00 INFO (6): {"status":"failed","sku":"ULW2.5M","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:50:51+00:00 INFO (6): {"status":"failed","sku":"FORFPDOWSET","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:51:01+00:00 INFO (6): {"status":"failed","sku":"FORFPHBN1050","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:51:18+00:00 INFO (6): {"status":"failed","sku":"FORMPS4570ZP","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:51:27+00:00 INFO (6): {"status":"failed","sku":"FLO70300021","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:51:29+00:00 INFO (6): {"status":"failed","sku":"FLO70300023","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:51:37+00:00 INFO (6): {"status":"failed","sku":"FLO70300036","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:51:48+00:00 INFO (6): {"status":"failed","sku":"FLO70300086","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:51:51+00:00 INFO (6): {"status":"failed","sku":"FLO70300106","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:51:55+00:00 INFO (6): {"status":"failed","sku":"FLO70300136","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:51:58+00:00 INFO (6): {"status":"failed","sku":"FLO70300141","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:52:06+00:00 INFO (6): {"status":"failed","sku":"FLO70300161","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:55:13+00:00 INFO (6): {"status":"failed","sku":"FLV26314","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:55:20+00:00 INFO (6): {"status":"failed","sku":"FLV26321","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:55:27+00:00 INFO (6): {"status":"failed","sku":"FLV26327","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:55:34+00:00 INFO (6): {"status":"failed","sku":"FLV26330","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:55:41+00:00 INFO (6): {"status":"failed","sku":"FLV26336","message":"The \"%1\" file doesn't exist."}
+2021-02-12T01:55:48+00:00 INFO (6): {"status":"failed","sku":"FLV26340","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:55:55+00:00 INFO (6): {"status":"failed","sku":"FLV26342","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:56:01+00:00 INFO (6): {"status":"failed","sku":"FLV26345","message":"The product was unable to be saved. Please try again."}
+2021-02-12T01:56:03+00:00 INFO (6): {"status":"failed","sku":"FLV26382","message":"The \"%1\" file doesn't exist."}
+2021-02-12T01:56:10+00:00 INFO (6): {"status":"failed","sku":"FLV26384","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:00:10+00:00 INFO (6): {"status":"failed","sku":"FLX456012","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:00:18+00:00 INFO (6): {"status":"failed","sku":"FLXAP185","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:00:21+00:00 INFO (6): {"status":"failed","sku":"FLXBW18N","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:01:59+00:00 INFO (6): {"status":"failed","sku":"FORFFBSPZ12","message":"Error occurred during \"status\" processing. The \"TOOLS\/SCREWDRIVER INSERT BITS & ADAPTORS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T02:02:02+00:00 INFO (6): {"status":"failed","sku":"FORFFBSPZT31","message":"Error occurred during \"status\" processing. The \"TOOLS\/SCREWDRIVER INSERT BITS & ADAPTORS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T02:02:04+00:00 INFO (6): {"status":"failed","sku":"FORFFBST12","message":"Error occurred during \"status\" processing. The \"TOOLS\/SCREWDRIVER INSERT BITS & ADAPTORS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T02:02:07+00:00 INFO (6): {"status":"failed","sku":"FORFFBST31","message":"Error occurred during \"status\" processing. The \"TOOLS\/SCREWDRIVER INSERT BITS & ADAPTORS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T02:05:26+00:00 INFO (6): {"status":"failed","sku":"FAISUCPAD","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:05:29+00:00 INFO (6): {"status":"failed","sku":"FAISUCPAD2","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:05:32+00:00 INFO (6): {"status":"failed","sku":"FAISUKEY","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:05:34+00:00 INFO (6): {"status":"failed","sku":"FAITACKLIFT","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:05:42+00:00 INFO (6): {"status":"failed","sku":"FAIZ15040","message":"The \"%1\" file doesn't exist."}
+2021-02-12T02:05:45+00:00 INFO (6): {"status":"failed","sku":"FAIZ15224","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:05:47+00:00 INFO (6): {"status":"failed","sku":"FAIZ16016","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:05:50+00:00 INFO (6): {"status":"failed","sku":"FAIZ16024","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:12:29+00:00 INFO (6): {"status":"failed","sku":"FAISBSET32S2","message":"Error occurred during \"status\" processing. The \"TOOLS\/SCREWDRIVER INSERT BITS & ADAPTORS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T02:13:56+00:00 INFO (6): {"status":"failed","sku":"FCM1852L","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/PLIERS, STRIPPERS, SNIPS & CROPPERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T02:15:09+00:00 INFO (6): {"status":"failed","sku":"FAIPLB40KA","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:15:16+00:00 INFO (6): {"status":"failed","sku":"FAIPLB50","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:15:19+00:00 INFO (6): {"status":"failed","sku":"FAIPLB50WP","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:15:22+00:00 INFO (6): {"status":"failed","sku":"FAIPLB60SHUT","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:15:24+00:00 INFO (6): {"status":"failed","sku":"FAIPLB80SHUT","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:15:27+00:00 INFO (6): {"status":"failed","sku":"FAIPLCC24","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:15:45+00:00 INFO (6): {"status":"failed","sku":"FAISC1200","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:15:53+00:00 INFO (6): {"status":"failed","sku":"FAISC600","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:20:50+00:00 INFO (6): {"status":"failed","sku":"FAITDBUNGPK4","message":"Error occurred during \"status\" processing. The \"TOOLS\/CHAINS, ROPES & TIE DOWNS\/BUNGEE CORDS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T02:20:52+00:00 INFO (6): {"status":"failed","sku":"FAITDBUNGPK4","message":"Error occurred during \"status\" processing. The \"TOOLS\/CHAINS, ROPES & TIE DOWNS\/BUNGEE CORDS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T02:30:07+00:00 INFO (6): {"status":"failed","sku":"FAISDS22260","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:30:12+00:00 INFO (6): {"status":"failed","sku":"FAISDS24410","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:30:21+00:00 INFO (6): {"status":"failed","sku":"FAISDS25410","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:30:28+00:00 INFO (6): {"status":"failed","sku":"FAISDS4160","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:30:34+00:00 INFO (6): {"status":"failed","sku":"FAISDS5160","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:30:40+00:00 INFO (6): {"status":"failed","sku":"FAISDS55110","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:30:48+00:00 INFO (6): {"status":"failed","sku":"FAISDS55160B","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:30:54+00:00 INFO (6): {"status":"failed","sku":"FAITLPROF","message":"The \"%1\" file doesn't exist."}
+2021-02-12T02:30:58+00:00 INFO (6): {"status":"failed","sku":"FAITLRODSAW","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:36:03+00:00 INFO (6): {"status":"failed","sku":"FCM84TZSAPB","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/HEXAGON KEYS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T02:36:04+00:00 INFO (6): {"status":"failed","sku":"FCM84TZSAPB","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/HEXAGON KEYS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T02:38:13+00:00 INFO (6): {"status":"failed","sku":"FAISDSET13R","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T02:38:24+00:00 INFO (6): {"status":"failed","sku":"FAISDSET6PRO","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T02:39:31+00:00 INFO (6): {"status":"failed","sku":"FAITWSET4","message":"Error occurred during \"status\" processing. The \"TOOLS\/SCISSORS & TWEEZERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T02:40:32+00:00 INFO (6): {"status":"failed","sku":"FCMMODCG","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:40:37+00:00 INFO (6): {"status":"failed","sku":"FAIRB218","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:40:44+00:00 INFO (6): {"status":"failed","sku":"FAIRB22","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:40:51+00:00 INFO (6): {"status":"failed","sku":"FAIRB220100","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:42:18+00:00 INFO (6): {"status":"failed","sku":"FAISDTSET5","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T02:45:28+00:00 INFO (6): {"status":"failed","sku":"FAISGFK25ME","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:45:37+00:00 INFO (6): {"status":"failed","sku":"FAISGFK75ME","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:45:46+00:00 INFO (6): {"status":"failed","sku":"FAISGGROUT6","message":"The \"%1\" file doesn't exist."}
+2021-02-12T02:45:53+00:00 INFO (6): {"status":"failed","sku":"FAISGSK100ME","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:45:56+00:00 INFO (6): {"status":"failed","sku":"FAISGSK25ME","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:46:03+00:00 INFO (6): {"status":"failed","sku":"FAISGSK75ME","message":"The \"%1\" file doesn't exist."}
+2021-02-12T02:47:55+00:00 INFO (6): {"status":"failed","sku":"FCMCPEA1","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/PLIERS, STRIPPERS, SNIPS & CROPPERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T02:49:55+00:00 INFO (6): {"status":"failed","sku":"FAISGTSET3","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/TROWELS & FLOATS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T02:50:19+00:00 INFO (6): {"status":"failed","sku":"FAISLB1000","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:50:27+00:00 INFO (6): {"status":"failed","sku":"FAISLB1200","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:50:40+00:00 INFO (6): {"status":"failed","sku":"FAISLB1800","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:50:43+00:00 INFO (6): {"status":"failed","sku":"FAISLB600","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:50:51+00:00 INFO (6): {"status":"failed","sku":"FAIWCARV5","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:50:58+00:00 INFO (6): {"status":"failed","sku":"FAIWCARV7","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:51:01+00:00 INFO (6): {"status":"failed","sku":"FAIWCARV8","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:51:07+00:00 INFO (6): {"status":"failed","sku":"FAIWCB1","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:51:10+00:00 INFO (6): {"status":"failed","sku":"FAIWCB112","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:51:13+00:00 INFO (6): {"status":"failed","sku":"FAIWCB114","message":"The \"%1\" file doesn't exist."}
+2021-02-12T02:51:17+00:00 INFO (6): {"status":"failed","sku":"FAIWCB12","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:51:20+00:00 INFO (6): {"status":"failed","sku":"FAIWCB14","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:51:23+00:00 INFO (6): {"status":"failed","sku":"FAIWCB2","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:54:53+00:00 INFO (6): {"status":"failed","sku":"FAIWCSGS4W","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/WOODWORKING TOOLS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T02:55:21+00:00 INFO (6): {"status":"failed","sku":"FAIWCTROU8","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:55:24+00:00 INFO (6): {"status":"failed","sku":"FGEHNGFLBP50","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:55:31+00:00 INFO (6): {"status":"failed","sku":"FGEHNGFLZP40","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:55:38+00:00 INFO (6): {"status":"failed","sku":"FAIS6300","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:55:44+00:00 INFO (6): {"status":"failed","sku":"FAIS65100","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:55:51+00:00 INFO (6): {"status":"failed","sku":"FAIS65300","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:55:58+00:00 INFO (6): {"status":"failed","sku":"FAIS7150","message":"The product was unable to be saved. Please try again."}
+2021-02-12T02:56:05+00:00 INFO (6): {"status":"failed","sku":"FAIS8120","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:05:28+00:00 INFO (6): {"status":"failed","sku":"FAIST104","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:05:36+00:00 INFO (6): {"status":"failed","sku":"FAIST106","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:05:43+00:00 INFO (6): {"status":"failed","sku":"FAIST110","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:05:46+00:00 INFO (6): {"status":"failed","sku":"FAIST112","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:05:49+00:00 INFO (6): {"status":"failed","sku":"FAIST114","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:05:58+00:00 INFO (6): {"status":"failed","sku":"FAIST116","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:10:48+00:00 INFO (6): {"status":"failed","sku":"IRW1888438","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:10:50+00:00 INFO (6): {"status":"failed","sku":"IRW1897086","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:10:57+00:00 INFO (6): {"status":"failed","sku":"IRW1897088","message":"The image content must be valid base64 encoded data."}
+2021-02-12T03:10:57+00:00 INFO (6): {"status":"failed","sku":"IRW1897088","message":"The image content must be valid base64 encoded data."}
+2021-02-12T03:10:59+00:00 INFO (6): {"status":"failed","sku":"IRW1897089","message":"The \"%1\" file doesn't exist."}
+2021-02-12T03:11:02+00:00 INFO (6): {"status":"failed","sku":"IRW1897090","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:11:11+00:00 INFO (6): {"status":"failed","sku":"IRW1897193","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:11:14+00:00 INFO (6): {"status":"failed","sku":"JAK880BUN22","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:11:17+00:00 INFO (6): {"status":"failed","sku":"JAK880TUN14","message":"The image content must be valid base64 encoded data."}
+2021-02-12T03:11:17+00:00 INFO (6): {"status":"failed","sku":"JAK880TUN14","message":"The image content must be valid base64 encoded data."}
+2021-02-12T03:11:24+00:00 INFO (6): {"status":"failed","sku":"JAK880UN22","message":"The \"%1\" file doesn't exist."}
+2021-02-12T03:15:11+00:00 INFO (6): {"status":"failed","sku":"JOK190003","message":"The \"%1\" file doesn't exist."}
+2021-02-12T03:15:18+00:00 INFO (6): {"status":"failed","sku":"JOK20050","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:15:21+00:00 INFO (6): {"status":"failed","sku":"JOK20100","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:15:24+00:00 INFO (6): {"status":"failed","sku":"JOK20300","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:15:32+00:00 INFO (6): {"status":"failed","sku":"JOK30120","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:15:34+00:00 INFO (6): {"status":"failed","sku":"JOK30125","message":"The \"%1\" file doesn't exist."}
+2021-02-12T03:15:37+00:00 INFO (6): {"status":"failed","sku":"JOK30155","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:19:20+00:00 INFO (6): {"status":"failed","sku":"KPX002012V05","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T03:32:31+00:00 INFO (6): {"status":"failed","sku":"IRW1922007","message":"Error occurred during \"status\" processing. The \"TOOLS\/POWER TOOL ACCESSORIES\/DRILL BITS - WOOD\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T03:45:51+00:00 INFO (6): {"status":"failed","sku":"KAR26330050","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:45:56+00:00 INFO (6): {"status":"failed","sku":"KAR26331040","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:46:01+00:00 INFO (6): {"status":"failed","sku":"KAR28632590","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:46:06+00:00 INFO (6): {"status":"failed","sku":"KAR28632690","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:46:11+00:00 INFO (6): {"status":"failed","sku":"KAR28632700","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:46:14+00:00 INFO (6): {"status":"failed","sku":"KWB028160","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:46:23+00:00 INFO (6): {"status":"failed","sku":"KWB028200","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:46:26+00:00 INFO (6): {"status":"failed","sku":"IRW10505812","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:47:36+00:00 INFO (6): {"status":"failed","sku":"IRW1951882","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T03:47:42+00:00 INFO (6): {"status":"failed","sku":"IRW1951883","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T03:47:49+00:00 INFO (6): {"status":"failed","sku":"IRW1951885","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T03:50:06+00:00 INFO (6): {"status":"failed","sku":"KWB608030","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:50:11+00:00 INFO (6): {"status":"failed","sku":"KWB609110","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:50:14+00:00 INFO (6): {"status":"failed","sku":"IRW10506621","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:50:19+00:00 INFO (6): {"status":"failed","sku":"IRW10506623","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:50:26+00:00 INFO (6): {"status":"failed","sku":"IRW10506625","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:50:34+00:00 INFO (6): {"status":"failed","sku":"IRW10506627","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:50:43+00:00 INFO (6): {"status":"failed","sku":"IRW10507102","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:50:53+00:00 INFO (6): {"status":"failed","sku":"IRW10507106","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:51:03+00:00 INFO (6): {"status":"failed","sku":"IRW10507126","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:51:15+00:00 INFO (6): {"status":"failed","sku":"IRW10507183","message":"The product was unable to be saved. Please try again."}
+2021-02-12T03:51:52+00:00 INFO (6): {"status":"failed","sku":"IRW4935496","message":"Error occurred during \"status\" processing. The \"TOOLS\/POWER TOOL ACCESSORIES\/BLADES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T03:53:58+00:00 INFO (6): {"status":"failed","sku":"IRW10507593","message":"Error occurred during \"status\" processing. The \"TOOLS\/POWER TOOL ACCESSORIES\/OTHER POWER TOOL ACCESSORIES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T04:00:25+00:00 INFO (6): {"status":"failed","sku":"FSK1003464","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:00:29+00:00 INFO (6): {"status":"failed","sku":"FSK1003465","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:00:31+00:00 INFO (6): {"status":"failed","sku":"FSK1003623","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:00:40+00:00 INFO (6): {"status":"failed","sku":"HLL20AAM32","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:00:46+00:00 INFO (6): {"status":"failed","sku":"HLL20AAM42","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:00:54+00:00 INFO (6): {"status":"failed","sku":"HLL20AAM50","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:00:59+00:00 INFO (6): {"status":"failed","sku":"HLL20ABM42","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:01:06+00:00 INFO (6): {"status":"failed","sku":"HLL20ABM50","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:01:14+00:00 INFO (6): {"status":"failed","sku":"HLL20ZASR","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:05:05+00:00 INFO (6): {"status":"failed","sku":"FSK1020189","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:05:11+00:00 INFO (6): {"status":"failed","sku":"FSK1023628","message":"The \"%1\" file doesn't exist."}
+2021-02-12T04:05:19+00:00 INFO (6): {"status":"failed","sku":"FSK1023630","message":"The \"%1\" file doesn't exist."}
+2021-02-12T04:05:28+00:00 INFO (6): {"status":"failed","sku":"HLLMC4M","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:05:34+00:00 INFO (6): {"status":"failed","sku":"HLLMC7M","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:05:43+00:00 INFO (6): {"status":"failed","sku":"HLLPR","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:05:49+00:00 INFO (6): {"status":"failed","sku":"HLLXCM06","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:05:56+00:00 INFO (6): {"status":"failed","sku":"HLLXCM10","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:10:11+00:00 INFO (6): {"status":"failed","sku":"HULATLE","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:10:21+00:00 INFO (6): {"status":"failed","sku":"HULC375M","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:10:24+00:00 INFO (6): {"status":"failed","sku":"HULC600L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:10:27+00:00 INFO (6): {"status":"failed","sku":"HULCH3","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:10:36+00:00 INFO (6): {"status":"failed","sku":"HULEDC10","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:20:37+00:00 INFO (6): {"status":"failed","sku":"HOZ2100","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:20:40+00:00 INFO (6): {"status":"failed","sku":"HOZ2150","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:30:25+00:00 INFO (6): {"status":"failed","sku":"HOZ2972","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:30:29+00:00 INFO (6): {"status":"failed","sku":"HOZ2974","message":"The \"%1\" file doesn't exist."}
+2021-02-12T04:30:37+00:00 INFO (6): {"status":"failed","sku":"HOZ4103","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:30:41+00:00 INFO (6): {"status":"failed","sku":"HOZ4104","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:30:45+00:00 INFO (6): {"status":"failed","sku":"HOZ4106","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:30:48+00:00 INFO (6): {"status":"failed","sku":"HOZ4120","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:30:52+00:00 INFO (6): {"status":"failed","sku":"HOZ4121","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:30:56+00:00 INFO (6): {"status":"failed","sku":"HOZ4122","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:31:00+00:00 INFO (6): {"status":"failed","sku":"HOZ4125","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:31:05+00:00 INFO (6): {"status":"failed","sku":"HOZ4140","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:31:09+00:00 INFO (6): {"status":"failed","sku":"HOZ4185","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:31:12+00:00 INFO (6): {"status":"failed","sku":"HOZ4505","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:31:15+00:00 INFO (6): {"status":"failed","sku":"HOZ4507","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:31:18+00:00 INFO (6): {"status":"failed","sku":"HULV20S","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:31:21+00:00 INFO (6): {"status":"failed","sku":"HULVVS","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:35:11+00:00 INFO (6): {"status":"failed","sku":"IRW10501894","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:35:18+00:00 INFO (6): {"status":"failed","sku":"IRW10501896","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:35:23+00:00 INFO (6): {"status":"failed","sku":"IRW10501901","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:35:30+00:00 INFO (6): {"status":"failed","sku":"IRW10501905","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:35:37+00:00 INFO (6): {"status":"failed","sku":"IRW10501907","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:35:43+00:00 INFO (6): {"status":"failed","sku":"IRW10501912","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:40:04+00:00 INFO (6): {"status":"failed","sku":"HULK5","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:40:11+00:00 INFO (6): {"status":"failed","sku":"HULMK","message":"The \"%1\" file doesn't exist."}
+2021-02-12T04:40:17+00:00 INFO (6): {"status":"failed","sku":"HULOG8","message":"The \"%1\" file doesn't exist."}
+2021-02-12T04:40:42+00:00 INFO (6): {"status":"failed","sku":"HULPKGH","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:40:46+00:00 INFO (6): {"status":"failed","sku":"HULPV120","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:40:49+00:00 INFO (6): {"status":"failed","sku":"HULQUATTRO25","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:40:56+00:00 INFO (6): {"status":"failed","sku":"FPPCR25MSEL","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:40:59+00:00 INFO (6): {"status":"failed","sku":"FPPCR50M","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:41:07+00:00 INFO (6): {"status":"failed","sku":"FPPFLYLEAD","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:41:15+00:00 INFO (6): {"status":"failed","sku":"FPPPANSOC16","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:41:17+00:00 INFO (6): {"status":"failed","sku":"FPPPLUG110","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:45:05+00:00 INFO (6): {"status":"failed","sku":"FPPSLWM30","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:45:14+00:00 INFO (6): {"status":"failed","sku":"FPPSOC32AMP","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:45:16+00:00 INFO (6): {"status":"failed","sku":"FPPSOCK3WAY","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:45:19+00:00 INFO (6): {"status":"failed","sku":"FPPTLDBLOCK4","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:45:22+00:00 INFO (6): {"status":"failed","sku":"FPPTRAN15","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:45:25+00:00 INFO (6): {"status":"failed","sku":"FPPTRAN33A","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:45:29+00:00 INFO (6): {"status":"failed","sku":"FPPTRAN5","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:45:36+00:00 INFO (6): {"status":"failed","sku":"HIK998030","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:45:39+00:00 INFO (6): {"status":"failed","sku":"HIK998039","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:45:42+00:00 INFO (6): {"status":"failed","sku":"HIKC7SB3","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:45:47+00:00 INFO (6): {"status":"failed","sku":"HIKC7SB3L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:45:55+00:00 INFO (6): {"status":"failed","sku":"HIKC7STL","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:46:02+00:00 INFO (6): {"status":"failed","sku":"HIKC7U3L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:46:10+00:00 INFO (6): {"status":"failed","sku":"HIKC8FSEBL","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:46:18+00:00 INFO (6): {"status":"failed","sku":"HIKC8FSHGL","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:50:21+00:00 INFO (6): {"status":"failed","sku":"IRW10501946","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:50:30+00:00 INFO (6): {"status":"failed","sku":"IRW10501948","message":"The \"%1\" file doesn't exist."}
+2021-02-12T04:51:26+00:00 INFO (6): {"status":"failed","sku":"FSC52ME","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:51:29+00:00 INFO (6): {"status":"failed","sku":"FSC56ME","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:51:32+00:00 INFO (6): {"status":"failed","sku":"FSC58ME","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:51:35+00:00 INFO (6): {"status":"failed","sku":"FSC706S","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:51:41+00:00 INFO (6): {"status":"failed","sku":"FSC712S","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:51:44+00:00 INFO (6): {"status":"failed","sku":"FSC725S","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:51:47+00:00 INFO (6): {"status":"failed","sku":"FSCAP5MEHV","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:53:43+00:00 INFO (6): {"status":"failed","sku":"FORSPBS31","message":"Error occurred during \"status\" processing. The \"TOOLS\/SCREWDRIVER INSERT BITS & ADAPTORS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T04:53:45+00:00 INFO (6): {"status":"failed","sku":"FORSPBSPZT12","message":"Error occurred during \"status\" processing. The \"TOOLS\/SCREWDRIVER INSERT BITS & ADAPTORS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T04:55:57+00:00 INFO (6): {"status":"failed","sku":"HIKSB10V2","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:56:01+00:00 INFO (6): {"status":"failed","sku":"HIKSB10V2L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T04:56:14+00:00 INFO (6): {"status":"failed","sku":"HIKSV12SGL","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:00:18+00:00 INFO (6): {"status":"failed","sku":"OLY39014","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:00:25+00:00 INFO (6): {"status":"failed","sku":"OLY39024","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:00:32+00:00 INFO (6): {"status":"failed","sku":"OLY60126","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:00:35+00:00 INFO (6): {"status":"failed","sku":"OLY61124","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:00:46+00:00 INFO (6): {"status":"failed","sku":"OLY90024","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:00:50+00:00 INFO (6): {"status":"failed","sku":"OLY90030","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:00:54+00:00 INFO (6): {"status":"failed","sku":"OLY90805","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:00:58+00:00 INFO (6): {"status":"failed","sku":"OLY90810","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:01:03+00:00 INFO (6): {"status":"failed","sku":"MLKLFW082FTC","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:05:06+00:00 INFO (6): {"status":"failed","sku":"MPT707000","message":"Error occurred during \"status\" processing. The \"TOOLS\/POWER TOOL ACCESSORIES\/OTHER POWER TOOL ACCESSORIES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T05:05:07+00:00 INFO (6): {"status":"failed","sku":"MPT707000","message":"Error occurred during \"status\" processing. The \"TOOLS\/POWER TOOL ACCESSORIES\/OTHER POWER TOOL ACCESSORIES\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T05:05:10+00:00 INFO (6): {"status":"failed","sku":"MPT723000","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T05:05:10+00:00 INFO (6): {"status":"failed","sku":"MPT723000","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T05:05:13+00:00 INFO (6): {"status":"failed","sku":"MPTANGBS18","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:05:17+00:00 INFO (6): {"status":"failed","sku":"MPTAS20","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:05:20+00:00 INFO (6): {"status":"failed","sku":"MPTASR25SC","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:05:26+00:00 INFO (6): {"status":"failed","sku":"MPTASR25SCL","message":"The image doesn't exist."}
+2021-02-12T05:05:44+00:00 INFO (6): {"status":"failed","sku":"PKT111009","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:05:46+00:00 INFO (6): {"status":"failed","sku":"PKT111010","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:05:49+00:00 INFO (6): {"status":"failed","sku":"PKT111011","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:05:53+00:00 INFO (6): {"status":"failed","sku":"PKT111012","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:05:58+00:00 INFO (6): {"status":"failed","sku":"PKT1112","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:06:01+00:00 INFO (6): {"status":"failed","sku":"PKT1115","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:06:05+00:00 INFO (6): {"status":"failed","sku":"PKT1120","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:06:09+00:00 INFO (6): {"status":"failed","sku":"PKT112S","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:06:12+00:00 INFO (6): {"status":"failed","sku":"PKT1136","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:06:15+00:00 INFO (6): {"status":"failed","sku":"PKT1138","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:10:12+00:00 INFO (6): {"status":"failed","sku":"PKT1809","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:10:16+00:00 INFO (6): {"status":"failed","sku":"PKT1810","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:10:19+00:00 INFO (6): {"status":"failed","sku":"PKT1811","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:10:23+00:00 INFO (6): {"status":"failed","sku":"PKT1815","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:10:26+00:00 INFO (6): {"status":"failed","sku":"PKT1901","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:10:29+00:00 INFO (6): {"status":"failed","sku":"PKT1902","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:10:32+00:00 INFO (6): {"status":"failed","sku":"PKT1903","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:10:35+00:00 INFO (6): {"status":"failed","sku":"PKT21101","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:10:40+00:00 INFO (6): {"status":"failed","sku":"PKT21102","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:10:44+00:00 INFO (6): {"status":"failed","sku":"PKT21103","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:10:47+00:00 INFO (6): {"status":"failed","sku":"PKT21104","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:20:34+00:00 INFO (6): {"status":"failed","sku":"MON1739","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:20:37+00:00 INFO (6): {"status":"failed","sku":"MON1740","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:20:40+00:00 INFO (6): {"status":"failed","sku":"MON1806","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:20:43+00:00 INFO (6): {"status":"failed","sku":"MON1808","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:20:47+00:00 INFO (6): {"status":"failed","sku":"MON1810","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:21:00+00:00 INFO (6): {"status":"failed","sku":"MTB83812","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:21:05+00:00 INFO (6): {"status":"failed","sku":"MTB83877","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:21:08+00:00 INFO (6): {"status":"failed","sku":"MTB83946823","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:21:12+00:00 INFO (6): {"status":"failed","sku":"MTB84160","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:21:16+00:00 INFO (6): {"status":"failed","sku":"MTB84945","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:21:22+00:00 INFO (6): {"status":"failed","sku":"MUL10","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:21:26+00:00 INFO (6): {"status":"failed","sku":"MUL12","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:21:32+00:00 INFO (6): {"status":"failed","sku":"MUL5","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:21:37+00:00 INFO (6): {"status":"failed","sku":"MUL6","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:21:47+00:00 INFO (6): {"status":"failed","sku":"MULD618","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:25:09+00:00 INFO (6): {"status":"failed","sku":"NICHRSM10","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:25:16+00:00 INFO (6): {"status":"failed","sku":"NICHRSM12","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:25:25+00:00 INFO (6): {"status":"failed","sku":"NICHRSM6","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:25:33+00:00 INFO (6): {"status":"failed","sku":"NICHSC10","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:25:37+00:00 INFO (6): {"status":"failed","sku":"NICHSC12","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:25:51+00:00 INFO (6): {"status":"failed","sku":"NICHSC8","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:26:03+00:00 INFO (6): {"status":"failed","sku":"NICHSM8","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:26:16+00:00 INFO (6): {"status":"failed","sku":"MON2116","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:26:26+00:00 INFO (6): {"status":"failed","sku":"MON2166","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:26:29+00:00 INFO (6): {"status":"failed","sku":"MON2215JAR","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:26:31+00:00 INFO (6): {"status":"failed","sku":"MON22PC","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:26:36+00:00 INFO (6): {"status":"failed","sku":"MON22R","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:26:39+00:00 INFO (6): {"status":"failed","sku":"MON2348","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:26:43+00:00 INFO (6): {"status":"failed","sku":"MON2350","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:30:26+00:00 INFO (6): {"status":"failed","sku":"MON2691","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:30:33+00:00 INFO (6): {"status":"failed","sku":"MON282","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:30:37+00:00 INFO (6): {"status":"failed","sku":"MON284","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:30:50+00:00 INFO (6): {"status":"failed","sku":"MON295","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:30:53+00:00 INFO (6): {"status":"failed","sku":"MON300","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:30:56+00:00 INFO (6): {"status":"failed","sku":"MON301","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:30:58+00:00 INFO (6): {"status":"failed","sku":"MON3014","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:31:02+00:00 INFO (6): {"status":"failed","sku":"MON3015","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:31:05+00:00 INFO (6): {"status":"failed","sku":"MON3020","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:31:08+00:00 INFO (6): {"status":"failed","sku":"MON3024","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:31:12+00:00 INFO (6): {"status":"failed","sku":"MON3025","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:31:15+00:00 INFO (6): {"status":"failed","sku":"MON3034","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:31:18+00:00 INFO (6): {"status":"failed","sku":"MON308","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:31:22+00:00 INFO (6): {"status":"failed","sku":"MON310","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:31:38+00:00 INFO (6): {"status":"failed","sku":"NICTSSM6N","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:35:46+00:00 INFO (6): {"status":"failed","sku":"MLKCB10ML","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:35:49+00:00 INFO (6): {"status":"failed","sku":"MLKCB12ML","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:35:52+00:00 INFO (6): {"status":"failed","sku":"MLKH0100","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:35:55+00:00 INFO (6): {"status":"failed","sku":"MLKK1","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:41:34+00:00 INFO (6): {"status":"failed","sku":"LAC2","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:41:38+00:00 INFO (6): {"status":"failed","sku":"LAC22195","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:41:43+00:00 INFO (6): {"status":"failed","sku":"LAC4","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:41:49+00:00 INFO (6): {"status":"failed","sku":"LAC4TP","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:41:53+00:00 INFO (6): {"status":"failed","sku":"LED500768TP","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:41:56+00:00 INFO (6): {"status":"failed","sku":"LED500852","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:56:30+00:00 INFO (6): {"status":"failed","sku":"MHT48223422","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:56:41+00:00 INFO (6): {"status":"failed","sku":"MHT48223523","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:56:52+00:00 INFO (6): {"status":"failed","sku":"MHT48223542","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:57:03+00:00 INFO (6): {"status":"failed","sku":"MHT48223721","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:57:08+00:00 INFO (6): {"status":"failed","sku":"MILM18ONEIW0","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:57:21+00:00 INFO (6): {"status":"failed","sku":"MILM18ONEIW5","message":"The product was unable to be saved. Please try again."}
+2021-02-12T05:57:36+00:00 INFO (6): {"status":"failed","sku":"MIS75SC25","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:00:57+00:00 INFO (6): {"status":"failed","sku":"MLK5403E","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:00:59+00:00 INFO (6): {"status":"failed","sku":"MLK5425E","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:01:05+00:00 INFO (6): {"status":"failed","sku":"MLK5441E","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:01:14+00:00 INFO (6): {"status":"failed","sku":"LEN1832143","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:01:18+00:00 INFO (6): {"status":"failed","sku":"LEN1832146","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:01:29+00:00 INFO (6): {"status":"failed","sku":"LEN20305","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:01:32+00:00 INFO (6): {"status":"failed","sku":"LEN20314","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:01:35+00:00 INFO (6): {"status":"failed","sku":"LEN20564","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:01:38+00:00 INFO (6): {"status":"failed","sku":"LEN20572","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:01:42+00:00 INFO (6): {"status":"failed","sku":"LEN20580","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:01:45+00:00 INFO (6): {"status":"failed","sku":"LEN20597","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:01:48+00:00 INFO (6): {"status":"failed","sku":"LEN20598","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:01:52+00:00 INFO (6): {"status":"failed","sku":"MHT48227001","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:05:33+00:00 INFO (6): {"status":"failed","sku":"MHT48228200","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:05:39+00:00 INFO (6): {"status":"failed","sku":"MHT48229079","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:05:43+00:00 INFO (6): {"status":"failed","sku":"MHT48229109","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:05:47+00:00 INFO (6): {"status":"failed","sku":"MHT48229118","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:05:53+00:00 INFO (6): {"status":"failed","sku":"MHT48229125","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:06:05+00:00 INFO (6): {"status":"failed","sku":"MHT48229251","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:06:10+00:00 INFO (6): {"status":"failed","sku":"MHT48229252","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:06:14+00:00 INFO (6): {"status":"failed","sku":"MHT48229253","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:06:20+00:00 INFO (6): {"status":"failed","sku":"MHT48229258","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:06:26+00:00 INFO (6): {"status":"failed","sku":"MHT48229259","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:06:29+00:00 INFO (6): {"status":"failed","sku":"MLK2250","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:06:32+00:00 INFO (6): {"status":"failed","sku":"MLK2650","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:06:41+00:00 INFO (6): {"status":"failed","sku":"MLK3005ECOL","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:15:20+00:00 INFO (6): {"status":"failed","sku":"MKL96262","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:15:24+00:00 INFO (6): {"status":"failed","sku":"MKL96263","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:15:28+00:00 INFO (6): {"status":"failed","sku":"MKL96521","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:15:39+00:00 INFO (6): {"status":"failed","sku":"MKL96800C","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:15:43+00:00 INFO (6): {"status":"failed","sku":"MKL96801C","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:15:47+00:00 INFO (6): {"status":"failed","sku":"MKLBBLUE","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:15:50+00:00 INFO (6): {"status":"failed","sku":"MKLBGREEN","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:15:52+00:00 INFO (6): {"status":"failed","sku":"MKLBRED","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:15:57+00:00 INFO (6): {"status":"failed","sku":"MKLBWHITE","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:16:00+00:00 INFO (6): {"status":"failed","sku":"MKLBYELLOW","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:16:06+00:00 INFO (6): {"status":"failed","sku":"MLK1","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:16:09+00:00 INFO (6): {"status":"failed","sku":"MLK1175D","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:16:18+00:00 INFO (6): {"status":"failed","sku":"MLK120T","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:16:21+00:00 INFO (6): {"status":"failed","sku":"MLK130","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:16:25+00:00 INFO (6): {"status":"failed","sku":"MLK130LJ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:16:28+00:00 INFO (6): {"status":"failed","sku":"MLK130Q","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:16:31+00:00 INFO (6): {"status":"failed","sku":"MLK140","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:16:37+00:00 INFO (6): {"status":"failed","sku":"MLK140703","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:16:42+00:00 INFO (6): {"status":"failed","sku":"MLK140LF","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:20:36+00:00 INFO (6): {"status":"failed","sku":"MHT932464054","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:20:41+00:00 INFO (6): {"status":"failed","sku":"MHT932464055","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:20:45+00:00 INFO (6): {"status":"failed","sku":"MHT932464057","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:20:49+00:00 INFO (6): {"status":"failed","sku":"MHT932464058","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:20:54+00:00 INFO (6): {"status":"failed","sku":"MHT932464059","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:20:59+00:00 INFO (6): {"status":"failed","sku":"MHT932464060","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:21:03+00:00 INFO (6): {"status":"failed","sku":"MHT932464061","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:21:07+00:00 INFO (6): {"status":"failed","sku":"MHT932464062","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:21:13+00:00 INFO (6): {"status":"failed","sku":"MHT932464064","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:21:18+00:00 INFO (6): {"status":"failed","sku":"MHT932464065","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:21:22+00:00 INFO (6): {"status":"failed","sku":"MHT932464078","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:21:27+00:00 INFO (6): {"status":"failed","sku":"MHT932464079","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:21:38+00:00 INFO (6): {"status":"failed","sku":"MLK3110E","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:21:43+00:00 INFO (6): {"status":"failed","sku":"MLK3110ECOL","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:21:45+00:00 INFO (6): {"status":"failed","sku":"MLK3111E","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:21:49+00:00 INFO (6): {"status":"failed","sku":"MLK3111ECOL","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:21:52+00:00 INFO (6): {"status":"failed","sku":"MLK3112E","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:21:55+00:00 INFO (6): {"status":"failed","sku":"MLK3112ECOL","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:22:02+00:00 INFO (6): {"status":"failed","sku":"MLK3123E","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:22:05+00:00 INFO (6): {"status":"failed","sku":"MLK3124E","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:24:32+00:00 INFO (6): {"status":"failed","sku":"MARS500S3","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/WOODWORKING TOOLS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T06:24:37+00:00 INFO (6): {"status":"failed","sku":"MARS500S5W","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/WOODWORKING TOOLS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T06:25:06+00:00 INFO (6): {"status":"failed","sku":"MHT932464085","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:25:13+00:00 INFO (6): {"status":"failed","sku":"MHT932464086","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:25:45+00:00 INFO (6): {"status":"failed","sku":"MHT932464252","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:26:07+00:00 INFO (6): {"status":"failed","sku":"MHT932464562","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:26:17+00:00 INFO (6): {"status":"failed","sku":"MHT932464563","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:27:24+00:00 INFO (6): {"status":"failed","sku":"MHT932464569","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:27:30+00:00 INFO (6): {"status":"failed","sku":"MHT932464570","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:27:38+00:00 INFO (6): {"status":"failed","sku":"MHT932464571","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:27:41+00:00 INFO (6): {"status":"failed","sku":"MLK550","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:27:46+00:00 INFO (6): {"status":"failed","sku":"MLK5KA1","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:27:56+00:00 INFO (6): {"status":"failed","sku":"MLK606","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:28:00+00:00 INFO (6): {"status":"failed","sku":"MLK607","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:28:05+00:00 INFO (6): {"status":"failed","sku":"MLK608","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:28:09+00:00 INFO (6): {"status":"failed","sku":"MLK6121LJ","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:28:17+00:00 INFO (6): {"status":"failed","sku":"MLK6125KA1","message":"The \"%1\" file doesn't exist."}
+2021-02-12T06:28:20+00:00 INFO (6): {"status":"failed","sku":"MLK6127","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:32:42+00:00 INFO (6): {"status":"failed","sku":"MHT932464575","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/PLIERS, STRIPPERS, SNIPS & CROPPERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T06:32:43+00:00 INFO (6): {"status":"failed","sku":"MHT932464575","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/PLIERS, STRIPPERS, SNIPS & CROPPERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T06:33:13+00:00 INFO (6): {"status":"failed","sku":"MHT932464666","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:33:18+00:00 INFO (6): {"status":"failed","sku":"MHT932464826","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:33:24+00:00 INFO (6): {"status":"failed","sku":"MHT932464827","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:33:28+00:00 INFO (6): {"status":"failed","sku":"MHT932464828","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:33:33+00:00 INFO (6): {"status":"failed","sku":"MHT932464829","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:33:39+00:00 INFO (6): {"status":"failed","sku":"MHT932464830","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:33:58+00:00 INFO (6): {"status":"failed","sku":"MHT932464851","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:34:02+00:00 INFO (6): {"status":"failed","sku":"MHT932464854","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:34:14+00:00 INFO (6): {"status":"failed","sku":"MLK140LH","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:34:17+00:00 INFO (6): {"status":"failed","sku":"MLK140Q","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:35:24+00:00 INFO (6): {"status":"failed","sku":"LIBBBPWT500","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:35:32+00:00 INFO (6): {"status":"failed","sku":"LIBBBPWVM150","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:35:35+00:00 INFO (6): {"status":"failed","sku":"LIBBBPWVM500","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:35:44+00:00 INFO (6): {"status":"failed","sku":"LIBBBPWY500","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:35:53+00:00 INFO (6): {"status":"failed","sku":"LIBBC500","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:35:58+00:00 INFO (6): {"status":"failed","sku":"LIBBDS250G","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:36:01+00:00 INFO (6): {"status":"failed","sku":"LIBBLAP1L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:36:05+00:00 INFO (6): {"status":"failed","sku":"LIBBLAP500","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:36:08+00:00 INFO (6): {"status":"failed","sku":"LIBBLCL1L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:36:11+00:00 INFO (6): {"status":"failed","sku":"LIBBLCL500","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:36:14+00:00 INFO (6): {"status":"failed","sku":"LIBBLCL5L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:36:19+00:00 INFO (6): {"status":"failed","sku":"LIBBLO1L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:36:22+00:00 INFO (6): {"status":"failed","sku":"LIBBLO250","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:36:25+00:00 INFO (6): {"status":"failed","sku":"LIBBLO500","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:36:28+00:00 INFO (6): {"status":"failed","sku":"LIBBP250","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:36:31+00:00 INFO (6): {"status":"failed","sku":"LIBBPAP150","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:36:35+00:00 INFO (6): {"status":"failed","sku":"LIBBPAP500","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:36:43+00:00 INFO (6): {"status":"failed","sku":"LIBBPD150","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:36:52+00:00 INFO (6): {"status":"failed","sku":"LIBBPUR1KG","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:40:44+00:00 INFO (6): {"status":"failed","sku":"LIBFO5L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:40:47+00:00 INFO (6): {"status":"failed","sku":"LIBFP1L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:40:58+00:00 INFO (6): {"status":"failed","sku":"LIBFSS5L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:41:03+00:00 INFO (6): {"status":"failed","sku":"LIBFSSEAL1L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:41:10+00:00 INFO (6): {"status":"failed","sku":"LIBFSSEAL5L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:41:18+00:00 INFO (6): {"status":"failed","sku":"LIBFWS500","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:41:24+00:00 INFO (6): {"status":"failed","sku":"LIBGCCHA30","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:45:56+00:00 INFO (6): {"status":"failed","sku":"MLK721","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:46:08+00:00 INFO (6): {"status":"failed","sku":"LIBGCVER30","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:46:11+00:00 INFO (6): {"status":"failed","sku":"LIBGFC1L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:46:14+00:00 INFO (6): {"status":"failed","sku":"LIBGFOCL1L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:46:17+00:00 INFO (6): {"status":"failed","sku":"LIBGFOCL500","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:46:20+00:00 INFO (6): {"status":"failed","sku":"LIBGFOTE1L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:46:30+00:00 INFO (6): {"status":"failed","sku":"LIBGP250","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:46:36+00:00 INFO (6): {"status":"failed","sku":"LIBGVCOM30","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:49:03+00:00 INFO (6): {"status":"failed","sku":"MIL352333","message":"Error occurred during \"status\" processing. The \"TOOLS\/POWER TOOL ACCESSORIES\/DRILL BITS - MASONRY & SDS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T06:50:14+00:00 INFO (6): {"status":"failed","sku":"LIBRLO500","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:50:22+00:00 INFO (6): {"status":"failed","sku":"LIBSDDO1L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:50:25+00:00 INFO (6): {"status":"failed","sku":"LIBSDE1L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:50:28+00:00 INFO (6): {"status":"failed","sku":"LIBSDGM1L","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:55:07+00:00 INFO (6): {"status":"failed","sku":"BAH2171G160","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:55:16+00:00 INFO (6): {"status":"failed","sku":"BAH21HDG140","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:55:26+00:00 INFO (6): {"status":"failed","sku":"BAH21HDG200","message":"The product was unable to be saved. Please try again."}
+2021-02-12T06:59:13+00:00 INFO (6): {"status":"failed","sku":"BAH59S100BC","message":"Error occurred during \"status\" processing. The \"TOOLS\/SCREWDRIVER INSERT BITS & ADAPTORS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T07:00:21+00:00 INFO (6): {"status":"failed","sku":"BAH59S54BC","message":"Error occurred during \"status\" processing. The \"TOOLS\/SCREWDRIVER INSERT BITS & ADAPTORS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T07:00:22+00:00 INFO (6): {"status":"failed","sku":"BAH59S54BC","message":"Error occurred during \"status\" processing. The \"TOOLS\/SCREWDRIVER INSERT BITS & ADAPTORS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T07:00:31+00:00 INFO (6): {"status":"failed","sku":"BAH7223","message":"The product was unable to be saved. Please try again."}
+2021-02-12T07:00:34+00:00 INFO (6): {"status":"failed","sku":"BAH7224","message":"The product was unable to be saved. Please try again."}
+2021-02-12T07:00:38+00:00 INFO (6): {"status":"failed","sku":"BAH7225","message":"The product was unable to be saved. Please try again."}
+2021-02-12T07:03:10+00:00 INFO (6): {"status":"failed","sku":"BAHBE8621S","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/SCREWDRIVERS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T07:04:33+00:00 INFO (6): {"status":"failed","sku":"ARCBVKIT","message":"Error occurred during \"status\" processing. The \"TOOLS\/HAND TOOLS\/PLUMBING TOOLS\" value's type is invalid. The \"int\" type was expected. Verify and try again."}
+2021-02-12T07:05:21+00:00 INFO (6): {"status":"failed","sku":"ARCZEK2","message":"The product was unable to be saved. Please try again."}
+2021-02-12T07:21:58+00:00 INFO (6): ---------------- END API Cron 12/02/21 07:21:58 ----------------
+2021-02-12T07:22:02+00:00 INFO (6): ---------------- END API Cron 12/02/21 07:22:02 ----------------
+2021-02-12T07:22:06+00:00 INFO (6): ---------------- END API Cron 12/02/21 07:22:06 ----------------
+2021-02-12T07:22:10+00:00 INFO (6): ---------------- END API Cron 12/02/21 07:22:10 ----------------
+2021-02-12T07:22:13+00:00 INFO (6): ---------------- END API Cron 12/02/21 07:22:13 ----------------
+2021-02-12T07:22:17+00:00 INFO (6): ---------------- END API Cron 12/02/21 07:22:17 ----------------
+2021-02-12T07:22:21+00:00 INFO (6): ---------------- END API Cron 12/02/21 07:22:21 ----------------
+2021-02-12T07:22:24+00:00 INFO (6): ---------------- END API Cron 12/02/21 07:22:24 ----------------

@@ -1,0 +1,13 @@
+2021-02-17T10:44:36+00:00 INFO (6): {"status":"failed","sku":"Packof10aprons","message":"Product is not available."}
+2021-02-17T10:44:37+00:00 INFO (6): {"status":"failed","sku":"Aprontiesnotincludedsee","message":"Product is not available."}
+2021-02-17T10:44:37+00:00 INFO (6): {"status":"failed","sku":"Productcode:AT","message":"Product is not available."}
+2021-02-17T10:44:37+00:00 INFO (6): {"status":"failed","sku":"Productcode:ATR\\\"","message":"Product is not available."}
+2021-02-17T10:45:04+00:00 INFO (6): {"status":"failed","sku":"VIT331061","message":"The product was unable to be saved. Please try again."}
+2021-02-17T10:45:45+00:00 INFO (6): {"status":"failed","sku":"M9995","message":"The product was unable to be saved. Please try again."}
+2021-02-17T10:45:51+00:00 INFO (6): {"status":"failed","sku":"TREAIRP1","message":"The product was unable to be saved. Please try again."}
+2021-02-17T10:45:56+00:00 INFO (6): {"status":"failed","sku":"TRESTEALTH","message":"The product was unable to be saved. Please try again."}
+2021-02-17T10:46:03+00:00 INFO (6): {"status":"failed","sku":"TRESTEALTH3","message":"The product was unable to be saved. Please try again."}
+2021-02-17T10:46:09+00:00 INFO (6): {"status":"failed","sku":"VIT331011","message":"The product was unable to be saved. Please try again."}
+2021-02-17T10:46:13+00:00 INFO (6): {"status":"failed","sku":"VIT331041","message":"The product was unable to be saved. Please try again."}
+2021-02-17T10:46:19+00:00 INFO (6): {"status":"failed","sku":"VIT332100","message":"The product was unable to be saved. Please try again."}
+2021-02-17T10:47:23+00:00 INFO (6): ---------------- END API Cron 17/02/21 10:47:23 ----------------

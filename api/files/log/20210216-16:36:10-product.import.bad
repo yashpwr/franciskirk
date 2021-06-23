@@ -1,0 +1,18 @@
+2021-02-16T16:40:02+00:00 INFO (6): ---------------- START API Cron 16/02/21 16:40:02 ----------------
+2021-02-16T17:00:34+00:00 INFO (6): {"status":"failed","sku":"FOREXP5","message":"The product was unable to be saved. Please try again."}
+2021-02-16T17:00:40+00:00 INFO (6): {"status":"failed","sku":"FOREYE10M","message":"The product was unable to be saved. Please try again."}
+2021-02-16T17:00:45+00:00 INFO (6): {"status":"failed","sku":"FOREYE12M","message":"The product was unable to be saved. Please try again."}
+2021-02-16T17:00:50+00:00 INFO (6): {"status":"failed","sku":"FOREYE6M","message":"The product was unable to be saved. Please try again."}
+2021-02-16T17:00:55+00:00 INFO (6): {"status":"failed","sku":"FOREYE8M","message":"The product was unable to be saved. Please try again."}
+2021-02-16T17:05:41+00:00 INFO (6): {"status":"failed","sku":"JUBHCD95","message":"The image content must be valid base64 encoded data."}
+2021-02-16T17:05:43+00:00 INFO (6): {"status":"failed","sku":"JUBHCD95","message":"The image content must be valid base64 encoded data."}
+2021-02-16T17:15:33+00:00 INFO (6): {"status":"failed","sku":"RAW68557","message":"The product was unable to be saved. Please try again."}
+2021-02-16T17:15:38+00:00 INFO (6): {"status":"failed","sku":"RAW68560","message":"The product was unable to be saved. Please try again."}
+2021-02-16T17:15:42+00:00 INFO (6): {"status":"failed","sku":"RAW68565","message":"The product was unable to be saved. Please try again."}
+2021-02-16T17:15:45+00:00 INFO (6): {"status":"failed","sku":"RAW68595","message":"The product was unable to be saved. Please try again."}
+2021-02-16T17:15:49+00:00 INFO (6): {"status":"failed","sku":"RAW68615","message":"The product was unable to be saved. Please try again."}
+2021-02-16T17:15:53+00:00 INFO (6): {"status":"failed","sku":"RAW68635","message":"The product was unable to be saved. Please try again."}
+2021-02-16T17:15:57+00:00 INFO (6): {"status":"failed","sku":"RAW68636","message":"The product was unable to be saved. Please try again."}
+2021-02-16T17:20:15+00:00 INFO (6): {"status":"failed","sku":"FORLGB675T","message":"The product was unable to be saved. Please try again."}
+2021-02-16T17:20:19+00:00 INFO (6): {"status":"failed","sku":"FORCB840G","message":"The product was unable to be saved. Please try again."}
+2021-02-16T17:29:27+00:00 INFO (6): ---------------- END API Cron 16/02/21 17:29:27 ----------------

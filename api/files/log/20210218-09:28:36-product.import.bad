@@ -1,0 +1,18 @@
+2021-02-18T09:30:04+00:00 INFO (6): {"status":"failed","sku":"B\/S06160","message":"Request does not match any route."}
+2021-02-18T09:30:06+00:00 INFO (6): {"status":"failed","sku":"B\/DX32360","message":"Request does not match any route."}
+2021-02-18T09:44:51+00:00 INFO (6): {"status":"failed","sku":"ts\/KEWCOM110H.jpg","message":"Product is not available."}
+2021-02-18T09:45:35+00:00 INFO (6): {"status":"failed","sku":"TWX51801","message":"Product is not available."}
+2021-02-18T09:45:35+00:00 INFO (6): {"status":"failed","sku":"TWX51801","message":"Product is not available."}
+2021-02-18T09:47:09+00:00 INFO (6): {"status":"failed","sku":"TWX53144","message":"Product is not available."}
+2021-02-18T09:47:09+00:00 INFO (6): {"status":"failed","sku":"TWX53145","message":"Product is not available."}
+2021-02-18T09:47:22+00:00 INFO (6): {"status":"failed","sku":"TWX53575","message":"Product is not available."}
+2021-02-18T09:50:06+00:00 INFO (6): {"status":"failed","sku":"KARFJ10C","message":"Product is not available."}
+2021-02-18T09:50:09+00:00 INFO (6): {"status":"failed","sku":"KARFJ10C","message":"Product is not available."}
+2021-02-18T09:50:24+00:00 INFO (6): {"status":"failed","sku":"om\/image\/upload\/w_640\/toolbank\/products\/KARSC3E.jpg","message":"Product is not available."}
+2021-02-18T09:50:27+00:00 INFO (6): {"status":"failed","sku":"om\/image\/upload\/w_640\/toolbank\/products\/KARSC3E.jpg","message":"Product is not available."}
+2021-02-18T09:53:07+00:00 INFO (6): {"status":"failed","sku":"D\/ISSJL600","message":"Request does not match any route."}
+2021-02-18T09:53:57+00:00 INFO (6): {"status":"failed","sku":"D\/ISSJL200","message":"Request does not match any route."}
+2021-02-18T09:53:57+00:00 INFO (6): {"status":"failed","sku":":\/\/toolmedia-res.cloudinary.com\/image\/upload\/w_640\/toolbank\/products\/D-ISSJL200.jpg","message":"Product is not available."}
+2021-02-18T09:55:26+00:00 INFO (6): ---------------- END API Cron 18/02/21 09:55:26 ----------------
+2021-02-18T09:55:27+00:00 INFO (6): ---------------- END API Cron 18/02/21 09:55:27 ----------------
+2021-02-18T09:55:30+00:00 INFO (6): ---------------- END API Cron 18/02/21 09:55:30 ----------------

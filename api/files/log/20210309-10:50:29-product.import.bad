@@ -1,0 +1,88 @@
+2021-03-09T10:58:36+00:00 INFO (6): {"status":"failed","sku":"B\/DWM301","message":"Request does not match any route."}
+2021-03-09T10:58:40+00:00 INFO (6): {"status":"failed","sku":"B\/DWM536","message":"Request does not match any route."}
+2021-03-09T10:58:44+00:00 INFO (6): {"status":"failed","sku":"B\/DWM550","message":"Request does not match any route."}
+2021-03-09T10:58:48+00:00 INFO (6): {"status":"failed","sku":"B\/DWM626","message":"Request does not match any route."}
+2021-03-09T10:58:52+00:00 INFO (6): {"status":"failed","sku":"B\/DWM825","message":"Request does not match any route."}
+2021-03-09T10:58:56+00:00 INFO (6): {"status":"failed","sku":"B\/S09101","message":"Request does not match any route."}
+2021-03-09T10:59:00+00:00 INFO (6): {"status":"failed","sku":"B\/S22523","message":"Request does not match any route."}
+2021-03-09T10:59:05+00:00 INFO (6): {"status":"failed","sku":"B\/S31100","message":"Request does not match any route."}
+2021-03-09T10:59:09+00:00 INFO (6): {"status":"failed","sku":"B\/S31110","message":"Request does not match any route."}
+2021-03-09T11:00:11+00:00 INFO (6): {"status":"failed","sku":".cloudinary.com\/image\/private\/w_640\/toolbank\/products\/BESG12H.jpg","message":"Product is not available."}
+2021-03-09T11:00:14+00:00 INFO (6): {"status":"failed","sku":".cloudinary.com\/image\/private\/w_640\/toolbank\/products\/BESG12H.jpg","message":"Product is not available."}
+2021-03-09T11:41:47+00:00 INFO (6): {"status":"failed","sku":"K\/S70100555","message":"Request does not match any route."}
+2021-03-09T11:41:47+00:00 INFO (6): {"status":"failed","sku":"K\/S70100555","message":"Request does not match any route."}
+2021-03-09T11:41:47+00:00 INFO (6): {"status":"failed","sku":"K\/S70100555","message":"Request does not match any route."}
+2021-03-09T11:41:48+00:00 INFO (6): {"status":"failed","sku":"K\/S70100555","message":"Request does not match any route."}
+2021-03-09T11:41:52+00:00 INFO (6): {"status":"failed","sku":"K\/S70100560","message":"Request does not match any route."}
+2021-03-09T11:41:53+00:00 INFO (6): {"status":"failed","sku":"K\/S70100560","message":"Request does not match any route."}
+2021-03-09T11:41:53+00:00 INFO (6): {"status":"failed","sku":"K\/S70100560","message":"Request does not match any route."}
+2021-03-09T11:41:53+00:00 INFO (6): {"status":"failed","sku":"K\/S70100560","message":"Request does not match any route."}
+2021-03-09T11:41:58+00:00 INFO (6): {"status":"failed","sku":"K\/S70100565","message":"Request does not match any route."}
+2021-03-09T11:41:58+00:00 INFO (6): {"status":"failed","sku":"K\/S70100565","message":"Request does not match any route."}
+2021-03-09T11:41:59+00:00 INFO (6): {"status":"failed","sku":"K\/S70100565","message":"Request does not match any route."}
+2021-03-09T11:41:59+00:00 INFO (6): {"status":"failed","sku":"K\/S70100565","message":"Request does not match any route."}
+2021-03-09T11:42:21+00:00 INFO (6): {"status":"failed","sku":"L\/H200HAND","message":"Request does not match any route."}
+2021-03-09T11:42:21+00:00 INFO (6): {"status":"failed","sku":"L\/H200HAND","message":"Request does not match any route."}
+2021-03-09T11:42:21+00:00 INFO (6): {"status":"failed","sku":"L\/H200HAND","message":"Request does not match any route."}
+2021-03-09T11:42:21+00:00 INFO (6): {"status":"failed","sku":"L\/H200HAND","message":"Request does not match any route."}
+2021-03-09T11:42:25+00:00 INFO (6): {"status":"failed","sku":"L\/H200LAMP","message":"Request does not match any route."}
+2021-03-09T11:42:25+00:00 INFO (6): {"status":"failed","sku":"L\/H200LAMP","message":"Request does not match any route."}
+2021-03-09T11:42:25+00:00 INFO (6): {"status":"failed","sku":"L\/H200LAMP","message":"Request does not match any route."}
+2021-03-09T11:42:25+00:00 INFO (6): {"status":"failed","sku":"L\/H200LAMP","message":"Request does not match any route."}
+2021-03-09T11:42:29+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC350L","message":"Request does not match any route."}
+2021-03-09T11:42:30+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC350L","message":"Request does not match any route."}
+2021-03-09T11:42:30+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC350L","message":"Request does not match any route."}
+2021-03-09T11:42:30+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC350L","message":"Request does not match any route."}
+2021-03-09T11:42:34+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC400","message":"Request does not match any route."}
+2021-03-09T11:42:34+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC400","message":"Request does not match any route."}
+2021-03-09T11:42:34+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC400","message":"Request does not match any route."}
+2021-03-09T11:42:35+00:00 INFO (6): {"status":"failed","sku":"L\/HEFOC400","message":"Request does not match any route."}
+2021-03-09T11:57:21+00:00 INFO (6): {"status":"failed","sku":"MILM12BPRT0","message":"The product was unable to be saved. Please try again."}
+2021-03-09T11:57:22+00:00 INFO (6): {"status":"failed","sku":"MILM12BPRT0","message":"The product was unable to be saved. Please try again."}
+2021-03-09T11:59:20+00:00 INFO (6): {"status":"failed","sku":"Q\/GXP","message":"Product is not available."}
+2021-03-09T11:59:20+00:00 INFO (6): {"status":"failed","sku":"Q\/GXP","message":"Product is not available."}
+2021-03-09T11:59:20+00:00 INFO (6): {"status":"failed","sku":"Q\/GXP","message":"Product is not available."}
+2021-03-09T12:24:55+00:00 INFO (6): {"status":"failed","sku":"1","message":"Product is not available."}
+2021-03-09T12:24:55+00:00 INFO (6): {"status":"failed","sku":"1","message":"Product is not available."}
+2021-03-09T13:12:29+00:00 INFO (6): {"status":"failed","sku":"STR161","message":"Product is not available."}
+2021-03-09T13:12:29+00:00 INFO (6): {"status":"failed","sku":"STR161","message":"Product is not available."}
+2021-03-09T13:12:29+00:00 INFO (6): {"status":"failed","sku":"STR161","message":"Product is not available."}
+2021-03-09T13:15:25+00:00 INFO (6): {"status":"failed","sku":"UBW32I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T13:15:25+00:00 INFO (6): {"status":"failed","sku":"UBW32I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T13:15:25+00:00 INFO (6): {"status":"failed","sku":"UBW32I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T13:15:30+00:00 INFO (6): {"status":"failed","sku":"UBW32I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T13:15:46+00:00 INFO (6): {"status":"failed","sku":"UBW33I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T13:15:46+00:00 INFO (6): {"status":"failed","sku":"UBW33I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T13:15:46+00:00 INFO (6): {"status":"failed","sku":"UBW33I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T13:15:46+00:00 INFO (6): {"status":"failed","sku":"UBW33I","message":"The image content must be valid base64 encoded data."}
+2021-03-09T13:16:07+00:00 INFO (6): {"status":"failed","sku":"UBW37M","message":"The image content must be valid base64 encoded data."}
+2021-03-09T13:16:08+00:00 INFO (6): {"status":"failed","sku":"UBW37M","message":"The image content must be valid base64 encoded data."}
+2021-03-09T13:16:08+00:00 INFO (6): {"status":"failed","sku":"UBW37M","message":"The image content must be valid base64 encoded data."}
+2021-03-09T13:16:08+00:00 INFO (6): {"status":"failed","sku":"UBW37M","message":"The image content must be valid base64 encoded data."}
+2021-03-09T13:19:24+00:00 INFO (6): {"status":"failed","sku":"UHD2M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T13:19:24+00:00 INFO (6): {"status":"failed","sku":"UHD2M","message":"The product was unable to be saved. Please try again."}
+2021-03-09T14:04:41+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:04:41 ----------------
+2021-03-09T14:04:42+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:04:42 ----------------
+2021-03-09T14:04:42+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:04:42 ----------------
+2021-03-09T14:04:51+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:04:51 ----------------
+2021-03-09T14:04:51+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:04:51 ----------------
+2021-03-09T14:05:02+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:05:02 ----------------
+2021-03-09T14:05:02+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:05:02 ----------------
+2021-03-09T14:05:15+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:05:15 ----------------
+2021-03-09T14:05:16+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:05:16 ----------------
+2021-03-09T14:05:29+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:05:29 ----------------
+2021-03-09T14:05:29+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:05:29 ----------------
+2021-03-09T14:05:42+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:05:42 ----------------
+2021-03-09T14:05:43+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:05:43 ----------------
+2021-03-09T14:05:55+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:05:55 ----------------
+2021-03-09T14:05:55+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:05:55 ----------------
+2021-03-09T14:06:08+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:06:08 ----------------
+2021-03-09T14:06:08+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:06:08 ----------------
+2021-03-09T14:06:18+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:06:18 ----------------
+2021-03-09T14:06:28+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:06:28 ----------------
+2021-03-09T14:06:37+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:06:37 ----------------
+2021-03-09T14:06:45+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:06:45 ----------------
+2021-03-09T14:06:54+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:06:54 ----------------
+2021-03-09T14:07:03+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:07:03 ----------------
+2021-03-09T14:07:11+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:07:11 ----------------
+2021-03-09T14:07:20+00:00 INFO (6): ---------------- END API Cron 09/03/21 14:07:20 ----------------

@@ -1,0 +1,6 @@
+2021-02-08T10:45:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 10:45:01 ----------------
+2021-02-08T10:45:06+00:00 INFO (6): {"status":"success","product_id":14730,"sku":"BOLRUSHKITFS","message":"Product updated successfully"}
+2021-02-08T10:45:09+00:00 INFO (6): {"status":"success","product_id":15189,"sku":"BOLATOAPSI","message":"Product updated successfully"}
+2021-02-08T10:45:11+00:00 INFO (6): {"status":"success","product_id":15191,"sku":"BOLATOEPSI","message":"Product updated successfully"}
+2021-02-08T10:45:16+00:00 INFO (6): {"status":"success","product_id":15192,"sku":"BOLATOFAPSI","message":"Product updated successfully"}
+2021-02-08T10:45:16+00:00 INFO (6): ---------------- END API Cron 08/02/21 10:45:16 ----------------

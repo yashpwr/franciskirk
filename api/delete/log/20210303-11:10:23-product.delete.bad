@@ -1,0 +1,4 @@
+2021-03-03T11:15:01+00:00 INFO (6): ---------------- START API Cron 03/03/21 11:15:01 ----------------
+2021-03-03T11:15:01+00:00 INFO (6): {"status":"failed","sku":null,"message":"Product is not available."}
+2021-03-03T11:15:02+00:00 INFO (6): {"status":"failed","sku":null,"message":"Product is not available."}
+2021-03-03T11:15:02+00:00 INFO (6): ---------------- END API Cron 03/03/21 11:15:02 ----------------

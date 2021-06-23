@@ -1,0 +1,300 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Cminds MultiUserAccounts di config.
+ *
+ * @category Cminds
+ * @package  Cminds_MultiUserAccounts
+ * @author   Piotr Pierzak <piotr@cminds.com>
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <preference for="Cminds\MultiUserAccounts\Model\AuthenticationStateInterface"
+                type="Cminds\MultiUserAccounts\Model\AuthenticationState"/>
+    <preference for="Cminds\MultiUserAccounts\Api\SubaccountRepositoryInterface"
+                type="Cminds\MultiUserAccounts\Model\ResourceModel\SubaccountRepository"/>
+    <preference for="Cminds\MultiUserAccounts\Api\Data\SubaccountInterface"
+                type="Cminds\MultiUserAccounts\Model\Data\Subaccount"/>
+    <preference for="Cminds\MultiUserAccounts\Api\SubaccountTransportRepositoryInterface"
+                type="Cminds\MultiUserAccounts\Model\ResourceModel\SubaccountTransportRepository"/>
+    <preference for="Cminds\MultiUserAccounts\Api\Data\SubaccountTransportInterface"
+                type="Cminds\MultiUserAccounts\Model\Data\SubaccountTransport"/>
+    <preference for="Cminds\MultiUserAccounts\Api\ParentaccountInterface"
+                type="Cminds\MultiUserAccounts\Model\Api\Parentaccount" />
+    <preference for="Cminds\MultiUserAccounts\Api\SubaccountInterface"
+                type="Cminds\MultiUserAccounts\Model\Api\Subaccount" />
+    <preference for="Cminds\MultiUserAccounts\Api\Data\ApiParentAccountInterface"
+                type="Cminds\MultiUserAccounts\Model\Data\ApiParentAccount" />
+    <preference for="Cminds\MultiUserAccounts\Api\Data\ApiSubAccountInterface"
+                type="Cminds\MultiUserAccounts\Model\Data\ApiSubAccount" />
+    <preference for="Magento\Customer\Controller\Account\EditPost"
+                type="Cminds\MultiUserAccounts\Controller\Account\EditPost" />
+    <preference for="Magento\Customer\Block\Account\Dashboard\Info"
+                type="Cminds\MultiUserAccounts\Block\Magento\Customer\Account\Dashboard\Info" />
+    <preference for="Magento\Customer\Block\Widget\Name"
+                type="Cminds\MultiUserAccounts\Block\Widget\Name" />
+    <preference for="Magento\Customer\Block\Form\Edit"
+                type="Cminds\MultiUserAccounts\Block\Widget\Form\Edit" />
+
+    <type name="Magento\Quote\Model\QuoteAddressValidator">
+        <plugin name="customQuoteAddressValidation"
+                type="Cminds\MultiUserAccounts\Model\Plugin\Quote\QuoteAddressValidatorAround"
+                sortOrder="20"/>
+    </type>
+
+    <type name="Magento\Framework\Console\CommandList">
+        <arguments>
+            <argument name="commands" xsi:type="array">
+                <item name="cminds_multiuseraccounts_import"
+                      xsi:type="object">Cminds\MultiUserAccounts\Console\Command\ImportCommand</item>
+                <item name="cminds_multiuseraccounts_generate_sample_import_file"
+                      xsi:type="object">Cminds\MultiUserAccounts\Console\Command\GenerateSampleImportFileCommand</item>
+            </argument>
+        </arguments>
+    </type>
+
+    <type name="Magento\Framework\Webapi\ServiceInputProcessor">
+        <plugin name="serviceInputProcessorMultiUserApi"
+                type="\Cminds\MultiUserAccounts\Model\Plugin\Webapi\ServiceInputProcessor\Plugin"
+                sortOrder="10"/>
+    </type>
+
+    <type name="Magento\Framework\Webapi\ServiceOutputProcessor">
+        <plugin name="serviceOutputProcessorMultiUserApi"
+                type="\Cminds\MultiUserAccounts\Model\Plugin\Webapi\ServiceOutputProcessor\Plugin"
+                sortOrder="10"/>
+    </type>
+
+    <type name="Magento\Customer\Model\Customer">
+        <plugin name="subaccountImportDisableWelcomeEmail"
+                type="\Cminds\MultiUserAccounts\Model\Plugin\Customer\Customer\Plugin"
+                sortOrder="10"/>
+    </type>
+    <type name="Magento\Customer\Model\EmailNotification">
+        <plugin name="subaccountImportDisableWelcomeNotificationEmail"
+                type="\Cminds\MultiUserAccounts\Model\Plugin\Customer\EmailNotification\Plugin"
+                sortOrder="10"/>
+    </type>
+    <type name="Magento\Framework\Api\DataObjectHelper">
+        <plugin name="subaccountDataObjectHelper"
+                type="\Cminds\MultiUserAccounts\Model\Plugin\Framework\Api\DataObjectHelper"
+                sortOrder="10"/>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Block\Manage\Table">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Block\Manage\Form\Edit">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Block\Checkout\Address\AddressPermission">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+            <argument name="checkoutSession" xsi:type="object">Magento\Checkout\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Block\Checkout\Button\OrderApprove">
+        <arguments>
+            <argument name="checkoutSession" xsi:type="object">Magento\Checkout\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Block\Plugin\Checkout\Onepage\Link\Plugin">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+            <argument name="checkoutSession" xsi:type="object">Magento\Checkout\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Block\Plugin\Sales\Order\Plugin">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Block\Widget\Name">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Block\Widget\Taxvat">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Block\Widget\Dob">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Block\Magento\Customer\Account\Dashboard\Info">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Block\Order\Approve\Table">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+            <argument name="checkoutSession" xsi:type="object">Magento\Checkout\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Helper\View">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Helper\Manage">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Helper\Plugin\Customer\Session\CurrentCustomerAddress\Plugin">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\CustomerData\Customer">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Observer\Sales\Service\Quote\SubmitBefore">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Observer\Checkout\Quote\SubmitAllAfter">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Observer\Checkout\Quote\SubmitBefore">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+            <argument name="checkoutSession" xsi:type="object">Magento\Checkout\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Observer\Checkout\Cart\SaveBefore">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Observer\Checkout\Cart\ProductAddAfter">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Observer\Subaccount\SaveBefore">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Observer\Customer\SaveAfter\SubaccountUpdate">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Observer\Customer\SaveBefore">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Observer\Customer\Address\LoadAfter">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Observer\Customer\LoadAfter">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Observer\Customer\RegisterSuccess\IsActiveUpdate">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Controller\Order\Authorize">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Controller\Order\Approve\Request">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+            <argument name="checkoutSession" xsi:type="object">Magento\Checkout\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Controller\Plugin\Order\Plugin">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Controller\Plugin\OrderViewAuthorization">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Controller\Plugin\Manage\Plugin">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Controller\Plugin\Permission\Checkout\Cart\Index\Plugin">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Controller\Plugin\Permission\Checkout\Onepage\Plugin">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+            <argument name="checkoutSession" xsi:type="object">Magento\Checkout\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Controller\Manage\Edit">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Controller\Manage\EditPost">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Controller\Plugin\Permission\Customer\Account\Confirm\Plugin">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Controller\Plugin\Permission\Customer\Account\Edit\Plugin">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Controller\Plugin\Permission\Customer\Address\Plugin">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Controller\Plugin\Permission\Newsletter\Manage\Plugin">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Model\Plugin\Customer\AccountManagement\Plugin">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Model\Plugin\Customer\Address\Collection\Load\Plugin">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+    <type name="Cminds\MultiUserAccounts\Model\ResourceModel\SubaccountTransportRepository">
+        <arguments>
+            <argument name="customerSession" xsi:type="object">Magento\Customer\Model\Session\Proxy</argument>
+        </arguments>
+    </type>
+</config>

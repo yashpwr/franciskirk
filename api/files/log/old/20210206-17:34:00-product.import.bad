@@ -1,0 +1,1053 @@
+2021-02-06T17:35:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 17:35:02 ----------------
+2021-02-06T17:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T17:40:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 17:40:02 ----------------
+2021-02-06T17:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T17:45:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 17:45:01 ----------------
+2021-02-06T17:45:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T17:50:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 17:50:02 ----------------
+2021-02-06T17:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T17:55:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 17:55:01 ----------------
+2021-02-06T17:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T18:00:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 18:00:02 ----------------
+2021-02-06T18:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T18:05:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 18:05:02 ----------------
+2021-02-06T18:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T18:10:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 18:10:01 ----------------
+2021-02-06T18:10:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T18:15:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 18:15:02 ----------------
+2021-02-06T18:15:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T18:20:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 18:20:01 ----------------
+2021-02-06T18:20:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T18:25:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 18:25:02 ----------------
+2021-02-06T18:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T18:30:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 18:30:01 ----------------
+2021-02-06T18:30:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T18:35:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 18:35:02 ----------------
+2021-02-06T18:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T18:40:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 18:40:01 ----------------
+2021-02-06T18:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T18:45:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 18:45:01 ----------------
+2021-02-06T18:45:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T18:50:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 18:50:02 ----------------
+2021-02-06T18:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T18:55:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 18:55:01 ----------------
+2021-02-06T18:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T19:00:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 19:00:02 ----------------
+2021-02-06T19:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T19:05:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 19:05:02 ----------------
+2021-02-06T19:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T19:10:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 19:10:01 ----------------
+2021-02-06T19:10:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T19:15:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 19:15:02 ----------------
+2021-02-06T19:15:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T19:20:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 19:20:01 ----------------
+2021-02-06T19:20:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T19:25:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 19:25:02 ----------------
+2021-02-06T19:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T19:30:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 19:30:02 ----------------
+2021-02-06T19:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T19:35:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 19:35:01 ----------------
+2021-02-06T19:35:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T19:40:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 19:40:02 ----------------
+2021-02-06T19:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T19:45:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 19:45:01 ----------------
+2021-02-06T19:45:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T19:50:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 19:50:02 ----------------
+2021-02-06T19:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T19:55:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 19:55:01 ----------------
+2021-02-06T19:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T20:00:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 20:00:02 ----------------
+2021-02-06T20:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T20:05:04+00:00 INFO (6): ---------------- START API Cron 06/02/21 20:05:04 ----------------
+2021-02-06T20:05:04+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T20:10:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 20:10:02 ----------------
+2021-02-06T20:10:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T20:15:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 20:15:01 ----------------
+2021-02-06T20:15:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T20:20:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 20:20:02 ----------------
+2021-02-06T20:20:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T20:25:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 20:25:02 ----------------
+2021-02-06T20:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T20:30:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 20:30:02 ----------------
+2021-02-06T20:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T20:35:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 20:35:02 ----------------
+2021-02-06T20:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T20:40:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 20:40:02 ----------------
+2021-02-06T20:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T20:45:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 20:45:02 ----------------
+2021-02-06T20:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T20:50:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 20:50:02 ----------------
+2021-02-06T20:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T20:55:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 20:55:01 ----------------
+2021-02-06T20:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T21:00:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 21:00:02 ----------------
+2021-02-06T21:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T21:05:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 21:05:02 ----------------
+2021-02-06T21:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T21:10:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 21:10:02 ----------------
+2021-02-06T21:10:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T21:15:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 21:15:02 ----------------
+2021-02-06T21:15:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T21:20:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 21:20:02 ----------------
+2021-02-06T21:20:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T21:25:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 21:25:01 ----------------
+2021-02-06T21:25:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T21:30:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 21:30:02 ----------------
+2021-02-06T21:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T21:35:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 21:35:01 ----------------
+2021-02-06T21:35:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T21:40:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 21:40:02 ----------------
+2021-02-06T21:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T21:45:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 21:45:02 ----------------
+2021-02-06T21:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T21:50:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 21:50:01 ----------------
+2021-02-06T21:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T21:55:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 21:55:01 ----------------
+2021-02-06T21:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T22:00:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 22:00:02 ----------------
+2021-02-06T22:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T22:05:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 22:05:02 ----------------
+2021-02-06T22:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T22:10:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 22:10:02 ----------------
+2021-02-06T22:10:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T22:15:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 22:15:02 ----------------
+2021-02-06T22:15:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T22:20:03+00:00 INFO (6): ---------------- START API Cron 06/02/21 22:20:03 ----------------
+2021-02-06T22:20:03+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T22:25:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 22:25:02 ----------------
+2021-02-06T22:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T22:30:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 22:30:02 ----------------
+2021-02-06T22:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T22:35:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 22:35:02 ----------------
+2021-02-06T22:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T22:40:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 22:40:02 ----------------
+2021-02-06T22:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T22:45:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 22:45:02 ----------------
+2021-02-06T22:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T22:50:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 22:50:02 ----------------
+2021-02-06T22:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T22:55:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 22:55:01 ----------------
+2021-02-06T22:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T23:00:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 23:00:02 ----------------
+2021-02-06T23:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T23:05:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 23:05:02 ----------------
+2021-02-06T23:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T23:10:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 23:10:02 ----------------
+2021-02-06T23:10:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T23:15:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 23:15:02 ----------------
+2021-02-06T23:15:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T23:20:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 23:20:01 ----------------
+2021-02-06T23:20:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T23:25:03+00:00 INFO (6): ---------------- START API Cron 06/02/21 23:25:03 ----------------
+2021-02-06T23:25:03+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T23:30:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 23:30:01 ----------------
+2021-02-06T23:30:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T23:35:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 23:35:02 ----------------
+2021-02-06T23:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T23:40:01+00:00 INFO (6): ---------------- START API Cron 06/02/21 23:40:01 ----------------
+2021-02-06T23:40:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T23:45:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 23:45:02 ----------------
+2021-02-06T23:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T23:50:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 23:50:02 ----------------
+2021-02-06T23:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-06T23:55:02+00:00 INFO (6): ---------------- START API Cron 06/02/21 23:55:02 ----------------
+2021-02-06T23:55:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T00:00:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 00:00:02 ----------------
+2021-02-07T00:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T00:05:03+00:00 INFO (6): ---------------- START API Cron 07/02/21 00:05:03 ----------------
+2021-02-07T00:05:03+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T00:10:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 00:10:01 ----------------
+2021-02-07T00:10:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T00:15:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 00:15:02 ----------------
+2021-02-07T00:15:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T00:20:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 00:20:01 ----------------
+2021-02-07T00:20:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T00:25:03+00:00 INFO (6): ---------------- START API Cron 07/02/21 00:25:03 ----------------
+2021-02-07T00:25:03+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T00:30:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 00:30:02 ----------------
+2021-02-07T00:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T00:35:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 00:35:02 ----------------
+2021-02-07T00:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T00:40:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 00:40:01 ----------------
+2021-02-07T00:40:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T00:45:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 00:45:02 ----------------
+2021-02-07T00:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T00:50:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 00:50:01 ----------------
+2021-02-07T00:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T00:55:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 00:55:01 ----------------
+2021-02-07T00:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T01:00:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 01:00:02 ----------------
+2021-02-07T01:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T01:05:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 01:05:02 ----------------
+2021-02-07T01:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T01:10:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 01:10:01 ----------------
+2021-02-07T01:10:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T01:15:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 01:15:02 ----------------
+2021-02-07T01:15:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T01:20:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 01:20:02 ----------------
+2021-02-07T01:20:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T01:25:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 01:25:01 ----------------
+2021-02-07T01:25:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T01:30:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 01:30:02 ----------------
+2021-02-07T01:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T01:35:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 01:35:02 ----------------
+2021-02-07T01:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T01:40:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 01:40:01 ----------------
+2021-02-07T01:40:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T01:45:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 01:45:02 ----------------
+2021-02-07T01:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T01:50:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 01:50:02 ----------------
+2021-02-07T01:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T01:55:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 01:55:01 ----------------
+2021-02-07T01:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T02:00:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 02:00:02 ----------------
+2021-02-07T02:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T02:05:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 02:05:01 ----------------
+2021-02-07T02:05:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T02:10:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 02:10:02 ----------------
+2021-02-07T02:10:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T02:15:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 02:15:02 ----------------
+2021-02-07T02:15:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T02:20:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 02:20:01 ----------------
+2021-02-07T02:20:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T02:25:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 02:25:02 ----------------
+2021-02-07T02:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T02:30:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 02:30:02 ----------------
+2021-02-07T02:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T02:35:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 02:35:02 ----------------
+2021-02-07T02:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T02:40:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 02:40:02 ----------------
+2021-02-07T02:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T02:45:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 02:45:01 ----------------
+2021-02-07T02:45:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T02:50:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 02:50:02 ----------------
+2021-02-07T02:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T02:55:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 02:55:02 ----------------
+2021-02-07T02:55:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T03:00:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 03:00:01 ----------------
+2021-02-07T03:00:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T03:05:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 03:05:02 ----------------
+2021-02-07T03:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T03:10:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 03:10:02 ----------------
+2021-02-07T03:10:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T03:15:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 03:15:01 ----------------
+2021-02-07T03:15:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T03:20:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 03:20:01 ----------------
+2021-02-07T03:20:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T03:25:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 03:25:02 ----------------
+2021-02-07T03:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T03:30:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 03:30:02 ----------------
+2021-02-07T03:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T03:35:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 03:35:01 ----------------
+2021-02-07T03:35:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T03:40:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 03:40:02 ----------------
+2021-02-07T03:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T03:45:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 03:45:02 ----------------
+2021-02-07T03:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T03:50:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 03:50:02 ----------------
+2021-02-07T03:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T03:55:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 03:55:02 ----------------
+2021-02-07T03:55:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T04:00:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 04:00:02 ----------------
+2021-02-07T04:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T04:05:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 04:05:01 ----------------
+2021-02-07T04:05:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T04:10:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 04:10:02 ----------------
+2021-02-07T04:10:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T04:15:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 04:15:02 ----------------
+2021-02-07T04:15:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T04:20:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 04:20:02 ----------------
+2021-02-07T04:20:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T04:25:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 04:25:01 ----------------
+2021-02-07T04:25:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T04:30:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 04:30:02 ----------------
+2021-02-07T04:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T04:35:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 04:35:02 ----------------
+2021-02-07T04:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T04:40:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 04:40:01 ----------------
+2021-02-07T04:40:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T04:45:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 04:45:02 ----------------
+2021-02-07T04:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T04:50:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 04:50:01 ----------------
+2021-02-07T04:50:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T04:55:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 04:55:02 ----------------
+2021-02-07T04:55:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T05:00:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 05:00:02 ----------------
+2021-02-07T05:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T05:05:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 05:05:02 ----------------
+2021-02-07T05:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T05:10:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 05:10:02 ----------------
+2021-02-07T05:10:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T05:15:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 05:15:02 ----------------
+2021-02-07T05:15:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T05:20:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 05:20:01 ----------------
+2021-02-07T05:20:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T05:25:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 05:25:02 ----------------
+2021-02-07T05:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T05:30:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 05:30:02 ----------------
+2021-02-07T05:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T05:35:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 05:35:01 ----------------
+2021-02-07T05:35:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T05:40:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 05:40:02 ----------------
+2021-02-07T05:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T05:45:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 05:45:01 ----------------
+2021-02-07T05:45:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T05:50:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 05:50:02 ----------------
+2021-02-07T05:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T05:55:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 05:55:01 ----------------
+2021-02-07T05:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T06:00:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 06:00:02 ----------------
+2021-02-07T06:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T06:05:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 06:05:02 ----------------
+2021-02-07T06:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T06:10:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 06:10:01 ----------------
+2021-02-07T06:10:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T06:15:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 06:15:02 ----------------
+2021-02-07T06:15:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T06:20:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 06:20:01 ----------------
+2021-02-07T06:20:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T06:25:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 06:25:02 ----------------
+2021-02-07T06:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T06:30:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 06:30:02 ----------------
+2021-02-07T06:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T06:35:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 06:35:01 ----------------
+2021-02-07T06:35:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T06:40:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 06:40:02 ----------------
+2021-02-07T06:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T06:45:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 06:45:01 ----------------
+2021-02-07T06:45:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T06:50:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 06:50:02 ----------------
+2021-02-07T06:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T06:55:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 06:55:01 ----------------
+2021-02-07T06:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T07:00:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 07:00:02 ----------------
+2021-02-07T07:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T07:05:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 07:05:01 ----------------
+2021-02-07T07:05:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T07:10:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 07:10:02 ----------------
+2021-02-07T07:10:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T07:15:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 07:15:01 ----------------
+2021-02-07T07:15:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T07:20:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 07:20:02 ----------------
+2021-02-07T07:20:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T07:25:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 07:25:01 ----------------
+2021-02-07T07:25:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T07:30:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 07:30:02 ----------------
+2021-02-07T07:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T07:35:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 07:35:01 ----------------
+2021-02-07T07:35:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T07:40:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 07:40:02 ----------------
+2021-02-07T07:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T07:45:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 07:45:01 ----------------
+2021-02-07T07:45:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T07:50:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 07:50:01 ----------------
+2021-02-07T07:50:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T07:55:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 07:55:01 ----------------
+2021-02-07T07:55:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T08:00:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 08:00:01 ----------------
+2021-02-07T08:00:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T08:05:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 08:05:02 ----------------
+2021-02-07T08:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T08:10:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 08:10:01 ----------------
+2021-02-07T08:10:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T08:15:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 08:15:02 ----------------
+2021-02-07T08:15:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T08:20:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 08:20:01 ----------------
+2021-02-07T08:20:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T08:25:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 08:25:02 ----------------
+2021-02-07T08:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T08:30:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 08:30:01 ----------------
+2021-02-07T08:30:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T08:35:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 08:35:02 ----------------
+2021-02-07T08:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T08:40:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 08:40:01 ----------------
+2021-02-07T08:40:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T08:45:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 08:45:02 ----------------
+2021-02-07T08:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T08:50:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 08:50:01 ----------------
+2021-02-07T08:50:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T08:55:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 08:55:01 ----------------
+2021-02-07T08:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T09:00:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 09:00:02 ----------------
+2021-02-07T09:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T09:05:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 09:05:01 ----------------
+2021-02-07T09:05:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T09:10:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 09:10:02 ----------------
+2021-02-07T09:10:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T09:15:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 09:15:01 ----------------
+2021-02-07T09:15:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T09:20:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 09:20:02 ----------------
+2021-02-07T09:20:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T09:25:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 09:25:01 ----------------
+2021-02-07T09:25:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T09:30:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 09:30:02 ----------------
+2021-02-07T09:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T09:35:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 09:35:01 ----------------
+2021-02-07T09:35:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T09:40:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 09:40:02 ----------------
+2021-02-07T09:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T09:45:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 09:45:01 ----------------
+2021-02-07T09:45:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T09:50:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 09:50:02 ----------------
+2021-02-07T09:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T09:55:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 09:55:01 ----------------
+2021-02-07T09:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T10:00:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 10:00:02 ----------------
+2021-02-07T10:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T10:05:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 10:05:01 ----------------
+2021-02-07T10:05:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T10:10:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 10:10:02 ----------------
+2021-02-07T10:10:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T10:15:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 10:15:01 ----------------
+2021-02-07T10:15:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T10:20:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 10:20:02 ----------------
+2021-02-07T10:20:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T10:25:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 10:25:01 ----------------
+2021-02-07T10:25:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T10:30:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 10:30:02 ----------------
+2021-02-07T10:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T10:35:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 10:35:01 ----------------
+2021-02-07T10:35:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T10:40:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 10:40:02 ----------------
+2021-02-07T10:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T10:45:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 10:45:01 ----------------
+2021-02-07T10:45:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T10:50:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 10:50:02 ----------------
+2021-02-07T10:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T10:55:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 10:55:01 ----------------
+2021-02-07T10:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T11:00:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 11:00:01 ----------------
+2021-02-07T11:00:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T11:05:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 11:05:02 ----------------
+2021-02-07T11:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T11:10:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 11:10:01 ----------------
+2021-02-07T11:10:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T11:15:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 11:15:02 ----------------
+2021-02-07T11:15:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T11:20:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 11:20:01 ----------------
+2021-02-07T11:20:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T11:25:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 11:25:02 ----------------
+2021-02-07T11:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T11:30:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 11:30:02 ----------------
+2021-02-07T11:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T11:35:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 11:35:02 ----------------
+2021-02-07T11:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T11:40:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 11:40:02 ----------------
+2021-02-07T11:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T11:45:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 11:45:02 ----------------
+2021-02-07T11:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T11:50:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 11:50:02 ----------------
+2021-02-07T11:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T11:55:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 11:55:01 ----------------
+2021-02-07T11:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T12:00:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 12:00:02 ----------------
+2021-02-07T12:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T12:05:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 12:05:02 ----------------
+2021-02-07T12:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T12:10:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 12:10:01 ----------------
+2021-02-07T12:10:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T12:15:03+00:00 INFO (6): ---------------- START API Cron 07/02/21 12:15:03 ----------------
+2021-02-07T12:15:03+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T12:20:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 12:20:01 ----------------
+2021-02-07T12:20:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T12:25:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 12:25:02 ----------------
+2021-02-07T12:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T12:30:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 12:30:01 ----------------
+2021-02-07T12:30:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T12:35:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 12:35:02 ----------------
+2021-02-07T12:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T12:40:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 12:40:02 ----------------
+2021-02-07T12:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T12:45:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 12:45:01 ----------------
+2021-02-07T12:45:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T12:50:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 12:50:01 ----------------
+2021-02-07T12:50:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T12:55:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 12:55:02 ----------------
+2021-02-07T12:55:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T13:00:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 13:00:02 ----------------
+2021-02-07T13:00:07+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T13:05:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 13:05:01 ----------------
+2021-02-07T13:05:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T13:10:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 13:10:02 ----------------
+2021-02-07T13:10:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T13:15:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 13:15:01 ----------------
+2021-02-07T13:15:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T13:20:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 13:20:02 ----------------
+2021-02-07T13:20:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T13:25:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 13:25:01 ----------------
+2021-02-07T13:25:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T13:30:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 13:30:02 ----------------
+2021-02-07T13:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T13:35:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 13:35:01 ----------------
+2021-02-07T13:35:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T13:40:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 13:40:02 ----------------
+2021-02-07T13:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T13:45:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 13:45:01 ----------------
+2021-02-07T13:45:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T13:50:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 13:50:02 ----------------
+2021-02-07T13:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T13:55:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 13:55:01 ----------------
+2021-02-07T13:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T14:00:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 14:00:02 ----------------
+2021-02-07T14:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T14:05:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 14:05:02 ----------------
+2021-02-07T14:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T14:10:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 14:10:01 ----------------
+2021-02-07T14:10:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T14:15:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 14:15:01 ----------------
+2021-02-07T14:15:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T14:20:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 14:20:02 ----------------
+2021-02-07T14:20:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T14:25:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 14:25:01 ----------------
+2021-02-07T14:25:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T14:30:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 14:30:02 ----------------
+2021-02-07T14:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T14:35:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 14:35:01 ----------------
+2021-02-07T14:35:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T14:40:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 14:40:02 ----------------
+2021-02-07T14:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T14:45:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 14:45:02 ----------------
+2021-02-07T14:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T14:50:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 14:50:01 ----------------
+2021-02-07T14:50:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T14:55:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 14:55:01 ----------------
+2021-02-07T14:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T15:00:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 15:00:02 ----------------
+2021-02-07T15:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T15:05:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 15:05:01 ----------------
+2021-02-07T15:05:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T15:10:03+00:00 INFO (6): ---------------- START API Cron 07/02/21 15:10:03 ----------------
+2021-02-07T15:10:03+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T15:15:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 15:15:01 ----------------
+2021-02-07T15:15:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T15:20:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 15:20:02 ----------------
+2021-02-07T15:20:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T15:25:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 15:25:02 ----------------
+2021-02-07T15:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T15:30:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 15:30:01 ----------------
+2021-02-07T15:30:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T15:35:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 15:35:02 ----------------
+2021-02-07T15:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T15:40:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 15:40:01 ----------------
+2021-02-07T15:40:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T15:45:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 15:45:02 ----------------
+2021-02-07T15:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T15:50:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 15:50:01 ----------------
+2021-02-07T15:50:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T15:55:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 15:55:02 ----------------
+2021-02-07T15:55:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T16:00:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 16:00:01 ----------------
+2021-02-07T16:00:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T16:05:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 16:05:02 ----------------
+2021-02-07T16:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T16:10:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 16:10:01 ----------------
+2021-02-07T16:10:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T16:15:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 16:15:02 ----------------
+2021-02-07T16:15:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T16:20:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 16:20:01 ----------------
+2021-02-07T16:20:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T16:25:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 16:25:02 ----------------
+2021-02-07T16:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T16:30:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 16:30:01 ----------------
+2021-02-07T16:30:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T16:35:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 16:35:02 ----------------
+2021-02-07T16:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T16:40:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 16:40:01 ----------------
+2021-02-07T16:40:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T16:45:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 16:45:02 ----------------
+2021-02-07T16:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T16:50:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 16:50:01 ----------------
+2021-02-07T16:50:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T16:55:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 16:55:02 ----------------
+2021-02-07T16:55:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T17:00:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 17:00:01 ----------------
+2021-02-07T17:00:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T17:05:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 17:05:02 ----------------
+2021-02-07T17:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T17:10:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 17:10:02 ----------------
+2021-02-07T17:10:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T17:15:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 17:15:01 ----------------
+2021-02-07T17:15:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T17:20:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 17:20:02 ----------------
+2021-02-07T17:20:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T17:25:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 17:25:01 ----------------
+2021-02-07T17:25:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T17:30:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 17:30:02 ----------------
+2021-02-07T17:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T17:35:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 17:35:02 ----------------
+2021-02-07T17:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T17:40:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 17:40:01 ----------------
+2021-02-07T17:40:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T17:45:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 17:45:02 ----------------
+2021-02-07T17:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T17:50:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 17:50:02 ----------------
+2021-02-07T17:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T17:55:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 17:55:01 ----------------
+2021-02-07T17:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T18:00:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 18:00:02 ----------------
+2021-02-07T18:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T18:05:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 18:05:01 ----------------
+2021-02-07T18:05:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T18:10:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 18:10:02 ----------------
+2021-02-07T18:10:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T18:15:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 18:15:01 ----------------
+2021-02-07T18:15:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T18:20:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 18:20:02 ----------------
+2021-02-07T18:20:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T18:25:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 18:25:01 ----------------
+2021-02-07T18:25:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T18:30:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 18:30:01 ----------------
+2021-02-07T18:30:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T18:35:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 18:35:02 ----------------
+2021-02-07T18:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T18:40:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 18:40:01 ----------------
+2021-02-07T18:40:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T18:45:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 18:45:02 ----------------
+2021-02-07T18:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T18:50:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 18:50:01 ----------------
+2021-02-07T18:50:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T18:55:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 18:55:02 ----------------
+2021-02-07T18:55:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T19:00:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 19:00:01 ----------------
+2021-02-07T19:00:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T19:05:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 19:05:02 ----------------
+2021-02-07T19:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T19:10:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 19:10:01 ----------------
+2021-02-07T19:10:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T19:15:03+00:00 INFO (6): ---------------- START API Cron 07/02/21 19:15:03 ----------------
+2021-02-07T19:15:03+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T19:20:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 19:20:01 ----------------
+2021-02-07T19:20:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T19:25:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 19:25:02 ----------------
+2021-02-07T19:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T19:30:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 19:30:01 ----------------
+2021-02-07T19:30:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T19:35:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 19:35:02 ----------------
+2021-02-07T19:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T19:40:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 19:40:01 ----------------
+2021-02-07T19:40:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T19:45:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 19:45:02 ----------------
+2021-02-07T19:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T19:50:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 19:50:01 ----------------
+2021-02-07T19:50:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T19:55:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 19:55:02 ----------------
+2021-02-07T19:55:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T20:00:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 20:00:01 ----------------
+2021-02-07T20:00:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T20:05:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 20:05:01 ----------------
+2021-02-07T20:05:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T20:10:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 20:10:02 ----------------
+2021-02-07T20:10:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T20:15:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 20:15:01 ----------------
+2021-02-07T20:15:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T20:20:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 20:20:02 ----------------
+2021-02-07T20:20:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T20:25:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 20:25:01 ----------------
+2021-02-07T20:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T20:30:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 20:30:01 ----------------
+2021-02-07T20:30:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T20:35:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 20:35:01 ----------------
+2021-02-07T20:35:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T20:40:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 20:40:02 ----------------
+2021-02-07T20:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T20:45:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 20:45:01 ----------------
+2021-02-07T20:45:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T20:50:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 20:50:02 ----------------
+2021-02-07T20:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T20:55:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 20:55:01 ----------------
+2021-02-07T20:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T21:00:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 21:00:02 ----------------
+2021-02-07T21:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T21:05:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 21:05:02 ----------------
+2021-02-07T21:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T21:10:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 21:10:01 ----------------
+2021-02-07T21:10:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T21:15:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 21:15:01 ----------------
+2021-02-07T21:15:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T21:20:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 21:20:02 ----------------
+2021-02-07T21:20:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T21:25:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 21:25:01 ----------------
+2021-02-07T21:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T21:30:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 21:30:01 ----------------
+2021-02-07T21:30:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T21:35:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 21:35:01 ----------------
+2021-02-07T21:35:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T21:40:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 21:40:02 ----------------
+2021-02-07T21:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T21:45:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 21:45:01 ----------------
+2021-02-07T21:45:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T21:50:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 21:50:02 ----------------
+2021-02-07T21:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T21:55:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 21:55:01 ----------------
+2021-02-07T21:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T22:00:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 22:00:02 ----------------
+2021-02-07T22:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T22:05:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 22:05:02 ----------------
+2021-02-07T22:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T22:10:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 22:10:01 ----------------
+2021-02-07T22:10:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T22:15:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 22:15:01 ----------------
+2021-02-07T22:15:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T22:20:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 22:20:02 ----------------
+2021-02-07T22:20:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T22:25:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 22:25:02 ----------------
+2021-02-07T22:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T22:30:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 22:30:01 ----------------
+2021-02-07T22:30:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T22:35:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 22:35:02 ----------------
+2021-02-07T22:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T22:40:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 22:40:01 ----------------
+2021-02-07T22:40:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T22:45:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 22:45:01 ----------------
+2021-02-07T22:45:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T22:50:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 22:50:02 ----------------
+2021-02-07T22:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T22:55:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 22:55:01 ----------------
+2021-02-07T22:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T23:00:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 23:00:02 ----------------
+2021-02-07T23:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T23:05:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 23:05:02 ----------------
+2021-02-07T23:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T23:10:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 23:10:01 ----------------
+2021-02-07T23:10:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T23:15:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 23:15:01 ----------------
+2021-02-07T23:15:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T23:20:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 23:20:01 ----------------
+2021-02-07T23:20:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T23:25:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 23:25:02 ----------------
+2021-02-07T23:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T23:30:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 23:30:01 ----------------
+2021-02-07T23:30:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T23:35:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 23:35:02 ----------------
+2021-02-07T23:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T23:40:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 23:40:01 ----------------
+2021-02-07T23:40:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T23:45:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 23:45:01 ----------------
+2021-02-07T23:45:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T23:50:02+00:00 INFO (6): ---------------- START API Cron 07/02/21 23:50:02 ----------------
+2021-02-07T23:50:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-07T23:55:01+00:00 INFO (6): ---------------- START API Cron 07/02/21 23:55:01 ----------------
+2021-02-07T23:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T00:00:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 00:00:02 ----------------
+2021-02-08T00:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T00:05:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 00:05:01 ----------------
+2021-02-08T00:05:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T00:10:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 00:10:02 ----------------
+2021-02-08T00:10:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T00:15:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 00:15:01 ----------------
+2021-02-08T00:15:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T00:20:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 00:20:02 ----------------
+2021-02-08T00:20:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T00:25:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 00:25:01 ----------------
+2021-02-08T00:25:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T00:30:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 00:30:02 ----------------
+2021-02-08T00:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T00:35:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 00:35:01 ----------------
+2021-02-08T00:35:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T00:40:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 00:40:02 ----------------
+2021-02-08T00:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T00:45:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 00:45:01 ----------------
+2021-02-08T00:45:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T00:50:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 00:50:01 ----------------
+2021-02-08T00:50:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T00:55:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 00:55:01 ----------------
+2021-02-08T00:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T01:00:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 01:00:01 ----------------
+2021-02-08T01:00:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T01:05:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 01:05:01 ----------------
+2021-02-08T01:05:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T01:10:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 01:10:01 ----------------
+2021-02-08T01:10:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T01:15:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 01:15:02 ----------------
+2021-02-08T01:15:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T01:20:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 01:20:01 ----------------
+2021-02-08T01:20:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T01:25:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 01:25:02 ----------------
+2021-02-08T01:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T01:30:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 01:30:01 ----------------
+2021-02-08T01:30:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T01:35:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 01:35:02 ----------------
+2021-02-08T01:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T01:40:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 01:40:01 ----------------
+2021-02-08T01:40:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T01:45:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 01:45:02 ----------------
+2021-02-08T01:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T01:50:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 01:50:01 ----------------
+2021-02-08T01:50:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T01:55:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 01:55:02 ----------------
+2021-02-08T01:55:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T02:00:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 02:00:01 ----------------
+2021-02-08T02:00:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T02:05:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 02:05:02 ----------------
+2021-02-08T02:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T02:10:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 02:10:01 ----------------
+2021-02-08T02:10:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T02:15:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 02:15:02 ----------------
+2021-02-08T02:15:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T02:20:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 02:20:01 ----------------
+2021-02-08T02:20:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T02:25:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 02:25:02 ----------------
+2021-02-08T02:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T02:30:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 02:30:01 ----------------
+2021-02-08T02:30:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T02:35:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 02:35:02 ----------------
+2021-02-08T02:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T02:40:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 02:40:01 ----------------
+2021-02-08T02:40:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T02:45:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 02:45:01 ----------------
+2021-02-08T02:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T02:50:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 02:50:01 ----------------
+2021-02-08T02:50:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T02:55:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 02:55:01 ----------------
+2021-02-08T02:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T03:00:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 03:00:02 ----------------
+2021-02-08T03:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T03:05:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 03:05:01 ----------------
+2021-02-08T03:05:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T03:10:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 03:10:02 ----------------
+2021-02-08T03:10:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T03:15:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 03:15:01 ----------------
+2021-02-08T03:15:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T03:20:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 03:20:02 ----------------
+2021-02-08T03:20:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T03:25:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 03:25:01 ----------------
+2021-02-08T03:25:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T03:30:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 03:30:02 ----------------
+2021-02-08T03:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T03:35:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 03:35:01 ----------------
+2021-02-08T03:35:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T03:40:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 03:40:01 ----------------
+2021-02-08T03:40:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T03:45:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 03:45:02 ----------------
+2021-02-08T03:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T03:50:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 03:50:01 ----------------
+2021-02-08T03:50:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T03:55:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 03:55:02 ----------------
+2021-02-08T03:55:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T04:00:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 04:00:01 ----------------
+2021-02-08T04:00:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T04:05:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 04:05:02 ----------------
+2021-02-08T04:05:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T04:10:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 04:10:01 ----------------
+2021-02-08T04:10:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T04:15:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 04:15:02 ----------------
+2021-02-08T04:15:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T04:20:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 04:20:01 ----------------
+2021-02-08T04:20:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T04:25:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 04:25:02 ----------------
+2021-02-08T04:25:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T04:30:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 04:30:01 ----------------
+2021-02-08T04:30:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T04:35:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 04:35:02 ----------------
+2021-02-08T04:35:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T04:40:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 04:40:01 ----------------
+2021-02-08T04:40:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T04:45:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 04:45:02 ----------------
+2021-02-08T04:45:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T04:50:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 04:50:01 ----------------
+2021-02-08T04:50:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T04:55:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 04:55:01 ----------------
+2021-02-08T04:55:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T05:00:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 05:00:02 ----------------
+2021-02-08T05:00:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T05:05:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 05:05:01 ----------------
+2021-02-08T05:05:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T05:10:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 05:10:02 ----------------
+2021-02-08T05:10:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T05:15:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 05:15:01 ----------------
+2021-02-08T05:15:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T05:20:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 05:20:02 ----------------
+2021-02-08T05:20:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T05:25:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 05:25:01 ----------------
+2021-02-08T05:25:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T05:30:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 05:30:02 ----------------
+2021-02-08T05:30:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T05:35:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 05:35:01 ----------------
+2021-02-08T05:35:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T05:40:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 05:40:02 ----------------
+2021-02-08T05:40:02+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T05:45:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 05:45:01 ----------------
+2021-02-08T05:45:01+00:00 INFO (6): {"status":"failed","message":"Invalid username or API KEY"}
+2021-02-08T05:50:01+00:00 INFO (6): ---------------- START API Cron 08/02/21 05:50:01 ----------------
+2021-02-08T05:50:04+00:00 INFO (6): {"status":"failed","sku":"HS1010M30","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:06+00:00 INFO (6): {"status":"failed","sku":"HS1010M35","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:08+00:00 INFO (6): {"status":"failed","sku":"HS1012M30","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:09+00:00 INFO (6): {"status":"failed","sku":"HS1012M35","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:11+00:00 INFO (6): {"status":"failed","sku":"HS1016M40","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:13+00:00 INFO (6): {"status":"failed","sku":"HS1016M45","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:14+00:00 INFO (6): {"status":"failed","sku":"HS1020M40","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:16+00:00 INFO (6): {"status":"failed","sku":"HS1020M45","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:17+00:00 INFO (6): {"status":"failed","sku":"HS1020M50","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:19+00:00 INFO (6): {"status":"failed","sku":"HS1020M60","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:21+00:00 INFO (6): {"status":"failed","sku":"HS1014M30","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:22+00:00 INFO (6): {"status":"failed","sku":"HS1014M40","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:24+00:00 INFO (6): {"status":"failed","sku":"HS108M35","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:25+00:00 INFO (6): {"status":"failed","sku":"HS108M45","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:27+00:00 INFO (6): {"status":"failed","sku":"HS108M50","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:29+00:00 INFO (6): {"status":"failed","sku":"HS108M70","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:30+00:00 INFO (6): {"status":"failed","sku":"HS1010M40","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:32+00:00 INFO (6): {"status":"failed","sku":"HS1010M45","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:34+00:00 INFO (6): {"status":"failed","sku":"HS1010M50","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:35+00:00 INFO (6): {"status":"failed","sku":"HS1010M55","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:37+00:00 INFO (6): {"status":"failed","sku":"HS1012M60","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:38+00:00 INFO (6): {"status":"failed","sku":"HS1012M70","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:40+00:00 INFO (6): {"status":"failed","sku":"HS1012M80","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:42+00:00 INFO (6): {"status":"failed","sku":"HS1012M100","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:43+00:00 INFO (6): {"status":"failed","sku":"HS1016M50","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:45+00:00 INFO (6): {"status":"failed","sku":"HS1016M60","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:46+00:00 INFO (6): {"status":"failed","sku":"HS1016M30","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:48+00:00 INFO (6): {"status":"failed","sku":"HS1016M35","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:50+00:00 INFO (6): {"status":"failed","sku":"HS1020M100","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:51+00:00 INFO (6): {"status":"failed","sku":"HS1020M140","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:53+00:00 INFO (6): {"status":"failed","sku":"HS1024M100","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:54+00:00 INFO (6): {"status":"failed","sku":"HS1014M60","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:56+00:00 INFO (6): {"status":"failed","sku":"HS105M20","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:57+00:00 INFO (6): {"status":"failed","sku":"HS1014M45","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:50:59+00:00 INFO (6): {"status":"failed","sku":"HS1020M55","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:51:01+00:00 INFO (6): {"status":"failed","sku":"HS106M20","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:51:02+00:00 INFO (6): {"status":"failed","sku":"HS108M16","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:51:04+00:00 INFO (6): {"status":"failed","sku":"HS108M20","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:12+00:00 INFO (6): {"status":"failed","sku":"HS108M35Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:13+00:00 INFO (6): {"status":"failed","sku":"HS108M25Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:15+00:00 INFO (6): {"status":"failed","sku":"HS1020M55Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:17+00:00 INFO (6): {"status":"failed","sku":"HS106M16Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:18+00:00 INFO (6): {"status":"failed","sku":"HS106M18Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:20+00:00 INFO (6): {"status":"failed","sku":"HS106M20Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:22+00:00 INFO (6): {"status":"failed","sku":"HS106M25Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:23+00:00 INFO (6): {"status":"failed","sku":"HS108M16Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:25+00:00 INFO (6): {"status":"failed","sku":"HS1010M25Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:26+00:00 INFO (6): {"status":"failed","sku":"HS1010M30Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:28+00:00 INFO (6): {"status":"failed","sku":"HS1010M35Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:30+00:00 INFO (6): {"status":"failed","sku":"HS1010M40Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:31+00:00 INFO (6): {"status":"failed","sku":"HS1012M35Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:33+00:00 INFO (6): {"status":"failed","sku":"HS1012M45Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:35+00:00 INFO (6): {"status":"failed","sku":"HS1016M45Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:36+00:00 INFO (6): {"status":"failed","sku":"HS1016M50Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:38+00:00 INFO (6): {"status":"failed","sku":"HS1016M140Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:40+00:00 INFO (6): {"status":"failed","sku":"HS1020M35Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:41+00:00 INFO (6): {"status":"failed","sku":"HS1020M40Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:43+00:00 INFO (6): {"status":"failed","sku":"HS1020M45Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:45+00:00 INFO (6): {"status":"failed","sku":"HS1020M70Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:46+00:00 INFO (6): {"status":"failed","sku":"HS1020M130Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:48+00:00 INFO (6): {"status":"failed","sku":"HS1024M60Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:50+00:00 INFO (6): {"status":"failed","sku":"HS1024M70Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:51+00:00 INFO (6): {"status":"failed","sku":"HS1024M80Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:53+00:00 INFO (6): {"status":"failed","sku":"HS1014M30Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:54+00:00 INFO (6): {"status":"failed","sku":"HS1014M50Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:56+00:00 INFO (6): {"status":"failed","sku":"HS1018M30Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:58+00:00 INFO (6): {"status":"failed","sku":"HS1018M35Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:52:59+00:00 INFO (6): {"status":"failed","sku":"HS1018M50Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:53:01+00:00 INFO (6): {"status":"failed","sku":"HS108M40Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:53:03+00:00 INFO (6): {"status":"failed","sku":"HS1010M45Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:53:04+00:00 INFO (6): {"status":"failed","sku":"HS1010M50Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:53:06+00:00 INFO (6): {"status":"failed","sku":"HS1022M35Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:53:07+00:00 INFO (6): {"status":"failed","sku":"HS1022M50Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:53:09+00:00 INFO (6): {"status":"failed","sku":"HS1016M35Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:53:11+00:00 INFO (6): {"status":"failed","sku":"HS1016M55Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:56:37+00:00 INFO (6): {"status":"failed","sku":"FAIBRSQUE24","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:56:42+00:00 INFO (6): {"status":"failed","sku":"FAILITPICK","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:56:46+00:00 INFO (6): {"status":"failed","sku":"FAIPATPOLE","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:56:51+00:00 INFO (6): {"status":"failed","sku":"FAIBRCHURN","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:56:55+00:00 INFO (6): {"status":"failed","sku":"FAIBRCOCO11","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:57:13+00:00 INFO (6): {"status":"failed","sku":"FORHTB1050M","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:57:15+00:00 INFO (6): {"status":"failed","sku":"FORHTB650M","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:57:17+00:00 INFO (6): {"status":"failed","sku":"FORHTB10100M","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:57:18+00:00 INFO (6): {"status":"failed","sku":"FORHTB1075M","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:57:20+00:00 INFO (6): {"status":"failed","sku":"FORHTB1080M","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:57:21+00:00 INFO (6): {"status":"failed","sku":"FORHTB12150M","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:57:23+00:00 INFO (6): {"status":"failed","sku":"FORHTB1270M","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:57:25+00:00 INFO (6): {"status":"failed","sku":"FORHTB660M","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:57:26+00:00 INFO (6): {"status":"failed","sku":"FORHTB830M","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:57:28+00:00 INFO (6): {"status":"failed","sku":"FORHTB850M","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:57:29+00:00 INFO (6): {"status":"failed","sku":"FORHTB860M","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:57:35+00:00 INFO (6): {"status":"failed","sku":"MOL5120","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:57:37+00:00 INFO (6): {"status":"failed","sku":"MOL5230","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:57:40+00:00 INFO (6): {"status":"failed","sku":"MOL5330","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:57:42+00:00 INFO (6): {"status":"failed","sku":"MOL5430","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T05:58:54+00:00 INFO (6): {"status":"failed","sku":"FAIBRSQUE18","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:00:03+00:00 INFO (6): {"status":"failed","sku":"HS1012M45","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:00:05+00:00 INFO (6): {"status":"failed","sku":"HS1014M50","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:00:07+00:00 INFO (6): {"status":"failed","sku":"HS1024M65","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:00:09+00:00 INFO (6): {"status":"failed","sku":"HS1010M25","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:00:27+00:00 INFO (6): {"status":"failed","sku":"ROU52070","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:00:28+00:00 INFO (6): {"status":"failed","sku":"ROU52090","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:02:31+00:00 INFO (6): {"status":"failed","sku":"MOL10301","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:03:30+00:00 INFO (6): {"status":"failed","sku":"D\/ISSJL600","message":"Request does not match any route."}
+2021-02-08T06:03:32+00:00 INFO (6): {"status":"failed","sku":"HS108M40","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:03:34+00:00 INFO (6): {"status":"failed","sku":"HS1010M70","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:03:35+00:00 INFO (6): {"status":"failed","sku":"HS1024M55","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:03:37+00:00 INFO (6): {"status":"failed","sku":"HS1012M25","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:03:39+00:00 INFO (6): {"status":"failed","sku":"HS1024M70","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:03:41+00:00 INFO (6): {"status":"failed","sku":"HS1024M60","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:03:43+00:00 INFO (6): {"status":"failed","sku":"HS1014M35","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:03:45+00:00 INFO (6): {"status":"failed","sku":"HS1024M50","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:03:47+00:00 INFO (6): {"status":"failed","sku":"HS1012M40","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:03:49+00:00 INFO (6): {"status":"failed","sku":"HS1012M55","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:03:50+00:00 INFO (6): {"status":"failed","sku":"HS1020M90","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:03:52+00:00 INFO (6): {"status":"failed","sku":"HS1024M80","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:03:54+00:00 INFO (6): {"status":"failed","sku":"HS1014M70","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:03:56+00:00 INFO (6): {"status":"failed","sku":"HS1016M25","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:03:58+00:00 INFO (6): {"status":"failed","sku":"HS1020M65","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:03:59+00:00 INFO (6): {"status":"failed","sku":"HS106M25","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:04:01+00:00 INFO (6): {"status":"failed","sku":"HS1010M16","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:04:03+00:00 INFO (6): {"status":"failed","sku":"HS1020M80","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:04:06+00:00 INFO (6): {"status":"failed","sku":"STV333","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:04:11+00:00 INFO (6): {"status":"failed","sku":"STA1PAA48","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:04:13+00:00 INFO (6): {"status":"failed","sku":"STA1PAA52","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:04:15+00:00 INFO (6): {"status":"failed","sku":"STA1PAA58","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:04:21+00:00 INFO (6): {"status":"failed","sku":"STA070411","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:05:07+00:00 INFO (6): {"status":"failed","sku":"STA070868","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:05:08+00:00 INFO (6): {"status":"failed","sku":"STA080550","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:05:14+00:00 INFO (6): {"status":"failed","sku":"STA0PHT150","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:05:16+00:00 INFO (6): {"status":"failed","sku":"STA0PHT350","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:05:17+00:00 INFO (6): {"status":"failed","sku":"HS1012M20Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:05:19+00:00 INFO (6): {"status":"failed","sku":"HS1016M30Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:05:21+00:00 INFO (6): {"status":"failed","sku":"HS1024M40Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:05:23+00:00 INFO (6): {"status":"failed","sku":"HS1018M40Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:05:25+00:00 INFO (6): {"status":"failed","sku":"HS1022M30Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:05:32+00:00 INFO (6): {"status":"failed","sku":"HS108M25","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:05:34+00:00 INFO (6): {"status":"failed","sku":"HS1010M90","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:05:36+00:00 INFO (6): {"status":"failed","sku":"HS1012M25Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:05:37+00:00 INFO (6): {"status":"failed","sku":"HS1010M20Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:05:39+00:00 INFO (6): {"status":"failed","sku":"HS1014M40Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:05:40+00:00 INFO (6): {"status":"failed","sku":"HS1020M70","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:05:42+00:00 INFO (6): {"status":"failed","sku":"HS1024M120","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:05:43+00:00 INFO (6): {"status":"failed","sku":"FAIPATKIT","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:05:57+00:00 INFO (6): {"status":"failed","sku":"HS108M30","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:06:05+00:00 INFO (6): {"status":"failed","sku":"HS106M16","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:06:07+00:00 INFO (6): {"status":"failed","sku":"HS1012M20","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:06:08+00:00 INFO (6): {"status":"failed","sku":"HS108M12","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:06:10+00:00 INFO (6): {"status":"failed","sku":"HS1024M50Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:06:12+00:00 INFO (6): {"status":"failed","sku":"HS1022M40Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:06:14+00:00 INFO (6): {"status":"failed","sku":"HS1016M55","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:06:16+00:00 INFO (6): {"status":"failed","sku":"HS1012M65","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:06:18+00:00 INFO (6): {"status":"failed","sku":"HS1016M80","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:06:20+00:00 INFO (6): {"status":"failed","sku":"HS1012M50","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:06:21+00:00 INFO (6): {"status":"failed","sku":"HS1024M75","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:06:32+00:00 INFO (6): {"status":"failed","sku":"D\/ISSJL200","message":"Request does not match any route."}
+2021-02-08T06:06:33+00:00 INFO (6): {"status":"failed","sku":"HS108M20Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:06:35+00:00 INFO (6): {"status":"failed","sku":"HS1012M30Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:06:37+00:00 INFO (6): {"status":"failed","sku":"HS1016M60Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:06:39+00:00 INFO (6): {"status":"failed","sku":"HS1020M60Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:06:41+00:00 INFO (6): {"status":"failed","sku":"HS1014M25Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:06:43+00:00 INFO (6): {"status":"failed","sku":"HS1018M60Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:06:45+00:00 INFO (6): {"status":"failed","sku":"HS1012M40Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:07:47+00:00 INFO (6): {"status":"failed","sku":"HS1024M90","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:07:49+00:00 INFO (6): {"status":"failed","sku":"HS108M30Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:07:50+00:00 INFO (6): {"status":"failed","sku":"HS1016M40Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:07:52+00:00 INFO (6): {"status":"failed","sku":"HS1020M50Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:07:53+00:00 INFO (6): {"status":"failed","sku":"HS1014M55Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:07:55+00:00 INFO (6): {"status":"failed","sku":"HS1022M45Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:07:57+00:00 INFO (6): {"status":"failed","sku":"FORHTB10150M","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:07:58+00:00 INFO (6): {"status":"failed","sku":"FORHTB12130M","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:08:00+00:00 INFO (6): {"status":"failed","sku":"FORHTB8100M","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:08:02+00:00 INFO (6): {"status":"failed","sku":"STA1PAA44","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:08:03+00:00 INFO (6): {"status":"failed","sku":"STA1PAA54","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:08:05+00:00 INFO (6): {"status":"failed","sku":"HS1010M16Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:08:07+00:00 INFO (6): {"status":"failed","sku":"HS1020M30Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:08:08+00:00 INFO (6): {"status":"failed","sku":"HS1018M45Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:08:10+00:00 INFO (6): {"status":"failed","sku":"HS1014M45Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:08:11+00:00 INFO (6): {"status":"failed","sku":"HS1014M35Z","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:08:13+00:00 INFO (6): {"status":"failed","sku":"FAIBRBASS11","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:08:14+00:00 INFO (6): {"status":"failed","sku":"HS1010M20","message":"No such entity with %fieldName = %fieldValue"}
+2021-02-08T06:08:14+00:00 INFO (6): ---------------- END API Cron 08/02/21 06:08:14 ----------------

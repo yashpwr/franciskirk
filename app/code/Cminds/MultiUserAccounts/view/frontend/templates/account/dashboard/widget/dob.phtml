@@ -1,0 +1,24 @@
+<?php
+/**
+ * Cminds MultiUserAccounts editpost.
+ *
+ * @category Cminds
+ * @package  Cminds_MultiUserAccounts
+ * @author   Jigs
+ */
+// @codingStandardsIgnoreFile
+
+/** @var \Magento\Customer\Block\Widget\Dob $block */
+
+$fieldCssClass = 'field date field-' . $block->getHtmlId();
+$fieldCssClass .= $block->isRequired() ? ' required' : '';
+?>
+<div class="<?= $block->escapeHtml($fieldCssClass) ?>">
+    <label class="label" for="<?= $block->escapeHtml($block->getHtmlId()) ?>"><span><?= $block->escapeHtml($block->getLabel()) ?></span></label>
+    <div class="control customer-dob">
+        <?= $block->getFieldHtml() ?>
+        <?php if ($_message = $block->getAdditionalDescription()) : ?>
+            <div class="note"><?= $block->escapeHtml($_message) ?></div>
+        <?php endif; ?>
+    </div>
+</div>

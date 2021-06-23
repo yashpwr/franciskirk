@@ -1,0 +1,35 @@
+2021-06-18T09:25:02+00:00 INFO (6): ---------------- START API Cron 18/06/21 09:25:02 ----------------
+2021-06-18T09:25:08+00:00 INFO (6): {"status":"success","product_id":69806,"sku":"CF84203","message":"Product updated successfully"}
+2021-06-18T09:25:11+00:00 INFO (6): {"status":"success","product_id":69807,"sku":"CF84204","message":"Product updated successfully"}
+2021-06-18T09:25:14+00:00 INFO (6): {"status":"success","product_id":69808,"sku":"CF84205","message":"Product updated successfully"}
+2021-06-18T09:25:17+00:00 INFO (6): {"status":"success","product_id":69809,"sku":"CF84206","message":"Product updated successfully"}
+2021-06-18T09:25:20+00:00 INFO (6): {"status":"success","product_id":69810,"sku":"CF84206.5","message":"Product updated successfully"}
+2021-06-18T09:25:23+00:00 INFO (6): {"status":"success","product_id":69811,"sku":"CF84207","message":"Product updated successfully"}
+2021-06-18T09:25:25+00:00 INFO (6): {"status":"success","product_id":69812,"sku":"CF84208","message":"Product updated successfully"}
+2021-06-18T09:25:28+00:00 INFO (6): {"status":"success","product_id":69813,"sku":"CF84209","message":"Product updated successfully"}
+2021-06-18T09:25:31+00:00 INFO (6): {"status":"success","product_id":69814,"sku":"CF84210","message":"Product updated successfully"}
+2021-06-18T09:25:34+00:00 INFO (6): {"status":"success","product_id":69815,"sku":"CF84210.5","message":"Product updated successfully"}
+2021-06-18T09:25:37+00:00 INFO (6): {"status":"success","product_id":69816,"sku":"CF84211","message":"Product updated successfully"}
+2021-06-18T09:25:39+00:00 INFO (6): {"status":"success","product_id":69817,"sku":"CF84212","message":"Product updated successfully"}
+2021-06-18T09:25:42+00:00 INFO (6): {"status":"success","product_id":69818,"sku":"CF84303","message":"Product updated successfully"}
+2021-06-18T09:25:45+00:00 INFO (6): {"status":"success","product_id":69819,"sku":"CF84304","message":"Product updated successfully"}
+2021-06-18T09:25:48+00:00 INFO (6): {"status":"success","product_id":69820,"sku":"CF84305","message":"Product updated successfully"}
+2021-06-18T09:25:51+00:00 INFO (6): {"status":"success","product_id":69821,"sku":"CF84306","message":"Product updated successfully"}
+2021-06-18T09:25:54+00:00 INFO (6): {"status":"success","product_id":69822,"sku":"CF84306.5","message":"Product updated successfully"}
+2021-06-18T09:25:56+00:00 INFO (6): {"status":"success","product_id":69823,"sku":"CF84307","message":"Product updated successfully"}
+2021-06-18T09:25:59+00:00 INFO (6): {"status":"success","product_id":69824,"sku":"CF84308","message":"Product updated successfully"}
+2021-06-18T09:26:02+00:00 INFO (6): {"status":"success","product_id":69825,"sku":"CF84309","message":"Product updated successfully"}
+2021-06-18T09:26:06+00:00 INFO (6): {"status":"success","product_id":69826,"sku":"CF84310","message":"Product updated successfully"}
+2021-06-18T09:26:09+00:00 INFO (6): {"status":"success","product_id":69827,"sku":"CF84310.5","message":"Product updated successfully"}
+2021-06-18T09:26:12+00:00 INFO (6): {"status":"success","product_id":69828,"sku":"CF84311","message":"Product updated successfully"}
+2021-06-18T09:26:15+00:00 INFO (6): {"status":"success","product_id":69829,"sku":"CF84312","message":"Product updated successfully"}
+2021-06-18T09:26:16+00:00 INFO (6): {"status":"success","product_id":73570,"sku":"SCAWWHVWL","message":"Product updated successfully"}
+2021-06-18T09:26:18+00:00 INFO (6): {"status":"success","product_id":73571,"sku":"SCAWWHVWLO","message":"Product updated successfully"}
+2021-06-18T09:26:20+00:00 INFO (6): {"status":"success","product_id":73572,"sku":"SCAWWHVWLP","message":"Product updated successfully"}
+2021-06-18T09:26:22+00:00 INFO (6): {"status":"success","product_id":73573,"sku":"SCAWWHVWM","message":"Product updated successfully"}
+2021-06-18T09:26:24+00:00 INFO (6): {"status":"success","product_id":73574,"sku":"SCAWWHVWMO","message":"Product updated successfully"}
+2021-06-18T09:26:26+00:00 INFO (6): {"status":"success","product_id":73575,"sku":"SCAWWHVWMP","message":"Product updated successfully"}
+2021-06-18T09:26:28+00:00 INFO (6): {"status":"success","product_id":73576,"sku":"SCAWWHVWXL","message":"Product updated successfully"}
+2021-06-18T09:26:30+00:00 INFO (6): {"status":"success","product_id":73577,"sku":"SCAWWHVWXO","message":"Product updated successfully"}
+2021-06-18T09:26:32+00:00 INFO (6): {"status":"success","product_id":73578,"sku":"SCAWWHVWXXL","message":"Product updated successfully"}
+2021-06-18T09:26:49+00:00 INFO (6): ---------------- END API Cron 18/06/21 09:26:49 ----------------

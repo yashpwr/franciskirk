@@ -1,0 +1,24 @@
+<?php
+/**
+ * Cminds MultiUserAccounts editpost.
+ *
+ * @category Cminds
+ * @package  Cminds_MultiUserAccounts
+ * @author   Jigs
+ */
+
+// @codingStandardsIgnoreFile
+?>
+<?php $value = $block->getGender(); ?>
+<div class="field gender<?php if ($block->isRequired()) echo ' required' ?>">
+    <label class="label" for="<?= $block->escapeHtml($block->getFieldId('gender')) ?>"><span><?= $block->escapeHtml(__('Gender')) ?></span></label>
+    <div class="control">
+        <select id="<?= $block->escapeHtml($block->getFieldId('gender')) ?>" name="<?= $block->escapeHtml($block->getFieldName('gender')) ?>" title="<?= $block->escapeHtml(__('Gender')) ?>"<?php if ($block->isRequired()):?> class="validate-select" data-validate="{required:true}"<?php endif; ?>>
+            <?php $options = $block->getGenderOptions(); ?>
+            
+            <?php foreach ($options as $option):?>
+                <option value="<?= $block->escapeHtml($option->getValue()) ?>"<?php if ($option->getValue() == $value) echo ' selected="selected"' ?>><?= $block->escapeHtml(__($option->getLabel())) ?></option>
+            <?php endforeach;?>
+        </select>
+    </div>
+</div>

@@ -1,0 +1,711 @@
+2021-02-25T18:35:35+00:00 INFO (6): {"status":"failed","sku":"Breathableoutershell","message":"Product is not available."}
+2021-02-25T18:35:35+00:00 INFO (6): {"status":"failed","sku":"Removablehood","message":"Product is not available."}
+2021-02-25T18:35:36+00:00 INFO (6): {"status":"failed","sku":"Externalphonepocket","message":"Product is not available."}
+2021-02-25T18:35:36+00:00 INFO (6): {"status":"failed","sku":"Dringsforattachingidentitytags","message":"Product is not available."}
+2021-02-25T18:35:37+00:00 INFO (6): {"status":"failed","sku":"Fleecelinedcollaronoutergarment","message":"Product is not available."}
+2021-02-25T18:35:37+00:00 INFO (6): {"status":"failed","sku":"Hookandloopadjustablecuffs","message":"Product is not available."}
+2021-02-25T18:35:37+00:00 INFO (6): {"status":"failed","sku":"Handwarmerpockets","message":"Product is not available."}
+2021-02-25T18:35:38+00:00 INFO (6): {"status":"failed","sku":"Innerjacketzipoutsleeves","message":"Product is not available."}
+2021-02-25T18:35:38+00:00 INFO (6): {"status":"failed","sku":"3MReflectivetape","message":"Product is not available."}
+2021-02-25T18:35:39+00:00 INFO (6): {"status":"failed","sku":"ConformstoENISO20471Class3HighVisibility","message":"Product is not available."}
+2021-02-25T18:35:39+00:00 INFO (6): {"status":"failed","sku":"ConformstoEN343","message":"Product is not available."}
+2021-02-25T18:35:40+00:00 INFO (6): {"status":"failed","sku":"Class3WaterPenetration","message":"Product is not available."}
+2021-02-25T18:35:40+00:00 INFO (6): {"status":"failed","sku":"Class3AirPermeability","message":"Product is not available."}
+2021-02-25T18:35:41+00:00 INFO (6): {"status":"failed","sku":"RIS-3279-TOM-RailwayuseCertified\\\"","message":"Product is not available."}
+2021-02-25T18:37:34+00:00 INFO (6): {"status":"failed","sku":"AD029","message":"Product is not available."}
+2021-02-25T18:37:35+00:00 INFO (6): {"status":"failed","sku":"AD036","message":"Product is not available."}
+2021-02-25T18:39:01+00:00 INFO (6): {"status":"failed","sku":"AM001","message":"Product is not available."}
+2021-02-25T18:39:02+00:00 INFO (6): {"status":"failed","sku":"AM002","message":"Product is not available."}
+2021-02-25T18:39:02+00:00 INFO (6): {"status":"failed","sku":"AM003","message":"Product is not available."}
+2021-02-25T18:39:03+00:00 INFO (6): {"status":"failed","sku":"AM004","message":"Product is not available."}
+2021-02-25T18:39:15+00:00 INFO (6): {"status":"failed","sku":"AM011","message":"Product is not available."}
+2021-02-25T18:41:07+00:00 INFO (6): {"status":"failed","sku":"AQ004","message":"Product is not available."}
+2021-02-25T18:41:08+00:00 INFO (6): {"status":"failed","sku":"AQ005","message":"Product is not available."}
+2021-02-25T18:41:08+00:00 INFO (6): {"status":"failed","sku":"AQ004","message":"Product is not available."}
+2021-02-25T18:41:08+00:00 INFO (6): {"status":"failed","sku":"AQ006","message":"Product is not available."}
+2021-02-25T18:41:09+00:00 INFO (6): {"status":"failed","sku":"AQ005","message":"Product is not available."}
+2021-02-25T18:41:09+00:00 INFO (6): {"status":"failed","sku":"AQ007","message":"Product is not available."}
+2021-02-25T18:41:09+00:00 INFO (6): {"status":"failed","sku":"AQ006","message":"Product is not available."}
+2021-02-25T18:41:09+00:00 INFO (6): {"status":"failed","sku":"AQ010","message":"Product is not available."}
+2021-02-25T18:41:09+00:00 INFO (6): {"status":"failed","sku":"AQ007","message":"Product is not available."}
+2021-02-25T18:41:10+00:00 INFO (6): {"status":"failed","sku":"AQ011","message":"Product is not available."}
+2021-02-25T18:41:10+00:00 INFO (6): {"status":"failed","sku":"AQ010","message":"Product is not available."}
+2021-02-25T18:41:10+00:00 INFO (6): {"status":"failed","sku":"AQ012","message":"Product is not available."}
+2021-02-25T18:41:10+00:00 INFO (6): {"status":"failed","sku":"AQ011","message":"Product is not available."}
+2021-02-25T18:41:11+00:00 INFO (6): {"status":"failed","sku":"AQ013","message":"Product is not available."}
+2021-02-25T18:41:11+00:00 INFO (6): {"status":"failed","sku":"AQ012","message":"Product is not available."}
+2021-02-25T18:41:11+00:00 INFO (6): {"status":"failed","sku":"AQ015","message":"Product is not available."}
+2021-02-25T18:41:12+00:00 INFO (6): {"status":"failed","sku":"AQ013","message":"Product is not available."}
+2021-02-25T18:41:12+00:00 INFO (6): {"status":"failed","sku":"AQ015","message":"Product is not available."}
+2021-02-25T18:41:21+00:00 INFO (6): {"status":"failed","sku":"AQ017","message":"Product is not available."}
+2021-02-25T18:41:22+00:00 INFO (6): {"status":"failed","sku":"AQ018","message":"Product is not available."}
+2021-02-25T18:41:22+00:00 INFO (6): {"status":"failed","sku":"AQ019","message":"Product is not available."}
+2021-02-25T18:41:23+00:00 INFO (6): {"status":"failed","sku":"AQ020","message":"Product is not available."}
+2021-02-25T18:41:23+00:00 INFO (6): {"status":"failed","sku":"AQ021","message":"Product is not available."}
+2021-02-25T18:41:24+00:00 INFO (6): {"status":"failed","sku":"AQ017","message":"Product is not available."}
+2021-02-25T18:41:24+00:00 INFO (6): {"status":"failed","sku":"AQ022","message":"Product is not available."}
+2021-02-25T18:41:24+00:00 INFO (6): {"status":"failed","sku":"AQ018","message":"Product is not available."}
+2021-02-25T18:41:24+00:00 INFO (6): {"status":"failed","sku":"AQ025","message":"Product is not available."}
+2021-02-25T18:41:25+00:00 INFO (6): {"status":"failed","sku":"AQ019","message":"Product is not available."}
+2021-02-25T18:41:25+00:00 INFO (6): {"status":"failed","sku":"AQ030","message":"Product is not available."}
+2021-02-25T18:41:25+00:00 INFO (6): {"status":"failed","sku":"AQ020","message":"Product is not available."}
+2021-02-25T18:41:26+00:00 INFO (6): {"status":"failed","sku":"AQ040","message":"Product is not available."}
+2021-02-25T18:41:26+00:00 INFO (6): {"status":"failed","sku":"AQ021","message":"Product is not available."}
+2021-02-25T18:41:26+00:00 INFO (6): {"status":"failed","sku":"AQ041","message":"Product is not available."}
+2021-02-25T18:41:27+00:00 INFO (6): {"status":"failed","sku":"AQ022","message":"Product is not available."}
+2021-02-25T18:41:27+00:00 INFO (6): {"status":"failed","sku":"AQ042","message":"Product is not available."}
+2021-02-25T18:41:27+00:00 INFO (6): {"status":"failed","sku":"AQ025","message":"Product is not available."}
+2021-02-25T18:41:27+00:00 INFO (6): {"status":"failed","sku":"AQ043","message":"Product is not available."}
+2021-02-25T18:41:28+00:00 INFO (6): {"status":"failed","sku":"AQ030","message":"Product is not available."}
+2021-02-25T18:41:28+00:00 INFO (6): {"status":"failed","sku":"AQ044","message":"Product is not available."}
+2021-02-25T18:41:28+00:00 INFO (6): {"status":"failed","sku":"AQ040","message":"Product is not available."}
+2021-02-25T18:41:28+00:00 INFO (6): {"status":"failed","sku":"AQ045","message":"Product is not available."}
+2021-02-25T18:41:29+00:00 INFO (6): {"status":"failed","sku":"AQ041","message":"Product is not available."}
+2021-02-25T18:41:29+00:00 INFO (6): {"status":"failed","sku":"AQ046","message":"Product is not available."}
+2021-02-25T18:41:29+00:00 INFO (6): {"status":"failed","sku":"AQ042","message":"Product is not available."}
+2021-02-25T18:41:30+00:00 INFO (6): {"status":"failed","sku":"AQ047","message":"Product is not available."}
+2021-02-25T18:41:30+00:00 INFO (6): {"status":"failed","sku":"AQ043","message":"Product is not available."}
+2021-02-25T18:41:30+00:00 INFO (6): {"status":"failed","sku":"AQ048","message":"Product is not available."}
+2021-02-25T18:41:30+00:00 INFO (6): {"status":"failed","sku":"AQ044","message":"Product is not available."}
+2021-02-25T18:41:31+00:00 INFO (6): {"status":"failed","sku":"AQ050","message":"Product is not available."}
+2021-02-25T18:41:31+00:00 INFO (6): {"status":"failed","sku":"AQ045","message":"Product is not available."}
+2021-02-25T18:41:31+00:00 INFO (6): {"status":"failed","sku":"AQ051","message":"Product is not available."}
+2021-02-25T18:41:32+00:00 INFO (6): {"status":"failed","sku":"AQ046","message":"Product is not available."}
+2021-02-25T18:41:32+00:00 INFO (6): {"status":"failed","sku":"AQ052","message":"Product is not available."}
+2021-02-25T18:41:32+00:00 INFO (6): {"status":"failed","sku":"AQ047","message":"Product is not available."}
+2021-02-25T18:41:32+00:00 INFO (6): {"status":"failed","sku":"AQ054","message":"Product is not available."}
+2021-02-25T18:41:33+00:00 INFO (6): {"status":"failed","sku":"AQ048","message":"Product is not available."}
+2021-02-25T18:41:33+00:00 INFO (6): {"status":"failed","sku":"AQ060","message":"Product is not available."}
+2021-02-25T18:41:33+00:00 INFO (6): {"status":"failed","sku":"AQ050","message":"Product is not available."}
+2021-02-25T18:41:34+00:00 INFO (6): {"status":"failed","sku":"AQ061","message":"Product is not available."}
+2021-02-25T18:41:34+00:00 INFO (6): {"status":"failed","sku":"AQ051","message":"Product is not available."}
+2021-02-25T18:41:34+00:00 INFO (6): {"status":"failed","sku":"AQ07","message":"Product is not available."}
+2021-02-25T18:41:35+00:00 INFO (6): {"status":"failed","sku":"AQ052","message":"Product is not available."}
+2021-02-25T18:41:35+00:00 INFO (6): {"status":"failed","sku":"AQ070","message":"Product is not available."}
+2021-02-25T18:41:35+00:00 INFO (6): {"status":"failed","sku":"AQ054","message":"Product is not available."}
+2021-02-25T18:41:35+00:00 INFO (6): {"status":"failed","sku":"AQ072","message":"Product is not available."}
+2021-02-25T18:41:36+00:00 INFO (6): {"status":"failed","sku":"AQ060","message":"Product is not available."}
+2021-02-25T18:41:36+00:00 INFO (6): {"status":"failed","sku":"AQ076","message":"Product is not available."}
+2021-02-25T18:41:36+00:00 INFO (6): {"status":"failed","sku":"AQ061","message":"Product is not available."}
+2021-02-25T18:41:37+00:00 INFO (6): {"status":"failed","sku":"AQ078","message":"Product is not available."}
+2021-02-25T18:41:37+00:00 INFO (6): {"status":"failed","sku":"AQ07","message":"Product is not available."}
+2021-02-25T18:41:37+00:00 INFO (6): {"status":"failed","sku":"AQ079","message":"Product is not available."}
+2021-02-25T18:41:38+00:00 INFO (6): {"status":"failed","sku":"AQ070","message":"Product is not available."}
+2021-02-25T18:41:38+00:00 INFO (6): {"status":"failed","sku":"AQ08","message":"Product is not available."}
+2021-02-25T18:41:38+00:00 INFO (6): {"status":"failed","sku":"AQ072","message":"Product is not available."}
+2021-02-25T18:41:38+00:00 INFO (6): {"status":"failed","sku":"AQ080","message":"Product is not available."}
+2021-02-25T18:41:39+00:00 INFO (6): {"status":"failed","sku":"AQ076","message":"Product is not available."}
+2021-02-25T18:41:39+00:00 INFO (6): {"status":"failed","sku":"AQ082","message":"Product is not available."}
+2021-02-25T18:41:39+00:00 INFO (6): {"status":"failed","sku":"AQ078","message":"Product is not available."}
+2021-02-25T18:41:40+00:00 INFO (6): {"status":"failed","sku":"AQ200","message":"Product is not available."}
+2021-02-25T18:41:40+00:00 INFO (6): {"status":"failed","sku":"AQ079","message":"Product is not available."}
+2021-02-25T18:41:40+00:00 INFO (6): {"status":"failed","sku":"AQ203","message":"Product is not available."}
+2021-02-25T18:41:40+00:00 INFO (6): {"status":"failed","sku":"AQ08","message":"Product is not available."}
+2021-02-25T18:41:41+00:00 INFO (6): {"status":"failed","sku":"AQ080","message":"Product is not available."}
+2021-02-25T18:41:41+00:00 INFO (6): {"status":"failed","sku":"AQ082","message":"Product is not available."}
+2021-02-25T18:41:42+00:00 INFO (6): {"status":"failed","sku":"AQ200","message":"Product is not available."}
+2021-02-25T18:41:42+00:00 INFO (6): {"status":"failed","sku":"AQ203","message":"Product is not available."}
+2021-02-25T18:42:24+00:00 INFO (6): {"status":"failed","sku":"B\/S16332","message":"Request does not match any route."}
+2021-02-25T18:42:24+00:00 INFO (6): {"status":"failed","sku":"BAHGL","message":"Product is not available."}
+2021-02-25T18:45:28+00:00 INFO (6): {"status":"failed","sku":"BBFV7","message":"Product is not available."}
+2021-02-25T18:45:28+00:00 INFO (6): {"status":"failed","sku":"BBFV7","message":"Product is not available."}
+2021-02-25T18:45:28+00:00 INFO (6): {"status":"failed","sku":"TransparentVisor7.5\\\"","message":"Product is not available."}
+2021-02-25T18:45:29+00:00 INFO (6): {"status":"failed","sku":"TransparentVisor7.5\\\"","message":"Product is not available."}
+2021-02-25T18:45:29+00:00 INFO (6): {"status":"failed","sku":"ConformtoEN166(whenwornwithappropriateheadgear):","message":"Product is not available."}
+2021-02-25T18:45:29+00:00 INFO (6): {"status":"failed","sku":"ConformtoEN166(whenwornwithappropriateheadgear):","message":"Product is not available."}
+2021-02-25T18:45:29+00:00 INFO (6): {"status":"failed","sku":"OpticalClass:1","message":"Product is not available."}
+2021-02-25T18:45:30+00:00 INFO (6): {"status":"failed","sku":"OpticalClass:1","message":"Product is not available."}
+2021-02-25T18:45:30+00:00 INFO (6): {"status":"failed","sku":"F-(Lowimpactenergy)","message":"Product is not available."}
+2021-02-25T18:45:30+00:00 INFO (6): {"status":"failed","sku":"F-(Lowimpactenergy)","message":"Product is not available."}
+2021-02-25T18:45:31+00:00 INFO (6): {"status":"failed","sku":"2C-1.2-UVFilter\\\"","message":"Product is not available."}
+2021-02-25T18:45:31+00:00 INFO (6): {"status":"failed","sku":"2C-1.2-UVFilter\\\"","message":"Product is not available."}
+2021-02-25T18:47:36+00:00 INFO (6): {"status":"failed","sku":"BBMEFV8","message":"Product is not available."}
+2021-02-25T18:47:36+00:00 INFO (6): {"status":"failed","sku":"BBMEFV8","message":"Product is not available."}
+2021-02-25T18:47:47+00:00 INFO (6): {"status":"failed","sku":"BBPUSB","message":"Product is not available."}
+2021-02-25T18:47:48+00:00 INFO (6): {"status":"failed","sku":"BBPUSB","message":"Product is not available."}
+2021-02-25T18:51:37+00:00 INFO (6): {"status":"failed","sku":"3Buttonplacket.","message":"Product is not available."}
+2021-02-25T18:51:38+00:00 INFO (6): {"status":"failed","sku":"3Buttonplacket.","message":"Product is not available."}
+2021-02-25T18:51:38+00:00 INFO (6): {"status":"failed","sku":"3\/4lengthsleeves.","message":"Product is not available."}
+2021-02-25T18:51:38+00:00 INFO (6): {"status":"failed","sku":"3\/4lengthsleeves.","message":"Product is not available."}
+2021-02-25T18:51:38+00:00 INFO (6): {"status":"failed","sku":"Greytrimtocollar.","message":"Product is not available."}
+2021-02-25T18:51:39+00:00 INFO (6): {"status":"failed","sku":"Greytrimtocollar.","message":"Product is not available."}
+2021-02-25T18:51:39+00:00 INFO (6): {"status":"failed","sku":"Retro-Reflectivetape.","message":"Product is not available."}
+2021-02-25T18:51:39+00:00 INFO (6): {"status":"failed","sku":"Retro-Reflectivetape.","message":"Product is not available."}
+2021-02-25T18:51:39+00:00 INFO (6): {"status":"failed","sku":"ENISO20471Class3.\\\"","message":"Product is not available."}
+2021-02-25T18:51:40+00:00 INFO (6): {"status":"failed","sku":"ENISO20471Class3.\\\"","message":"Product is not available."}
+2021-02-25T18:51:42+00:00 INFO (6): {"status":"failed","sku":"3Buttonplacket.","message":"Product is not available."}
+2021-02-25T18:51:42+00:00 INFO (6): {"status":"failed","sku":"3Buttonplacket.","message":"Product is not available."}
+2021-02-25T18:51:42+00:00 INFO (6): {"status":"failed","sku":"Greytrimtocollarandcuffs.","message":"Product is not available."}
+2021-02-25T18:51:42+00:00 INFO (6): {"status":"failed","sku":"Greytrimtocollarandcuffs.","message":"Product is not available."}
+2021-02-25T18:51:43+00:00 INFO (6): {"status":"failed","sku":"Meshunderarms.","message":"Product is not available."}
+2021-02-25T18:51:43+00:00 INFO (6): {"status":"failed","sku":"Meshunderarms.","message":"Product is not available."}
+2021-02-25T18:51:43+00:00 INFO (6): {"status":"failed","sku":"Retro-reflectiveDynamicstripetape","message":"Product is not available."}
+2021-02-25T18:51:44+00:00 INFO (6): {"status":"failed","sku":"Retro-reflectiveDynamicstripetape","message":"Product is not available."}
+2021-02-25T18:51:44+00:00 INFO (6): {"status":"failed","sku":"UVProtection","message":"Product is not available."}
+2021-02-25T18:51:44+00:00 INFO (6): {"status":"failed","sku":"UVProtection","message":"Product is not available."}
+2021-02-25T18:51:44+00:00 INFO (6): {"status":"failed","sku":"SCOTCHGARDMoistureManagement","message":"Product is not available."}
+2021-02-25T18:51:45+00:00 INFO (6): {"status":"failed","sku":"SCOTCHGARDMoistureManagement","message":"Product is not available."}
+2021-02-25T18:51:45+00:00 INFO (6): {"status":"failed","sku":"Anti-Bacterial","message":"Product is not available."}
+2021-02-25T18:51:45+00:00 INFO (6): {"status":"failed","sku":"Anti-Bacterial","message":"Product is not available."}
+2021-02-25T18:51:46+00:00 INFO (6): {"status":"failed","sku":"InsectRepellent","message":"Product is not available."}
+2021-02-25T18:51:46+00:00 INFO (6): {"status":"failed","sku":"InsectRepellent","message":"Product is not available."}
+2021-02-25T18:51:46+00:00 INFO (6): {"status":"failed","sku":"ConformstoENISO20471","message":"Product is not available."}
+2021-02-25T18:51:46+00:00 INFO (6): {"status":"failed","sku":"ConformstoENISO20471","message":"Product is not available."}
+2021-02-25T18:51:47+00:00 INFO (6): {"status":"failed","sku":"Class3highvisibility","message":"Product is not available."}
+2021-02-25T18:51:47+00:00 INFO (6): {"status":"failed","sku":"Class3highvisibility","message":"Product is not available."}
+2021-02-25T18:51:48+00:00 INFO (6): {"status":"failed","sku":"RIS-3279-TOM-Railwayusecertified.","message":"Product is not available."}
+2021-02-25T18:51:48+00:00 INFO (6): {"status":"failed","sku":"RIS-3279-TOM-Railwayusecertified.","message":"Product is not available."}
+2021-02-25T18:51:48+00:00 INFO (6): {"status":"failed","sku":"ConformstoEN13758-2(40+UVProtection)\\\"","message":"Product is not available."}
+2021-02-25T18:51:48+00:00 INFO (6): {"status":"failed","sku":"ConformstoEN13758-2(40+UVProtection)\\\"","message":"Product is not available."}
+2021-02-25T18:51:50+00:00 INFO (6): {"status":"failed","sku":"3Buttonplacket.","message":"Product is not available."}
+2021-02-25T18:51:51+00:00 INFO (6): {"status":"failed","sku":"Greytrimtocollarandcuffs.","message":"Product is not available."}
+2021-02-25T18:51:51+00:00 INFO (6): {"status":"failed","sku":"3Buttonplacket.","message":"Product is not available."}
+2021-02-25T18:51:51+00:00 INFO (6): {"status":"failed","sku":"Retro-Reflectivetape.","message":"Product is not available."}
+2021-02-25T18:51:51+00:00 INFO (6): {"status":"failed","sku":"Greytrimtocollarandcuffs.","message":"Product is not available."}
+2021-02-25T18:51:52+00:00 INFO (6): {"status":"failed","sku":"ConformstoENISO20471Class2highvisibility\\\"","message":"Product is not available."}
+2021-02-25T18:51:52+00:00 INFO (6): {"status":"failed","sku":"Retro-Reflectivetape.","message":"Product is not available."}
+2021-02-25T18:51:52+00:00 INFO (6): {"status":"failed","sku":"ConformstoENISO20471Class2highvisibility\\\"","message":"Product is not available."}
+2021-02-25T18:51:54+00:00 INFO (6): {"status":"failed","sku":"3Buttonplacket.","message":"Product is not available."}
+2021-02-25T18:51:55+00:00 INFO (6): {"status":"failed","sku":"Greytrimtocollarandcuffs.","message":"Product is not available."}
+2021-02-25T18:51:55+00:00 INFO (6): {"status":"failed","sku":"3Buttonplacket.","message":"Product is not available."}
+2021-02-25T18:51:55+00:00 INFO (6): {"status":"failed","sku":"Retro-Reflectivetape.","message":"Product is not available."}
+2021-02-25T18:51:55+00:00 INFO (6): {"status":"failed","sku":"Greytrimtocollarandcuffs.","message":"Product is not available."}
+2021-02-25T18:51:56+00:00 INFO (6): {"status":"failed","sku":"ConformstoENISO20471Class3highvisibility\\\"","message":"Product is not available."}
+2021-02-25T18:51:56+00:00 INFO (6): {"status":"failed","sku":"Retro-Reflectivetape.","message":"Product is not available."}
+2021-02-25T18:51:56+00:00 INFO (6): {"status":"failed","sku":"ConformstoENISO20471Class3highvisibility\\\"","message":"Product is not available."}
+2021-02-25T18:54:50+00:00 INFO (6): {"status":"failed","sku":"PUcoatingtohi-visside.","message":"Product is not available."}
+2021-02-25T18:54:50+00:00 INFO (6): {"status":"failed","sku":"PUcoatingtohi-visside.","message":"Product is not available."}
+2021-02-25T18:54:51+00:00 INFO (6): {"status":"failed","sku":"Greypolycottonliningonreverse.","message":"Product is not available."}
+2021-02-25T18:54:51+00:00 INFO (6): {"status":"failed","sku":"Greypolycottonliningonreverse.","message":"Product is not available."}
+2021-02-25T18:54:52+00:00 INFO (6): {"status":"failed","sku":"Heavydutyzip.","message":"Product is not available."}
+2021-02-25T18:54:52+00:00 INFO (6): {"status":"failed","sku":"Heavydutyzip.","message":"Product is not available."}
+2021-02-25T18:54:52+00:00 INFO (6): {"status":"failed","sku":"2zippedpocketsonbothsides.","message":"Product is not available."}
+2021-02-25T18:54:53+00:00 INFO (6): {"status":"failed","sku":"2zippedpocketsonbothsides.","message":"Product is not available."}
+2021-02-25T18:54:53+00:00 INFO (6): {"status":"failed","sku":"Mobilephonecompartmentonquiltedside.","message":"Product is not available."}
+2021-02-25T18:54:53+00:00 INFO (6): {"status":"failed","sku":"Mobilephonecompartmentonquiltedside.","message":"Product is not available."}
+2021-02-25T18:54:53+00:00 INFO (6): {"status":"failed","sku":"Retro-Reflectivetape.","message":"Product is not available."}
+2021-02-25T18:54:54+00:00 INFO (6): {"status":"failed","sku":"Retro-Reflectivetape.","message":"Product is not available."}
+2021-02-25T18:54:54+00:00 INFO (6): {"status":"failed","sku":"ConformstoENISO20471","message":"Product is not available."}
+2021-02-25T18:54:54+00:00 INFO (6): {"status":"failed","sku":"ConformstoENISO20471","message":"Product is not available."}
+2021-02-25T18:54:55+00:00 INFO (6): {"status":"failed","sku":"Class2highvisibility","message":"Product is not available."}
+2021-02-25T18:54:55+00:00 INFO (6): {"status":"failed","sku":"Class2highvisibility","message":"Product is not available."}
+2021-02-25T18:54:55+00:00 INFO (6): {"status":"failed","sku":"RIS-3279-TOM-Railwayusecertified.\\\"","message":"Product is not available."}
+2021-02-25T18:54:55+00:00 INFO (6): {"status":"failed","sku":"RIS-3279-TOM-Railwayusecertified.\\\"","message":"Product is not available."}
+2021-02-25T18:54:58+00:00 INFO (6): {"status":"failed","sku":"ReinforcedPalm(twolayersofleather).","message":"Product is not available."}
+2021-02-25T18:54:58+00:00 INFO (6): {"status":"failed","sku":"Fingerwelts.","message":"Product is not available."}
+2021-02-25T18:54:58+00:00 INFO (6): {"status":"failed","sku":"Fullylinedincludingcuff.","message":"Product is not available."}
+2021-02-25T18:54:59+00:00 INFO (6): {"status":"failed","sku":"EN388:2003","message":"Product is not available."}
+2021-02-25T18:54:59+00:00 INFO (6): {"status":"failed","sku":"Level3-Abrasion","message":"Product is not available."}
+2021-02-25T18:55:00+00:00 INFO (6): {"status":"failed","sku":"Level2-CutResistance","message":"Product is not available."}
+2021-02-25T18:55:00+00:00 INFO (6): {"status":"failed","sku":"Level3-TearResistance","message":"Product is not available."}
+2021-02-25T18:55:01+00:00 INFO (6): {"status":"failed","sku":"Level4-Puncture","message":"Product is not available."}
+2021-02-25T18:55:01+00:00 INFO (6): {"status":"failed","sku":"EN407:20044.3.3.X.4.X","message":"Product is not available."}
+2021-02-25T18:55:02+00:00 INFO (6): {"status":"failed","sku":"EN12477:2001+A1:2005-TypeA\\\"","message":"Product is not available."}
+2021-02-25T18:56:41+00:00 INFO (6): {"status":"failed","sku":"Regular-31\\\"","message":"Product is not available."}
+2021-02-25T18:56:42+00:00 INFO (6): {"status":"failed","sku":"Tall(T)-33\\\"","message":"Product is not available."}
+2021-02-25T18:56:42+00:00 INFO (6): {"status":"failed","sku":"ENISO13688:2013-Generalrequirementsforprotectiveclothing","message":"Product is not available."}
+2021-02-25T18:56:43+00:00 INFO (6): {"status":"failed","sku":"Regular-31\\\"","message":"Product is not available."}
+2021-02-25T18:56:43+00:00 INFO (6): {"status":"failed","sku":"EN1149-3:2004-AntiStatic-Testmethodsformeasurementsofchargedecay","message":"Product is not available."}
+2021-02-25T18:56:43+00:00 INFO (6): {"status":"failed","sku":"Tall(T)-33\\\"","message":"Product is not available."}
+2021-02-25T18:56:43+00:00 INFO (6): {"status":"failed","sku":"EN1149-5:2008-AntiStatic-Materialperformanceanddesignrequirements","message":"Product is not available."}
+2021-02-25T18:56:44+00:00 INFO (6): {"status":"failed","sku":"ENISO13688:2013-Generalrequirementsforprotectiveclothing","message":"Product is not available."}
+2021-02-25T18:56:44+00:00 INFO (6): {"status":"failed","sku":"ENISO11611:2015(Class1A1A2)-Protectiveclothingforuseinwelding","message":"Product is not available."}
+2021-02-25T18:56:44+00:00 INFO (6): {"status":"failed","sku":"EN1149-3:2004-AntiStatic-Testmethodsformeasurementsofchargedecay","message":"Product is not available."}
+2021-02-25T18:56:44+00:00 INFO (6): {"status":"failed","sku":"ENISO11612:2015(A1A2B1C1)-Protectionagainstheatandflame","message":"Product is not available."}
+2021-02-25T18:56:45+00:00 INFO (6): {"status":"failed","sku":"EN1149-5:2008-AntiStatic-Materialperformanceanddesignrequirements","message":"Product is not available."}
+2021-02-25T18:56:45+00:00 INFO (6): {"status":"failed","sku":"ARCFLASH","message":"Product is not available."}
+2021-02-25T18:56:46+00:00 INFO (6): {"status":"failed","sku":"ENISO11611:2015(Class1A1A2)-Protectiveclothingforuseinwelding","message":"Product is not available."}
+2021-02-25T18:56:46+00:00 INFO (6): {"status":"failed","sku":"IEC61482-2:2009-Performancerequirementsanddesignrequirements","message":"Product is not available."}
+2021-02-25T18:56:46+00:00 INFO (6): {"status":"failed","sku":"ENISO11612:2015(A1A2B1C1)-Protectionagainstheatandflame","message":"Product is not available."}
+2021-02-25T18:56:46+00:00 INFO (6): {"status":"failed","sku":"EN61482-1-2:2007(Class1=4kA)-BoxArctesting","message":"Product is not available."}
+2021-02-25T18:56:47+00:00 INFO (6): {"status":"failed","sku":"ARCFLASH","message":"Product is not available."}
+2021-02-25T18:56:47+00:00 INFO (6): {"status":"failed","sku":"EN61482-1-1:2009(ATPV=10.8Cal\/cm2)-OpenArctesting","message":"Product is not available."}
+2021-02-25T18:56:47+00:00 INFO (6): {"status":"failed","sku":"IEC61482-2:2009-Performancerequirementsanddesignrequirements","message":"Product is not available."}
+2021-02-25T18:56:47+00:00 INFO (6): {"status":"failed","sku":"EachgarmentstyleisindependantlytestedtobothboxandopenARCstandards.","message":"Product is not available."}
+2021-02-25T18:56:48+00:00 INFO (6): {"status":"failed","sku":"EN61482-1-2:2007(Class1=4kA)-BoxArctesting","message":"Product is not available."}
+2021-02-25T18:56:48+00:00 INFO (6): {"status":"failed","sku":"ClickARCproductioniscoveredbyarticle11Bcertification.","message":"Product is not available."}
+2021-02-25T18:56:48+00:00 INFO (6): {"status":"failed","sku":"EN61482-1-1:2009(ATPV=10.8Cal\/cm2)-OpenArctesting","message":"Product is not available."}
+2021-02-25T18:56:49+00:00 INFO (6): {"status":"failed","sku":"DoesNOTconformtoENISO20471\\\"","message":"Product is not available."}
+2021-02-25T18:56:49+00:00 INFO (6): {"status":"failed","sku":"EachgarmentstyleisindependantlytestedtobothboxandopenARCstandards.","message":"Product is not available."}
+2021-02-25T18:56:49+00:00 INFO (6): {"status":"failed","sku":"ClickARCproductioniscoveredbyarticle11Bcertification.","message":"Product is not available."}
+2021-02-25T18:56:50+00:00 INFO (6): {"status":"failed","sku":"DoesNOTconformtoENISO20471\\\"","message":"Product is not available."}
+2021-02-25T18:59:27+00:00 INFO (6): {"status":"failed","sku":"Frontpocket\\\"","message":"Product is not available."}
+2021-02-25T18:59:49+00:00 INFO (6): {"status":"failed","sku":"CCCTB","message":"Product is not available."}
+2021-02-25T19:00:14+00:00 INFO (6): {"status":"failed","sku":"ConformstoEN342.\\\"","message":"Product is not available."}
+2021-02-25T19:00:15+00:00 INFO (6): {"status":"failed","sku":"ConformstoEN342.\\\"","message":"Product is not available."}
+2021-02-25T19:00:17+00:00 INFO (6): {"status":"failed","sku":"2\\\"Reflectivelegbands","message":"Product is not available."}
+2021-02-25T19:00:17+00:00 INFO (6): {"status":"failed","sku":"ConformstoEN342\\\"","message":"Product is not available."}
+2021-02-25T19:00:17+00:00 INFO (6): {"status":"failed","sku":"2\\\"Reflectivelegbands","message":"Product is not available."}
+2021-02-25T19:00:18+00:00 INFO (6): {"status":"failed","sku":"ConformstoEN342\\\"","message":"Product is not available."}
+2021-02-25T19:00:31+00:00 INFO (6): {"status":"failed","sku":"ConformstoEN342\\\"","message":"Product is not available."}
+2021-02-25T19:00:33+00:00 INFO (6): {"status":"failed","sku":"ConformstoEN342\\\"","message":"Product is not available."}
+2021-02-25T19:05:58+00:00 INFO (6): {"status":"failed","sku":"CF60BL","message":"Product is not available."}
+2021-02-25T19:05:59+00:00 INFO (6): {"status":"failed","sku":"CF60BL","message":"Product is not available."}
+2021-02-25T19:06:00+00:00 INFO (6): {"status":"failed","sku":"CF60BL","message":"Product is not available."}
+2021-02-25T19:11:05+00:00 INFO (6): {"status":"failed","sku":"CLCTS","message":"Product is not available."}
+2021-02-25T19:11:06+00:00 INFO (6): {"status":"failed","sku":"CLCTS","message":"Product is not available."}
+2021-02-25T19:11:07+00:00 INFO (6): {"status":"failed","sku":"CLCTS","message":"Product is not available."}
+2021-02-25T19:11:16+00:00 INFO (6): {"status":"failed","sku":"CLCTSN","message":"Product is not available."}
+2021-02-25T19:11:16+00:00 INFO (6): {"status":"failed","sku":"CLCTSN","message":"Product is not available."}
+2021-02-25T19:11:17+00:00 INFO (6): {"status":"failed","sku":"CLCTSN","message":"Product is not available."}
+2021-02-25T19:12:29+00:00 INFO (6): {"status":"failed","sku":"CLQZSS","message":"Product is not available."}
+2021-02-25T19:12:31+00:00 INFO (6): {"status":"failed","sku":"CLQZSS","message":"Product is not available."}
+2021-02-25T19:12:31+00:00 INFO (6): {"status":"failed","sku":"CLQZSS","message":"Product is not available."}
+2021-02-25T19:12:51+00:00 INFO (6): {"status":"failed","sku":"100%Polyester","message":"Product is not available."}
+2021-02-25T19:12:52+00:00 INFO (6): {"status":"failed","sku":"3Buttonplacket","message":"Product is not available."}
+2021-02-25T19:12:52+00:00 INFO (6): {"status":"failed","sku":"100%Polyester","message":"Product is not available."}
+2021-02-25T19:12:52+00:00 INFO (6): {"status":"failed","sku":"100%Polyester","message":"Product is not available."}
+2021-02-25T19:12:52+00:00 INFO (6): {"status":"failed","sku":"Retro-Reflectivetape","message":"Product is not available."}
+2021-02-25T19:12:53+00:00 INFO (6): {"status":"failed","sku":"3Buttonplacket","message":"Product is not available."}
+2021-02-25T19:12:53+00:00 INFO (6): {"status":"failed","sku":"Navycontrastcollarshouldersandhem","message":"Product is not available."}
+2021-02-25T19:12:53+00:00 INFO (6): {"status":"failed","sku":"3Buttonplacket","message":"Product is not available."}
+2021-02-25T19:12:53+00:00 INFO (6): {"status":"failed","sku":"Retro-Reflectivetape","message":"Product is not available."}
+2021-02-25T19:12:53+00:00 INFO (6): {"status":"failed","sku":"Retro-Reflectivetape","message":"Product is not available."}
+2021-02-25T19:12:53+00:00 INFO (6): {"status":"failed","sku":"ConformstoENISO20471Class2highvisibility","message":"Product is not available."}
+2021-02-25T19:12:54+00:00 INFO (6): {"status":"failed","sku":"Navycontrastcollarshouldersandhem","message":"Product is not available."}
+2021-02-25T19:12:54+00:00 INFO (6): {"status":"failed","sku":"Navycontrastcollarshouldersandhem","message":"Product is not available."}
+2021-02-25T19:12:54+00:00 INFO (6): {"status":"failed","sku":"XS-SsizesonlyconformtoENISO20471Class1HighVisibility\\\"","message":"Product is not available."}
+2021-02-25T19:12:54+00:00 INFO (6): {"status":"failed","sku":"ConformstoENISO20471Class2highvisibility","message":"Product is not available."}
+2021-02-25T19:12:54+00:00 INFO (6): {"status":"failed","sku":"ConformstoENISO20471Class2highvisibility","message":"Product is not available."}
+2021-02-25T19:12:55+00:00 INFO (6): {"status":"failed","sku":"XS-SsizesonlyconformtoENISO20471Class1HighVisibility\\\"","message":"Product is not available."}
+2021-02-25T19:12:55+00:00 INFO (6): {"status":"failed","sku":"XS-SsizesonlyconformtoENISO20471Class1HighVisibility\\\"","message":"Product is not available."}
+2021-02-25T19:17:44+00:00 INFO (6): {"status":"failed","sku":"DEWDPG213L","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:17:55+00:00 INFO (6): {"status":"failed","sku":"DEWDPG214L","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:20:47+00:00 INFO (6): {"status":"failed","sku":"DEWPERFORM2","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:21:27+00:00 INFO (6): {"status":"failed","sku":"DEWRIGGER","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:21:57+00:00 INFO (6): {"status":"failed","sku":"DEWSOCKS","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:23:23+00:00 INFO (6): {"status":"failed","sku":"DIC650","message":"Product is not available."}
+2021-02-25T19:23:24+00:00 INFO (6): {"status":"failed","sku":"DIC650","message":"Product is not available."}
+2021-02-25T19:23:24+00:00 INFO (6): {"status":"failed","sku":"DIC650","message":"Product is not available."}
+2021-02-25T19:24:28+00:00 INFO (6): {"status":"failed","sku":"DICDCK00008S","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:27:34+00:00 INFO (6): {"status":"failed","sku":"FAIBRACESTM","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:27:34+00:00 INFO (6): {"status":"failed","sku":"FAIBRACESTM","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:28:08+00:00 INFO (6): {"status":"failed","sku":"FAITLKNEEL","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:30:01+00:00 INFO (6): {"status":"failed","sku":"Highvisibilityorangefabric","message":"Product is not available."}
+2021-02-25T19:30:01+00:00 INFO (6): {"status":"failed","sku":"Highvisibilityorangefabric","message":"Product is not available."}
+2021-02-25T19:30:01+00:00 INFO (6): {"status":"failed","sku":"Highvisibilityorangefabric","message":"Product is not available."}
+2021-02-25T19:30:02+00:00 INFO (6): {"status":"failed","sku":"ProvenindustriallaunderingtoISO15797andhomewashingat40C","message":"Product is not available."}
+2021-02-25T19:30:02+00:00 INFO (6): {"status":"failed","sku":"ProvenindustriallaunderingtoISO15797andhomewashingat40C","message":"Product is not available."}
+2021-02-25T19:30:02+00:00 INFO (6): {"status":"failed","sku":"ProvenindustriallaunderingtoISO15797andhomewashingat40C","message":"Product is not available."}
+2021-02-25T19:30:03+00:00 INFO (6): {"status":"failed","sku":"Frequentwashingtoremovedirtandcontaminatescombinedwithtumbledryingwillprolongthelifeanduseofthisgarment","message":"Product is not available."}
+2021-02-25T19:30:03+00:00 INFO (6): {"status":"failed","sku":"Frequentwashingtoremovedirtandcontaminatescombinedwithtumbledryingwillprolongthelifeanduseofthisgarment","message":"Product is not available."}
+2021-02-25T19:30:03+00:00 INFO (6): {"status":"failed","sku":"Frequentwashingtoremovedirtandcontaminatescombinedwithtumbledryingwillprolongthelifeanduseofthisgarment","message":"Product is not available."}
+2021-02-25T19:30:03+00:00 INFO (6): {"status":"failed","sku":"HoodcanbeattachedtohivisjacketsHV150","message":"Product is not available."}
+2021-02-25T19:30:03+00:00 INFO (6): {"status":"failed","sku":"HoodcanbeattachedtohivisjacketsHV150","message":"Product is not available."}
+2021-02-25T19:30:03+00:00 INFO (6): {"status":"failed","sku":"HoodcanbeattachedtohivisjacketsHV150","message":"Product is not available."}
+2021-02-25T19:30:03+00:00 INFO (6): {"status":"failed","sku":"Frequentwashingtoremovedirtandcontaminatescombinedwithtumbledryingwillprolongthelifeanduseofthisgarment","message":"Product is not available."}
+2021-02-25T19:30:04+00:00 INFO (6): {"status":"failed","sku":"Size:Onesize.\\\"","message":"Product is not available."}
+2021-02-25T19:30:04+00:00 INFO (6): {"status":"failed","sku":"Size:Onesize.\\\"","message":"Product is not available."}
+2021-02-25T19:30:04+00:00 INFO (6): {"status":"failed","sku":"Size:Onesize.\\\"","message":"Product is not available."}
+2021-02-25T19:30:04+00:00 INFO (6): {"status":"failed","sku":"HoodcanbeattachedtohivisjacketsHV150","message":"Product is not available."}
+2021-02-25T19:30:04+00:00 INFO (6): {"status":"failed","sku":"Size:Onesize.\\\"","message":"Product is not available."}
+2021-02-25T19:30:38+00:00 INFO (6): {"status":"failed","sku":"HighFrequencySpectrum\\\"H\\\"-0.598Pass\\\"","message":"Product is not available."}
+2021-02-25T19:30:38+00:00 INFO (6): {"status":"failed","sku":"HighFrequencySpectrum\\\"H\\\"-0.598Pass\\\"","message":"Product is not available."}
+2021-02-25T19:30:38+00:00 INFO (6): {"status":"failed","sku":"HighFrequencySpectrum\\\"H\\\"-0.598Pass\\\"","message":"Product is not available."}
+2021-02-25T19:30:38+00:00 INFO (6): {"status":"failed","sku":"HighFrequencySpectrum\\\"H\\\"-0.598Pass\\\"","message":"Product is not available."}
+2021-02-25T19:32:59+00:00 INFO (6): {"status":"failed","sku":"4adjustmentpoints","message":"Product is not available."}
+2021-02-25T19:32:59+00:00 INFO (6): {"status":"failed","sku":"Sub-pelvicstrap","message":"Product is not available."}
+2021-02-25T19:33:00+00:00 INFO (6): {"status":"failed","sku":"4adjustmentpoints","message":"Product is not available."}
+2021-02-25T19:33:00+00:00 INFO (6): {"status":"failed","sku":"4adjustmentpoints","message":"Product is not available."}
+2021-02-25T19:33:00+00:00 INFO (6): {"status":"failed","sku":"Nolanyardwiththisharness.\\\"","message":"Product is not available."}
+2021-02-25T19:33:00+00:00 INFO (6): {"status":"failed","sku":"Sub-pelvicstrap","message":"Product is not available."}
+2021-02-25T19:33:00+00:00 INFO (6): {"status":"failed","sku":"Sub-pelvicstrap","message":"Product is not available."}
+2021-02-25T19:33:01+00:00 INFO (6): {"status":"failed","sku":"Nolanyardwiththisharness.\\\"","message":"Product is not available."}
+2021-02-25T19:33:01+00:00 INFO (6): {"status":"failed","sku":"Nolanyardwiththisharness.\\\"","message":"Product is not available."}
+2021-02-25T19:43:17+00:00 INFO (6): {"status":"failed","sku":"IRW1050382","message":"Product is not available."}
+2021-02-25T19:43:18+00:00 INFO (6): {"status":"failed","sku":"IRW1050382","message":"Product is not available."}
+2021-02-25T19:43:20+00:00 INFO (6): {"status":"failed","sku":"IRW1050382","message":"Product is not available."}
+2021-02-25T19:43:53+00:00 INFO (6): {"status":"failed","sku":"JH001","message":"Product is not available."}
+2021-02-25T19:43:53+00:00 INFO (6): {"status":"failed","sku":"JH001","message":"Product is not available."}
+2021-02-25T19:43:54+00:00 INFO (6): {"status":"failed","sku":"JH001","message":"Product is not available."}
+2021-02-25T19:44:48+00:00 INFO (6): {"status":"failed","sku":"KUN125","message":"Product is not available."}
+2021-02-25T19:44:48+00:00 INFO (6): {"status":"failed","sku":"KUN125","message":"Product is not available."}
+2021-02-25T19:44:48+00:00 INFO (6): {"status":"failed","sku":"KUN125","message":"Product is not available."}
+2021-02-25T19:44:48+00:00 INFO (6): {"status":"failed","sku":"KUN130","message":"Product is not available."}
+2021-02-25T19:44:48+00:00 INFO (6): {"status":"failed","sku":"KUN130","message":"Product is not available."}
+2021-02-25T19:44:48+00:00 INFO (6): {"status":"failed","sku":"KUN130","message":"Product is not available."}
+2021-02-25T19:44:49+00:00 INFO (6): {"status":"failed","sku":"KUN140","message":"Product is not available."}
+2021-02-25T19:44:49+00:00 INFO (6): {"status":"failed","sku":"KUN140","message":"Product is not available."}
+2021-02-25T19:44:49+00:00 INFO (6): {"status":"failed","sku":"KUN140","message":"Product is not available."}
+2021-02-25T19:44:49+00:00 INFO (6): {"status":"failed","sku":"KUN145","message":"Product is not available."}
+2021-02-25T19:44:50+00:00 INFO (6): {"status":"failed","sku":"KUN145","message":"Product is not available."}
+2021-02-25T19:44:50+00:00 INFO (6): {"status":"failed","sku":"KUN145","message":"Product is not available."}
+2021-02-25T19:45:00+00:00 INFO (6): {"status":"failed","sku":"KUN145XL","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:45:23+00:00 INFO (6): {"status":"failed","sku":"KUNEL5623","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:45:34+00:00 INFO (6): {"status":"failed","sku":"KUNEL892","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:46:53+00:00 INFO (6): {"status":"failed","sku":"KUNKP301","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:47:06+00:00 INFO (6): {"status":"failed","sku":"KUNKP309","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:47:17+00:00 INFO (6): {"status":"failed","sku":"KUNKP314","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:47:17+00:00 INFO (6): {"status":"failed","sku":"KUNKP314","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:47:42+00:00 INFO (6): {"status":"failed","sku":"KUNKP342","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:48:39+00:00 INFO (6): {"status":"failed","sku":"KUNSP15Y","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:48:51+00:00 INFO (6): {"status":"failed","sku":"KUNSP17R","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:50:44+00:00 INFO (6): {"status":"failed","sku":"M\/T821","message":"Request does not match any route."}
+2021-02-25T19:50:44+00:00 INFO (6): {"status":"failed","sku":"M\/T821","message":"Request does not match any route."}
+2021-02-25T19:50:44+00:00 INFO (6): {"status":"failed","sku":"M\/T821","message":"Request does not match any route."}
+2021-02-25T19:50:44+00:00 INFO (6): {"status":"failed","sku":"M\/T821","message":"Request does not match any route."}
+2021-02-25T19:52:15+00:00 INFO (6): {"status":"failed","sku":"OXS","message":"Product is not available."}
+2021-02-25T19:52:16+00:00 INFO (6): {"status":"failed","sku":"OXS","message":"Product is not available."}
+2021-02-25T19:52:16+00:00 INFO (6): {"status":"failed","sku":"OXS","message":"Product is not available."}
+2021-02-25T19:52:25+00:00 INFO (6): {"status":"failed","sku":"PA483","message":"Product is not available."}
+2021-02-25T19:52:27+00:00 INFO (6): {"status":"failed","sku":"PA483","message":"Product is not available."}
+2021-02-25T19:52:27+00:00 INFO (6): {"status":"failed","sku":"PA483","message":"Product is not available."}
+2021-02-25T19:54:35+00:00 INFO (6): {"status":"failed","sku":"DoesNOTconformtoENISO20471\\\"","message":"Product is not available."}
+2021-02-25T19:54:36+00:00 INFO (6): {"status":"failed","sku":"DoesNOTconformtoENISO20471\\\"","message":"Product is not available."}
+2021-02-25T19:54:36+00:00 INFO (6): {"status":"failed","sku":"DoesNOTconformtoENISO20471\\\"","message":"Product is not available."}
+2021-02-25T19:55:12+00:00 INFO (6): {"status":"failed","sku":"MadefromNyplaxwhichisaPVC\/Nylonamalgam.","message":"Product is not available."}
+2021-02-25T19:55:13+00:00 INFO (6): {"status":"failed","sku":"Goodtensilestrength.","message":"Product is not available."}
+2021-02-25T19:55:13+00:00 INFO (6): {"status":"failed","sku":"MadefromNyplaxwhichisaPVC\/Nylonamalgam.","message":"Product is not available."}
+2021-02-25T19:55:13+00:00 INFO (6): {"status":"failed","sku":"MadefromNyplaxwhichisaPVC\/Nylonamalgam.","message":"Product is not available."}
+2021-02-25T19:55:13+00:00 INFO (6): {"status":"failed","sku":"Resistanttoanimalfatsandminorchemicals(cleaningagents).NOTACIDSANDTOXICCHEMICALS.\\\"","message":"Product is not available."}
+2021-02-25T19:55:14+00:00 INFO (6): {"status":"failed","sku":"Goodtensilestrength.","message":"Product is not available."}
+2021-02-25T19:55:14+00:00 INFO (6): {"status":"failed","sku":"PR740","message":"Product is not available."}
+2021-02-25T19:55:14+00:00 INFO (6): {"status":"failed","sku":"Goodtensilestrength.","message":"Product is not available."}
+2021-02-25T19:55:14+00:00 INFO (6): {"status":"failed","sku":"MadefromNyplaxwhichisaPVC\/Nylonamalgam.","message":"Product is not available."}
+2021-02-25T19:55:14+00:00 INFO (6): {"status":"failed","sku":"Resistanttoanimalfatsandminorchemicals(cleaningagents).NOTACIDSANDTOXICCHEMICALS.\\\"","message":"Product is not available."}
+2021-02-25T19:55:15+00:00 INFO (6): {"status":"failed","sku":"Resistanttoanimalfatsandminorchemicals(cleaningagents).NOTACIDSANDTOXICCHEMICALS.\\\"","message":"Product is not available."}
+2021-02-25T19:55:15+00:00 INFO (6): {"status":"failed","sku":"Goodtensilestrength.","message":"Product is not available."}
+2021-02-25T19:55:15+00:00 INFO (6): {"status":"failed","sku":"PR740","message":"Product is not available."}
+2021-02-25T19:55:15+00:00 INFO (6): {"status":"failed","sku":"PR740","message":"Product is not available."}
+2021-02-25T19:55:15+00:00 INFO (6): {"status":"failed","sku":"Resistanttoanimalfatsandminorchemicals(cleaningagents).NOTACIDSANDTOXICCHEMICALS.\\\"","message":"Product is not available."}
+2021-02-25T19:55:16+00:00 INFO (6): {"status":"failed","sku":"PR740","message":"Product is not available."}
+2021-02-25T19:56:18+00:00 INFO (6): {"status":"failed","sku":"Eyeleted","message":"Product is not available."}
+2021-02-25T19:56:19+00:00 INFO (6): {"status":"failed","sku":"Theaprondesignisbibfrontstylewithmetaleyelets&hemmedallround","message":"Product is not available."}
+2021-02-25T19:56:19+00:00 INFO (6): {"status":"failed","sku":"MinimalRiskApron","message":"Product is not available."}
+2021-02-25T19:56:20+00:00 INFO (6): {"status":"failed","sku":"Aprontiesnotincluded.\\\"","message":"Product is not available."}
+2021-02-25T19:56:20+00:00 INFO (6): {"status":"failed","sku":"Eyeleted","message":"Product is not available."}
+2021-02-25T19:56:21+00:00 INFO (6): {"status":"failed","sku":"Eyeleted","message":"Product is not available."}
+2021-02-25T19:56:21+00:00 INFO (6): {"status":"failed","sku":"Theaprondesignisbibfrontstylewithmetaleyelets&hemmedallround","message":"Product is not available."}
+2021-02-25T19:56:21+00:00 INFO (6): {"status":"failed","sku":"Theaprondesignisbibfrontstylewithmetaleyelets&hemmedallround","message":"Product is not available."}
+2021-02-25T19:56:22+00:00 INFO (6): {"status":"failed","sku":"MinimalRiskApron","message":"Product is not available."}
+2021-02-25T19:56:22+00:00 INFO (6): {"status":"failed","sku":"MinimalRiskApron","message":"Product is not available."}
+2021-02-25T19:56:22+00:00 INFO (6): {"status":"failed","sku":"Aprontiesnotincluded.\\\"","message":"Product is not available."}
+2021-02-25T19:56:23+00:00 INFO (6): {"status":"failed","sku":"Aprontiesnotincluded.\\\"","message":"Product is not available."}
+2021-02-25T19:57:25+00:00 INFO (6): {"status":"failed","sku":"RNKBGHT4233","message":"The product was unable to be saved. Please try again."}
+2021-02-25T19:58:00+00:00 INFO (6): {"status":"failed","sku":"280gsm80-20polyestercotton","message":"Product is not available."}
+2021-02-25T19:58:00+00:00 INFO (6): {"status":"failed","sku":"Teflontreatmentcoatedforimprovedsoilrelease","message":"Product is not available."}
+2021-02-25T19:58:01+00:00 INFO (6): {"status":"failed","sku":"Durablehardwearingwhilstremainingsoftandcomfortable","message":"Product is not available."}
+2021-02-25T19:58:01+00:00 INFO (6): {"status":"failed","sku":"280gsm80-20polyestercotton","message":"Product is not available."}
+2021-02-25T19:58:02+00:00 INFO (6): {"status":"failed","sku":"280gsm80-20polyestercotton","message":"Product is not available."}
+2021-02-25T19:58:02+00:00 INFO (6): {"status":"failed","sku":"Triplesewnseamsforextrastrength","message":"Product is not available."}
+2021-02-25T19:58:02+00:00 INFO (6): {"status":"failed","sku":"Teflontreatmentcoatedforimprovedsoilrelease","message":"Product is not available."}
+2021-02-25T19:58:02+00:00 INFO (6): {"status":"failed","sku":"Teflontreatmentcoatedforimprovedsoilrelease","message":"Product is not available."}
+2021-02-25T19:58:02+00:00 INFO (6): {"status":"failed","sku":"7Beltloopwaistband","message":"Product is not available."}
+2021-02-25T19:58:03+00:00 INFO (6): {"status":"failed","sku":"Durablehardwearingwhilstremainingsoftandcomfortable","message":"Product is not available."}
+2021-02-25T19:58:03+00:00 INFO (6): {"status":"failed","sku":"Durablehardwearingwhilstremainingsoftandcomfortable","message":"Product is not available."}
+2021-02-25T19:58:03+00:00 INFO (6): {"status":"failed","sku":"2xcargopockets","message":"Product is not available."}
+2021-02-25T19:58:03+00:00 INFO (6): {"status":"failed","sku":"Triplesewnseamsforextrastrength","message":"Product is not available."}
+2021-02-25T19:58:03+00:00 INFO (6): {"status":"failed","sku":"Triplesewnseamsforextrastrength","message":"Product is not available."}
+2021-02-25T19:58:04+00:00 INFO (6): {"status":"failed","sku":"Kneepadpockets","message":"Product is not available."}
+2021-02-25T19:58:04+00:00 INFO (6): {"status":"failed","sku":"7Beltloopwaistband","message":"Product is not available."}
+2021-02-25T19:58:04+00:00 INFO (6): {"status":"failed","sku":"7Beltloopwaistband","message":"Product is not available."}
+2021-02-25T19:58:04+00:00 INFO (6): {"status":"failed","sku":"3x3MScotchlite-Retro-reflectivelegbands","message":"Product is not available."}
+2021-02-25T19:58:05+00:00 INFO (6): {"status":"failed","sku":"2xcargopockets","message":"Product is not available."}
+2021-02-25T19:58:05+00:00 INFO (6): {"status":"failed","sku":"2xcargopockets","message":"Product is not available."}
+2021-02-25T19:58:05+00:00 INFO (6): {"status":"failed","sku":"Tallandshortlegoptionavailable","message":"Product is not available."}
+2021-02-25T19:58:05+00:00 INFO (6): {"status":"failed","sku":"Kneepadpockets","message":"Product is not available."}
+2021-02-25T19:58:05+00:00 INFO (6): {"status":"failed","sku":"Kneepadpockets","message":"Product is not available."}
+2021-02-25T19:58:05+00:00 INFO (6): {"status":"failed","sku":"ENISO20471","message":"Product is not available."}
+2021-02-25T19:58:06+00:00 INFO (6): {"status":"failed","sku":"3x3MScotchlite-Retro-reflectivelegbands","message":"Product is not available."}
+2021-02-25T19:58:06+00:00 INFO (6): {"status":"failed","sku":"3x3MScotchlite-Retro-reflectivelegbands","message":"Product is not available."}
+2021-02-25T19:58:06+00:00 INFO (6): {"status":"failed","sku":"Class2highvisibility","message":"Product is not available."}
+2021-02-25T19:58:06+00:00 INFO (6): {"status":"failed","sku":"Tallandshortlegoptionavailable","message":"Product is not available."}
+2021-02-25T19:58:06+00:00 INFO (6): {"status":"failed","sku":"Tallandshortlegoptionavailable","message":"Product is not available."}
+2021-02-25T19:58:07+00:00 INFO (6): {"status":"failed","sku":"RIS-3279-TOM-Railwayusecertified.\\\"","message":"Product is not available."}
+2021-02-25T19:58:07+00:00 INFO (6): {"status":"failed","sku":"ENISO20471","message":"Product is not available."}
+2021-02-25T19:58:07+00:00 INFO (6): {"status":"failed","sku":"ENISO20471","message":"Product is not available."}
+2021-02-25T19:58:07+00:00 INFO (6): {"status":"failed","sku":"Class2highvisibility","message":"Product is not available."}
+2021-02-25T19:58:07+00:00 INFO (6): {"status":"failed","sku":"Class2highvisibility","message":"Product is not available."}
+2021-02-25T19:58:08+00:00 INFO (6): {"status":"failed","sku":"RIS-3279-TOM-Railwayusecertified.\\\"","message":"Product is not available."}
+2021-02-25T19:58:08+00:00 INFO (6): {"status":"failed","sku":"RIS-3279-TOM-Railwayusecertified.\\\"","message":"Product is not available."}
+2021-02-25T19:58:21+00:00 INFO (6): {"status":"failed","sku":"100%polyesterfabric","message":"Product is not available."}
+2021-02-25T19:58:21+00:00 INFO (6): {"status":"failed","sku":"Quickreleasetoshouldersandsides","message":"Product is not available."}
+2021-02-25T19:58:22+00:00 INFO (6): {"status":"failed","sku":"Allhookandloopclosure","message":"Product is not available."}
+2021-02-25T19:58:22+00:00 INFO (6): {"status":"failed","sku":"100%polyesterfabric","message":"Product is not available."}
+2021-02-25T19:58:22+00:00 INFO (6): {"status":"failed","sku":"Retroreflectivetape","message":"Product is not available."}
+2021-02-25T19:58:22+00:00 INFO (6): {"status":"failed","sku":"Quickreleasetoshouldersandsides","message":"Product is not available."}
+2021-02-25T19:58:23+00:00 INFO (6): {"status":"failed","sku":"ENISO20471","message":"Product is not available."}
+2021-02-25T19:58:23+00:00 INFO (6): {"status":"failed","sku":"Allhookandloopclosure","message":"Product is not available."}
+2021-02-25T19:58:23+00:00 INFO (6): {"status":"failed","sku":"Class2highvisibility","message":"Product is not available."}
+2021-02-25T19:58:24+00:00 INFO (6): {"status":"failed","sku":"Retroreflectivetape","message":"Product is not available."}
+2021-02-25T19:58:24+00:00 INFO (6): {"status":"failed","sku":"RIS-3279-TOM-Railwayusecertified\\\"","message":"Product is not available."}
+2021-02-25T19:58:24+00:00 INFO (6): {"status":"failed","sku":"ENISO20471","message":"Product is not available."}
+2021-02-25T19:58:25+00:00 INFO (6): {"status":"failed","sku":"Class2highvisibility","message":"Product is not available."}
+2021-02-25T19:58:25+00:00 INFO (6): {"status":"failed","sku":"RIS-3279-TOM-Railwayusecertified\\\"","message":"Product is not available."}
+2021-02-25T19:58:41+00:00 INFO (6): {"status":"failed","sku":"RX01","message":"Product is not available."}
+2021-02-25T19:58:42+00:00 INFO (6): {"status":"failed","sku":"RX01","message":"Product is not available."}
+2021-02-25T19:58:42+00:00 INFO (6): {"status":"failed","sku":"RX05F","message":"Product is not available."}
+2021-02-25T19:58:42+00:00 INFO (6): {"status":"failed","sku":"RX05F","message":"Product is not available."}
+2021-02-25T19:58:42+00:00 INFO (6): {"status":"failed","sku":"RX101","message":"Product is not available."}
+2021-02-25T19:58:43+00:00 INFO (6): {"status":"failed","sku":"RX101","message":"Product is not available."}
+2021-02-25T20:00:29+00:00 INFO (6): {"status":"failed","sku":"RX50F","message":"Product is not available."}
+2021-02-25T20:00:29+00:00 INFO (6): {"status":"failed","sku":"RX50F","message":"Product is not available."}
+2021-02-25T20:00:30+00:00 INFO (6): {"status":"failed","sku":"RX50F","message":"Product is not available."}
+2021-02-25T20:02:02+00:00 INFO (6): {"status":"failed","sku":"25cmzipsatankleswithhookandlooptabclosure","message":"Product is not available."}
+2021-02-25T20:02:03+00:00 INFO (6): {"status":"failed","sku":"Stitchedandweldedseams\\\"","message":"Product is not available."}
+2021-02-25T20:02:04+00:00 INFO (6): {"status":"failed","sku":"25cmzipsatankleswithhookandlooptabclosure","message":"Product is not available."}
+2021-02-25T20:02:04+00:00 INFO (6): {"status":"failed","sku":"Stitchedandweldedseams\\\"","message":"Product is not available."}
+2021-02-25T20:05:43+00:00 INFO (6): {"status":"failed","sku":"SCAGLONITMXX","message":"The product was unable to be saved. Please try again."}
+2021-02-25T20:07:35+00:00 INFO (6): {"status":"failed","sku":"SCAPPEKP","message":"The product was unable to be saved. Please try again."}
+2021-02-25T20:08:20+00:00 INFO (6): {"status":"failed","sku":"SCAWWBACKPKY","message":"The product was unable to be saved. Please try again."}
+2021-02-25T20:10:41+00:00 INFO (6): {"status":"failed","sku":"Lightweight&comfortable.","message":"Product is not available."}
+2021-02-25T20:10:42+00:00 INFO (6): {"status":"failed","sku":"Windproof.","message":"Product is not available."}
+2021-02-25T20:10:43+00:00 INFO (6): {"status":"failed","sku":"Fleecebacked","message":"Product is not available."}
+2021-02-25T20:10:43+00:00 INFO (6): {"status":"failed","sku":"Lightweight&comfortable.","message":"Product is not available."}
+2021-02-25T20:10:43+00:00 INFO (6): {"status":"failed","sku":"Fulllengthfrontziptoneck.","message":"Product is not available."}
+2021-02-25T20:10:43+00:00 INFO (6): {"status":"failed","sku":"Lightweight&comfortable.","message":"Product is not available."}
+2021-02-25T20:10:44+00:00 INFO (6): {"status":"failed","sku":"Windproof.","message":"Product is not available."}
+2021-02-25T20:10:44+00:00 INFO (6): {"status":"failed","sku":"Windproof.","message":"Product is not available."}
+2021-02-25T20:10:44+00:00 INFO (6): {"status":"failed","sku":"2Angledzippedhippockets.","message":"Product is not available."}
+2021-02-25T20:10:44+00:00 INFO (6): {"status":"failed","sku":"Fleecebacked","message":"Product is not available."}
+2021-02-25T20:10:44+00:00 INFO (6): {"status":"failed","sku":"Zippedrightbreastpocket.","message":"Product is not available."}
+2021-02-25T20:10:44+00:00 INFO (6): {"status":"failed","sku":"Fleecebacked","message":"Product is not available."}
+2021-02-25T20:10:45+00:00 INFO (6): {"status":"failed","sku":"Fulllengthfrontziptoneck.","message":"Product is not available."}
+2021-02-25T20:10:45+00:00 INFO (6): {"status":"failed","sku":"Plaincuffs.","message":"Product is not available."}
+2021-02-25T20:10:45+00:00 INFO (6): {"status":"failed","sku":"Fulllengthfrontziptoneck.","message":"Product is not available."}
+2021-02-25T20:10:45+00:00 INFO (6): {"status":"failed","sku":"2Angledzippedhippockets.","message":"Product is not available."}
+2021-02-25T20:10:46+00:00 INFO (6): {"status":"failed","sku":"Plainhem.","message":"Product is not available."}
+2021-02-25T20:10:46+00:00 INFO (6): {"status":"failed","sku":"2Angledzippedhippockets.","message":"Product is not available."}
+2021-02-25T20:10:46+00:00 INFO (6): {"status":"failed","sku":"Zippedrightbreastpocket.","message":"Product is not available."}
+2021-02-25T20:10:46+00:00 INFO (6): {"status":"failed","sku":"Retro-reflectivetape.","message":"Product is not available."}
+2021-02-25T20:10:46+00:00 INFO (6): {"status":"failed","sku":"Zippedrightbreastpocket.","message":"Product is not available."}
+2021-02-25T20:10:46+00:00 INFO (6): {"status":"failed","sku":"Plaincuffs.","message":"Product is not available."}
+2021-02-25T20:10:47+00:00 INFO (6): {"status":"failed","sku":"ConformstoENISO20471Class3highvisibility","message":"Product is not available."}
+2021-02-25T20:10:47+00:00 INFO (6): {"status":"failed","sku":"Plaincuffs.","message":"Product is not available."}
+2021-02-25T20:10:47+00:00 INFO (6): {"status":"failed","sku":"Plainhem.","message":"Product is not available."}
+2021-02-25T20:10:47+00:00 INFO (6): {"status":"failed","sku":"Plainhem.","message":"Product is not available."}
+2021-02-25T20:10:47+00:00 INFO (6): {"status":"failed","sku":"RIS-3279-TOM-Railwayusecertified\\\"","message":"Product is not available."}
+2021-02-25T20:10:47+00:00 INFO (6): {"status":"failed","sku":"Retro-reflectivetape.","message":"Product is not available."}
+2021-02-25T20:10:48+00:00 INFO (6): {"status":"failed","sku":"Retro-reflectivetape.","message":"Product is not available."}
+2021-02-25T20:10:48+00:00 INFO (6): {"status":"failed","sku":"ConformstoENISO20471Class3highvisibility","message":"Product is not available."}
+2021-02-25T20:10:48+00:00 INFO (6): {"status":"failed","sku":"ConformstoENISO20471Class3highvisibility","message":"Product is not available."}
+2021-02-25T20:10:49+00:00 INFO (6): {"status":"failed","sku":"RIS-3279-TOM-Railwayusecertified\\\"","message":"Product is not available."}
+2021-02-25T20:10:49+00:00 INFO (6): {"status":"failed","sku":"RIS-3279-TOM-Railwayusecertified\\\"","message":"Product is not available."}
+2021-02-25T20:10:49+00:00 INFO (6): {"status":"failed","sku":"Lightweight&comfortable.","message":"Product is not available."}
+2021-02-25T20:10:50+00:00 INFO (6): {"status":"failed","sku":"Windproof.","message":"Product is not available."}
+2021-02-25T20:10:50+00:00 INFO (6): {"status":"failed","sku":"Fleecebacked","message":"Product is not available."}
+2021-02-25T20:10:51+00:00 INFO (6): {"status":"failed","sku":"Fulllengthfrontziptoneck.","message":"Product is not available."}
+2021-02-25T20:10:51+00:00 INFO (6): {"status":"failed","sku":"Lightweight&comfortable.","message":"Product is not available."}
+2021-02-25T20:10:51+00:00 INFO (6): {"status":"failed","sku":"Lightweight&comfortable.","message":"Product is not available."}
+2021-02-25T20:10:52+00:00 INFO (6): {"status":"failed","sku":"2Angledzippedhippockets.","message":"Product is not available."}
+2021-02-25T20:10:52+00:00 INFO (6): {"status":"failed","sku":"Windproof.","message":"Product is not available."}
+2021-02-25T20:10:52+00:00 INFO (6): {"status":"failed","sku":"Windproof.","message":"Product is not available."}
+2021-02-25T20:10:52+00:00 INFO (6): {"status":"failed","sku":"Zippedrightbreastpocket.","message":"Product is not available."}
+2021-02-25T20:10:52+00:00 INFO (6): {"status":"failed","sku":"Fleecebacked","message":"Product is not available."}
+2021-02-25T20:10:53+00:00 INFO (6): {"status":"failed","sku":"Fleecebacked","message":"Product is not available."}
+2021-02-25T20:10:53+00:00 INFO (6): {"status":"failed","sku":"Plaincuffs.","message":"Product is not available."}
+2021-02-25T20:10:53+00:00 INFO (6): {"status":"failed","sku":"Fulllengthfrontziptoneck.","message":"Product is not available."}
+2021-02-25T20:10:53+00:00 INFO (6): {"status":"failed","sku":"Fulllengthfrontziptoneck.","message":"Product is not available."}
+2021-02-25T20:10:53+00:00 INFO (6): {"status":"failed","sku":"Plainhem.","message":"Product is not available."}
+2021-02-25T20:10:54+00:00 INFO (6): {"status":"failed","sku":"2Angledzippedhippockets.","message":"Product is not available."}
+2021-02-25T20:10:54+00:00 INFO (6): {"status":"failed","sku":"2Angledzippedhippockets.","message":"Product is not available."}
+2021-02-25T20:10:54+00:00 INFO (6): {"status":"failed","sku":"Retro-reflectivetape.","message":"Product is not available."}
+2021-02-25T20:10:54+00:00 INFO (6): {"status":"failed","sku":"Zippedrightbreastpocket.","message":"Product is not available."}
+2021-02-25T20:10:54+00:00 INFO (6): {"status":"failed","sku":"Zippedrightbreastpocket.","message":"Product is not available."}
+2021-02-25T20:10:55+00:00 INFO (6): {"status":"failed","sku":"ConformstoENISO20471Class3highvisibility\\\"","message":"Product is not available."}
+2021-02-25T20:10:55+00:00 INFO (6): {"status":"failed","sku":"Plaincuffs.","message":"Product is not available."}
+2021-02-25T20:10:55+00:00 INFO (6): {"status":"failed","sku":"Plaincuffs.","message":"Product is not available."}
+2021-02-25T20:10:55+00:00 INFO (6): {"status":"failed","sku":"Plainhem.","message":"Product is not available."}
+2021-02-25T20:10:55+00:00 INFO (6): {"status":"failed","sku":"Plainhem.","message":"Product is not available."}
+2021-02-25T20:10:56+00:00 INFO (6): {"status":"failed","sku":"Retro-reflectivetape.","message":"Product is not available."}
+2021-02-25T20:10:56+00:00 INFO (6): {"status":"failed","sku":"Retro-reflectivetape.","message":"Product is not available."}
+2021-02-25T20:10:56+00:00 INFO (6): {"status":"failed","sku":"ConformstoENISO20471Class3highvisibility\\\"","message":"Product is not available."}
+2021-02-25T20:10:56+00:00 INFO (6): {"status":"failed","sku":"ConformstoENISO20471Class3highvisibility\\\"","message":"Product is not available."}
+2021-02-25T20:14:34+00:00 INFO (6): {"status":"failed","sku":"Highabrasionresistancealongwithgreatcomfortanddexterity","message":"Product is not available."}
+2021-02-25T20:14:34+00:00 INFO (6): {"status":"failed","sku":"ConformstoEN3884542","message":"Product is not available."}
+2021-02-25T20:14:35+00:00 INFO (6): {"status":"failed","sku":"4-Abrasion","message":"Product is not available."}
+2021-02-25T20:14:35+00:00 INFO (6): {"status":"failed","sku":"Highabrasionresistancealongwithgreatcomfortanddexterity","message":"Product is not available."}
+2021-02-25T20:14:36+00:00 INFO (6): {"status":"failed","sku":"5-CutResistance","message":"Product is not available."}
+2021-02-25T20:14:36+00:00 INFO (6): {"status":"failed","sku":"ConformstoEN3884542","message":"Product is not available."}
+2021-02-25T20:14:36+00:00 INFO (6): {"status":"failed","sku":"4-TearResistance","message":"Product is not available."}
+2021-02-25T20:14:37+00:00 INFO (6): {"status":"failed","sku":"4-Abrasion","message":"Product is not available."}
+2021-02-25T20:14:37+00:00 INFO (6): {"status":"failed","sku":"2-PunctureResistance","message":"Product is not available."}
+2021-02-25T20:14:37+00:00 INFO (6): {"status":"failed","sku":"5-CutResistance","message":"Product is not available."}
+2021-02-25T20:14:37+00:00 INFO (6): {"status":"failed","sku":"APPLICATIONS","message":"Product is not available."}
+2021-02-25T20:14:38+00:00 INFO (6): {"status":"failed","sku":"4-TearResistance","message":"Product is not available."}
+2021-02-25T20:14:38+00:00 INFO (6): {"status":"failed","sku":"MetalFabrication","message":"Product is not available."}
+2021-02-25T20:14:38+00:00 INFO (6): {"status":"failed","sku":"2-PunctureResistance","message":"Product is not available."}
+2021-02-25T20:14:39+00:00 INFO (6): {"status":"failed","sku":"Assembly","message":"Product is not available."}
+2021-02-25T20:14:39+00:00 INFO (6): {"status":"failed","sku":"APPLICATIONS","message":"Product is not available."}
+2021-02-25T20:14:39+00:00 INFO (6): {"status":"failed","sku":"GlassHandling","message":"Product is not available."}
+2021-02-25T20:14:40+00:00 INFO (6): {"status":"failed","sku":"MetalFabrication","message":"Product is not available."}
+2021-02-25T20:14:40+00:00 INFO (6): {"status":"failed","sku":"SheetMetalWork","message":"Product is not available."}
+2021-02-25T20:14:40+00:00 INFO (6): {"status":"failed","sku":"Assembly","message":"Product is not available."}
+2021-02-25T20:14:40+00:00 INFO (6): {"status":"failed","sku":"Automotive\\\"","message":"Product is not available."}
+2021-02-25T20:14:41+00:00 INFO (6): {"status":"failed","sku":"GlassHandling","message":"Product is not available."}
+2021-02-25T20:14:41+00:00 INFO (6): {"status":"failed","sku":"SheetMetalWork","message":"Product is not available."}
+2021-02-25T20:14:42+00:00 INFO (6): {"status":"failed","sku":"Automotive\\\"","message":"Product is not available."}
+2021-02-25T20:16:09+00:00 INFO (6): {"status":"failed","sku":"T\/BCT51","message":"Request does not match any route."}
+2021-02-25T20:16:09+00:00 INFO (6): {"status":"failed","sku":"T\/BCT51","message":"Request does not match any route."}
+2021-02-25T20:16:10+00:00 INFO (6): {"status":"failed","sku":"T\/BCT51","message":"Request does not match any route."}
+2021-02-25T20:16:19+00:00 INFO (6): {"status":"failed","sku":"T\/BKP1","message":"Request does not match any route."}
+2021-02-25T20:16:19+00:00 INFO (6): {"status":"failed","sku":"T\/BKP1","message":"Request does not match any route."}
+2021-02-25T20:16:29+00:00 INFO (6): {"status":"failed","sku":"T\/BKP101","message":"Request does not match any route."}
+2021-02-25T20:16:30+00:00 INFO (6): {"status":"failed","sku":"T\/BKP101","message":"Request does not match any route."}
+2021-02-25T20:16:39+00:00 INFO (6): {"status":"failed","sku":"T\/BKP102","message":"Request does not match any route."}
+2021-02-25T20:16:40+00:00 INFO (6): {"status":"failed","sku":"T\/BKP102","message":"Request does not match any route."}
+2021-02-25T20:16:49+00:00 INFO (6): {"status":"failed","sku":"T\/BKP203R","message":"Request does not match any route."}
+2021-02-25T20:16:59+00:00 INFO (6): {"status":"failed","sku":"T\/BKP2B","message":"Request does not match any route."}
+2021-02-25T20:17:10+00:00 INFO (6): {"status":"failed","sku":"T\/BKP3","message":"Request does not match any route."}
+2021-02-25T20:17:22+00:00 INFO (6): {"status":"failed","sku":"T\/BKPG2","message":"Request does not match any route."}
+2021-02-25T20:17:32+00:00 INFO (6): {"status":"failed","sku":"T\/BKPG201","message":"Request does not match any route."}
+2021-02-25T20:17:42+00:00 INFO (6): {"status":"failed","sku":"T\/BKPG203","message":"Request does not match any route."}
+2021-02-25T20:17:52+00:00 INFO (6): {"status":"failed","sku":"T\/BKPG205","message":"Request does not match any route."}
+2021-02-25T20:18:02+00:00 INFO (6): {"status":"failed","sku":"T\/BKPG3","message":"Request does not match any route."}
+2021-02-25T20:18:03+00:00 INFO (6): {"status":"failed","sku":"T\/CPTGL276M","message":"Product is not available."}
+2021-02-25T20:18:03+00:00 INFO (6): {"status":"failed","sku":"T\/CPTGL276S","message":"Product is not available."}
+2021-02-25T20:18:04+00:00 INFO (6): {"status":"failed","sku":"T\/CPTGL444L","message":"Product is not available."}
+2021-02-25T20:18:04+00:00 INFO (6): {"status":"failed","sku":"T\/CTCG8049","message":"Product is not available."}
+2021-02-25T20:18:04+00:00 INFO (6): {"status":"failed","sku":"T\/CTCG8050","message":"Product is not available."}
+2021-02-25T20:18:05+00:00 INFO (6): {"status":"failed","sku":"T\/CTFW","message":"Product is not available."}
+2021-02-25T20:18:14+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL101","message":"Request does not match any route."}
+2021-02-25T20:18:24+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL104M","message":"Request does not match any route."}
+2021-02-25T20:18:34+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL104S","message":"Request does not match any route."}
+2021-02-25T20:18:44+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL105M","message":"Request does not match any route."}
+2021-02-25T20:18:54+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL105S","message":"Request does not match any route."}
+2021-02-25T20:19:04+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL106M","message":"Request does not match any route."}
+2021-02-25T20:19:14+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL106S","message":"Request does not match any route."}
+2021-02-25T20:19:24+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL108M","message":"Request does not match any route."}
+2021-02-25T20:19:33+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL109M","message":"Request does not match any route."}
+2021-02-25T20:19:43+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL114M","message":"Request does not match any route."}
+2021-02-25T20:19:44+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL115M","message":"Product is not available."}
+2021-02-25T20:19:44+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL115S","message":"Product is not available."}
+2021-02-25T20:19:45+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL116M","message":"Product is not available."}
+2021-02-25T20:19:45+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL118M","message":"Product is not available."}
+2021-02-25T20:19:46+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL118S","message":"Product is not available."}
+2021-02-25T20:19:46+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL119M","message":"Product is not available."}
+2021-02-25T20:19:56+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL200M","message":"Request does not match any route."}
+2021-02-25T20:20:06+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL200S","message":"Request does not match any route."}
+2021-02-25T20:20:06+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL200S","message":"Request does not match any route."}
+2021-02-25T20:20:16+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL201","message":"Request does not match any route."}
+2021-02-25T20:20:16+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL201","message":"Request does not match any route."}
+2021-02-25T20:20:26+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL202","message":"Request does not match any route."}
+2021-02-25T20:20:26+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL202","message":"Request does not match any route."}
+2021-02-25T20:20:35+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL206","message":"Request does not match any route."}
+2021-02-25T20:20:36+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL206","message":"Request does not match any route."}
+2021-02-25T20:20:46+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL207","message":"Request does not match any route."}
+2021-02-25T20:20:46+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL207","message":"Request does not match any route."}
+2021-02-25T20:20:56+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL209","message":"Request does not match any route."}
+2021-02-25T20:20:56+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL209","message":"Request does not match any route."}
+2021-02-25T20:21:07+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL216","message":"Request does not match any route."}
+2021-02-25T20:21:07+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL216","message":"Request does not match any route."}
+2021-02-25T20:21:17+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL219","message":"Request does not match any route."}
+2021-02-25T20:21:17+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL219","message":"Request does not match any route."}
+2021-02-25T20:21:27+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL223M","message":"Request does not match any route."}
+2021-02-25T20:21:27+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL223M","message":"Request does not match any route."}
+2021-02-25T20:21:37+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL271M","message":"Request does not match any route."}
+2021-02-25T20:21:37+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL271M","message":"Request does not match any route."}
+2021-02-25T20:21:47+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL271S","message":"Request does not match any route."}
+2021-02-25T20:21:47+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL271S","message":"Request does not match any route."}
+2021-02-25T20:21:57+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL272M","message":"Request does not match any route."}
+2021-02-25T20:21:58+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL272M","message":"Request does not match any route."}
+2021-02-25T20:22:02+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL272S","message":"Request does not match any route."}
+2021-02-25T20:22:02+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL272S","message":"Request does not match any route."}
+2021-02-25T20:22:12+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL273S","message":"Request does not match any route."}
+2021-02-25T20:22:13+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL273S","message":"Request does not match any route."}
+2021-02-25T20:22:23+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL401","message":"Request does not match any route."}
+2021-02-25T20:22:23+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL401","message":"Request does not match any route."}
+2021-02-25T20:22:33+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL402","message":"Request does not match any route."}
+2021-02-25T20:22:33+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL402","message":"Request does not match any route."}
+2021-02-25T20:22:43+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL403","message":"Request does not match any route."}
+2021-02-25T20:22:44+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL403","message":"Request does not match any route."}
+2021-02-25T20:22:53+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL404","message":"Request does not match any route."}
+2021-02-25T20:22:53+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL404","message":"Request does not match any route."}
+2021-02-25T20:23:03+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL409","message":"Request does not match any route."}
+2021-02-25T20:23:04+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL409","message":"Request does not match any route."}
+2021-02-25T20:23:13+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL410","message":"Request does not match any route."}
+2021-02-25T20:23:14+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL410","message":"Request does not match any route."}
+2021-02-25T20:23:23+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL412","message":"Request does not match any route."}
+2021-02-25T20:23:23+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL412","message":"Request does not match any route."}
+2021-02-25T20:23:33+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL415","message":"Request does not match any route."}
+2021-02-25T20:23:34+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL415","message":"Request does not match any route."}
+2021-02-25T20:23:44+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL416","message":"Request does not match any route."}
+2021-02-25T20:23:44+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL416","message":"Request does not match any route."}
+2021-02-25T20:23:54+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL418L","message":"Request does not match any route."}
+2021-02-25T20:23:54+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL418L","message":"Request does not match any route."}
+2021-02-25T20:24:04+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL429","message":"Request does not match any route."}
+2021-02-25T20:24:05+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL429","message":"Request does not match any route."}
+2021-02-25T20:24:15+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL434","message":"Request does not match any route."}
+2021-02-25T20:24:15+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL434","message":"Request does not match any route."}
+2021-02-25T20:24:25+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL435L","message":"Request does not match any route."}
+2021-02-25T20:24:25+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL435L","message":"Request does not match any route."}
+2021-02-25T20:24:34+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL435M","message":"Request does not match any route."}
+2021-02-25T20:24:35+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL435M","message":"Request does not match any route."}
+2021-02-25T20:24:35+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL436L","message":"Product is not available."}
+2021-02-25T20:24:35+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL436L","message":"Product is not available."}
+2021-02-25T20:24:36+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL436XL","message":"Product is not available."}
+2021-02-25T20:24:36+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL436XL","message":"Product is not available."}
+2021-02-25T20:24:45+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL441L","message":"Request does not match any route."}
+2021-02-25T20:24:45+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL441L","message":"Request does not match any route."}
+2021-02-25T20:24:50+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL441M","message":"Request does not match any route."}
+2021-02-25T20:24:50+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL441M","message":"Request does not match any route."}
+2021-02-25T20:24:50+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL442L","message":"Product is not available."}
+2021-02-25T20:24:50+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL442L","message":"Product is not available."}
+2021-02-25T20:24:50+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL446L","message":"Product is not available."}
+2021-02-25T20:24:51+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL446L","message":"Product is not available."}
+2021-02-25T20:24:51+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL446XL","message":"Product is not available."}
+2021-02-25T20:24:51+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL446XL","message":"Product is not available."}
+2021-02-25T20:24:51+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL447L","message":"Product is not available."}
+2021-02-25T20:24:52+00:00 INFO (6): {"status":"failed","sku":"T\/CTGL447L","message":"Product is not available."}
+2021-02-25T20:27:58+00:00 INFO (6): {"status":"failed","sku":"TS015","message":"Product is not available."}
+2021-02-25T20:27:59+00:00 INFO (6): {"status":"failed","sku":"TS015","message":"Product is not available."}
+2021-02-25T20:28:03+00:00 INFO (6): {"status":"failed","sku":"TS015","message":"Product is not available."}
+2021-02-25T20:31:36+00:00 INFO (6): {"status":"failed","sku":"TS12F","message":"Product is not available."}
+2021-02-25T20:31:37+00:00 INFO (6): {"status":"failed","sku":"TS14","message":"Product is not available."}
+2021-02-25T20:31:37+00:00 INFO (6): {"status":"failed","sku":"TS12F","message":"Product is not available."}
+2021-02-25T20:31:37+00:00 INFO (6): {"status":"failed","sku":"TS15F","message":"Product is not available."}
+2021-02-25T20:31:38+00:00 INFO (6): {"status":"failed","sku":"TS14","message":"Product is not available."}
+2021-02-25T20:31:38+00:00 INFO (6): {"status":"failed","sku":"TS16F","message":"Product is not available."}
+2021-02-25T20:31:38+00:00 INFO (6): {"status":"failed","sku":"TS15F","message":"Product is not available."}
+2021-02-25T20:31:39+00:00 INFO (6): {"status":"failed","sku":"TS18F","message":"Product is not available."}
+2021-02-25T20:31:39+00:00 INFO (6): {"status":"failed","sku":"TS16F","message":"Product is not available."}
+2021-02-25T20:31:39+00:00 INFO (6): {"status":"failed","sku":"TS19F","message":"Product is not available."}
+2021-02-25T20:31:39+00:00 INFO (6): {"status":"failed","sku":"TS18F","message":"Product is not available."}
+2021-02-25T20:31:40+00:00 INFO (6): {"status":"failed","sku":"TS23F","message":"Product is not available."}
+2021-02-25T20:31:40+00:00 INFO (6): {"status":"failed","sku":"TS12F","message":"Product is not available."}
+2021-02-25T20:31:40+00:00 INFO (6): {"status":"failed","sku":"TS19F","message":"Product is not available."}
+2021-02-25T20:31:40+00:00 INFO (6): {"status":"failed","sku":"TS24F","message":"Product is not available."}
+2021-02-25T20:31:40+00:00 INFO (6): {"status":"failed","sku":"TS14","message":"Product is not available."}
+2021-02-25T20:31:41+00:00 INFO (6): {"status":"failed","sku":"TS23F","message":"Product is not available."}
+2021-02-25T20:31:41+00:00 INFO (6): {"status":"failed","sku":"TS26F","message":"Product is not available."}
+2021-02-25T20:31:41+00:00 INFO (6): {"status":"failed","sku":"TS15F","message":"Product is not available."}
+2021-02-25T20:31:41+00:00 INFO (6): {"status":"failed","sku":"TS24F","message":"Product is not available."}
+2021-02-25T20:31:41+00:00 INFO (6): {"status":"failed","sku":"TS27F","message":"Product is not available."}
+2021-02-25T20:31:42+00:00 INFO (6): {"status":"failed","sku":"TS16F","message":"Product is not available."}
+2021-02-25T20:31:42+00:00 INFO (6): {"status":"failed","sku":"TS26F","message":"Product is not available."}
+2021-02-25T20:31:42+00:00 INFO (6): {"status":"failed","sku":"TS30F","message":"Product is not available."}
+2021-02-25T20:31:42+00:00 INFO (6): {"status":"failed","sku":"TS18F","message":"Product is not available."}
+2021-02-25T20:31:42+00:00 INFO (6): {"status":"failed","sku":"TS27F","message":"Product is not available."}
+2021-02-25T20:31:43+00:00 INFO (6): {"status":"failed","sku":"TS31F","message":"Product is not available."}
+2021-02-25T20:31:43+00:00 INFO (6): {"status":"failed","sku":"TS19F","message":"Product is not available."}
+2021-02-25T20:31:43+00:00 INFO (6): {"status":"failed","sku":"TS30F","message":"Product is not available."}
+2021-02-25T20:31:43+00:00 INFO (6): {"status":"failed","sku":"TS36F","message":"Product is not available."}
+2021-02-25T20:31:43+00:00 INFO (6): {"status":"failed","sku":"TS23F","message":"Product is not available."}
+2021-02-25T20:31:43+00:00 INFO (6): {"status":"failed","sku":"TS31F","message":"Product is not available."}
+2021-02-25T20:31:44+00:00 INFO (6): {"status":"failed","sku":"TS24F","message":"Product is not available."}
+2021-02-25T20:31:44+00:00 INFO (6): {"status":"failed","sku":"TS36F","message":"Product is not available."}
+2021-02-25T20:31:44+00:00 INFO (6): {"status":"failed","sku":"TS26F","message":"Product is not available."}
+2021-02-25T20:31:45+00:00 INFO (6): {"status":"failed","sku":"TS27F","message":"Product is not available."}
+2021-02-25T20:31:45+00:00 INFO (6): {"status":"failed","sku":"TS30F","message":"Product is not available."}
+2021-02-25T20:31:46+00:00 INFO (6): {"status":"failed","sku":"TS31F","message":"Product is not available."}
+2021-02-25T20:31:46+00:00 INFO (6): {"status":"failed","sku":"TS36F","message":"Product is not available."}
+2021-02-25T20:33:01+00:00 INFO (6): {"status":"failed","sku":"UA002","message":"Product is not available."}
+2021-02-25T20:33:02+00:00 INFO (6): {"status":"failed","sku":"UA002","message":"Product is not available."}
+2021-02-25T20:33:04+00:00 INFO (6): {"status":"failed","sku":"UA002","message":"Product is not available."}
+2021-02-25T20:34:01+00:00 INFO (6): {"status":"failed","sku":"UA009","message":"Product is not available."}
+2021-02-25T20:34:01+00:00 INFO (6): {"status":"failed","sku":"UA009","message":"Product is not available."}
+2021-02-25T20:34:03+00:00 INFO (6): {"status":"failed","sku":"UA009","message":"Product is not available."}
+2021-02-25T20:34:34+00:00 INFO (6): {"status":"failed","sku":"VIT337100","message":"Product is not available."}
+2021-02-25T20:34:35+00:00 INFO (6): {"status":"failed","sku":"VIT337100","message":"Product is not available."}
+2021-02-25T20:35:19+00:00 INFO (6): {"status":"failed","sku":"VIT337150","message":"Product is not available."}
+2021-02-25T20:35:19+00:00 INFO (6): {"status":"failed","sku":"VIT337150","message":"Product is not available."}
+2021-02-25T20:35:20+00:00 INFO (6): {"status":"failed","sku":"VIT337150","message":"Product is not available."}
+2021-02-25T20:35:31+00:00 INFO (6): {"status":"failed","sku":"VIT337200","message":"Product is not available."}
+2021-02-25T20:35:31+00:00 INFO (6): {"status":"failed","sku":"VIT337200","message":"Product is not available."}
+2021-02-25T20:35:32+00:00 INFO (6): {"status":"failed","sku":"VIT337200","message":"Product is not available."}
+2021-02-25T20:36:25+00:00 INFO (6): {"status":"failed","sku":"VITBGLOVE012","message":"Product is not available."}
+2021-02-25T20:36:27+00:00 INFO (6): {"status":"failed","sku":"VITBGLOVE012","message":"Product is not available."}
+2021-02-25T20:36:27+00:00 INFO (6): {"status":"failed","sku":"VITBGLOVE012","message":"Product is not available."}
+2021-02-25T20:38:19+00:00 INFO (6): ---------------- END API Cron 25/02/21 20:38:19 ----------------
+2021-02-25T20:38:19+00:00 INFO (6): ---------------- END API Cron 25/02/21 20:38:19 ----------------
+2021-02-25T20:38:20+00:00 INFO (6): ---------------- END API Cron 25/02/21 20:38:20 ----------------

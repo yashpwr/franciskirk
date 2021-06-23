@@ -1,0 +1,6 @@
+2021-02-09T09:10:01+00:00 INFO (6): ---------------- START API Cron 09/02/21 09:10:01 ----------------
+2021-02-09T09:10:02+00:00 INFO (6): {"status":"failed","sku":"B\/DX32360","message":"Request does not match any route."}
+2021-02-09T09:10:03+00:00 INFO (6): {"status":"failed","sku":"B\/S06160","message":"Request does not match any route."}
+2021-02-09T09:10:04+00:00 INFO (6): {"status":"failed","sku":"D\/ISSJL200","message":"Request does not match any route."}
+2021-02-09T09:10:04+00:00 INFO (6): {"status":"failed","sku":"D\/ISSJL600","message":"Request does not match any route."}
+2021-02-09T09:21:25+00:00 INFO (6): ---------------- END API Cron 09/02/21 09:21:25 ----------------

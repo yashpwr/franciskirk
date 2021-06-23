@@ -1,0 +1,6 @@
+2021-01-31T17:25:01+00:00 INFO (6): ---------------- START API Cron 31/01/21 17:25:01 ----------------
+2021-01-31T17:25:04+00:00 INFO (6): {"status":"success","product_id":41356,"sku":"FORFFT420Y","message":"Product updated successfully"}
+2021-01-31T17:25:06+00:00 INFO (6): {"status":"success","product_id":41395,"sku":"FORMPS435Y","message":"Product updated successfully"}
+2021-01-31T17:25:08+00:00 INFO (6): {"status":"success","product_id":20639,"sku":"FORRH18ZP","message":"Product updated successfully"}
+2021-01-31T17:25:10+00:00 INFO (6): {"status":"success","product_id":20655,"sku":"FORRH588ZP","message":"Product updated successfully"}
+2021-01-31T17:25:10+00:00 INFO (6): ---------------- END API Cron 31/01/21 17:25:10 ----------------

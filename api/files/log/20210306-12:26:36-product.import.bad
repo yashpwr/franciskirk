@@ -1,0 +1,464 @@
+2021-03-06T13:06:27+00:00 INFO (6): {"status":"failed","sku":"ABU701R","message":"The product was unable to be saved. Please try again."}
+2021-03-06T13:06:28+00:00 INFO (6): {"status":"failed","sku":"ABU701R","message":"The product was unable to be saved. Please try again."}
+2021-03-06T13:06:29+00:00 INFO (6): {"status":"failed","sku":"ABU701R","message":"The product was unable to be saved. Please try again."}
+2021-03-06T13:06:30+00:00 INFO (6): {"status":"failed","sku":"ABU701R","message":"The product was unable to be saved. Please try again."}
+2021-03-06T13:09:36+00:00 INFO (6): {"status":"failed","sku":"ABU787BIG","message":"The product was unable to be saved. Please try again."}
+2021-03-06T13:09:46+00:00 INFO (6): {"status":"failed","sku":"ABU787BIGLED","message":"The product was unable to be saved. Please try again."}
+2021-03-06T13:09:56+00:00 INFO (6): {"status":"failed","sku":"ABU787C","message":"The product was unable to be saved. Please try again."}
+2021-03-06T13:10:07+00:00 INFO (6): {"status":"failed","sku":"ABU787LED","message":"The product was unable to be saved. Please try again."}
+2021-03-06T13:12:45+00:00 INFO (6): {"status":"failed","sku":"ABU82983","message":"The product was unable to be saved. Please try again."}
+2021-03-06T13:14:40+00:00 INFO (6): {"status":"failed","sku":"ABU83978","message":"The product was unable to be saved. Please try again."}
+2021-03-06T13:14:57+00:00 INFO (6): {"status":"failed","sku":"ABU8525","message":"The product was unable to be saved. Please try again."}
+2021-03-06T13:18:23+00:00 INFO (6): {"status":"failed","sku":"ABU96TI50KA2","message":"The product was unable to be saved. Please try again."}
+2021-03-06T13:18:33+00:00 INFO (6): {"status":"failed","sku":"ABUE60N4050","message":"The product was unable to be saved. Please try again."}
+2021-03-06T13:18:43+00:00 INFO (6): {"status":"failed","sku":"ABUE60N4050C","message":"The product was unable to be saved. Please try again."}
+2021-03-06T13:54:46+00:00 INFO (6): {"status":"failed","sku":"ABUKA49974","message":"Database deadlock found when trying to get lock"}
+2021-03-06T14:03:25+00:00 INFO (6): {"status":"failed","sku":"B\/DA7152","message":"Request does not match any route."}
+2021-03-06T14:03:26+00:00 INFO (6): {"status":"failed","sku":"B\/DA7152","message":"Request does not match any route."}
+2021-03-06T14:03:29+00:00 INFO (6): {"status":"failed","sku":"B\/DBDCIM18N","message":"Request does not match any route."}
+2021-03-06T14:03:30+00:00 INFO (6): {"status":"failed","sku":"B\/DBDCIM18N","message":"Request does not match any route."}
+2021-03-06T14:03:33+00:00 INFO (6): {"status":"failed","sku":"B\/DBDCJS18N","message":"Request does not match any route."}
+2021-03-06T14:03:34+00:00 INFO (6): {"status":"failed","sku":"B\/DBDCJS18N","message":"Request does not match any route."}
+2021-03-06T14:03:38+00:00 INFO (6): {"status":"failed","sku":"B\/DBDCR18N","message":"Request does not match any route."}
+2021-03-06T14:03:38+00:00 INFO (6): {"status":"failed","sku":"B\/DBDCR18N","message":"Request does not match any route."}
+2021-03-06T14:03:42+00:00 INFO (6): {"status":"failed","sku":"B\/DBEG010A5","message":"Request does not match any route."}
+2021-03-06T14:03:42+00:00 INFO (6): {"status":"failed","sku":"B\/DBEG010A5","message":"Request does not match any route."}
+2021-03-06T14:03:47+00:00 INFO (6): {"status":"failed","sku":"B\/DCS3651LC","message":"Request does not match any route."}
+2021-03-06T14:03:47+00:00 INFO (6): {"status":"failed","sku":"B\/DCS3651LC","message":"Request does not match any route."}
+2021-03-06T14:03:51+00:00 INFO (6): {"status":"failed","sku":"B\/DCS3652LC","message":"Request does not match any route."}
+2021-03-06T14:03:51+00:00 INFO (6): {"status":"failed","sku":"B\/DCS3652LC","message":"Request does not match any route."}
+2021-03-06T14:03:55+00:00 INFO (6): {"status":"failed","sku":"B\/DEGBL188B","message":"Request does not match any route."}
+2021-03-06T14:03:55+00:00 INFO (6): {"status":"failed","sku":"B\/DEGBL188B","message":"Request does not match any route."}
+2021-03-06T14:04:00+00:00 INFO (6): {"status":"failed","sku":"B\/DKS501","message":"Request does not match any route."}
+2021-03-06T14:04:00+00:00 INFO (6): {"status":"failed","sku":"B\/DKS501","message":"Request does not match any route."}
+2021-03-06T14:04:04+00:00 INFO (6): {"status":"failed","sku":"B\/DKS701EK","message":"Request does not match any route."}
+2021-03-06T14:04:04+00:00 INFO (6): {"status":"failed","sku":"B\/DKS701EK","message":"Request does not match any route."}
+2021-03-06T14:04:08+00:00 INFO (6): {"status":"failed","sku":"B\/DKS890ECN","message":"Request does not match any route."}
+2021-03-06T14:04:08+00:00 INFO (6): {"status":"failed","sku":"B\/DKS890ECN","message":"Request does not match any route."}
+2021-03-06T14:04:12+00:00 INFO (6): {"status":"failed","sku":"B\/DRS890K","message":"Request does not match any route."}
+2021-03-06T14:04:12+00:00 INFO (6): {"status":"failed","sku":"B\/DRS890K","message":"Request does not match any route."}
+2021-03-06T14:04:17+00:00 INFO (6): {"status":"failed","sku":"B\/DX13005","message":"Request does not match any route."}
+2021-03-06T14:04:17+00:00 INFO (6): {"status":"failed","sku":"B\/DX13005","message":"Request does not match any route."}
+2021-03-06T14:04:20+00:00 INFO (6): {"status":"failed","sku":"B\/DX13025","message":"Request does not match any route."}
+2021-03-06T14:04:25+00:00 INFO (6): {"status":"failed","sku":"B\/DX13100","message":"Request does not match any route."}
+2021-03-06T14:04:29+00:00 INFO (6): {"status":"failed","sku":"B\/DX13105","message":"Request does not match any route."}
+2021-03-06T14:04:33+00:00 INFO (6): {"status":"failed","sku":"B\/DX22003","message":"Request does not match any route."}
+2021-03-06T14:04:37+00:00 INFO (6): {"status":"failed","sku":"B\/DX22013","message":"Request does not match any route."}
+2021-03-06T14:04:41+00:00 INFO (6): {"status":"failed","sku":"B\/DX22153","message":"Request does not match any route."}
+2021-03-06T14:04:45+00:00 INFO (6): {"status":"failed","sku":"B\/DX23003","message":"Request does not match any route."}
+2021-03-06T14:04:50+00:00 INFO (6): {"status":"failed","sku":"B\/DX23073","message":"Request does not match any route."}
+2021-03-06T14:04:54+00:00 INFO (6): {"status":"failed","sku":"B\/DX25522","message":"Request does not match any route."}
+2021-03-06T14:04:58+00:00 INFO (6): {"status":"failed","sku":"B\/DX25762","message":"Request does not match any route."}
+2021-03-06T14:05:03+00:00 INFO (6): {"status":"failed","sku":"B\/DX25772","message":"Request does not match any route."}
+2021-03-06T14:05:06+00:00 INFO (6): {"status":"failed","sku":"B\/DX25772","message":"Request does not match any route."}
+2021-03-06T14:05:08+00:00 INFO (6): {"status":"failed","sku":"B\/DX31004","message":"Request does not match any route."}
+2021-03-06T14:05:10+00:00 INFO (6): {"status":"failed","sku":"B\/DX31004","message":"Request does not match any route."}
+2021-03-06T14:05:12+00:00 INFO (6): {"status":"failed","sku":"B\/DX31006","message":"Request does not match any route."}
+2021-03-06T14:05:14+00:00 INFO (6): {"status":"failed","sku":"B\/DX31006","message":"Request does not match any route."}
+2021-03-06T14:05:16+00:00 INFO (6): {"status":"failed","sku":"B\/DX31009","message":"Request does not match any route."}
+2021-03-06T14:05:18+00:00 INFO (6): {"status":"failed","sku":"B\/DX31009","message":"Request does not match any route."}
+2021-03-06T14:05:20+00:00 INFO (6): {"status":"failed","sku":"B\/DX31024","message":"Request does not match any route."}
+2021-03-06T14:05:22+00:00 INFO (6): {"status":"failed","sku":"B\/DX31024","message":"Request does not match any route."}
+2021-03-06T14:05:24+00:00 INFO (6): {"status":"failed","sku":"B\/DX31492","message":"Request does not match any route."}
+2021-03-06T14:05:26+00:00 INFO (6): {"status":"failed","sku":"B\/DX31492","message":"Request does not match any route."}
+2021-03-06T14:05:28+00:00 INFO (6): {"status":"failed","sku":"B\/DX32027","message":"Request does not match any route."}
+2021-03-06T14:05:30+00:00 INFO (6): {"status":"failed","sku":"B\/DX32027","message":"Request does not match any route."}
+2021-03-06T14:05:32+00:00 INFO (6): {"status":"failed","sku":"B\/DX32037","message":"Request does not match any route."}
+2021-03-06T14:05:34+00:00 INFO (6): {"status":"failed","sku":"B\/DX32037","message":"Request does not match any route."}
+2021-03-06T14:05:36+00:00 INFO (6): {"status":"failed","sku":"B\/DX32155","message":"Request does not match any route."}
+2021-03-06T14:05:38+00:00 INFO (6): {"status":"failed","sku":"B\/DX32155","message":"Request does not match any route."}
+2021-03-06T14:05:40+00:00 INFO (6): {"status":"failed","sku":"B\/DX32204","message":"Request does not match any route."}
+2021-03-06T14:05:42+00:00 INFO (6): {"status":"failed","sku":"B\/DX32204","message":"Request does not match any route."}
+2021-03-06T14:05:48+00:00 INFO (6): {"status":"failed","sku":"B\/DX32360","message":"Request does not match any route."}
+2021-03-06T14:05:49+00:00 INFO (6): {"status":"failed","sku":"B\/DX32360","message":"Request does not match any route."}
+2021-03-06T14:05:52+00:00 INFO (6): {"status":"failed","sku":"B\/DX32407","message":"Request does not match any route."}
+2021-03-06T14:05:53+00:00 INFO (6): {"status":"failed","sku":"B\/DX32407","message":"Request does not match any route."}
+2021-03-06T14:05:56+00:00 INFO (6): {"status":"failed","sku":"B\/DX33061","message":"Request does not match any route."}
+2021-03-06T14:05:57+00:00 INFO (6): {"status":"failed","sku":"B\/DX33061","message":"Request does not match any route."}
+2021-03-06T14:06:00+00:00 INFO (6): {"status":"failed","sku":"B\/DX50700","message":"Request does not match any route."}
+2021-03-06T14:06:01+00:00 INFO (6): {"status":"failed","sku":"B\/DX50700","message":"Request does not match any route."}
+2021-03-06T14:06:05+00:00 INFO (6): {"status":"failed","sku":"B\/DX50706","message":"Request does not match any route."}
+2021-03-06T14:06:05+00:00 INFO (6): {"status":"failed","sku":"B\/DX50706","message":"Request does not match any route."}
+2021-03-06T14:06:09+00:00 INFO (6): {"status":"failed","sku":"B\/DX50711","message":"Request does not match any route."}
+2021-03-06T14:06:09+00:00 INFO (6): {"status":"failed","sku":"B\/DX50711","message":"Request does not match any route."}
+2021-03-06T14:06:13+00:00 INFO (6): {"status":"failed","sku":"B\/DX50716","message":"Request does not match any route."}
+2021-03-06T14:06:13+00:00 INFO (6): {"status":"failed","sku":"B\/DX50716","message":"Request does not match any route."}
+2021-03-06T14:06:17+00:00 INFO (6): {"status":"failed","sku":"B\/DX50720","message":"Request does not match any route."}
+2021-03-06T14:06:17+00:00 INFO (6): {"status":"failed","sku":"B\/DX50720","message":"Request does not match any route."}
+2021-03-06T14:06:21+00:00 INFO (6): {"status":"failed","sku":"B\/DX50724","message":"Request does not match any route."}
+2021-03-06T14:06:21+00:00 INFO (6): {"status":"failed","sku":"B\/DX50724","message":"Request does not match any route."}
+2021-03-06T14:06:25+00:00 INFO (6): {"status":"failed","sku":"B\/DX50751","message":"Request does not match any route."}
+2021-03-06T14:06:25+00:00 INFO (6): {"status":"failed","sku":"B\/DX50751","message":"Request does not match any route."}
+2021-03-06T14:06:29+00:00 INFO (6): {"status":"failed","sku":"B\/DX50753","message":"Request does not match any route."}
+2021-03-06T14:06:29+00:00 INFO (6): {"status":"failed","sku":"B\/DX50753","message":"Request does not match any route."}
+2021-03-06T14:06:32+00:00 INFO (6): {"status":"failed","sku":"B\/DX51018","message":"Request does not match any route."}
+2021-03-06T14:06:33+00:00 INFO (6): {"status":"failed","sku":"B\/DX51018","message":"Request does not match any route."}
+2021-03-06T14:06:36+00:00 INFO (6): {"status":"failed","sku":"B\/DX51033","message":"Request does not match any route."}
+2021-03-06T14:06:37+00:00 INFO (6): {"status":"failed","sku":"B\/DX51033","message":"Request does not match any route."}
+2021-03-06T14:06:40+00:00 INFO (6): {"status":"failed","sku":"B\/DX51038","message":"Request does not match any route."}
+2021-03-06T14:06:41+00:00 INFO (6): {"status":"failed","sku":"B\/DX51038","message":"Request does not match any route."}
+2021-03-06T14:06:44+00:00 INFO (6): {"status":"failed","sku":"B\/DX51058","message":"Request does not match any route."}
+2021-03-06T14:06:45+00:00 INFO (6): {"status":"failed","sku":"B\/DX51058","message":"Request does not match any route."}
+2021-03-06T14:06:48+00:00 INFO (6): {"status":"failed","sku":"B\/DX51078","message":"Request does not match any route."}
+2021-03-06T14:06:49+00:00 INFO (6): {"status":"failed","sku":"B\/DX51078","message":"Request does not match any route."}
+2021-03-06T14:06:52+00:00 INFO (6): {"status":"failed","sku":"B\/DX51088","message":"Request does not match any route."}
+2021-03-06T14:06:53+00:00 INFO (6): {"status":"failed","sku":"B\/DX51088","message":"Request does not match any route."}
+2021-03-06T14:06:56+00:00 INFO (6): {"status":"failed","sku":"B\/DX51108","message":"Request does not match any route."}
+2021-03-06T14:06:57+00:00 INFO (6): {"status":"failed","sku":"B\/DX51108","message":"Request does not match any route."}
+2021-03-06T14:07:00+00:00 INFO (6): {"status":"failed","sku":"B\/DX51118","message":"Request does not match any route."}
+2021-03-06T14:07:01+00:00 INFO (6): {"status":"failed","sku":"B\/DX51118","message":"Request does not match any route."}
+2021-03-06T14:07:05+00:00 INFO (6): {"status":"failed","sku":"B\/DX52000","message":"Request does not match any route."}
+2021-03-06T14:07:05+00:00 INFO (6): {"status":"failed","sku":"B\/DX52000","message":"Request does not match any route."}
+2021-03-06T14:07:09+00:00 INFO (6): {"status":"failed","sku":"B\/DX52010","message":"Request does not match any route."}
+2021-03-06T14:07:09+00:00 INFO (6): {"status":"failed","sku":"B\/DX52010","message":"Request does not match any route."}
+2021-03-06T14:07:12+00:00 INFO (6): {"status":"failed","sku":"B\/DX52015","message":"Request does not match any route."}
+2021-03-06T14:07:13+00:00 INFO (6): {"status":"failed","sku":"B\/DX52015","message":"Request does not match any route."}
+2021-03-06T14:07:16+00:00 INFO (6): {"status":"failed","sku":"B\/DX52021","message":"Request does not match any route."}
+2021-03-06T14:07:17+00:00 INFO (6): {"status":"failed","sku":"B\/DX52021","message":"Request does not match any route."}
+2021-03-06T14:07:20+00:00 INFO (6): {"status":"failed","sku":"B\/DX52035","message":"Request does not match any route."}
+2021-03-06T14:07:21+00:00 INFO (6): {"status":"failed","sku":"B\/DX52035","message":"Request does not match any route."}
+2021-03-06T14:07:24+00:00 INFO (6): {"status":"failed","sku":"B\/DX52040","message":"Request does not match any route."}
+2021-03-06T14:07:25+00:00 INFO (6): {"status":"failed","sku":"B\/DX52040","message":"Request does not match any route."}
+2021-03-06T14:07:28+00:00 INFO (6): {"status":"failed","sku":"B\/DX52070","message":"Request does not match any route."}
+2021-03-06T14:07:29+00:00 INFO (6): {"status":"failed","sku":"B\/DX52070","message":"Request does not match any route."}
+2021-03-06T14:07:32+00:00 INFO (6): {"status":"failed","sku":"B\/DX52431","message":"Request does not match any route."}
+2021-03-06T14:07:33+00:00 INFO (6): {"status":"failed","sku":"B\/DX52431","message":"Request does not match any route."}
+2021-03-06T14:07:35+00:00 INFO (6): {"status":"failed","sku":"B\/DX53000","message":"Request does not match any route."}
+2021-03-06T14:07:37+00:00 INFO (6): {"status":"failed","sku":"B\/DX53000","message":"Request does not match any route."}
+2021-03-06T14:07:39+00:00 INFO (6): {"status":"failed","sku":"B\/DX53010","message":"Request does not match any route."}
+2021-03-06T14:07:41+00:00 INFO (6): {"status":"failed","sku":"B\/DX53010","message":"Request does not match any route."}
+2021-03-06T14:07:43+00:00 INFO (6): {"status":"failed","sku":"B\/DX53020","message":"Request does not match any route."}
+2021-03-06T14:07:45+00:00 INFO (6): {"status":"failed","sku":"B\/DX53020","message":"Request does not match any route."}
+2021-03-06T14:07:47+00:00 INFO (6): {"status":"failed","sku":"B\/DX53030","message":"Request does not match any route."}
+2021-03-06T14:07:51+00:00 INFO (6): {"status":"failed","sku":"B\/DX53100","message":"Request does not match any route."}
+2021-03-06T14:07:55+00:00 INFO (6): {"status":"failed","sku":"B\/DX53125","message":"Request does not match any route."}
+2021-03-06T14:07:59+00:00 INFO (6): {"status":"failed","sku":"B\/DX53135","message":"Request does not match any route."}
+2021-03-06T14:08:03+00:00 INFO (6): {"status":"failed","sku":"B\/DX53140","message":"Request does not match any route."}
+2021-03-06T14:08:08+00:00 INFO (6): {"status":"failed","sku":"B\/DX53232","message":"Request does not match any route."}
+2021-03-06T14:08:11+00:00 INFO (6): {"status":"failed","sku":"B\/DX53237","message":"Request does not match any route."}
+2021-03-06T14:08:15+00:00 INFO (6): {"status":"failed","sku":"B\/DX53242","message":"Request does not match any route."}
+2021-03-06T14:08:19+00:00 INFO (6): {"status":"failed","sku":"B\/DX53247","message":"Request does not match any route."}
+2021-03-06T14:08:23+00:00 INFO (6): {"status":"failed","sku":"B\/DX56000","message":"Request does not match any route."}
+2021-03-06T14:08:27+00:00 INFO (6): {"status":"failed","sku":"B\/DX56040","message":"Request does not match any route."}
+2021-03-06T14:08:32+00:00 INFO (6): {"status":"failed","sku":"B\/DX56128","message":"Request does not match any route."}
+2021-03-06T14:08:36+00:00 INFO (6): {"status":"failed","sku":"B\/DX58000","message":"Request does not match any route."}
+2021-03-06T14:08:39+00:00 INFO (6): {"status":"failed","sku":"B\/DX58002","message":"Request does not match any route."}
+2021-03-06T14:08:43+00:00 INFO (6): {"status":"failed","sku":"B\/DX58004","message":"Request does not match any route."}
+2021-03-06T14:08:47+00:00 INFO (6): {"status":"failed","sku":"B\/DX58007","message":"Request does not match any route."}
+2021-03-06T14:08:51+00:00 INFO (6): {"status":"failed","sku":"B\/DX58008","message":"Request does not match any route."}
+2021-03-06T14:08:55+00:00 INFO (6): {"status":"failed","sku":"B\/DX60480","message":"Request does not match any route."}
+2021-03-06T14:08:59+00:00 INFO (6): {"status":"failed","sku":"B\/DX61043","message":"Request does not match any route."}
+2021-03-06T14:09:03+00:00 INFO (6): {"status":"failed","sku":"B\/DX61401","message":"Request does not match any route."}
+2021-03-06T14:09:07+00:00 INFO (6): {"status":"failed","sku":"B\/DX61420","message":"Request does not match any route."}
+2021-03-06T14:09:11+00:00 INFO (6): {"status":"failed","sku":"B\/DX81005","message":"Request does not match any route."}
+2021-03-06T14:09:19+00:00 INFO (6): {"status":"failed","sku":"B\/S06160","message":"Request does not match any route."}
+2021-03-06T14:09:24+00:00 INFO (6): {"status":"failed","sku":"B\/S14105","message":"Request does not match any route."}
+2021-03-06T14:09:28+00:00 INFO (6): {"status":"failed","sku":"B\/S14106","message":"Request does not match any route."}
+2021-03-06T14:09:32+00:00 INFO (6): {"status":"failed","sku":"B\/S14107","message":"Request does not match any route."}
+2021-03-06T14:09:36+00:00 INFO (6): {"status":"failed","sku":"B\/S14108","message":"Request does not match any route."}
+2021-03-06T14:09:40+00:00 INFO (6): {"status":"failed","sku":"B\/S14110","message":"Request does not match any route."}
+2021-03-06T14:09:43+00:00 INFO (6): {"status":"failed","sku":"B\/S14111","message":"Request does not match any route."}
+2021-03-06T14:09:47+00:00 INFO (6): {"status":"failed","sku":"B\/S14114","message":"Request does not match any route."}
+2021-03-06T14:09:51+00:00 INFO (6): {"status":"failed","sku":"B\/S14120","message":"Request does not match any route."}
+2021-03-06T14:09:55+00:00 INFO (6): {"status":"failed","sku":"B\/S14135","message":"Request does not match any route."}
+2021-03-06T14:09:59+00:00 INFO (6): {"status":"failed","sku":"B\/S14151","message":"Request does not match any route."}
+2021-03-06T14:10:03+00:00 INFO (6): {"status":"failed","sku":"B\/S1511","message":"Request does not match any route."}
+2021-03-06T14:10:06+00:00 INFO (6): {"status":"failed","sku":"B\/S1511","message":"Request does not match any route."}
+2021-03-06T14:10:07+00:00 INFO (6): {"status":"failed","sku":"B\/S1513","message":"Request does not match any route."}
+2021-03-06T14:10:10+00:00 INFO (6): {"status":"failed","sku":"B\/S1513","message":"Request does not match any route."}
+2021-03-06T14:10:12+00:00 INFO (6): {"status":"failed","sku":"B\/S1515","message":"Request does not match any route."}
+2021-03-06T14:10:14+00:00 INFO (6): {"status":"failed","sku":"B\/S1515","message":"Request does not match any route."}
+2021-03-06T14:10:16+00:00 INFO (6): {"status":"failed","sku":"B\/S1517","message":"Request does not match any route."}
+2021-03-06T14:10:18+00:00 INFO (6): {"status":"failed","sku":"B\/S1517","message":"Request does not match any route."}
+2021-03-06T14:10:21+00:00 INFO (6): {"status":"failed","sku":"B\/S19642","message":"Request does not match any route."}
+2021-03-06T14:10:22+00:00 INFO (6): {"status":"failed","sku":"B\/S19642","message":"Request does not match any route."}
+2021-03-06T14:10:25+00:00 INFO (6): {"status":"failed","sku":"B\/S19690","message":"Request does not match any route."}
+2021-03-06T14:10:26+00:00 INFO (6): {"status":"failed","sku":"B\/S19690","message":"Request does not match any route."}
+2021-03-06T14:10:29+00:00 INFO (6): {"status":"failed","sku":"B\/S19694","message":"Request does not match any route."}
+2021-03-06T14:10:30+00:00 INFO (6): {"status":"failed","sku":"B\/S19694","message":"Request does not match any route."}
+2021-03-06T14:10:33+00:00 INFO (6): {"status":"failed","sku":"B\/S19696","message":"Request does not match any route."}
+2021-03-06T14:10:34+00:00 INFO (6): {"status":"failed","sku":"B\/S19696","message":"Request does not match any route."}
+2021-03-06T14:10:37+00:00 INFO (6): {"status":"failed","sku":"B\/S20004","message":"Request does not match any route."}
+2021-03-06T14:10:38+00:00 INFO (6): {"status":"failed","sku":"B\/S20004","message":"Request does not match any route."}
+2021-03-06T14:10:41+00:00 INFO (6): {"status":"failed","sku":"B\/S20006","message":"Request does not match any route."}
+2021-03-06T14:10:42+00:00 INFO (6): {"status":"failed","sku":"B\/S20006","message":"Request does not match any route."}
+2021-03-06T14:10:45+00:00 INFO (6): {"status":"failed","sku":"B\/S20008","message":"Request does not match any route."}
+2021-03-06T14:10:46+00:00 INFO (6): {"status":"failed","sku":"B\/S20008","message":"Request does not match any route."}
+2021-03-06T14:10:49+00:00 INFO (6): {"status":"failed","sku":"B\/S20123","message":"Request does not match any route."}
+2021-03-06T14:10:50+00:00 INFO (6): {"status":"failed","sku":"B\/S20123","message":"Request does not match any route."}
+2021-03-06T14:10:53+00:00 INFO (6): {"status":"failed","sku":"B\/S20310","message":"Request does not match any route."}
+2021-03-06T14:10:54+00:00 INFO (6): {"status":"failed","sku":"B\/S20310","message":"Request does not match any route."}
+2021-03-06T14:10:57+00:00 INFO (6): {"status":"failed","sku":"B\/S20338","message":"Request does not match any route."}
+2021-03-06T14:10:58+00:00 INFO (6): {"status":"failed","sku":"B\/S20338","message":"Request does not match any route."}
+2021-03-06T14:11:02+00:00 INFO (6): {"status":"failed","sku":"B\/S20504","message":"Request does not match any route."}
+2021-03-06T14:11:02+00:00 INFO (6): {"status":"failed","sku":"B\/S20504","message":"Request does not match any route."}
+2021-03-06T14:11:05+00:00 INFO (6): {"status":"failed","sku":"B\/S20505","message":"Request does not match any route."}
+2021-03-06T14:11:06+00:00 INFO (6): {"status":"failed","sku":"B\/S20505","message":"Request does not match any route."}
+2021-03-06T14:11:09+00:00 INFO (6): {"status":"failed","sku":"B\/S20506","message":"Request does not match any route."}
+2021-03-06T14:11:10+00:00 INFO (6): {"status":"failed","sku":"B\/S20506","message":"Request does not match any route."}
+2021-03-06T14:11:13+00:00 INFO (6): {"status":"failed","sku":"B\/S20507","message":"Request does not match any route."}
+2021-03-06T14:11:14+00:00 INFO (6): {"status":"failed","sku":"B\/S20507","message":"Request does not match any route."}
+2021-03-06T14:11:17+00:00 INFO (6): {"status":"failed","sku":"B\/S20509","message":"Request does not match any route."}
+2021-03-06T14:11:18+00:00 INFO (6): {"status":"failed","sku":"B\/S20509","message":"Request does not match any route."}
+2021-03-06T14:11:21+00:00 INFO (6): {"status":"failed","sku":"B\/S32050","message":"Request does not match any route."}
+2021-03-06T14:11:22+00:00 INFO (6): {"status":"failed","sku":"B\/S32050","message":"Request does not match any route."}
+2021-03-06T14:23:14+00:00 INFO (6): {"status":"failed","sku":"DEWDCF620D2K","message":"The product was unable to be saved. Please try again."}
+2021-03-06T14:25:17+00:00 INFO (6): {"status":"failed","sku":"DEWDCH274P2","message":"The product was unable to be saved. Please try again."}
+2021-03-06T14:25:23+00:00 INFO (6): {"status":"failed","sku":"DEWDCH614N","message":"The product was unable to be saved. Please try again."}
+2021-03-06T14:25:28+00:00 INFO (6): {"status":"failed","sku":"DEWDCH614X2","message":"The product was unable to be saved. Please try again."}
+2021-03-06T14:25:34+00:00 INFO (6): {"status":"failed","sku":"DEWDCMB562N","message":"The product was unable to be saved. Please try again."}
+2021-03-06T14:25:39+00:00 INFO (6): {"status":"failed","sku":"DEWDCMB562P1","message":"The product was unable to be saved. Please try again."}
+2021-03-06T14:25:45+00:00 INFO (6): {"status":"failed","sku":"DEWDCS310D2","message":"The product was unable to be saved. Please try again."}
+2021-03-06T14:25:59+00:00 INFO (6): {"status":"failed","sku":"DEWDCS334N","message":"The product was unable to be saved. Please try again."}
+2021-03-06T14:32:21+00:00 INFO (6): {"status":"failed","sku":"DEWDT1954QZ","message":"The product was unable to be saved. Please try again."}
+2021-03-06T14:36:11+00:00 INFO (6): {"status":"failed","sku":"DEWDT2348QZ","message":"The product was unable to be saved. Please try again."}
+2021-03-06T15:07:28+00:00 INFO (6): {"status":"failed","sku":"DEWDT8920QZ","message":"The product was unable to be saved. Please try again."}
+2021-03-06T15:07:41+00:00 INFO (6): {"status":"failed","sku":"DEWDT90294QZ","message":"The product was unable to be saved. Please try again."}
+2021-03-06T15:07:54+00:00 INFO (6): {"status":"failed","sku":"DEWDT9400QZ","message":"The product was unable to be saved. Please try again."}
+2021-03-06T15:10:23+00:00 INFO (6): {"status":"failed","sku":"DEWDT9529QZ","message":"The product was unable to be saved. Please try again."}
+2021-03-06T15:17:05+00:00 INFO (6): {"status":"failed","sku":"DEWDT99566QZ","message":"The product was unable to be saved. Please try again."}
+2021-03-06T15:18:33+00:00 INFO (6): {"status":"failed","sku":"DEWDTM3023QZ","message":"The product was unable to be saved. Please try again."}
+2021-03-06T15:22:03+00:00 INFO (6): {"status":"failed","sku":"DOFFFC002DOF","message":"The product was unable to be saved. Please try again."}
+2021-03-06T15:23:05+00:00 INFO (6): {"status":"failed","sku":"DOFFY003","message":"The product was unable to be saved. Please try again."}
+2021-03-06T15:23:27+00:00 INFO (6): {"status":"failed","sku":"DOFJG500","message":"The product was unable to be saved. Please try again."}
+2021-03-06T15:57:20+00:00 INFO (6): {"status":"failed","sku":"FAIAOMOUSEF","message":"The product was unable to be saved. Please try again."}
+2021-03-06T15:57:26+00:00 INFO (6): {"status":"failed","sku":"FAIAOMOUSEM","message":"The product was unable to be saved. Please try again."}
+2021-03-06T16:08:14+00:00 INFO (6): {"status":"failed","sku":"FAIFW5020F","message":"The product was unable to be saved. Please try again."}
+2021-03-06T16:08:19+00:00 INFO (6): {"status":"failed","sku":"FAIFW5020M","message":"The product was unable to be saved. Please try again."}
+2021-03-06T16:08:24+00:00 INFO (6): {"status":"failed","sku":"FAIFW6030C","message":"The product was unable to be saved. Please try again."}
+2021-03-06T16:08:30+00:00 INFO (6): {"status":"failed","sku":"FAIFW6030F","message":"The product was unable to be saved. Please try again."}
+2021-03-06T16:08:35+00:00 INFO (6): {"status":"failed","sku":"FAIFW6030M","message":"The product was unable to be saved. Please try again."}
+2021-03-06T16:08:40+00:00 INFO (6): {"status":"failed","sku":"FAIFW6040C","message":"The product was unable to be saved. Please try again."}
+2021-03-06T16:58:05+00:00 INFO (6): {"status":"failed","sku":"FLE20030","message":"The product was unable to be saved. Please try again."}
+2021-03-06T16:58:21+00:00 INFO (6): {"status":"failed","sku":"FLE20115","message":"The product was unable to be saved. Please try again."}
+2021-03-06T16:58:31+00:00 INFO (6): {"status":"failed","sku":"FLE20210","message":"The product was unable to be saved. Please try again."}
+2021-03-06T16:58:56+00:00 INFO (6): {"status":"failed","sku":"FLE20405","message":"The product was unable to be saved. Please try again."}
+2021-03-06T16:59:17+00:00 INFO (6): {"status":"failed","sku":"FLE21910","message":"The product was unable to be saved. Please try again."}
+2021-03-06T16:59:27+00:00 INFO (6): {"status":"failed","sku":"FLE21935","message":"The product was unable to be saved. Please try again."}
+2021-03-06T16:59:37+00:00 INFO (6): {"status":"failed","sku":"FLE21940","message":"The product was unable to be saved. Please try again."}
+2021-03-06T16:59:47+00:00 INFO (6): {"status":"failed","sku":"FLE21945","message":"The product was unable to be saved. Please try again."}
+2021-03-06T17:00:56+00:00 INFO (6): {"status":"failed","sku":"FLE24075","message":"The product was unable to be saved. Please try again."}
+2021-03-06T17:03:15+00:00 INFO (6): {"status":"failed","sku":"FLE40025","message":"The product was unable to be saved. Please try again."}
+2021-03-06T17:03:26+00:00 INFO (6): {"status":"failed","sku":"FLE40110","message":"The product was unable to be saved. Please try again."}
+2021-03-06T17:04:04+00:00 INFO (6): {"status":"failed","sku":"FLE40220","message":"The product was unable to be saved. Please try again."}
+2021-03-06T17:06:54+00:00 INFO (6): {"status":"failed","sku":"FLE44735","message":"The product was unable to be saved. Please try again."}
+2021-03-06T17:07:37+00:00 INFO (6): {"status":"failed","sku":"FLE48210","message":"The product was unable to be saved. Please try again."}
+2021-03-06T17:08:40+00:00 INFO (6): {"status":"failed","sku":"FLE48610","message":"The product was unable to be saved. Please try again."}
+2021-03-06T17:09:27+00:00 INFO (6): {"status":"failed","sku":"FLEBA320","message":"The product was unable to be saved. Please try again."}
+2021-03-06T17:09:37+00:00 INFO (6): {"status":"failed","sku":"FLEBA340","message":"The product was unable to be saved. Please try again."}
+2021-03-06T17:09:48+00:00 INFO (6): {"status":"failed","sku":"FLEBA360","message":"The product was unable to be saved. Please try again."}
+2021-03-06T17:09:58+00:00 INFO (6): {"status":"failed","sku":"FLEBA370","message":"The product was unable to be saved. Please try again."}
+2021-03-06T17:10:18+00:00 INFO (6): {"status":"failed","sku":"FLELP100C","message":"The product was unable to be saved. Please try again."}
+2021-03-06T17:10:33+00:00 INFO (6): {"status":"failed","sku":"FLELP120C","message":"The product was unable to be saved. Please try again."}
+2021-03-06T17:10:38+00:00 INFO (6): {"status":"failed","sku":"FLV26314","message":"The product was unable to be saved. Please try again."}
+2021-03-06T17:10:43+00:00 INFO (6): {"status":"failed","sku":"FLV26320","message":"The product was unable to be saved. Please try again."}
+2021-03-06T17:11:18+00:00 INFO (6): {"status":"failed","sku":"FLV26336","message":"The product was unable to be saved. Please try again."}
+2021-03-06T18:20:10+00:00 INFO (6): {"status":"failed","sku":"IRW1897088","message":"The image content must be valid base64 encoded data."}
+2021-03-06T18:20:12+00:00 INFO (6): {"status":"failed","sku":"IRW1897088","message":"The image content must be valid base64 encoded data."}
+2021-03-06T18:40:55+00:00 INFO (6): {"status":"failed","sku":"KWB718111","message":"The product was unable to be saved. Please try again."}
+2021-03-06T18:41:09+00:00 INFO (6): {"status":"failed","sku":"LEN12110GR","message":"The product was unable to be saved. Please try again."}
+2021-03-06T18:41:27+00:00 INFO (6): {"status":"failed","sku":"LEN1766338","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:02:07+00:00 INFO (6): {"status":"failed","sku":"MPTSSD18LTXN","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:02:12+00:00 INFO (6): {"status":"failed","sku":"MPTSSW18LTX","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:02:17+00:00 INFO (6): {"status":"failed","sku":"MPTSSW18LTXM","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:12:58+00:00 INFO (6): {"status":"failed","sku":"RBLSS","message":"Product is not available."}
+2021-03-06T19:26:25+00:00 INFO (6): {"status":"failed","sku":"T\/BS250","message":"Request does not match any route."}
+2021-03-06T19:26:25+00:00 INFO (6): {"status":"failed","sku":"T\/BS250","message":"Request does not match any route."}
+2021-03-06T19:26:34+00:00 INFO (6): {"status":"failed","sku":"T\/BS510","message":"Request does not match any route."}
+2021-03-06T19:26:35+00:00 INFO (6): {"status":"failed","sku":"T\/BS510","message":"Request does not match any route."}
+2021-03-06T19:26:44+00:00 INFO (6): {"status":"failed","sku":"T\/BS550","message":"Request does not match any route."}
+2021-03-06T19:26:44+00:00 INFO (6): {"status":"failed","sku":"T\/BS550","message":"Request does not match any route."}
+2021-03-06T19:26:53+00:00 INFO (6): {"status":"failed","sku":"T\/BS600","message":"Request does not match any route."}
+2021-03-06T19:26:54+00:00 INFO (6): {"status":"failed","sku":"T\/BS600","message":"Request does not match any route."}
+2021-03-06T19:27:03+00:00 INFO (6): {"status":"failed","sku":"TRECSB1603P","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:27:21+00:00 INFO (6): {"status":"failed","sku":"TRECSB1653PC","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:27:36+00:00 INFO (6): {"status":"failed","sku":"TRECSB250P3","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:33:35+00:00 INFO (6): {"status":"failed","sku":"ia-res.cloudinary.com\/image\/upload\/w_640\/toolbank\/products\/WER004173.jpg","message":"Product is not available."}
+2021-03-06T19:33:36+00:00 INFO (6): {"status":"failed","sku":"ia-res.cloudinary.com\/image\/upload\/w_640\/toolbank\/products\/WER004173.jpg","message":"Product is not available."}
+2021-03-06T19:33:44+00:00 INFO (6): {"status":"failed","sku":"WER004180","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:33:45+00:00 INFO (6): {"status":"failed","sku":"toolbank\/products\/WER004180.jpg","message":"Product is not available."}
+2021-03-06T19:33:45+00:00 INFO (6): {"status":"failed","sku":"toolbank\/products\/WER004180.jpg","message":"Product is not available."}
+2021-03-06T19:37:23+00:00 INFO (6): {"status":"failed","sku":"WER057421","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:37:26+00:00 INFO (6): {"status":"failed","sku":"2.5","message":"Product is not available."}
+2021-03-06T19:37:26+00:00 INFO (6): {"status":"failed","sku":"2.5","message":"Product is not available."}
+2021-03-06T19:37:52+00:00 INFO (6): {"status":"failed","sku":"WER057433","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:37:57+00:00 INFO (6): {"status":"failed","sku":"WER057434","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:38:02+00:00 INFO (6): {"status":"failed","sku":"WER057442","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:38:08+00:00 INFO (6): {"status":"failed","sku":"WER057603","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:38:13+00:00 INFO (6): {"status":"failed","sku":"WER057615","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:38:18+00:00 INFO (6): {"status":"failed","sku":"WER057616","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:38:23+00:00 INFO (6): {"status":"failed","sku":"WER057617","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:38:29+00:00 INFO (6): {"status":"failed","sku":"WER057620","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:38:34+00:00 INFO (6): {"status":"failed","sku":"WER057621","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:38:44+00:00 INFO (6): {"status":"failed","sku":"WER057623","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:38:50+00:00 INFO (6): {"status":"failed","sku":"WER057624","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:38:55+00:00 INFO (6): {"status":"failed","sku":"WER057625","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:48:59+00:00 INFO (6): {"status":"failed","sku":"WER073630","message":"The product was unable to be saved. Please try again."}
+2021-03-06T19:48:59+00:00 INFO (6): {"status":"failed","sku":"0.jpg","message":"Product is not available."}
+2021-03-06T19:48:59+00:00 INFO (6): {"status":"failed","sku":"0.jpg","message":"Product is not available."}
+2021-03-06T19:56:16+00:00 INFO (6): ---------------- END API Cron 06/03/21 19:56:16 ----------------
+2021-03-06T19:56:19+00:00 INFO (6): ---------------- END API Cron 06/03/21 19:56:19 ----------------
+2021-03-07T13:55:23+00:00 INFO (6): {"status":"failed","sku":"B\/DA7152","message":"Request does not match any route."}
+2021-03-07T13:55:27+00:00 INFO (6): {"status":"failed","sku":"B\/DBDCIM18N","message":"Request does not match any route."}
+2021-03-07T13:55:32+00:00 INFO (6): {"status":"failed","sku":"B\/DBDCJS18N","message":"Request does not match any route."}
+2021-03-07T13:55:36+00:00 INFO (6): {"status":"failed","sku":"B\/DBDCR18N","message":"Request does not match any route."}
+2021-03-07T13:55:41+00:00 INFO (6): {"status":"failed","sku":"B\/DBEG010A5","message":"Request does not match any route."}
+2021-03-07T13:55:45+00:00 INFO (6): {"status":"failed","sku":"B\/DCS3651LC","message":"Request does not match any route."}
+2021-03-07T13:55:49+00:00 INFO (6): {"status":"failed","sku":"B\/DCS3652LC","message":"Request does not match any route."}
+2021-03-07T13:55:53+00:00 INFO (6): {"status":"failed","sku":"B\/DEGBL188B","message":"Request does not match any route."}
+2021-03-07T13:55:57+00:00 INFO (6): {"status":"failed","sku":"B\/DKS501","message":"Request does not match any route."}
+2021-03-07T13:56:01+00:00 INFO (6): {"status":"failed","sku":"B\/DKS701EK","message":"Request does not match any route."}
+2021-03-07T13:56:06+00:00 INFO (6): {"status":"failed","sku":"B\/DKS890ECN","message":"Request does not match any route."}
+2021-03-07T13:56:11+00:00 INFO (6): {"status":"failed","sku":"B\/DRS890K","message":"Request does not match any route."}
+2021-03-07T13:56:15+00:00 INFO (6): {"status":"failed","sku":"B\/DX13005","message":"Request does not match any route."}
+2021-03-07T13:56:19+00:00 INFO (6): {"status":"failed","sku":"B\/DX13025","message":"Request does not match any route."}
+2021-03-07T13:56:23+00:00 INFO (6): {"status":"failed","sku":"B\/DX13100","message":"Request does not match any route."}
+2021-03-07T13:56:28+00:00 INFO (6): {"status":"failed","sku":"B\/DX13105","message":"Request does not match any route."}
+2021-03-07T13:56:32+00:00 INFO (6): {"status":"failed","sku":"B\/DX22003","message":"Request does not match any route."}
+2021-03-07T13:56:36+00:00 INFO (6): {"status":"failed","sku":"B\/DX22013","message":"Request does not match any route."}
+2021-03-07T13:56:41+00:00 INFO (6): {"status":"failed","sku":"B\/DX22153","message":"Request does not match any route."}
+2021-03-07T13:56:45+00:00 INFO (6): {"status":"failed","sku":"B\/DX23003","message":"Request does not match any route."}
+2021-03-07T13:56:49+00:00 INFO (6): {"status":"failed","sku":"B\/DX23073","message":"Request does not match any route."}
+2021-03-07T13:56:53+00:00 INFO (6): {"status":"failed","sku":"B\/DX25522","message":"Request does not match any route."}
+2021-03-07T13:56:57+00:00 INFO (6): {"status":"failed","sku":"B\/DX25762","message":"Request does not match any route."}
+2021-03-07T13:57:01+00:00 INFO (6): {"status":"failed","sku":"B\/DX25772","message":"Request does not match any route."}
+2021-03-07T13:57:05+00:00 INFO (6): {"status":"failed","sku":"B\/DX31004","message":"Request does not match any route."}
+2021-03-07T13:57:09+00:00 INFO (6): {"status":"failed","sku":"B\/DX31006","message":"Request does not match any route."}
+2021-03-07T13:57:13+00:00 INFO (6): {"status":"failed","sku":"B\/DX31009","message":"Request does not match any route."}
+2021-03-07T13:57:18+00:00 INFO (6): {"status":"failed","sku":"B\/DX31024","message":"Request does not match any route."}
+2021-03-07T13:57:22+00:00 INFO (6): {"status":"failed","sku":"B\/DX31492","message":"Request does not match any route."}
+2021-03-07T13:57:26+00:00 INFO (6): {"status":"failed","sku":"B\/DX32027","message":"Request does not match any route."}
+2021-03-07T13:57:30+00:00 INFO (6): {"status":"failed","sku":"B\/DX32037","message":"Request does not match any route."}
+2021-03-07T13:57:34+00:00 INFO (6): {"status":"failed","sku":"B\/DX32155","message":"Request does not match any route."}
+2021-03-07T13:57:38+00:00 INFO (6): {"status":"failed","sku":"B\/DX32204","message":"Request does not match any route."}
+2021-03-07T13:57:42+00:00 INFO (6): {"status":"failed","sku":"B\/DX32360","message":"Request does not match any route."}
+2021-03-07T13:57:46+00:00 INFO (6): {"status":"failed","sku":"B\/DX32407","message":"Request does not match any route."}
+2021-03-07T13:57:50+00:00 INFO (6): {"status":"failed","sku":"B\/DX33061","message":"Request does not match any route."}
+2021-03-07T13:57:54+00:00 INFO (6): {"status":"failed","sku":"B\/DX50700","message":"Request does not match any route."}
+2021-03-07T13:57:58+00:00 INFO (6): {"status":"failed","sku":"B\/DX50706","message":"Request does not match any route."}
+2021-03-07T13:58:02+00:00 INFO (6): {"status":"failed","sku":"B\/DX50711","message":"Request does not match any route."}
+2021-03-07T13:58:06+00:00 INFO (6): {"status":"failed","sku":"B\/DX50716","message":"Request does not match any route."}
+2021-03-07T13:58:10+00:00 INFO (6): {"status":"failed","sku":"B\/DX50720","message":"Request does not match any route."}
+2021-03-07T13:58:14+00:00 INFO (6): {"status":"failed","sku":"B\/DX50724","message":"Request does not match any route."}
+2021-03-07T13:58:19+00:00 INFO (6): {"status":"failed","sku":"B\/DX50751","message":"Request does not match any route."}
+2021-03-07T13:58:23+00:00 INFO (6): {"status":"failed","sku":"B\/DX50753","message":"Request does not match any route."}
+2021-03-07T13:58:27+00:00 INFO (6): {"status":"failed","sku":"B\/DX51018","message":"Request does not match any route."}
+2021-03-07T13:58:31+00:00 INFO (6): {"status":"failed","sku":"B\/DX51033","message":"Request does not match any route."}
+2021-03-07T13:58:35+00:00 INFO (6): {"status":"failed","sku":"B\/DX51038","message":"Request does not match any route."}
+2021-03-07T13:58:40+00:00 INFO (6): {"status":"failed","sku":"B\/DX51058","message":"Request does not match any route."}
+2021-03-07T13:58:43+00:00 INFO (6): {"status":"failed","sku":"B\/DX51078","message":"Request does not match any route."}
+2021-03-07T13:58:47+00:00 INFO (6): {"status":"failed","sku":"B\/DX51088","message":"Request does not match any route."}
+2021-03-07T13:58:51+00:00 INFO (6): {"status":"failed","sku":"B\/DX51108","message":"Request does not match any route."}
+2021-03-07T13:58:55+00:00 INFO (6): {"status":"failed","sku":"B\/DX51118","message":"Request does not match any route."}
+2021-03-07T13:58:59+00:00 INFO (6): {"status":"failed","sku":"B\/DX52000","message":"Request does not match any route."}
+2021-03-07T13:59:03+00:00 INFO (6): {"status":"failed","sku":"B\/DX52010","message":"Request does not match any route."}
+2021-03-07T13:59:08+00:00 INFO (6): {"status":"failed","sku":"B\/DX52015","message":"Request does not match any route."}
+2021-03-07T13:59:12+00:00 INFO (6): {"status":"failed","sku":"B\/DX52021","message":"Request does not match any route."}
+2021-03-07T13:59:16+00:00 INFO (6): {"status":"failed","sku":"B\/DX52035","message":"Request does not match any route."}
+2021-03-07T13:59:20+00:00 INFO (6): {"status":"failed","sku":"B\/DX52040","message":"Request does not match any route."}
+2021-03-07T13:59:24+00:00 INFO (6): {"status":"failed","sku":"B\/DX52070","message":"Request does not match any route."}
+2021-03-07T13:59:28+00:00 INFO (6): {"status":"failed","sku":"B\/DX52431","message":"Request does not match any route."}
+2021-03-07T13:59:32+00:00 INFO (6): {"status":"failed","sku":"B\/DX53000","message":"Request does not match any route."}
+2021-03-07T13:59:37+00:00 INFO (6): {"status":"failed","sku":"B\/DX53010","message":"Request does not match any route."}
+2021-03-07T13:59:41+00:00 INFO (6): {"status":"failed","sku":"B\/DX53020","message":"Request does not match any route."}
+2021-03-07T13:59:45+00:00 INFO (6): {"status":"failed","sku":"B\/DX53030","message":"Request does not match any route."}
+2021-03-07T13:59:49+00:00 INFO (6): {"status":"failed","sku":"B\/DX53100","message":"Request does not match any route."}
+2021-03-07T13:59:53+00:00 INFO (6): {"status":"failed","sku":"B\/DX53125","message":"Request does not match any route."}
+2021-03-07T13:59:58+00:00 INFO (6): {"status":"failed","sku":"B\/DX53135","message":"Request does not match any route."}
+2021-03-07T14:00:02+00:00 INFO (6): {"status":"failed","sku":"B\/DX53140","message":"Request does not match any route."}
+2021-03-07T14:00:07+00:00 INFO (6): {"status":"failed","sku":"B\/DX53232","message":"Request does not match any route."}
+2021-03-07T14:00:08+00:00 INFO (6): {"status":"failed","sku":"B\/DX53140","message":"Request does not match any route."}
+2021-03-07T14:00:11+00:00 INFO (6): {"status":"failed","sku":"B\/DX53237","message":"Request does not match any route."}
+2021-03-07T14:00:12+00:00 INFO (6): {"status":"failed","sku":"B\/DX53232","message":"Request does not match any route."}
+2021-03-07T14:00:16+00:00 INFO (6): {"status":"failed","sku":"B\/DX53242","message":"Request does not match any route."}
+2021-03-07T14:00:16+00:00 INFO (6): {"status":"failed","sku":"B\/DX53237","message":"Request does not match any route."}
+2021-03-07T14:00:20+00:00 INFO (6): {"status":"failed","sku":"B\/DX53247","message":"Request does not match any route."}
+2021-03-07T14:00:20+00:00 INFO (6): {"status":"failed","sku":"B\/DX53242","message":"Request does not match any route."}
+2021-03-07T14:00:24+00:00 INFO (6): {"status":"failed","sku":"B\/DX56000","message":"Request does not match any route."}
+2021-03-07T14:00:25+00:00 INFO (6): {"status":"failed","sku":"B\/DX53247","message":"Request does not match any route."}
+2021-03-07T14:00:28+00:00 INFO (6): {"status":"failed","sku":"B\/DX56040","message":"Request does not match any route."}
+2021-03-07T14:00:29+00:00 INFO (6): {"status":"failed","sku":"B\/DX56000","message":"Request does not match any route."}
+2021-03-07T14:00:33+00:00 INFO (6): {"status":"failed","sku":"B\/DX56128","message":"Request does not match any route."}
+2021-03-07T14:00:34+00:00 INFO (6): {"status":"failed","sku":"B\/DX56040","message":"Request does not match any route."}
+2021-03-07T14:00:37+00:00 INFO (6): {"status":"failed","sku":"B\/DX58000","message":"Request does not match any route."}
+2021-03-07T14:00:38+00:00 INFO (6): {"status":"failed","sku":"B\/DX56128","message":"Request does not match any route."}
+2021-03-07T14:00:41+00:00 INFO (6): {"status":"failed","sku":"B\/DX58002","message":"Request does not match any route."}
+2021-03-07T14:00:43+00:00 INFO (6): {"status":"failed","sku":"B\/DX58000","message":"Request does not match any route."}
+2021-03-07T14:00:45+00:00 INFO (6): {"status":"failed","sku":"B\/DX58004","message":"Request does not match any route."}
+2021-03-07T14:00:47+00:00 INFO (6): {"status":"failed","sku":"B\/DX58002","message":"Request does not match any route."}
+2021-03-07T14:00:49+00:00 INFO (6): {"status":"failed","sku":"B\/DX58007","message":"Request does not match any route."}
+2021-03-07T14:00:51+00:00 INFO (6): {"status":"failed","sku":"B\/DX58004","message":"Request does not match any route."}
+2021-03-07T14:00:53+00:00 INFO (6): {"status":"failed","sku":"B\/DX58008","message":"Request does not match any route."}
+2021-03-07T14:00:55+00:00 INFO (6): {"status":"failed","sku":"B\/DX58007","message":"Request does not match any route."}
+2021-03-07T14:00:58+00:00 INFO (6): {"status":"failed","sku":"B\/DX60480","message":"Request does not match any route."}
+2021-03-07T14:01:00+00:00 INFO (6): {"status":"failed","sku":"B\/DX58008","message":"Request does not match any route."}
+2021-03-07T14:01:02+00:00 INFO (6): {"status":"failed","sku":"B\/DX61043","message":"Request does not match any route."}
+2021-03-07T14:01:04+00:00 INFO (6): {"status":"failed","sku":"B\/DX60480","message":"Request does not match any route."}
+2021-03-07T14:01:07+00:00 INFO (6): {"status":"failed","sku":"B\/DX61401","message":"Request does not match any route."}
+2021-03-07T14:01:08+00:00 INFO (6): {"status":"failed","sku":"B\/DX61043","message":"Request does not match any route."}
+2021-03-07T14:01:11+00:00 INFO (6): {"status":"failed","sku":"B\/DX61420","message":"Request does not match any route."}
+2021-03-07T14:01:13+00:00 INFO (6): {"status":"failed","sku":"B\/DX61401","message":"Request does not match any route."}
+2021-03-07T14:01:15+00:00 INFO (6): {"status":"failed","sku":"B\/DX81005","message":"Request does not match any route."}
+2021-03-07T14:01:17+00:00 INFO (6): {"status":"failed","sku":"B\/DX61420","message":"Request does not match any route."}
+2021-03-07T14:01:19+00:00 INFO (6): {"status":"failed","sku":"B\/S06160","message":"Request does not match any route."}
+2021-03-07T14:01:21+00:00 INFO (6): {"status":"failed","sku":"B\/DX81005","message":"Request does not match any route."}
+2021-03-07T14:01:23+00:00 INFO (6): {"status":"failed","sku":"B\/S14105","message":"Request does not match any route."}
+2021-03-07T14:01:25+00:00 INFO (6): {"status":"failed","sku":"B\/S06160","message":"Request does not match any route."}
+2021-03-07T14:01:27+00:00 INFO (6): {"status":"failed","sku":"B\/S14106","message":"Request does not match any route."}
+2021-03-07T14:01:29+00:00 INFO (6): {"status":"failed","sku":"B\/S14105","message":"Request does not match any route."}
+2021-03-07T14:01:32+00:00 INFO (6): {"status":"failed","sku":"B\/S14107","message":"Request does not match any route."}
+2021-03-07T14:01:34+00:00 INFO (6): {"status":"failed","sku":"B\/S14106","message":"Request does not match any route."}
+2021-03-07T14:01:36+00:00 INFO (6): {"status":"failed","sku":"B\/S14108","message":"Request does not match any route."}
+2021-03-07T14:01:38+00:00 INFO (6): {"status":"failed","sku":"B\/S14107","message":"Request does not match any route."}
+2021-03-07T14:01:40+00:00 INFO (6): {"status":"failed","sku":"B\/S14110","message":"Request does not match any route."}
+2021-03-07T14:01:42+00:00 INFO (6): {"status":"failed","sku":"B\/S14108","message":"Request does not match any route."}
+2021-03-07T14:01:44+00:00 INFO (6): {"status":"failed","sku":"B\/S14111","message":"Request does not match any route."}
+2021-03-07T14:01:46+00:00 INFO (6): {"status":"failed","sku":"B\/S14110","message":"Request does not match any route."}
+2021-03-07T14:01:48+00:00 INFO (6): {"status":"failed","sku":"B\/S14114","message":"Request does not match any route."}
+2021-03-07T14:01:50+00:00 INFO (6): {"status":"failed","sku":"B\/S14111","message":"Request does not match any route."}
+2021-03-07T14:01:52+00:00 INFO (6): {"status":"failed","sku":"B\/S14120","message":"Request does not match any route."}
+2021-03-07T14:01:54+00:00 INFO (6): {"status":"failed","sku":"B\/S14114","message":"Request does not match any route."}
+2021-03-07T14:01:56+00:00 INFO (6): {"status":"failed","sku":"B\/S14135","message":"Request does not match any route."}
+2021-03-07T14:01:58+00:00 INFO (6): {"status":"failed","sku":"B\/S14120","message":"Request does not match any route."}
+2021-03-07T14:02:00+00:00 INFO (6): {"status":"failed","sku":"B\/S14151","message":"Request does not match any route."}
+2021-03-07T14:02:03+00:00 INFO (6): {"status":"failed","sku":"B\/S14135","message":"Request does not match any route."}
+2021-03-07T14:02:05+00:00 INFO (6): {"status":"failed","sku":"B\/S1511","message":"Request does not match any route."}
+2021-03-07T14:02:07+00:00 INFO (6): {"status":"failed","sku":"B\/S14151","message":"Request does not match any route."}
+2021-03-07T14:02:11+00:00 INFO (6): {"status":"failed","sku":"B\/S1511","message":"Request does not match any route."}
+2021-03-07T14:02:15+00:00 INFO (6): {"status":"failed","sku":"B\/S1513","message":"Request does not match any route."}
+2021-03-07T14:02:19+00:00 INFO (6): {"status":"failed","sku":"B\/S1515","message":"Request does not match any route."}
+2021-03-07T14:02:23+00:00 INFO (6): {"status":"failed","sku":"B\/S1517","message":"Request does not match any route."}
+2021-03-07T14:02:27+00:00 INFO (6): {"status":"failed","sku":"B\/S19642","message":"Request does not match any route."}
+2021-03-07T14:02:31+00:00 INFO (6): {"status":"failed","sku":"B\/S19690","message":"Request does not match any route."}
+2021-03-07T14:02:35+00:00 INFO (6): {"status":"failed","sku":"B\/S19694","message":"Request does not match any route."}
+2021-03-07T14:02:39+00:00 INFO (6): {"status":"failed","sku":"B\/S19696","message":"Request does not match any route."}
+2021-03-07T14:02:43+00:00 INFO (6): {"status":"failed","sku":"B\/S20004","message":"Request does not match any route."}
+2021-03-07T14:02:47+00:00 INFO (6): {"status":"failed","sku":"B\/S20006","message":"Request does not match any route."}
+2021-03-07T14:02:52+00:00 INFO (6): {"status":"failed","sku":"B\/S20008","message":"Request does not match any route."}
+2021-03-07T14:02:56+00:00 INFO (6): {"status":"failed","sku":"B\/S20123","message":"Request does not match any route."}
+2021-03-07T14:03:00+00:00 INFO (6): {"status":"failed","sku":"B\/S20310","message":"Request does not match any route."}
+2021-03-07T14:03:05+00:00 INFO (6): {"status":"failed","sku":"B\/S20338","message":"Request does not match any route."}
+2021-03-07T14:03:09+00:00 INFO (6): {"status":"failed","sku":"B\/S20504","message":"Request does not match any route."}
+2021-03-07T14:03:13+00:00 INFO (6): {"status":"failed","sku":"B\/S20505","message":"Request does not match any route."}
+2021-03-07T14:03:17+00:00 INFO (6): {"status":"failed","sku":"B\/S20506","message":"Request does not match any route."}
+2021-03-07T14:03:22+00:00 INFO (6): {"status":"failed","sku":"B\/S20507","message":"Request does not match any route."}
+2021-03-07T14:03:26+00:00 INFO (6): {"status":"failed","sku":"B\/S20509","message":"Request does not match any route."}
+2021-03-07T14:03:30+00:00 INFO (6): {"status":"failed","sku":"B\/S32050","message":"Request does not match any route."}
+2021-03-07T14:06:41+00:00 INFO (6): {"status":"failed","sku":"IRW1897088","message":"The image content must be valid base64 encoded data."}
+2021-03-07T14:06:53+00:00 INFO (6): {"status":"failed","sku":"IRW1897088","message":"The image content must be valid base64 encoded data."}
+2021-03-07T14:07:07+00:00 INFO (6): {"status":"failed","sku":"RBLSS","message":"Product is not available."}
+2021-03-07T14:07:11+00:00 INFO (6): {"status":"failed","sku":"T\/BS250","message":"Request does not match any route."}
+2021-03-07T14:07:16+00:00 INFO (6): {"status":"failed","sku":"T\/BS510","message":"Request does not match any route."}
+2021-03-07T14:07:20+00:00 INFO (6): {"status":"failed","sku":"T\/BS550","message":"Request does not match any route."}
+2021-03-07T14:07:21+00:00 INFO (6): {"status":"failed","sku":"RBLSS","message":"Product is not available."}
+2021-03-07T14:07:24+00:00 INFO (6): {"status":"failed","sku":"T\/BS600","message":"Request does not match any route."}
+2021-03-07T14:07:25+00:00 INFO (6): {"status":"failed","sku":"T\/BS250","message":"Request does not match any route."}
+2021-03-07T14:07:29+00:00 INFO (6): {"status":"failed","sku":"T\/BS510","message":"Request does not match any route."}
+2021-03-07T14:07:30+00:00 INFO (6): {"status":"failed","sku":"ia-res.cloudinary.com\/image\/upload\/w_640\/toolbank\/products\/WER004173.jpg","message":"Product is not available."}
+2021-03-07T14:07:33+00:00 INFO (6): {"status":"failed","sku":"T\/BS550","message":"Request does not match any route."}
+2021-03-07T14:07:37+00:00 INFO (6): {"status":"failed","sku":"T\/BS600","message":"Request does not match any route."}
+2021-03-07T14:07:43+00:00 INFO (6): {"status":"failed","sku":"ia-res.cloudinary.com\/image\/upload\/w_640\/toolbank\/products\/WER004173.jpg","message":"Product is not available."}
+2021-03-07T14:07:48+00:00 INFO (6): {"status":"failed","sku":"toolbank\/products\/WER004180.jpg","message":"Product is not available."}
+2021-03-07T14:07:49+00:00 INFO (6): {"status":"failed","sku":"2.5","message":"Product is not available."}
+2021-03-07T14:08:55+00:00 INFO (6): {"status":"failed","sku":"0.jpg","message":"Product is not available."}
+2021-03-07T14:08:55+00:00 INFO (6): ---------------- END API Cron 07/03/21 14:08:55 ----------------

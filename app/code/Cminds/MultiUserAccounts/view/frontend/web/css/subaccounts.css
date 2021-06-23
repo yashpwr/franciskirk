@@ -1,0 +1,118 @@
+.subaccounts-manage table.subaccounts tr td.permission ul {
+    padding-left: 20px;
+    margin-bottom: 0;
+}
+
+.subaccounts-manage table.subaccounts tr td.permission ul li {
+    margin: 0;
+}
+
+.subaccounts-manage table.subaccounts tr td.actions form,
+.order-approve-manage table.orders tr td.actions form {
+    display: inline-block;
+}
+
+.order-approve-manage .col.actions a.action.approve {
+    color: #d10029;
+}
+
+.order-approve-manage .col.actions a.action.authorize {
+    color: #d10029;
+}
+
+.order-approve-manage .col.actions a.action.reject {
+    color: #d10029;
+}
+
+button.action.reject {
+    background-image: none;
+    background: #d10029;
+    border: 1px solid #E70029;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    padding: 7px 15px;
+    font-size: 1.4rem;
+    box-sizing: border-box;
+    vertical-align: middle;
+    box-shadow: none;
+}
+
+button.action.reject:focus,button.action.reject:active {
+    background: #d10029;
+    border: 1px solid #E70029;
+    color: #fff;
+}
+
+button.action.reject:hover {
+    background: #d10029;
+    border: 1px solid #E70029;
+    color: #fff;
+}
+
+.order-approve-manage .col.actions a.action.reject::before {
+    border-left: 1px solid #a6a6a6;
+    content: '';
+    display: inline-block;
+    height: 12px;
+    margin: 0 10px;
+    vertical-align: -1px;
+}
+
+.order-approve-manage tr.item-info a.product-item-photo {
+    display: table-cell;
+    max-width: 100%;
+    padding-right: 20px;
+    position: static;
+    vertical-align: top;
+    width: 1%;
+}
+
+.order-approve-manage tr.item-info .product-item-details {
+    display: table-cell;
+    vertical-align: top;
+    white-space: normal;
+    width: 99%;
+}
+
+.order-approve-manage tr.item-info span.price {
+    font-weight: normal;
+    font-size: 1.4rem;
+}
+
+.form-edit-account fieldset:nth-child(odd) {
+    float: left;
+}
+
+.form-edit-account fieldset:nth-child(even) {
+    float: right;
+}
+
+.form-edit-account .actions-toolbar {
+    clear: both;
+}
+
+.form-edit-account .field .comment {
+    margin-top: 8px;
+    font-size: 1rem;
+}
+
+.quote-reject-reason-container {
+    width: 100%;
+}
+
+.quote-reject-reason-container .quote-reject-reason textarea {
+    width: 100%;
+    height: 100px;
+}
+
+.quote-reject-reason-container .actions {
+    text-align: right;
+    margin-top: 5px;
+}
+
+.hidden {
+    display: none;
+}

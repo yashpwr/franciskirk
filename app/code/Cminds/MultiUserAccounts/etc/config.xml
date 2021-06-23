@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Cminds MultiUserAccounts config.
+ *
+ * @category Cminds
+ * @package  Cminds_MultiUserAccounts
+ * @author   Piotr Pierzak <piotr@cminds.com>
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <subaccount>
+            <general>
+                <enable>0</enable>
+                <can_see_subaccounts_order_history>0</can_see_subaccounts_order_history>
+                <force_use_parent_account_for_order>0</force_use_parent_account_for_order>
+                <notification>1</notification>
+                <nested_allowed>0</nested_allowed>
+                <admin_approve>0</admin_approve>
+            </general>
+            <new_subaccount>
+                <confirm>0</confirm>
+            </new_subaccount>
+            <order_approval_request>
+                <authorization_required>0</authorization_required>
+            </order_approval_request>
+            <email>
+                <checkout_order_approve_request>
+                    <template>subaccount_email_checkout_order_approve_request_template</template>
+                </checkout_order_approve_request>
+                <checkout_order_approved>
+                    <template>subaccount_email_checkout_order_approved_template</template>
+                </checkout_order_approved>
+                <checkout_order_authorization_request>
+                    <template>subaccount_email_checkout_order_authorization_request_template</template>
+                </checkout_order_authorization_request>
+                <checkout_order_rejected>
+                    <template>subaccount_email_checkout_order_rejected_template</template>
+                </checkout_order_rejected>
+                <customer_approve>
+                    <template>subaccount_email_customer_approve_template</template>
+                </customer_approve>
+            </email>
+        </subaccount>
+        <cminds_core>
+            <cminds_multiuser name="cminds_multiuser">
+                <ID>107495</ID>
+                <config>subaccount</config>
+                <code>Cminds_MultiUserAccounts</code>
+                <name>Magento Multi-User Account for Magento 2</name>
+                <page>https://www.cminds.com/magento-extensions/multi-user-account-extension-for-magento-2-by-creativeminds</page>
+                <documentation>http://creativeminds.helpscoutdocs.com/category/813-multi-user-m2</documentation>
+                <description><![CDATA[If you’re looking for a way to have multiple users and sub accounts under the same master account but with different user permissions, look no further.
+The Multi User Account extension has everything you need to create and manage sub logins under a single Magento® account.]]></description>
+            </cminds_multiuser>
+        </cminds_core>
+        <parentaccount>
+            <general>
+                <can_manage>1</can_manage>
+                <admin_approve>0</admin_approve>
+                <max_show_count>100</max_show_count>
+            </general>
+            <new_customer>
+                <can_manage>1</can_manage>
+            </new_customer>
+            <order_approval_request>
+                <parentaccount_all_notification>1</parentaccount_all_notification>
+                <order_create>0</order_create>
+                <payment_method>checkmo</payment_method>
+                <shipping_method>flatrate_flatrate</shipping_method>
+            </order_approval_request>
+        </parentaccount>
+    </default>
+</config>

@@ -1,0 +1,13 @@
+2021-02-08T15:05:02+00:00 INFO (6): ---------------- START API Cron 08/02/21 15:05:02 ----------------
+2021-02-08T15:06:57+00:00 INFO (6): {"status":"failed","sku":"D\/ISSJL200","message":"Request does not match any route."}
+2021-02-08T15:06:58+00:00 INFO (6): {"status":"failed","sku":"D\/ISSJL600","message":"Request does not match any route."}
+2021-02-08T15:10:06+00:00 INFO (6): {"status":"failed","sku":"HS1010M35Z","message":"The product was unable to be saved. Please try again."}
+2021-02-08T15:10:11+00:00 INFO (6): {"status":"failed","sku":"HS1010M40","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-08T15:10:18+00:00 INFO (6): {"status":"failed","sku":"HS1010M40","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-08T15:10:22+00:00 INFO (6): {"status":"failed","sku":"HS1010M45","message":"The product was unable to be saved. Please try again."}
+2021-02-08T15:20:04+00:00 INFO (6): {"status":"failed","sku":"HS1024M40Z","message":"The product was unable to be saved. Please try again."}
+2021-02-08T15:20:09+00:00 INFO (6): {"status":"failed","sku":"HS1024M50","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-08T15:20:36+00:00 INFO (6): {"status":"failed","sku":"HS1024M60Z","message":"The product was unable to be saved. Please try again."}
+2021-02-08T15:25:12+00:00 INFO (6): {"status":"failed","sku":"MOL5120","message":"Could not save product \"%product\" with position %position to category %category"}
+2021-02-08T15:35:15+00:00 INFO (6): ---------------- END API Cron 08/02/21 15:35:15 ----------------
+2021-02-08T15:35:15+00:00 INFO (6): ---------------- END API Cron 08/02/21 15:35:15 ----------------
